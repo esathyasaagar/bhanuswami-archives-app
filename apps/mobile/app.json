@@ -20,19 +20,26 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#1a0a00"
       },
-      "package": "net.bhanuswamiarchives.app"
+      "package": "net.bhanuswamiarchives.app",
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ]
     },
     "extra": {
+      "router": {},
       "eas": {
-        "projectId": "replace-with-your-eas-project-id"
+        "projectId": "3645caac-a4db-49f2-b64d-61911bb64035"
       }
     },
     "plugins": [
       "expo-router",
-      "expo-av"
+      "expo-av",
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "owner": "sathyasaagar"
   }
 }
