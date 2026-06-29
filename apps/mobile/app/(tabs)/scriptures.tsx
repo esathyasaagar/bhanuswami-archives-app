@@ -1,6 +1,6 @@
 import { ScrollView, View, Text, TouchableOpacity, StyleSheet } from "react-native";
 import { useRouter } from "expo-router";
-import { navItems } from "@bhanuswami/content";
+import { navItems } from "../../src/content";
 
 const scriptures = navItems.filter(n => n.href === "/sb" || n.href === "/bg");
 

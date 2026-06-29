@@ -1,6 +1,6 @@
 import { ScrollView, View, Text, TouchableOpacity, StyleSheet } from "react-native";
 import { useRouter } from "expo-router";
-import { navItems } from "@bhanuswami/content";
+import { navItems } from "../../src/content";
 
 const seminarNav = navItems.find(n => n.href === "/seminars");
 

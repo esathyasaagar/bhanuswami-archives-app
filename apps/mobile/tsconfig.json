@@ -3,8 +3,18 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "@bhanuswami/content": ["../../packages/content/src/index.ts"],
-      "@bhanuswami/shared": ["../../packages/shared/src/index.ts"]
+      "@bhanuswami/content": [
+        "../../packages/content/src/index.ts"
+      ],
+      "@bhanuswami/shared": [
+        "../../packages/shared/src/index.ts"
+      ]
     }
-  }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
 }

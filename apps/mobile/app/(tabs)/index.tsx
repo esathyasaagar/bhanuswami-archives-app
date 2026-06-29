@@ -1,6 +1,6 @@
 import { ScrollView, View, Text, TouchableOpacity, StyleSheet } from "react-native";
 import { useRouter } from "expo-router";
-import { navItems } from "@bhanuswami/content";
+import { navItems } from "../../src/content";
 
 const SECTIONS = [
   { label: "Śrīmad-Bhāgavatam", href: "/sb", color: "#8b1a1a", icon: "📖" },

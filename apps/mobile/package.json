@@ -12,8 +12,6 @@
     "lint": "tsc --noEmit"
   },
   "dependencies": {
-    "@bhanuswami/content": "workspace:*",
-    "@bhanuswami/shared": "workspace:*",
     "@expo/metro-runtime": "^56.0.15",
     "@expo/vector-icons": "^15.1.1",
     "expo": "~54.0.35",
