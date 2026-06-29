@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Bhanu Swami Archives",
+    "slug": "bhanuswami-archives",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "bhanuswami",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a0a00"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "net.bhanuswamiarchives.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a0a00"
+      },
+      "package": "net.bhanuswamiarchives.app"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-av",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#8b1a1a"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
