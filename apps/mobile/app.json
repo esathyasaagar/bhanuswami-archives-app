@@ -22,6 +22,11 @@
       },
       "package": "net.bhanuswamiarchives.app"
     },
+    "extra": {
+      "eas": {
+        "projectId": "replace-with-your-eas-project-id"
+      }
+    },
     "plugins": [
       "expo-router",
       "expo-av",
