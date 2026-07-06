@@ -1,3 +1,5 @@
+import Image from "next/image";
+import { Card, CardContent } from "@/components/ui/card";
 import PageLayout from "../../components/PageLayout";
 import LectureList from "../../components/LectureList";
 import { karthikMonth } from "../../data/content";
@@ -11,15 +13,23 @@ export default async function KarthikMonthPage({ params }: { params: Promise<{ y
       title={`Kārttika Month – ${year}`}
       breadcrumbs={[{ label: "Special Events", href: "/special-events" }, { label: `Kārttika Month ${year}`, href: `/km/${year}` }]}
     >
-      <div style={{ background: "white", border: "1px solid #ddd", padding: 20, marginBottom: 16 }}>
-        <p style={{ fontFamily: "Georgia, serif", fontSize: 14, color: "#444", lineHeight: 1.8, margin: 0 }}>
-          Kārttika (Dāmodara Month) is one of the holiest months in the Vaiṣṇava calendar. Lectures delivered during Kārttika {year} are dedicated to glorifying Lord Dāmodara and deepening one's practice of bhakti.
-        </p>
+      <div className="relative h-48 rounded-lg overflow-hidden mb-4">
+        <Image src="/wp-content/uploads/2024/12/yasoda-bs.jpg" alt="Kārttika Month" fill className="object-cover" unoptimized sizes="100vw" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
       </div>
+      <Card className="mb-3 border-[var(--color-border)]">
+        <CardContent className="p-3">
+          <p className="font-serif text-sm text-muted-foreground leading-relaxed">
+            Kārttika (Dāmodara Month) is one of the holiest months in the Vaiṣṇava calendar. Lectures delivered during Kārttika {year} are dedicated to glorifying Lord Dāmodara and deepening one's practice of bhakti.
+          </p>
+        </CardContent>
+      </Card>
       {items.length > 0 ? <LectureList items={items} /> : (
-        <div style={{ background: "white", border: "1px solid #ddd", padding: 24 }}>
-          <p style={{ fontFamily: "Georgia, serif", color: "#666" }}>Content being organized.</p>
-        </div>
+        <Card className="border-[var(--color-border)]">
+          <CardContent className="p-6">
+            <p className="font-serif text-sm text-muted-foreground">Content being organized.</p>
+          </CardContent>
+        </Card>
       )}
     </PageLayout>
   );

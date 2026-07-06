@@ -1,198 +1,65 @@
 @import "tailwindcss";
+@import "tw-animate-css";
 
-:root {
-  --background: #f5f4ef;
-  --foreground: #1a1a1a;
-  --primary: #8b1a1a;
-  --primary-dark: #6b1212;
-  --accent: #c8a84b;
-  --border: #ddd;
-  --card-bg: #ffffff;
-  --muted: #666;
-  --header-bg: #1a1a1a;
-  --nav-bg: #8b1a1a;
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* ── Brand palette ── */
+  --color-maroon:       oklch(0.32 0.12 20);
+  --color-maroon-dark:  oklch(0.24 0.10 20);
+  --color-maroon-light: oklch(0.45 0.11 20);
+  --color-gold:         oklch(0.68 0.13 72);
+  --color-gold-light:   oklch(0.84 0.08 72);
+
+  /* ── Shadcn semantic tokens ── */
+  --color-background:           oklch(0.97 0.006 78);
+  --color-foreground:           oklch(0.16 0.01 55);
+  --color-card:                 oklch(1 0 0);
+  --color-card-foreground:      oklch(0.16 0.01 55);
+  --color-popover:              oklch(1 0 0);
+  --color-popover-foreground:   oklch(0.16 0.01 55);
+  --color-primary:              oklch(0.32 0.12 20);
+  --color-primary-foreground:   oklch(0.99 0 0);
+  --color-secondary:            oklch(0.94 0.008 78);
+  --color-secondary-foreground: oklch(0.16 0.01 55);
+  --color-muted:                oklch(0.93 0.007 78);
+  --color-muted-foreground:     oklch(0.50 0.02 58);
+  --color-accent:               oklch(0.92 0.012 72);
+  --color-accent-foreground:    oklch(0.25 0.08 40);
+  --color-destructive:          oklch(0.50 0.20 25);
+  --color-destructive-foreground: oklch(0.99 0 0);
+  --color-border:               oklch(0.88 0.01 75);
+  --color-input:                oklch(0.93 0.007 78);
+  --color-ring:                 oklch(0.32 0.12 20);
+
+  /* ── Radius ── */
+  --radius:    0.5rem;
+  --radius-sm: calc(var(--radius) * 0.75);
+  --radius-md: var(--radius);
+  --radius-lg: calc(var(--radius) * 1.5);
+  --radius-xl: calc(var(--radius) * 2);
+
+  /* ── Typography ── */
+  --font-sans:  system-ui, -apple-system, sans-serif;
+  --font-serif: "Georgia", "Times New Roman", serif;
+  --font-mono:  "Fira Code", monospace;
+
+  /* ── Book cover colors (one per section) ── */
+  --cover-sb:       #5c1a1a;
+  --cover-bg:       #1a2d5c;
+  --cover-seminars: #1a4a2e;
+  --cover-festivals:#6b3c0a;
+  --cover-books:    #2e1a5c;
+  --cover-podcasts: #0a3d4a;
+  --cover-acharyas: #4a2e0a;
+  --cover-events:   #1a1a4a;
 }
+
+* { border-color: var(--color-border); outline-color: var(--color-ring); }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Georgia, 'Times New Roman', serif;
-}
-
-a {
-  color: var(--primary);
-  text-decoration: none;
-}
-
-a:hover {
-  color: var(--primary-dark);
-  text-decoration: underline;
-}
-
-.nav-link {
-  color: white;
-  padding: 10px 14px;
-  display: inline-block;
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.nav-link:hover {
-  background: rgba(255,255,255,0.15);
-  text-decoration: none;
-  color: white;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: #2a2a2a;
-  min-width: 220px;
-  z-index: 100;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-}
-
-.dropdown-content a {
-  display: block;
-  padding: 9px 16px;
-  color: #ddd;
-  font-family: Arial, sans-serif;
-  font-size: 12px;
-  border-bottom: 1px solid #3a3a3a;
-}
-
-.dropdown-content a:hover {
-  background: #8b1a1a;
-  color: white;
-  text-decoration: none;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.subdropdown {
-  position: relative;
-}
-
-.subdropdown-content {
-  display: none;
-  position: absolute;
-  left: 100%;
-  top: 0;
-  background: #2a2a2a;
-  min-width: 200px;
-  z-index: 101;
-  box-shadow: 4px 4px 12px rgba(0,0,0,0.3);
-}
-
-.subdropdown-content a {
-  display: block;
-  padding: 8px 16px;
-  color: #ddd;
-  font-family: Arial, sans-serif;
-  font-size: 12px;
-  border-bottom: 1px solid #3a3a3a;
-}
-
-.subdropdown-content a:hover {
-  background: #8b1a1a;
-  color: white;
-  text-decoration: none;
-}
-
-.subdropdown:hover .subdropdown-content {
-  display: block;
-}
-
-.card {
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 3px;
-  overflow: hidden;
-}
-
-.section-title {
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: white;
-  background: var(--primary);
-  padding: 8px 14px;
-  margin: 0;
-}
-
-.post-title {
-  font-family: Georgia, serif;
-  font-size: 16px;
-  font-weight: bold;
-  line-height: 1.4;
-  color: var(--primary);
-}
-
-.post-title:hover {
-  color: var(--primary-dark);
-}
-
-.post-meta {
-  font-family: Arial, sans-serif;
-  font-size: 11px;
-  color: var(--muted);
-}
-
-.sidebar-widget {
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  margin-bottom: 20px;
-}
-
-.sidebar-widget-title {
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  background: #333;
-  color: white;
-  padding: 8px 12px;
-}
-
-.sidebar-widget-body {
-  padding: 12px;
-}
-
-.sidebar-link {
-  display: block;
-  padding: 5px 0;
-  font-family: Arial, sans-serif;
-  font-size: 13px;
-  color: var(--primary);
-  border-bottom: 1px solid #eee;
-}
-
-.sidebar-link:hover {
-  color: var(--primary-dark);
-  text-decoration: none;
-  padding-left: 4px;
-}
-
-.breaking-bar {
-  background: #222;
-  color: #ddd;
-  font-family: Arial, sans-serif;
-  font-size: 12px;
-  padding: 6px 0;
-  border-bottom: 2px solid var(--primary);
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
 }

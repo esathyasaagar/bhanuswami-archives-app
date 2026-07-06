@@ -1,115 +1,98 @@
 import Link from "next/link";
+import Image from "next/image";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Separator } from "@/components/ui/separator";
 import { sidebarCategories, recentPosts } from "../data/content";
 
 export default function Sidebar() {
   return (
-    <aside style={{ width: 260, flexShrink: 0 }}>
-      {/* Search */}
-      <div className="sidebar-widget">
-        <div className="sidebar-widget-title">Search</div>
-        <div className="sidebar-widget-body">
-          <form style={{ display: "flex", gap: 4 }}>
-            <input
-              type="text"
-              placeholder="Search lectures..."
-              style={{
-                flex: 1,
-                padding: "7px 10px",
-                border: "1px solid #ddd",
-                fontFamily: "Arial, sans-serif",
-                fontSize: 12,
-                borderRadius: 2,
-              }}
-            />
-            <button
-              type="submit"
-              style={{
-                background: "#8b1a1a",
-                color: "white",
-                border: "none",
-                padding: "7px 12px",
-                fontFamily: "Arial, sans-serif",
-                fontSize: 12,
-                borderRadius: 2,
-                cursor: "pointer",
-              }}
-            >
-              Go
-            </button>
-          </form>
+    <aside className="w-full lg:w-56 shrink-0 space-y-3">
+      {/* About */}
+      <Card className="overflow-hidden border-[var(--color-border)]">
+        <div className="relative h-32 bg-gradient-to-br from-[var(--color-maroon)] to-[var(--color-gold)]">
+          <Image
+            src="/images/bhanu-swami.jpg"
+            alt="His Holiness Bhanu Swami Maharaja"
+            fill
+            className="object-cover object-top"
+            sizes="256px"
+          />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
+          <div className="absolute bottom-2 left-3 right-3">
+            <p className="text-white font-serif text-sm font-bold leading-tight">His Holiness Bhanu Swami Maharaja</p>
+          </div>
         </div>
-      </div>
+        <CardContent className="p-4">
+          <p className="text-xs text-muted-foreground leading-relaxed">
+            Senior disciple of Śrīla Prabhupāda and distinguished scholar of Vaiṣṇava philosophy, author, and spiritual teacher.
+          </p>
+        </CardContent>
+      </Card>
 
       {/* Categories */}
-      <div className="sidebar-widget">
-        <div className="sidebar-widget-title">Categories</div>
-        <div className="sidebar-widget-body" style={{ padding: 0 }}>
-          {sidebarCategories.map((cat) => (
-            <Link key={cat.href} href={cat.href} className="sidebar-link" style={{ padding: "8px 12px", display: "flex", justifyContent: "space-between" }}>
-              <span>{cat.label}</span>
-              <span style={{ color: "#999", fontSize: 11 }}>({cat.count})</span>
-            </Link>
-          ))}
-        </div>
-      </div>
-
-      {/* Recent Posts */}
-      <div className="sidebar-widget">
-        <div className="sidebar-widget-title">Recent Posts</div>
-        <div className="sidebar-widget-body" style={{ padding: 0 }}>
-          {recentPosts.map((post) => (
-            <div key={post.href} style={{ padding: "10px 12px", borderBottom: "1px solid #eee" }}>
-              <Link href={post.href} style={{ display: "block", fontFamily: "Georgia, serif", fontSize: 13, color: "#8b1a1a", lineHeight: 1.4, marginBottom: 3 }}>
-                {post.title}
+      <Card className="border-[var(--color-border)]">
+        <CardHeader className="py-2 px-3 bg-[var(--color-maroon)] rounded-t-lg">
+          <CardTitle className="text-white text-xs uppercase tracking-wider font-semibold">Categories</CardTitle>
+        </CardHeader>
+        <CardContent className="p-0">
+          {sidebarCategories.map((cat, i) => (
+            <div key={cat.href}>
+              <Link href={cat.href}
+                className="flex items-center justify-between px-3 py-1.5 text-xs text-[var(--color-primary)] hover:bg-[var(--color-secondary)] transition-colors">
+                <span>{cat.label}</span>
+                <Badge variant="secondary" className="text-[10px] h-4">{cat.count}</Badge>
               </Link>
-              <span style={{ fontFamily: "Arial, sans-serif", fontSize: 11, color: "#999" }}>{post.date}</span>
+              {i < sidebarCategories.length - 1 && <Separator />}
             </div>
           ))}
-        </div>
-      </div>
+        </CardContent>
+      </Card>
 
-      {/* About Bhanu Swami */}
-      <div className="sidebar-widget">
-        <div className="sidebar-widget-title">About Bhanu Swami</div>
-        <div className="sidebar-widget-body">
-          <div style={{
-            background: "linear-gradient(135deg, #8b1a1a 0%, #c8a84b 100%)",
-            height: 80,
-            borderRadius: 2,
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            marginBottom: 10,
-          }}>
-            <span style={{ color: "white", fontFamily: "Georgia, serif", fontSize: 22, opacity: 0.8 }}>ॐ</span>
-          </div>
-          <p style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#555", lineHeight: 1.6, margin: 0 }}>
-            His Holiness Bhanu Swami Maharaj is a senior disciple of Śrīla Prabhupāda and a distinguished scholar of Vaiṣṇava philosophy and Sanskrit literature.
-          </p>
-          <Link href="/about" style={{ display: "block", marginTop: 10, fontFamily: "Arial, sans-serif", fontSize: 12, color: "#8b1a1a" }}>
-            Read more →
-          </Link>
-        </div>
-      </div>
+      {/* Recent Posts */}
+      <Card className="border-[var(--color-border)]">
+        <CardHeader className="py-2 px-3 bg-[var(--color-maroon)] rounded-t-lg">
+          <CardTitle className="text-white text-xs uppercase tracking-wider font-semibold">Recent Posts</CardTitle>
+        </CardHeader>
+        <CardContent className="p-0">
+          {recentPosts.map((post, i) => (
+            <div key={post.href}>
+              <div className="px-3 py-1.5">
+                <Link href={post.href}
+                  className="font-serif text-xs text-[var(--color-primary)] hover:text-[var(--color-maroon-dark)] leading-snug block mb-1">
+                  {post.title}
+                </Link>
+                <span className="text-[10px] text-muted-foreground">{post.date}</span>
+              </div>
+              {i < recentPosts.length - 1 && <Separator />}
+            </div>
+          ))}
+        </CardContent>
+      </Card>
 
       {/* Quick Links */}
-      <div className="sidebar-widget">
-        <div className="sidebar-widget-title">Quick Links</div>
-        <div className="sidebar-widget-body" style={{ padding: 0 }}>
+      <Card className="border-[var(--color-border)]">
+        <CardHeader className="py-2 px-3 bg-[var(--color-maroon)] rounded-t-lg">
+          <CardTitle className="text-white text-xs uppercase tracking-wider font-semibold">Quick Links</CardTitle>
+        </CardHeader>
+        <CardContent className="p-0">
           {[
             { label: "Latest Seminars", href: "/seminars/2025" },
-            { label: "Upcoming Festivals 2026", href: "/festivals/2026" },
+            { label: "Festivals 2026", href: "/festivals/2026" },
             { label: "Podcast Episodes", href: "/podcasts" },
-            { label: "Madhura Mahotsava", href: "/special-events/madhura-mahotsava" },
-            { label: "Shravana Utsav", href: "/special-events/shravana-utsav" },
-            { label: "Karthik Month", href: "/special-events/karthik-month" },
-          ].map((l) => (
-            <Link key={l.href} href={l.href} className="sidebar-link" style={{ padding: "8px 12px" }}>
-              → {l.label}
-            </Link>
+            { label: "Shravana Utsav", href: "/shravana-utsav/2025" },
+          ].map((l, i, arr) => (
+            <div key={l.href}>
+              <Link href={l.href}
+                className="flex items-center gap-2 px-3 py-1.5 text-xs text-[var(--color-primary)] hover:bg-[var(--color-secondary)] transition-colors">
+                <span className="text-[var(--color-gold)]">›</span>
+                {l.label}
+              </Link>
+              {i < arr.length - 1 && <Separator />}
+            </div>
           ))}
-        </div>
-      </div>
+        </CardContent>
+      </Card>
     </aside>
   );
 }

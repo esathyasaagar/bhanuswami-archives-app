@@ -1,3 +1,5 @@
+import Image from "next/image";
+import { Card, CardContent } from "@/components/ui/card";
 import PageLayout from "../components/PageLayout";
 import LectureList from "../components/LectureList";
 import { books } from "../data/content";
@@ -6,21 +8,25 @@ export default function VrajaRitiPage() {
   const { vrajariti } = books;
   return (
     <PageLayout title={vrajariti.title} breadcrumbs={[{ label: "Books & Texts", href: "/books" }, { label: "Vraja Rīti Cintāmaṇi", href: "/vrajariti" }]}>
-      <div style={{ background: "white", border: "1px solid #ddd", padding: 20, marginBottom: 16 }}>
-        <div style={{ display: "flex", gap: 16, alignItems: "flex-start" }}>
-          <div style={{ width: 80, height: 110, background: "linear-gradient(135deg, #3a1a5a, #6a2a8a)", borderRadius: 3, flexShrink: 0, display: "flex", alignItems: "center", justifyContent: "center" }}>
-            <span style={{ color: "rgba(255,255,255,0.5)", fontSize: 32 }}>📖</span>
-          </div>
-          <div>
-            <div style={{ fontFamily: "Arial, sans-serif", fontSize: 11, color: "#888", textTransform: "uppercase", letterSpacing: 1, marginBottom: 4 }}>By {vrajariti.author}</div>
-            <p style={{ fontFamily: "Georgia, serif", fontSize: 14, color: "#444", lineHeight: 1.8, margin: 0 }}>{vrajariti.description}</p>
-            <div style={{ marginTop: 10, padding: "8px 12px", background: "#fffbf0", border: "1px solid #c8a84b", borderRadius: 2 }}>
-              <span style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#666" }}>Delivered during <strong>Śravaṇa Utsav 2024</strong></span>
+      <div className="relative h-48 rounded-lg overflow-hidden mb-4">
+        <Image src="/wp-content/uploads/2025/01/vc-bs.jpg" alt="Vraja Rīti Cintāmaṇi" fill className="object-cover" unoptimized sizes="100vw" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+      </div>
+      <Card className="mb-3 border-[var(--color-border)]">
+        <CardContent className="p-3">
+          <div className="flex gap-4 items-start">
+            <div className="w-16 h-20 rounded shrink-0 flex items-center justify-center text-white/30 font-serif text-3xl" style={{ background: "linear-gradient(135deg, #3a1a5a, #6a2a8a)" }}>📖</div>
+            <div>
+              <p className="text-[10px] uppercase tracking-widest text-muted-foreground mb-1">By {vrajariti.author}</p>
+              <p className="font-serif text-sm text-muted-foreground leading-relaxed mb-3">{vrajariti.description}</p>
+              <div className="px-3 py-2 bg-[oklch(0.98_0.01_80)] border border-[var(--color-border)] rounded text-xs text-muted-foreground">
+                Delivered during <strong className="text-foreground">Śravaṇa Utsav 2024</strong>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-      <h2 className="section-title" style={{ marginBottom: 0 }}>Five-Part Series</h2>
+        </CardContent>
+      </Card>
+      <h2 className="font-serif text-base font-bold text-[var(--color-primary)] uppercase tracking-wide mb-3">Five-Part Series</h2>
       <LectureList items={vrajariti.sections} />
     </PageLayout>
   );

@@ -1,4 +1,7 @@
 import Link from "next/link";
+import Image from "next/image";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 import PageLayout from "../components/PageLayout";
 import { festivals } from "../data/content";
 
@@ -6,27 +9,38 @@ export default function FestivalsPage() {
   const years = Object.keys(festivals).sort((a, b) => Number(b) - Number(a));
   return (
     <PageLayout title="Festivals" breadcrumbs={[{ label: "Festivals", href: "/festivals" }]}>
-      <div style={{ background: "white", border: "1px solid #ddd", padding: 20, marginBottom: 20 }}>
-        <p style={{ fontFamily: "Georgia, serif", fontSize: 15, color: "#444", lineHeight: 1.8, margin: 0 }}>
-          Lectures and talks delivered by Bhanu Swami Maharaj at Vaiṣṇava festivals and observances — including Janmāṣṭamī, Rādhāṣṭamī, Gaura Pūrṇimā, Ratha Yātrā, and other auspicious days in the Gauḍīya Vaiṣṇava calendar.
-        </p>
+      <div className="relative h-48 rounded-lg overflow-hidden mb-4">
+        <Image src="/wp-content/uploads/2025/03/9.jpg" alt="Festivals" fill className="object-cover" unoptimized sizes="100vw" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
       </div>
-      <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
+      <Card className="mb-3 border-[var(--color-border)]">
+        <CardContent className="p-3">
+          <p className="font-serif text-sm text-muted-foreground leading-relaxed">
+            Lectures and talks delivered by Bhanu Swami Maharaj at Vaiṣṇava festivals and observances — including Janmāṣṭamī, Rādhāṣṭamī, Gaura Pūrṇimā, Ratha Yātrā, and other auspicious days in the Gauḍīya Vaiṣṇava calendar.
+          </p>
+        </CardContent>
+      </Card>
+
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
         {years.map((year) => (
-          <Link key={year} href={`/festivals/${year}`} style={{ textDecoration: "none", flex: "1 1 200px", minWidth: 200 }}>
-            <div style={{ background: "white", border: "1px solid #ddd", borderTop: "4px solid #8b1a1a", padding: 20, textAlign: "center" }}>
-              <div style={{ fontFamily: "Georgia, serif", fontSize: 36, fontWeight: "bold", color: "#8b1a1a" }}>{year}</div>
-              <div style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#888", marginTop: 4 }}>{festivals[year].length} lectures</div>
-              <div style={{ marginTop: 12, fontFamily: "Arial, sans-serif", fontSize: 12, color: "#8b1a1a", fontWeight: "bold" }}>View →</div>
-            </div>
+          <Link key={year} href={`/festivals/${year}`} className="group block">
+            <Card className="border-t-4 border-t-[var(--color-maroon)] border-[var(--color-border)] hover:shadow-md transition-shadow text-center">
+              <CardContent className="p-3">
+                <p className="font-serif text-4xl font-bold text-[var(--color-primary)] mb-1">{year}</p>
+                <Badge variant="secondary" className="text-[10px] mb-2">{festivals[year].length} lectures</Badge>
+                <p className="text-xs text-[var(--color-primary)] font-semibold group-hover:underline">View →</p>
+              </CardContent>
+            </Card>
           </Link>
         ))}
-        <Link href="/festivals-2017" style={{ textDecoration: "none", flex: "1 1 200px", minWidth: 200 }}>
-          <div style={{ background: "white", border: "1px solid #ddd", borderTop: "4px solid #8b1a1a", padding: 20, textAlign: "center" }}>
-            <div style={{ fontFamily: "Georgia, serif", fontSize: 36, fontWeight: "bold", color: "#8b1a1a" }}>2017</div>
-            <div style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#888", marginTop: 4 }}>Festival archive</div>
-            <div style={{ marginTop: 12, fontFamily: "Arial, sans-serif", fontSize: 12, color: "#8b1a1a", fontWeight: "bold" }}>View →</div>
-          </div>
+        <Link href="/festivals-2017" className="group block">
+          <Card className="border-t-4 border-t-[var(--color-maroon)] border-[var(--color-border)] hover:shadow-md transition-shadow text-center">
+            <CardContent className="p-3">
+              <p className="font-serif text-4xl font-bold text-[var(--color-primary)] mb-1">2017</p>
+              <Badge variant="secondary" className="text-[10px] mb-2">Festival archive</Badge>
+              <p className="text-xs text-[var(--color-primary)] font-semibold group-hover:underline">View →</p>
+            </CardContent>
+          </Card>
         </Link>
       </div>
     </PageLayout>

@@ -1,5 +1,6 @@
 import PageLayout from "../../components/PageLayout";
 import LectureList from "../../components/LectureList";
+import { Card, CardContent } from "@/components/ui/card";
 import { festivals } from "../../data/content";
 
 export default async function FestivalYearPage({ params }: { params: Promise<{ year: string }> }) {
@@ -14,9 +15,11 @@ export default async function FestivalYearPage({ params }: { params: Promise<{ y
       {items.length > 0 ? (
         <LectureList items={items} />
       ) : (
-        <div style={{ background: "white", border: "1px solid #ddd", padding: 24 }}>
-          <p style={{ fontFamily: "Georgia, serif", color: "#666" }}>Content for Festivals {year} is being organized.</p>
-        </div>
+        <Card className="border-[var(--color-border)]">
+          <CardContent className="p-6">
+            <p className="font-serif text-sm text-muted-foreground">Content for Festivals {year} is being organized.</p>
+          </CardContent>
+        </Card>
       )}
     </PageLayout>
   );

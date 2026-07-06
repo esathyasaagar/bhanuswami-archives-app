@@ -1,59 +1,46 @@
 import Link from "next/link";
+import { Separator } from "@/components/ui/separator";
 
 export default function Footer() {
   return (
-    <footer style={{ background: "#1a1a1a", borderTop: "3px solid #8b1a1a", marginTop: 40 }}>
-      <div style={{ maxWidth: 1200, margin: "0 auto", padding: "32px 16px" }}>
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: 32 }}>
-          <div>
-            <h3 style={{ color: "#c8a84b", fontFamily: "Georgia, serif", fontSize: 18, marginBottom: 12 }}>Bhanu Swami Archives</h3>
-            <p style={{ color: "#aaa", fontFamily: "Arial, sans-serif", fontSize: 12, lineHeight: 1.7 }}>
-              A comprehensive archive of lectures, seminars, and festival talks by His Holiness Bhanu Swami Maharaj on the teachings of Śrīla Prabhupāda and Gauḍīya Vaiṣṇavism.
+    <footer className="bg-[#1a1a1a] text-white/70 mt-12 border-t-[3px] border-[var(--color-maroon)]">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 py-10">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="col-span-2 lg:col-span-1">
+            <h3 className="text-[var(--color-gold)] font-serif text-lg font-bold mb-3">Bhanu Swami Archives</h3>
+            <p className="text-xs leading-relaxed text-white/50">
+              A comprehensive archive of lectures, seminars, and festival talks by His Holiness Bhanu Swami Maharaja on Śrīmad-Bhāgavatam, Bhagavad-gītā, and Vaiṣṇava philosophy.
             </p>
           </div>
           <div>
-            <h4 style={{ color: "#c8a84b", fontFamily: "Arial, sans-serif", fontSize: 12, textTransform: "uppercase", letterSpacing: 1, marginBottom: 12 }}>Scriptures</h4>
-            <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-              {["Śrīmad-Bhāgavatam", "Bhagavad-gītā As It Is", "Nectar of Devotion", "Harināma Cintāmaṇi", "Bṛhad Bhāgavatāmṛta"].map((t) => (
-                <li key={t} style={{ marginBottom: 6 }}>
-                  <Link href="/books" style={{ color: "#999", fontFamily: "Arial, sans-serif", fontSize: 12 }}>{t}</Link>
-                </li>
-              ))}
+            <h4 className="text-white text-xs font-semibold uppercase tracking-wider mb-3">Scriptures</h4>
+            <ul className="space-y-2 text-xs">
+              <li><Link href="/sb" className="hover:text-[var(--color-gold)] transition-colors">Śrīmad-Bhāgavatam</Link></li>
+              <li><Link href="/bg" className="hover:text-[var(--color-gold)] transition-colors">Bhagavad-gītā</Link></li>
+              <li><Link href="/books" className="hover:text-[var(--color-gold)] transition-colors">Books</Link></li>
             </ul>
           </div>
           <div>
-            <h4 style={{ color: "#c8a84b", fontFamily: "Arial, sans-serif", fontSize: 12, textTransform: "uppercase", letterSpacing: 1, marginBottom: 12 }}>Content</h4>
-            <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-              {[
-                { label: "Seminars", href: "/seminars" },
-                { label: "Festivals", href: "/festivals" },
-                { label: "Podcasts", href: "/podcasts" },
-                { label: "Special Events", href: "/special-events" },
-                { label: "Blog", href: "/blog" },
-              ].map((l) => (
-                <li key={l.href} style={{ marginBottom: 6 }}>
-                  <Link href={l.href} style={{ color: "#999", fontFamily: "Arial, sans-serif", fontSize: 12 }}>{l.label}</Link>
-                </li>
-              ))}
+            <h4 className="text-white text-xs font-semibold uppercase tracking-wider mb-3">Events</h4>
+            <ul className="space-y-2 text-xs">
+              <li><Link href="/seminars" className="hover:text-[var(--color-gold)] transition-colors">Seminars</Link></li>
+              <li><Link href="/festivals" className="hover:text-[var(--color-gold)] transition-colors">Festivals</Link></li>
+              <li><Link href="/podcasts" className="hover:text-[var(--color-gold)] transition-colors">Podcasts</Link></li>
             </ul>
           </div>
           <div>
-            <h4 style={{ color: "#c8a84b", fontFamily: "Arial, sans-serif", fontSize: 12, textTransform: "uppercase", letterSpacing: 1, marginBottom: 12 }}>Connect</h4>
-            <p style={{ color: "#aaa", fontFamily: "Arial, sans-serif", fontSize: 12, lineHeight: 1.7 }}>
-              Are you interested in contributing or have questions about the archive?
-            </p>
-            <Link href="/contact" style={{ display: "inline-block", marginTop: 10, background: "#8b1a1a", color: "white", padding: "7px 14px", fontFamily: "Arial, sans-serif", fontSize: 12, borderRadius: 2 }}>
-              Contact Volunteer Devotees
-            </Link>
+            <h4 className="text-white text-xs font-semibold uppercase tracking-wider mb-3">More</h4>
+            <ul className="space-y-2 text-xs">
+              <li><Link href="/gaudia-acharyas" className="hover:text-[var(--color-gold)] transition-colors">Glories of Ācāryas</Link></li>
+              <li><Link href="/blog" className="hover:text-[var(--color-gold)] transition-colors">Blog</Link></li>
+              <li><Link href="/contact-us" className="hover:text-[var(--color-gold)] transition-colors">Contact Us</Link></li>
+            </ul>
           </div>
         </div>
-        <div style={{ borderTop: "1px solid #333", marginTop: 28, paddingTop: 16, display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 8 }}>
-          <p style={{ color: "#666", fontFamily: "Arial, sans-serif", fontSize: 11, margin: 0 }}>
-            © {new Date().getFullYear()} Bhanu Swami Media. All rights reserved.
-          </p>
-          <p style={{ color: "#555", fontFamily: "Arial, sans-serif", fontSize: 11, margin: 0 }}>
-            Dedicated to the service of Śrīla Prabhupāda and the Vaiṣṇava community
-          </p>
+        <Separator className="bg-white/10 my-6" />
+        <div className="flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-white/40">
+          <p>© {new Date().getFullYear()} Bhanu Swami Archives. All rights reserved.</p>
+          <p>Dedicated to the service of Śrīla Prabhupāda and the Vaiṣṇava community</p>
         </div>
       </div>
     </footer>

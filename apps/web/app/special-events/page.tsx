@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
 import PageLayout from "../components/PageLayout";
 
 const events = [
@@ -35,28 +37,31 @@ const events = [
 export default function SpecialEventsPage() {
   return (
     <PageLayout title="Special Events" breadcrumbs={[{ label: "Special Events", href: "/special-events" }]}>
-      <div style={{ background: "white", border: "1px solid #ddd", padding: 20, marginBottom: 20 }}>
-        <p style={{ fontFamily: "Georgia, serif", fontSize: 15, color: "#444", lineHeight: 1.8, margin: 0 }}>
-          Special annual events and festivals featuring extensive lecture series by Bhanu Swami Maharaj.
-        </p>
-      </div>
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 16 }}>
+      <Card className="mb-3 border-[var(--color-border)]">
+        <CardContent className="p-3">
+          <p className="font-serif text-sm text-muted-foreground leading-relaxed">
+            Special annual events and festivals featuring extensive lecture series by Bhanu Swami Maharaj.
+          </p>
+        </CardContent>
+      </Card>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {events.map((e) => (
-          <div key={e.href} style={{ background: "white", border: "1px solid #ddd", overflow: "hidden" }}>
-            <div style={{ background: e.color, padding: "20px 16px" }}>
-              <h3 style={{ color: "white", fontFamily: "Georgia, serif", fontSize: 18, margin: 0 }}>{e.title}</h3>
-            </div>
-            <div style={{ padding: 16 }}>
-              <p style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#666", lineHeight: 1.6, margin: "0 0 12px" }}>{e.desc}</p>
-              <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
+          <Card key={e.href} className="overflow-hidden border-[var(--color-border)]">
+            <CardHeader className="py-4 px-5" style={{ background: e.color }}>
+              <CardTitle className="text-white font-serif text-lg">{e.title}</CardTitle>
+            </CardHeader>
+            <CardContent className="p-4">
+              <p className="text-xs text-muted-foreground leading-relaxed mb-3">{e.desc}</p>
+              <div className="flex flex-wrap gap-2">
                 {e.years.map((y) => (
-                  <Link key={y.href} href={y.href} style={{ background: e.color, color: "white", padding: "5px 12px", fontFamily: "Arial, sans-serif", fontSize: 12, borderRadius: 2, textDecoration: "none" }}>
-                    {y.label} →
-                  </Link>
+                  <Button key={y.href} asChild size="sm" className="text-white h-7 text-xs" style={{ background: e.color }}>
+                    <Link href={y.href}>{y.label} →</Link>
+                  </Button>
                 ))}
               </div>
-            </div>
-          </div>
+            </CardContent>
+          </Card>
         ))}
       </div>
     </PageLayout>

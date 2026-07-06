@@ -1,4 +1,8 @@
 import Link from "next/link";
+import Image from "next/image";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Separator } from "@/components/ui/separator";
 import PageLayout from "../components/PageLayout";
 
 const bgContent = [
@@ -11,40 +15,49 @@ const bgContent = [
 export default function BGPage() {
   return (
     <PageLayout title="Bhagavad-gītā As It Is" breadcrumbs={[{ label: "Bhagavad-gītā", href: "/bg" }]}>
-      <div style={{ background: "white", border: "1px solid #ddd", padding: 20, marginBottom: 20 }}>
-        <p style={{ fontFamily: "Georgia, serif", fontSize: 15, color: "#444", lineHeight: 1.8, margin: "0 0 12px" }}>
-          The Bhagavad-gītā As It Is by Śrīla Prabhupāda is the most widely read edition of the Gītā. Bhanu Swami Maharaj's lectures illuminate the philosophical depth of each verse, drawing on commentaries of the Gauḍīya Vaiṣṇava ācāryas.
-        </p>
-        <div style={{ display: "flex", gap: 10 }}>
-          <Link href="/bg/seminars" style={{ background: "#8b1a1a", color: "white", padding: "8px 16px", fontFamily: "Arial, sans-serif", fontSize: 13, borderRadius: 2, textDecoration: "none" }}>
-            BG Seminars →
-          </Link>
-          <Link href="/bg/seminars/gj" style={{ background: "white", color: "#8b1a1a", padding: "8px 16px", fontFamily: "Arial, sans-serif", fontSize: 13, borderRadius: 2, textDecoration: "none", border: "1px solid #8b1a1a" }}>
-            Gītā Jayantī →
-          </Link>
-        </div>
+      <div className="relative h-48 rounded-lg overflow-hidden mb-4">
+        <Image src="/wp-content/uploads/2024/12/IMG-20241213-WA0022.jpg" alt="Bhagavad-gītā" fill className="object-cover" unoptimized sizes="100vw" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
       </div>
+      <Card className="mb-3 border-[var(--color-border)]">
+        <CardContent className="p-3">
+          <p className="font-serif text-sm text-muted-foreground leading-relaxed mb-4">
+            The Bhagavad-gītā As It Is by Śrīla Prabhupāda is the most widely read edition of the Gītā. Bhanu Swami Maharaj's lectures illuminate the philosophical depth of each verse, drawing on commentaries of the Gauḍīya Vaiṣṇava ācāryas.
+          </p>
+          <div className="flex flex-wrap gap-2">
+            <Button asChild size="sm" className="bg-[var(--color-maroon)] hover:bg-[var(--color-maroon-dark)] text-white">
+              <Link href="/bg/seminars">BG Seminars →</Link>
+            </Button>
+            <Button asChild size="sm" variant="outline" className="border-[var(--color-maroon)] text-[var(--color-primary)]">
+              <Link href="/bg/seminars/gj">Gītā Jayantī →</Link>
+            </Button>
+          </div>
+        </CardContent>
+      </Card>
 
-      <h2 className="section-title" style={{ marginBottom: 0 }}>Selected Lectures</h2>
-      <div style={{ background: "white", border: "1px solid #ddd", borderTop: "none" }}>
+      <h2 className="font-serif text-base font-bold text-foreground mb-3 uppercase tracking-wide text-[var(--color-primary)]">Selected Lectures</h2>
+      <Card className="border-[var(--color-border)] mb-5">
         {bgContent.map((item, i) => (
-          <div key={i} style={{ padding: "14px 16px", borderBottom: "1px solid #eee", display: "flex", gap: 12 }}>
-            <div style={{ width: 32, height: 32, background: "#8b1a1a", flexShrink: 0, display: "flex", alignItems: "center", justifyContent: "center", color: "white", fontSize: 12, borderRadius: 2, marginTop: 2 }}>
-              BG
+          <div key={i}>
+            <div className="flex items-center gap-3 px-3 py-1.5">
+              <div className="w-9 h-9 rounded bg-[var(--color-maroon)] shrink-0 flex items-center justify-center text-white text-[10px] font-bold">BG</div>
+              <Link href={item.href} className="font-serif text-sm text-[var(--color-primary)] hover:text-[var(--color-maroon-dark)] leading-snug">
+                {item.title}
+              </Link>
             </div>
-            <Link href={item.href} style={{ fontFamily: "Georgia, serif", fontSize: 15, color: "#8b1a1a", lineHeight: 1.4, display: "block", paddingTop: 6 }}>
-              {item.title}
-            </Link>
+            {i < bgContent.length - 1 && <Separator />}
           </div>
         ))}
-      </div>
+      </Card>
 
-      <div style={{ background: "#fffbf0", border: "1px solid #c8a84b", padding: 16, marginTop: 20 }}>
-        <p style={{ fontFamily: "Arial, sans-serif", fontSize: 13, color: "#666", margin: 0 }}>
-          <strong>Śravaṇa Utsav 2025</strong> featured an in-depth study of the Bhagavad-gītā using the <em>Sārārtha Varṣiṇī Ṭīkā</em> commentary by Śrīla Viśvanātha Cakravartī Ṭhākura.{" "}
-          <Link href="/shravana-utsav/2025" style={{ color: "#8b1a1a" }}>View lectures →</Link>
-        </p>
-      </div>
+      <Card className="border-[var(--color-gold)] bg-[oklch(0.98_0.01_80)] border-[var(--color-border)]">
+        <CardContent className="p-4">
+          <p className="text-sm text-muted-foreground">
+            <strong className="text-foreground">Śravaṇa Utsav 2025</strong> featured an in-depth study of the Bhagavad-gītā using the <em>Sārārtha Varṣiṇī Ṭīkā</em> commentary by Śrīla Viśvanātha Cakravartī Ṭhākura.{" "}
+            <Link href="/shravana-utsav/2025" className="text-[var(--color-primary)] font-semibold hover:underline">View lectures →</Link>
+          </p>
+        </CardContent>
+      </Card>
     </PageLayout>
   );
 }

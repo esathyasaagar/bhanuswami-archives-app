@@ -2,10 +2,11 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "dev",
-      "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev"],
-      "port": 3000
+      "name": "web",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd '/Users/sathya-6054/Bhanuswami App/bhanuswami-archives/apps/web' && npx next dev --port $PORT"],
+      "port": 3000,
+      "autoPort": true
     }
   ]
 }

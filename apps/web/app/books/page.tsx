@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
 import PageLayout from "../components/PageLayout";
 import { books } from "../data/content";
 
@@ -12,27 +14,31 @@ const bookList = [
 export default function BooksPage() {
   return (
     <PageLayout title="Books & Texts" breadcrumbs={[{ label: "Books & Texts", href: "/books" }]}>
-      <div style={{ background: "white", border: "1px solid #ddd", padding: 20, marginBottom: 20 }}>
-        <p style={{ fontFamily: "Georgia, serif", fontSize: 15, color: "#444", lineHeight: 1.8, margin: 0 }}>
-          Bhanu Swami Maharaj's lectures on key Vaiṣṇava scriptures and devotional texts, providing deep insight into the philosophy and practice of bhakti-yoga.
-        </p>
-      </div>
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: 16 }}>
+      <Card className="mb-3 border-[var(--color-border)]">
+        <CardContent className="p-3">
+          <p className="font-serif text-sm text-muted-foreground leading-relaxed">
+            Bhanu Swami Maharaj's lectures on key Vaiṣṇava scriptures and devotional texts, providing deep insight into the philosophy and practice of bhakti-yoga.
+          </p>
+        </CardContent>
+      </Card>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {bookList.map(({ key, href, color }) => {
           const b = books[key];
           return (
-            <Link key={key} href={href} style={{ textDecoration: "none" }}>
-              <div style={{ background: "white", border: "1px solid #ddd", overflow: "hidden" }}>
-                <div style={{ background: color, height: 80, display: "flex", alignItems: "center", justifyContent: "center" }}>
-                  <span style={{ color: "rgba(255,255,255,0.3)", fontSize: 48, fontFamily: "Georgia, serif" }}>ॐ</span>
+            <Link key={key} href={href} className="group block">
+              <Card className="overflow-hidden hover:shadow-md transition-shadow border-[var(--color-border)]">
+                <div className="h-20 flex items-center justify-center relative" style={{ background: color }}>
+                  <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-black/30" />
+                  <span className="text-white/20 font-serif text-5xl relative z-10">ॐ</span>
                 </div>
-                <div style={{ padding: 16 }}>
-                  <div style={{ fontFamily: "Georgia, serif", fontSize: 15, fontWeight: "bold", color: "#8b1a1a", marginBottom: 4 }}>{b.title}</div>
-                  <div style={{ fontFamily: "Arial, sans-serif", fontSize: 11, color: "#888", marginBottom: 8 }}>by {b.author}</div>
-                  <p style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#666", lineHeight: 1.5, margin: "0 0 10px" }}>{b.description.slice(0, 120)}…</p>
-                  <span style={{ fontFamily: "Arial, sans-serif", fontSize: 12, color: "#8b1a1a", fontWeight: "bold" }}>{b.sections.length} parts available →</span>
-                </div>
-              </div>
+                <CardContent className="p-4">
+                  <p className="font-serif text-sm font-bold text-[var(--color-primary)] group-hover:underline mb-1">{b.title}</p>
+                  <p className="text-[10px] text-muted-foreground mb-2">by {b.author}</p>
+                  <p className="text-xs text-muted-foreground leading-relaxed mb-2">{b.description.slice(0, 120)}…</p>
+                  <Badge variant="secondary" className="text-[10px]">{b.sections.length} parts available</Badge>
+                </CardContent>
+              </Card>
             </Link>
           );
         })}
