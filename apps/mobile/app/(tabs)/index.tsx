@@ -1,34 +1,58 @@
-import { ScrollView, View, Text, TouchableOpacity, StyleSheet } from "react-native";
+import { ScrollView, View, Text, TouchableOpacity, StyleSheet, Image, useWindowDimensions } from "react-native";
 import { useRouter } from "expo-router";
-import { navItems } from "../../src/content";
+import { COLLECTION, PORTRAIT, colors, type Section } from "../../src/theme";
 
-const SECTIONS = [
-  { label: "Śrīmad-Bhāgavatam", href: "/sb", color: "#8b1a1a", icon: "📖" },
-  { label: "Bhagavad-gītā", href: "/bg", color: "#1a4a8b", icon: "🕉️" },
-  { label: "Seminars", href: "/seminars", color: "#2d6a2d", icon: "🎙️" },
-  { label: "Podcasts", href: "/podcasts", color: "#6a2d6a", icon: "🎧" },
-  { label: "Festivals", href: "/festivals", color: "#8b5a1a", icon: "🪔" },
-  { label: "Glories of Ācāryas", href: "/gaudia-acharyas", color: "#1a6a6a", icon: "🙏" },
-];
-
-export default function HomeScreen() {
+function BookCover({ item, width }: { item: Section; width: number }) {
   const router = useRouter();
   return (
-    <ScrollView style={styles.container}>
-      <View style={styles.header}>
-        <Text style={styles.headerTitle}>Bhanu Swami Archives</Text>
-        <Text style={styles.headerSubtitle}>His Holiness Bhanu Swami Maharaja</Text>
+    <TouchableOpacity
+      activeOpacity={0.85}
+      style={[styles.coverWrap, { width }]}
+      onPress={() => router.push(item.href as any)}
+    >
+      <View style={[styles.cover, { backgroundColor: item.color }]}>
+        <Image source={{ uri: item.image }} style={styles.coverImg} resizeMode="cover" />
+        <View style={[StyleSheet.absoluteFill, { backgroundColor: item.color, opacity: 0.32 }]} />
+        <View style={styles.spine} />
+        <View style={styles.coverTitleWrap}>
+          <Text style={styles.coverTitle}>{item.label}</Text>
+        </View>
       </View>
-      <View style={styles.grid}>
-        {SECTIONS.map((section) => (
-          <TouchableOpacity
-            key={section.href}
-            style={[styles.card, { backgroundColor: section.color }]}
-            onPress={() => router.push(section.href as any)}
-          >
-            <Text style={styles.cardIcon}>{section.icon}</Text>
-            <Text style={styles.cardLabel}>{section.label}</Text>
-          </TouchableOpacity>
+      <Text style={styles.coverLabel} numberOfLines={1}>{item.label}</Text>
+      <Text style={styles.coverSub} numberOfLines={1}>{item.sub}</Text>
+    </TouchableOpacity>
+  );
+}
+
+export default function HomeScreen() {
+  const { width: screenW } = useWindowDimensions();
+  const maxW = Math.min(screenW, 900);
+  const cols = maxW >= 700 ? 4 : 2;
+  const gap = 14;
+  const horizontalPad = 16;
+  const cardW = (maxW - horizontalPad * 2 - gap * (cols - 1)) / cols;
+
+  return (
+    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
+      {/* Hero */}
+      <View style={styles.hero}>
+        <Image source={{ uri: PORTRAIT }} style={styles.heroImg} />
+        <View style={styles.heroText}>
+          <Text style={styles.heroKicker}>HIS HOLINESS</Text>
+          <Text style={styles.heroTitle}>Bhanu Swami Maharaja</Text>
+          <Text style={styles.heroSub}>
+            Senior disciple of Śrīla Prabhupāda · Scholar of Vaiṣṇava philosophy
+          </Text>
+        </View>
+      </View>
+
+      {/* Collection */}
+      <View style={styles.sectionHead}>
+        <Text style={styles.sectionTitle}>The Collection</Text>
+      </View>
+      <View style={[styles.grid, { paddingHorizontal: horizontalPad, gap }]}>
+        {COLLECTION.map((item) => (
+          <BookCover key={item.href} item={item} width={cardW} />
         ))}
       </View>
     </ScrollView>
@@ -36,19 +60,45 @@ export default function HomeScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: "#faf7f2" },
-  header: { backgroundColor: "#1a0a00", padding: 24, paddingTop: 40 },
-  headerTitle: { color: "#fff", fontSize: 22, fontWeight: "bold" },
-  headerSubtitle: { color: "rgba(255,255,255,0.7)", fontSize: 13, marginTop: 4 },
-  grid: { flexDirection: "row", flexWrap: "wrap", padding: 12, gap: 12 },
-  card: {
-    width: "47%",
-    aspectRatio: 1,
-    borderRadius: 12,
+  container: { flex: 1, backgroundColor: colors.background },
+  content: { alignItems: "center", paddingBottom: 32 },
+
+  hero: {
+    width: "100%",
+    backgroundColor: colors.maroon,
+    flexDirection: "row",
     alignItems: "center",
-    justifyContent: "center",
-    padding: 16,
+    gap: 16,
+    paddingHorizontal: 20,
+    paddingVertical: 22,
   },
-  cardIcon: { fontSize: 36, marginBottom: 8 },
-  cardLabel: { color: "#fff", fontSize: 13, fontWeight: "600", textAlign: "center" },
+  heroImg: { width: 72, height: 72, borderRadius: 36, borderWidth: 2, borderColor: "rgba(255,255,255,0.25)" },
+  heroText: { flex: 1 },
+  heroKicker: { color: "rgba(255,255,255,0.6)", fontSize: 10, letterSpacing: 2, marginBottom: 2 },
+  heroTitle: { color: "#fff", fontSize: 20, fontWeight: "800", marginBottom: 4 },
+  heroSub: { color: "rgba(255,255,255,0.75)", fontSize: 12, lineHeight: 17 },
+
+  sectionHead: { width: "100%", maxWidth: 900, paddingHorizontal: 16, marginTop: 22, marginBottom: 12 },
+  sectionTitle: { fontSize: 19, fontWeight: "800", color: colors.foreground },
+
+  grid: { width: "100%", maxWidth: 900, flexDirection: "row", flexWrap: "wrap" },
+  coverWrap: { marginBottom: 6 },
+  cover: {
+    width: "100%",
+    aspectRatio: 3 / 4,
+    borderRadius: 10,
+    overflow: "hidden",
+    justifyContent: "flex-end",
+    shadowColor: "#000",
+    shadowOpacity: 0.18,
+    shadowRadius: 6,
+    shadowOffset: { width: 0, height: 3 },
+    elevation: 3,
+  },
+  coverImg: { ...StyleSheet.absoluteFillObject, width: "100%", height: "100%" },
+  spine: { position: "absolute", left: 0, top: 0, bottom: 0, width: 6, backgroundColor: "rgba(0,0,0,0.22)" },
+  coverTitleWrap: { padding: 10, backgroundColor: "rgba(0,0,0,0.35)" },
+  coverTitle: { color: "#fff", fontWeight: "800", fontSize: 13 },
+  coverLabel: { marginTop: 6, fontSize: 12, fontWeight: "600", color: colors.foreground },
+  coverSub: { fontSize: 10, color: colors.muted, marginTop: 1 },
 });

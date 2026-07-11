@@ -284,7 +284,7 @@ export const karthikMonth = {
 
 // ── Podcasts ──────────────────────────────────────────────────────────────────
 
-export const podcasts = {
+export const podcasts: Record<string, { title: string; href: string; date: string; image?: string }[]> = {
   "2025": [
     { title: "Celebrating Śrīla Prabhupāda's Life & Legacy!", href: "/podcasts/2025/sp-life-legacy", date: "2025" },
   ],
