@@ -254,7 +254,7 @@ export const books = {
 
 // ── Special Events ────────────────────────────────────────────────────────────
 
-export const shravanaUtsav = {
+export const shravanaUtsav: Record<string, { title: string; href: string }[]> = {
   "2025": [
     { title: "Bhagavad-gītā – Sārārtha Varṣiṇī Ṭīkā Study", href: "/shravana-utsav/2025/bg" },
     { title: "BG Chapter 12 – Devotional Service", href: "/shravana-utsav/2025/bg/ch12" },
@@ -266,14 +266,14 @@ export const shravanaUtsav = {
   ],
 };
 
-export const madhuraContent = {
+export const madhuraContent: Record<string, { title: string; href: string }[]> = {
   "2025": [
     { title: "SB 11.5.36 – The Present Kali-yuga Is the Best Yuga & Has the Best Process to Attain the Best Result", href: "/madhura/2025/sb/11/5/36" },
     { title: "SB 3.33.7 – Analysis and Commentary", href: "/madhura/2025/sb/3/33/7" },
   ],
 };
 
-export const karthikMonth = {
+export const karthikMonth: Record<string, { title: string; href: string }[]> = {
   "2024": [
     { title: "Canto 10 – Chapter 9: Mother Yaśodā Binds Lord Kṛṣṇa (Dāmodara Month)", href: "/sb/10/9" },
   ],
