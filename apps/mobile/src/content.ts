@@ -1,4 +1,6 @@
-export const navItems = [
+export type NavItem = { label: string; href: string; children?: NavItem[] };
+
+export const navItems: NavItem[] = [
   { label: "Home", href: "/" },
   {
     label: "Śrīmad-Bhāgavatam",
@@ -40,7 +42,7 @@ export const navItems = [
           { label: "Macedonia 2025", href: "/seminars/2025/macedonia" },
           { label: "Malaysia 2025", href: "/seminars/2025/malaysia" },
           { label: "Athens 2025", href: "/seminars/2025/athenes" },
-          { label: "Mayapur 2025", href: "/seminars/mayapur/2025" },
+          { label: "Mayapur 2025", href: "/seminars/2025/mayapur" },
           { label: "Chennai 2025", href: "/seminars/2025/chennai" },
         ],
       },
@@ -52,9 +54,21 @@ export const navItems = [
           { label: "New Govardhana 2024", href: "/seminars/2024/new-govardhana" },
         ],
       },
-      { label: "2021", href: "/seminars/2021" },
-      { label: "2018", href: "/seminars/2018" },
-      { label: "2016", href: "/seminars/2016" },
+      {
+        label: "2021",
+        href: "/seminars/2021",
+        children: [{ label: "Japan 2021", href: "/seminars/2021/japan" }],
+      },
+      {
+        label: "2018",
+        href: "/seminars/2018",
+        children: [{ label: "Japan 2018", href: "/seminars/2018/japan" }],
+      },
+      {
+        label: "2016",
+        href: "/seminars/2016",
+        children: [{ label: "Japan 2016", href: "/seminars/2016/japan" }],
+      },
     ],
   },
   {
@@ -97,7 +111,7 @@ export const navItems = [
 // ── Śrīmad-Bhāgavatam ────────────────────────────────────────────────────────
 
 export const sbCantos = [
-  { canto: 1, title: "Creation", chapters: ["1.8 – Prayers by Queen Kuntī", "1.10", "1.11", "1.12", "1.13", "1.14", "1.15", "1.16", "1.17", "1.18", "1.19"] },
+  { canto: 1, title: "Creation", chapters: ["1.8 – Prayers by Queen Kuntī", "1.10", "1.11", "1.12", "1.13", "1.14", "1.15", "1.17", "1.18", "1.19"] },
   { canto: 2, title: "The Cosmic Manifestation", chapters: ["2.1 – The First Step in God Realization", "2.2 – The Lord in the Heart", "2.3", "2.4"] },
   { canto: 3, title: "The Status Quo", chapters: ["3.16", "3.25", "3.27"] },
   { canto: 4, title: "The Creation of the Fourth Order", chapters: ["4.17", "4.28", "4.30"] },
@@ -113,49 +127,50 @@ export const sbCantos = [
 
 // ── Seminars ──────────────────────────────────────────────────────────────────
 
-export const seminars: Record<string, Record<string, { title: string; href: string; description?: string }[]>> = {
+export const seminars: Record<string, Record<string, { title: string; href: string; description?: string; image?: string; video?: string }[]>> = {
   "2025": {
     japan: [
-      { title: "Dikṣa Traditions", href: "/seminars/2025/japan/diksa-traditions" },
-      { title: "Demons in Vṛndāvan", href: "/seminars/2025/japan/demons-in-vrindavan" },
-      { title: "Diksha Traditions & the Analysis of 2-Part Initiations in ISKCON Diksha System", href: "/seminars/2025/japan/diksha-traditions-iskcon-intiation-analysis" },
-      { title: "Gaura Tattva", href: "/seminars/2025/japan/gaura-tattva" },
-      { title: "Mysteries of Sound", href: "/seminars/2025/japan/mysteries-of-sound" },
-      { title: "Bhakti-latā – 1 (Mādhurya Kādambinī)", href: "/seminars/2025/japan/bhakti-lata-1" },
-      { title: "Bhakti-latā – 2 (Mādhurya Kādambinī)", href: "/seminars/2025/japan/bhakti-lata-2" },
-      { title: "Bhakti-latā – 3 (Mādhurya Kādambinī)", href: "/seminars/2025/japan/bhakti-lata-3" },
+      { title: "Dikṣa Traditions", href: "/seminars/2025/japan/diksa-traditions", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/06/image-33.png", video: "YPfhZTqVp7Y" },
+      { title: "Demons in Vṛndāvan", href: "/seminars/2025/japan/demons-in-vrindavan", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "pgF9Xiedugc" },
+      { title: "Diksha Traditions & the Analysis of 2-Part Initiations in ISKCON Diksha System", href: "/seminars/2025/japan/diksha-traditions-iskcon-intiation-analysis", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/12/image-118.png", video: "l2PLdpsqwZo" },
+      { title: "Gaura Tattva", href: "/seminars/2025/japan/gaura-tattva", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "KC7tk67iE4U" },
+      { title: "Mysteries of Sound", href: "/seminars/2025/japan/mysteries-of-sound", image: "https://bhanuswamiarchives.net/wp-content/uploads/2026/01/image-47.png", video: "QzkohheTP0Q" },
+      { title: "Bhakti-latā – 1 (Mādhurya Kādambinī)", href: "/seminars/2025/japan/bhakti-lata-1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2026/01/image-111.png", video: "8kpbi1XvU2M" },
+      { title: "Bhakti-latā – 2 (Mādhurya Kādambinī)", href: "/seminars/2025/japan/bhakti-lata-2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2026/01/image-154.png", video: "n2XL5Dr7anw" },
+      { title: "Bhakti-latā – 3 (Mādhurya Kādambinī)", href: "/seminars/2025/japan/bhakti-lata-3", image: "https://bhanuswamiarchives.net/wp-content/uploads/2026/01/image-256.png", video: "HLAAi902Vtg" },
     ],
     australia: [
-      { title: "Law of Karma", href: "/seminars/2025/australia/law-of-karma", description: "Replace conditioned feelings with proper spiritual values to break the unending Karmic wheel" },
-      { title: "Pure Bhakti", href: "/seminars/2025/australia/pure-bhakti" },
+      { title: "Law of Karma", href: "/seminars/2025/australia/law-of-karma", description: "Replace conditioned feelings with proper spiritual values to break the unending Karmic wheel", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-257.png", video: "gsoZVDIG3e0" },
+      { title: "Pure Bhakti", href: "/seminars/2025/australia/pure-bhakti", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/06/image-22.png", video: "DWw1DIlA434" },
     ],
     italy: [
-      { title: "Removing the Fog & Cloud from the Mind Which Obstructs Chanting Śuddha Nāma & Attaining Prema", href: "/seminars/2025/italy/suddhanama" },
-      { title: "Good Health: More Than Muscles & Meals", href: "/seminars/2025/italy/healthy-life" },
-      { title: "The Transcendental Appearance of Kṛṣṇa & the Strong Vātsalya Bhāva of Nanda & Yaśodā", href: "/seminars/2025/italy/krsna-janmastami" },
-      { title: "Śrīla Prabhupāda & ISKCON in the Mission of Lord Caitanya", href: "/seminars/2025/italy/sp-vyasa-puja" },
-      { title: "Secret Hack to Crack the Wheel of Karma", href: "/seminars/2025/italy/wheel-of-karma" },
-      { title: "Scriptural Basis Behind Gauḍīya Vaiṣṇava's Spiritual Practice for Eternal Happiness", href: "/seminars/2025/italy/scriptures-behind-chanting" },
-      { title: "Understand Guru's Position in ISKCON via Śāstras & Ācāryas – Give Proper Respect to All", href: "/seminars/2025/italy/proper-respect" },
-      { title: "Realize the Power of Mind to Unlock Its Full Potential", href: "/seminars/2025/italy/power-of-mind" },
+      { title: "Removing the Fog & Cloud from the Mind Which Obstructs Chanting Śuddha Nāma & Attaining Prema", href: "/seminars/2025/italy/suddhanama", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "6zk95sHZbzU" },
+      { title: "Good Health: More Than Muscles & Meals", href: "/seminars/2025/italy/healthy-life", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "-IF3mbsIARk" },
+      { title: "The Transcendental Appearance of Kṛṣṇa & the Strong Vātsalya Bhāva of Nanda & Yaśodā", href: "/seminars/2025/italy/krsna-janmastami", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "_cLJPnADP28" },
+      { title: "Śrīla Prabhupāda & ISKCON in the Mission of Lord Caitanya", href: "/seminars/2025/italy/sp-vyasa-puja", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "WpzmQnd9j0U" },
+      { title: "Secret Hack to Crack the Wheel of Karma", href: "/seminars/2025/italy/wheel-of-karma", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "oavOE-wWFQk" },
+      { title: "Scriptural Basis Behind Gauḍīya Vaiṣṇava's Spiritual Practice for Eternal Happiness", href: "/seminars/2025/italy/scriptures-behind-chanting", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "3no2D9qJ30w" },
+      { title: "Understand Guru's Position in ISKCON via Śāstras & Ācāryas – Give Proper Respect to All", href: "/seminars/2025/italy/proper-respect", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "9JtVMoy8zLE" },
+      { title: "Realize the Power of Mind to Unlock Its Full Potential", href: "/seminars/2025/italy/power-of-mind", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "gvOKMFDumHQ" },
     ],
     bulgaria: [{ title: "Bulgaria Seminars 2025", href: "/seminars/2025/bulgaria" }],
     serbia: [{ title: "Serbia Seminars 2025", href: "/seminars/2025/serbia" }],
     macedonia: [
-      { title: "Holy Name – The Mysterious Sound", href: "/seminars/2025/macedonia/mysteries-of-sound" },
-      { title: "Q&A on Krishna Worship Intricacies", href: "/seminars/2025/macedonia/qa" },
+      { title: "Holy Name – The Mysterious Sound", href: "/seminars/2025/macedonia/nama-kirtan", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "1O4RBTSENLo" },
+      { title: "Q&A on Krishna Worship Intricacies", href: "/seminars/2025/macedonia/qa", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "u5kVZSLBDIo" },
     ],
-    malaysia: [{ title: "Dīkṣā and Śikṣā – Respect Distinctions", href: "/seminars/2025/malaysia/diksa-siksa" }],
+    malaysia: [{ title: "Dīkṣā and Śikṣā – Respect Distinctions", href: "/seminars/2025/malaysia/diksha-siksha-respect", video: "l99B2IO3PJw" }],
     athenes: [{ title: "Athens Seminars 2025", href: "/seminars/2025/athenes" }],
     chennai: [{ title: "Chennai Seminars 2025", href: "/seminars/2025/chennai" }],
+    mayapur: [{ title: "SB 3.14.7–9 – Respect!", href: "/seminars/2025/mayapur/respecting_various_types_and_levels_of_gurus", video: "F0eJwIsinJ4" }],
   },
   "2024": {
     japan: [
-      { title: "Bhakti and Varṇāśrama", href: "/seminars/2024/japan/bhaktiandvarnashram" },
-      { title: "Lord Śiva", href: "/seminars/2024/japan/lord-siva" },
+      { title: "Bhakti and Varṇāśrama", href: "/seminars/2024/japan/bhaktiandvarnashram", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "gL3YkoFNcqA" },
+      { title: "Lord Śiva", href: "/seminars/2024/japan/lord-siva", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "_nPQxAtIpzU" },
     ],
     "new-govardhana": [
-      { title: "Transforming Dysfunctional Relationships", href: "/seminars/2024/new-govardhana/transforming-dysfunctional-relationships" },
+      { title: "Transforming Dysfunctional Relationships", href: "/seminars/2024/new-govardhana/transforming-dysfunctional-relationships", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/image-145.png", video: "0OtOwSvrftc" },
     ],
   },
   "2021": {
@@ -163,7 +178,7 @@ export const seminars: Record<string, Record<string, { title: string; href: stri
   },
   "2018": {
     japan: [
-      { title: "Bhakti Tattva Viveka – Part 1", href: "/seminars/2018/japan/btv1" },
+      { title: "Bhakti Tattva Viveka – Part 1", href: "/seminars/2018/japan/btv1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-271.png", video: "VzRAuMXXFqI" },
     ],
   },
   "2016": {
@@ -173,26 +188,32 @@ export const seminars: Record<string, Record<string, { title: string; href: stri
 
 // ── Festivals ─────────────────────────────────────────────────────────────────
 
-export const festivals: Record<string, { title: string; href: string; description?: string }[]> = {
+export const festivals: Record<string, { title: string; href: string; description?: string; image?: string; video?: string }[]> = {
   "2026": [
-    { title: "Kīrtan Melā – Essential Ingredients of Śuddha Nāma Kīrtan & Its Glories!", href: "/festivals/2026/addressing-mm-kirtaniyas" },
-    { title: "HH Gopal Kṛṣṇa Gosvāmī Mahārāj – Triobhav Utsav!", href: "/festivals/2026/hhgkg-triobhav" },
+    { title: "Kīrtan Melā – Essential Ingredients of Śuddha Nāma Kīrtan & Its Glories!", href: "/festivals/2026/addressing-mm-kirtaniyas", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "Poz-eHAuiFI" },
+    { title: "HH Gopal Kṛṣṇa Gosvāmī Mahārāj – Triobhav Utsav!", href: "/festivals/2026/hhgkg-triobhav", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "Bb1m3JsfygY" },
   ],
   "2025": [
-    { title: "Nityānanda Trayodaśī – Lord Nityānanda: The Most Merciful", href: "/festivals/2025/nityananda-triyodasi", description: "Shelter of all & the principal of Lord Caitanya's movement" },
-    { title: "Rāma Navamī", href: "/festivals/2025/rama-navami" },
-    { title: "Gaura Pūrṇimā – The Purpose, Mission & Hidden Aspects Behind the Appearance of Lord Caitanya", href: "/festivals/2025/gaura-purnima" },
-    { title: "Jagannāth Śravaṇa Utsav – Bhajan Rahasya & Śikṣāṣṭakam", href: "/festivals/2025/jag-srav-utsav" },
-    { title: "Guṇḍicā Marjan Utsav – Clean Your Heart by Cleaning the Temple", href: "/festivals/2025/gundicha-marjan" },
-    { title: "Ratha Yātrā – The Most Intense & Highest Blissful Spiritual Love", href: "/festivals/2025/ratha-yatra" },
-    { title: "Śrīla Gadadhara Pandit & Śrīla Bhakti Vinoda Ṭhākur Triobhav", href: "/festivals/2025/sgp-bvt-triobhav" },
-    { title: "HH Bhakti Charu Swami Appearance Day – An Exemplary Messenger of Śrīla Prabhupāda", href: "/festivals/2025/hhbcs-appearance-day" },
-    { title: "World Holy Name Week", href: "/festivals/2025/holynameweek" },
-    { title: "Govardhan Pūjā – Illuminating Intricacies, Intense Devotion & Illustrating Insights", href: "/festivals/2025/govardhan-puja" },
-    { title: "Balarāma Pūrṇimā (Italy) – Balarāma, the First Expansion of Kṛṣṇa & His Unique, Sweet Pastimes", href: "/festivals/2025/balaram-purnima-italy" },
-    { title: "Śrīla Prabhupāda Triobhav & Vyāsa Pūjā", href: "/festivals/2025/sp-triobhav" },
-    { title: "HH RNS Vyāsa Pūjā", href: "/festivals/2025/hhrns-vyasa-puja" },
-    { title: "Śrīla Prabhupāda Vyāsa Pūjā", href: "/festivals/2025/sp-vyasa-puja" },
+    { title: "Nityānanda Trayodaśī – Lord Nityānanda: The Most Merciful", href: "/festivals/2025/nityananda-triyodasi", description: "Shelter of all & the principal of Lord Caitanya's movement", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "vNF1YtpRZOM" },
+    { title: "Rāma Navamī", href: "/festivals/2025/rama-navami", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg" },
+    { title: "Gaura Pūrṇimā – The Purpose, Mission & Hidden Aspects Behind the Appearance of Lord Caitanya", href: "/festivals/2025/gaura-purnima", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "PvE0rr5qAwc" },
+    { title: "Bhajan Rahasya – Śikṣāṣṭakam Verses 1 & 2", href: "/festivals/2025/jag-srav-utsav/bhajan-rahasya1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/07/image.png", video: "vVKF5G93QAE" },
+    { title: "Bhajana Rahasya – Śikṣāṣṭakam Verses 3–8", href: "/festivals/2025/jag-srav-utsav/bhajan-rahasya2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/07/image.png", video: "H8fNiLvwEFg" },
+    { title: "Ratha Yātrā – The Rarity of Accepting God's Spiritual Form & Lord Caitanya's Mercy", href: "/festivals/2025/ratha-yatra/rarity-of-deity-worship", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "LfssS5ScOoU" },
+    { title: "Ratha Yātrā – The Celebration of Most Intense & Highest Blissful Spiritual Love (CC Madhya 13.24)", href: "/festivals/2025/ratha-yatra/cc-ml-13-24", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "lr-XDjeY48E" },
+    { title: "Ratha Yātrā – The Two Aspects of Joy in Prema & Kṛṣṇa's Astonishing Arrangements (CC Madhya 13.147)", href: "/festivals/2025/ratha-yatra/cc-ml-13-147", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "1bWfZXs514M" },
+    { title: "Ratha Yātrā – Lord Caitanya's Longing to See Kṛṣṇa & His Sweet Praise (CC Madhya 12.212)", href: "/festivals/2025/ratha-yatra/cc-ml-12-212", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "oo66HMb5xiI" },
+    { title: "Śrīla Gadadhara Pandit & Śrīla Bhakti Vinoda Ṭhākur Triobhav", href: "/festivals/2025/sgp-bvt-triobhav", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "sn0nClt7ddU" },
+    { title: "HH Bhakti Charu Swami Appearance Day – An Exemplary Messenger of Śrīla Prabhupāda", href: "/festivals/2025/hhbcs-appearance-day", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "vufjzlvkwrA" },
+    { title: "Kevalāṣṭakam Verse 2 – Hari Nāma Is the Only Truth", href: "/festivals/2025/holynameweek/kevalastakam-v2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "mrKLOJmFBCI" },
+    { title: "Kevalāṣṭakam Verse 6 – Hari Nāma Is the Only Treasure", href: "/festivals/2025/holynameweek/kevalastakam-v6", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "F5BT-zTg7m8" },
+    { title: "CC Madhya 17.133 – Hari Nāma Is the Only Chintāmaṇi", href: "/festivals/2025/holynameweek/cc_ml_17133", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "n8YkZO325Gw" },
+    { title: "SB 11.5.37 – Hari Nāma Is the Only Ray of Hope for Supreme Peace", href: "/festivals/2025/holynameweek/sb_11_5_37", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "Bkc06khiQPo" },
+    { title: "Govardhan Pūjā – Illuminating Intricacies, Intense Devotion & Illustrating Insights", href: "/festivals/2025/govardhan-puja", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "YxOEmSL9flQ" },
+    { title: "Balarāma Pūrṇimā (Italy) – Balarāma, the First Expansion of Kṛṣṇa & His Unique, Sweet Pastimes", href: "/festivals/2025/balaram-purnima-italy", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "Qbi9MQ4uMug" },
+    { title: "Śrīla Prabhupāda Triobhav & Vyāsa Pūjā", href: "/festivals/2025/sp-triobhav", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "VDrHAipcdgE" },
+    { title: "HH RNS Vyāsa Pūjā", href: "/festivals/2025/hhrns-vyasa-puja", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "lotTPOoS_Ls" },
+    { title: "Śrīla Prabhupāda Vyāsa Pūjā", href: "/festivals/2025/sp-vyasa-puja", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "uLQOmQyZRdw" },
   ],
   "2013": [{ title: "Festivals 2013 Archive", href: "/festivals/2013" }],
 };
@@ -205,11 +226,11 @@ export const books = {
     author: "Śrīla Rūpa Gosvāmī",
     description: "The Nectar of Devotion is a summary study of Śrīla Rūpa Gosvāmī's Bhakti-rasāmṛta-sindhu. Bhanu Swami lectures cover the science of devotional service and the 64 limbs of bhakti.",
     sections: [
-      { title: "Japan Series – Part 1 (Rasa)", href: "/nod/japan/1" },
-      { title: "Japan Series – Part 2 (Rasa)", href: "/nod/japan/2" },
-      { title: "Japan Series – Part 3 (Rasa)", href: "/nod/japan/3" },
-      { title: "Japan Series – Part 4 (Rasa)", href: "/nod/japan/4" },
-      { title: "Japan Series – Part 5 (Anubhāvas & Sāttvika Bhāvas)", href: "/nod/japan/5" },
+      { title: "Japan Series – Part 1 (Rasa)", href: "/nod/japan/part-1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/image.png", video: "G660gHU0PhA" },
+      { title: "Japan Series – Part 2 (Rasa)", href: "/nod/japan/part-2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/image-21.png", video: "kTHz7MdA4mQ" },
+      { title: "Japan Series – Part 3 (Rasa)", href: "/nod/japan/part-3", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/image-51.png", video: "UEk06cDhJSE" },
+      { title: "Japan Series – Part 4 (Rasa)", href: "/nod/japan/part-4", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/image-70.png", video: "ZOCuclmpr5s" },
+      { title: "Japan Series – Part 5 (Anubhāvas & Sāttvika Bhāvas)", href: "/nod/japan/part-5", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/image-110.png", video: "kMeq4l8SX-M" },
     ],
   },
   hnc: {
@@ -217,14 +238,14 @@ export const books = {
     author: "Śrīla Bhaktivinoda Ṭhākura",
     description: "Harināma Cintāmaṇi describes the glories and significance of the Holy Name. Bhanu Swami's lectures explore the philosophy of śuddha-nāma and the ten offences to the Holy Name.",
     sections: [
-      { title: "Japan Series – Part 1", href: "/hnc/japan/1" },
-      { title: "Japan Series – Part 2", href: "/hnc/japan/2" },
-      { title: "Japan Series – Part 3", href: "/hnc/japan/3" },
-      { title: "Japan Series – Part 4", href: "/hnc/japan/4" },
-      { title: "Japan Series – Part 5", href: "/hnc/japan/5" },
-      { title: "Japan Series – Part 6", href: "/hnc/japan/6" },
-      { title: "New Govardhana – Part 1", href: "/hnc/australia/new-govardhana/1" },
-      { title: "New Govardhana – Part 2", href: "/hnc/australia/new-govardhana/2" },
+      { title: "Japan Series – Part 1", href: "/hnc/japan/part1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/image.png", video: "uW2GaF5gwEU" },
+      { title: "Japan Series – Part 2", href: "/hnc/japan/part2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-43.png", video: "u2vaXdo_Ymw" },
+      { title: "Japan Series – Part 3", href: "/hnc/japan/part3", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-52.png", video: "KE6oI75jqYk" },
+      { title: "Japan Series – Part 4", href: "/hnc/japan/part4", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-46.png", video: "xmh37wszBwQ" },
+      { title: "Japan Series – Part 5", href: "/hnc/japan/part5", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-51.png", video: "23pJjiu-T0I" },
+      { title: "Japan Series – Part 6", href: "/hnc/japan/part6", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/05/image-68.png", video: "WAnQKGEtkYM" },
+      { title: "New Govardhana – Part 1", href: "/hnc/australia/new-govardhana/part1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "sK40CUp_ybU" },
+      { title: "New Govardhana – Part 2", href: "/hnc/australia/new-govardhana/part2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "X3hlRloBGjA" },
     ],
   },
   brhad: {
@@ -232,10 +253,10 @@ export const books = {
     author: "Śrīla Sanātana Gosvāmī",
     description: "The Bṛhad Bhāgavatāmṛta explores the different levels of devotional service and the transcendental abode of the Lord through the journey of the sage Nārada.",
     sections: [
-      { title: "Japan Series – Part 1", href: "/brhad/japan/1" },
-      { title: "Japan Series – Part 2", href: "/brhad/japan/2" },
-      { title: "Japan Series – Part 3", href: "/brhad/japan/3" },
-      { title: "Japan Series – Part 4", href: "/brhad/japan/4" },
+      { title: "Japan Series – Part 1", href: "/brhad/japan/part-1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/IMG-20241227-WA0005.jpg", video: "pbAIB8csSNY" },
+      { title: "Japan Series – Part 2", href: "/brhad/japan/part-2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/IMG-20241227-WA0005.jpg", video: "qoHpspY15Qo" },
+      { title: "Japan Series – Part 3", href: "/brhad/japan/part-3", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/IMG-20241227-WA0005.jpg", video: "xgtU4r1Jx5s" },
+      { title: "Japan Series – Part 4", href: "/brhad/japan/part-4", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/IMG-20241227-WA0005.jpg", video: "bwELrn2yWBA" },
     ],
   },
   vrajariti: {
@@ -243,60 +264,60 @@ export const books = {
     author: "Śrīla Viśvanātha Cakravartī Ṭhākura",
     description: "Vraja Rīti Cintāmaṇi describes the eternal pastimes and the sacred geography of Vṛndāvana. These lectures were delivered during Śravaṇa Utsav 2024.",
     sections: [
-      { title: "Part 1", href: "/vrajariti/part1" },
-      { title: "Part 2", href: "/vrajariti/part2" },
-      { title: "Part 3", href: "/vrajariti/part3" },
-      { title: "Part 4", href: "/vrajariti/part4" },
-      { title: "Part 5", href: "/vrajariti/part5" },
+      { title: "Part 1", href: "/vrajariti/part1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg", video: "-4lAt3f9MHY" },
+      { title: "Part 2", href: "/vrajariti/part2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg", video: "paHKDZjCwXQ" },
+      { title: "Part 3", href: "/vrajariti/part3", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg", video: "kos2fnlEY_g" },
+      { title: "Part 4", href: "/vrajariti/part4", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg", video: "yPiIopF3y_8" },
+      { title: "Part 5", href: "/vrajariti/part5", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg", video: "cEUu3o4DHZ0" },
     ],
   },
 };
 
 // ── Special Events ────────────────────────────────────────────────────────────
 
-export const shravanaUtsav: Record<string, { title: string; href: string }[]> = {
+export const shravanaUtsav: Record<string, { title: string; href: string; image?: string; video?: string }[]> = {
   "2025": [
-    { title: "Bhagavad-gītā – Sārārtha Varṣiṇī Ṭīkā Study", href: "/shravana-utsav/2025/bg" },
-    { title: "BG Chapter 12 – Devotional Service", href: "/shravana-utsav/2025/bg/ch12" },
-    { title: "BG Verses 12.8–12.18 – Comparative Analysis", href: "/shravana-utsav/2025/bg/12-8-12" },
-    { title: "BG Verses 18.50–18.66 – Concluding Summary", href: "/shravana-utsav/2025/bg/18-50-66" },
+    { title: "Bhagavad-gītā – Sārārtha Varṣiṇī Ṭīkā Study", href: "/shravana-utsav/2025/bg", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/02/image.png" },
+    { title: "BG Chapter 12 – Devotional Service", href: "/shravana-utsav/2025/bg/day1", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/02/image.png", video: "53uUXSbKgnY" },
+    { title: "BG Verses 12.8–12.18 – Comparative Analysis", href: "/shravana-utsav/2025/bg/day2", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/02/image-36.png", video: "v-qZ8Pl7Q5o" },
+    { title: "BG Verses 18.50–18.66 – Concluding Summary", href: "/shravana-utsav/2025/bg/day3", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/02/image-82.png", video: "QQEvtgl9gig" },
   ],
   "2024": [
-    { title: "Vraja Rīti Cintāmaṇi – Complete Series", href: "/vrajariti" },
+    { title: "Vraja Rīti Cintāmaṇi – Complete Series", href: "/vrajariti", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg" },
   ],
 };
 
-export const madhuraContent: Record<string, { title: string; href: string }[]> = {
+export const madhuraContent: Record<string, { title: string; href: string; image?: string; video?: string }[]> = {
   "2025": [
-    { title: "SB 11.5.36 – The Present Kali-yuga Is the Best Yuga & Has the Best Process to Attain the Best Result", href: "/madhura/2025/sb/11/5/36" },
-    { title: "SB 3.33.7 – Analysis and Commentary", href: "/madhura/2025/sb/3/33/7" },
+    { title: "SB 11.5.36 – The Present Kali-yuga Is the Best Yuga & Has the Best Process to Attain the Best Result", href: "/madhura/2025/sb/11/5/36", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/Untitled-design.jpg", video: "OONYGJV8qcU" },
+    { title: "SB 3.33.7 – Analysis and Commentary", href: "/madhura/2025/sb/3/33/7", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/Untitled-design.jpg", video: "V0O5S_f30dU" },
   ],
 };
 
-export const karthikMonth: Record<string, { title: string; href: string }[]> = {
+export const karthikMonth: Record<string, { title: string; href: string; image?: string; video?: string }[]> = {
   "2024": [
-    { title: "Canto 10 – Chapter 9: Mother Yaśodā Binds Lord Kṛṣṇa (Dāmodara Month)", href: "/sb/10/9" },
+    { title: "Canto 10 – Chapter 9: Mother Yaśodā Binds Lord Kṛṣṇa (Dāmodara Month)", href: "/sb/10/9", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/yasoda-bs.jpg" },
   ],
   "2022": [
-    { title: "Glories of Kārttika", href: "/kc/glories-of-kartik" },
+    { title: "Glories of Kārttika", href: "/kc/glories-of-kartik", image: "https://bhanuswamiarchives.net/wp-content/uploads/2024/12/yasoda-bs.jpg", video: "LCp9bG47No4" },
   ],
 };
 
 // ── Podcasts ──────────────────────────────────────────────────────────────────
 
-export const podcasts: Record<string, { title: string; href: string; date: string; image?: string }[]> = {
+export const podcasts: Record<string, { title: string; href: string; date: string; image?: string; video?: string }[]> = {
   "2025": [
-    { title: "Celebrating Śrīla Prabhupāda's Life & Legacy!", href: "/podcasts/2025/sp-life-legacy", date: "2025" },
+    { title: "Celebrating Śrīla Prabhupāda's Life & Legacy!", href: "/podcasts/2025/sp-life-legacy", date: "2025", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "VM9gR4tJmwI" },
   ],
   "2020": [
-    { title: "Why Science and Scripture See Reality Differently", href: "/podcasts/2020/reality-view-in-science-spirituality", date: "2020" },
+    { title: "Why Science and Scripture See Reality Differently", href: "/podcasts/2020/reality-view-in-science-spirituality", date: "2020", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "nNtYbMD0Zjk" },
   ],
 };
 
 // ── Gauḍīya Ācāryas ───────────────────────────────────────────────────────────
 
 export const gaudiyaAcharyas = [
-  { title: "Gosvāmīs of Vṛndāvana", href: "/gaudia-acharyas/gosvamis-of-vrindavan", description: "The Six Gosvāmīs appointed by Lord Caitanya to establish the philosophy and practice of Gauḍīya Vaiṣṇavism." },
+  { title: "Gosvāmīs of Vṛndāvana", href: "/gaudia-acharyas/gosvamis-of-vrindavan", description: "The Six Gosvāmīs appointed by Lord Caitanya to establish the philosophy and practice of Gauḍīya Vaiṣṇavism.", video: "R7C9OwCc9vg" },
 ];
 
 // ── Sidebar data ──────────────────────────────────────────────────────────────
@@ -309,18 +330,18 @@ export const sidebarCategories = [
   { label: "Nectar of Devotion", count: 5, href: "/nod" },
   { label: "Harināma Cintāmaṇi", count: 8, href: "/hnc" },
   { label: "Bṛhad Bhāgavatāmṛta", count: 4, href: "/brhad" },
-  { label: "Vraja Rīti Cintāmaṇi", count: 5, href: "/vrajariti" },
+  { label: "Vraja Rīti Cintāmaṇi", count: 5, href: "/vrajariti", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/01/vc-bs.jpg" },
   { label: "Podcasts", count: 12, href: "/podcasts" },
   { label: "Gauḍīya Ācāryas", count: 6, href: "/gaudia-acharyas" },
   { label: "Special Events", count: 28, href: "/special-events" },
 ];
 
 export const recentPosts = [
-  { title: "Kīrtan Melā – Essential Ingredients of Śuddha Nāma Kīrtan", href: "/festivals/2026/addressing-mm-kirtaniyas", date: "Jun 2026" },
-  { title: "HH Gopal Kṛṣṇa Gosvāmī Mahārāj – Triobhav Utsav", href: "/festivals/2026/hhgkg-triobhav", date: "Jun 2026" },
-  { title: "Mysteries of Sound – Japan 2025", href: "/seminars/2025/japan/mysteries-of-sound", date: "2025" },
-  { title: "Bhakti-latā – Mādhurya Kādambinī (Series)", href: "/seminars/2025/japan/bhakti-lata-1", date: "2025" },
-  { title: "Śrīla Prabhupāda Triobhav & Vyāsa Pūjā", href: "/festivals/2025/sp-triobhav", date: "Nov 2025" },
+  { title: "Kīrtan Melā – Essential Ingredients of Śuddha Nāma Kīrtan", href: "/festivals/2026/addressing-mm-kirtaniyas", date: "Jun 2026", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "Poz-eHAuiFI" },
+  { title: "HH Gopal Kṛṣṇa Gosvāmī Mahārāj – Triobhav Utsav", href: "/festivals/2026/hhgkg-triobhav", date: "Jun 2026", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "Bb1m3JsfygY" },
+  { title: "Mysteries of Sound – Japan 2025", href: "/seminars/2025/japan/mysteries-of-sound", date: "2025", image: "https://bhanuswamiarchives.net/wp-content/uploads/2026/01/image-47.png", video: "QzkohheTP0Q" },
+  { title: "Bhakti-latā – Mādhurya Kādambinī (Series)", href: "/seminars/2025/japan/bhakti-lata-1", date: "2025", image: "https://bhanuswamiarchives.net/wp-content/uploads/2026/01/image-111.png", video: "8kpbi1XvU2M" },
+  { title: "Śrīla Prabhupāda Triobhav & Vyāsa Pūjā", href: "/festivals/2025/sp-triobhav", date: "Nov 2025", image: "https://bhanuswamiarchives.net/wp-content/uploads/2025/11/Untitled-design.jpg", video: "VDrHAipcdgE" },
 ];
 
 export const featuredContent = [
