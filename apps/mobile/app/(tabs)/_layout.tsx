@@ -17,7 +17,18 @@ export default function TabLayout() {
         name="index"
         options={{
           title: "Home",
+          // The hero already names the archive — a "Home" bar above it is
+          // redundant and eats vertical space.
+          headerShown: false,
           tabBarIcon: ({ color }) => <Ionicons name="home" size={22} color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="search"
+        options={{
+          title: "Search",
+          headerShown: false,
+          tabBarIcon: ({ color }) => <Ionicons name="search" size={22} color={color} />,
         }}
       />
       <Tabs.Screen
