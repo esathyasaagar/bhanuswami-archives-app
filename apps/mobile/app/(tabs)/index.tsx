@@ -3,7 +3,7 @@ import { Image } from "expo-image";
 import { useRouter } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
-import { COLLECTION, PORTRAIT, colors, type Section } from "../../src/theme";
+import { COLLECTION, PORTRAIT, HERO_BG, colors, type Section } from "../../src/theme";
 
 function BookCover({ item, width }: { item: Section; width: number }) {
   const router = useRouter();
@@ -46,16 +46,15 @@ export default function HomeScreen() {
 
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
-      {/* Hero — runs under the status bar, so the maroon reaches the top edge */}
+      {/* Hero — runs under the status bar, so it reaches the top edge */}
       <View style={[styles.hero, { paddingTop: insets.top + 22 }]}>
+        {/* Photograph behind a maroon scrim: enough atmosphere to feel like a
+            real archive, dark enough that the text stays readable. */}
+        <Image source={HERO_BG} style={styles.heroBg} contentFit="cover" />
+        <View style={styles.heroScrim} />
+
         <View style={styles.heroRow}>
-          <Image
-            source={{ uri: PORTRAIT }}
-            style={styles.heroImg}
-            contentFit="cover"
-            cachePolicy="disk"
-            transition={150}
-          />
+          <Image source={PORTRAIT} style={styles.heroImg} contentFit="cover" />
           <View style={styles.heroText}>
             <Text style={styles.heroKicker}>HIS HOLINESS</Text>
             <Text style={styles.heroTitle}>Bhanu Swami Maharaja</Text>
@@ -95,7 +94,10 @@ const styles = StyleSheet.create({
     backgroundColor: colors.maroon,
     paddingHorizontal: 20,
     paddingBottom: 18,
+    overflow: "hidden",
   },
+  heroBg: { ...StyleSheet.absoluteFillObject, width: "100%", height: "100%" },
+  heroScrim: { ...StyleSheet.absoluteFillObject, backgroundColor: "rgba(74,17,17,0.82)" },
   heroRow: { flexDirection: "row", alignItems: "center", gap: 16 },
   heroImg: {
     width: 72,

@@ -57,4 +57,14 @@ export const COLLECTION: Section[] = [
   { label: "Kārttika Month", sub: "Dāmodara lecture series", href: "/km", color: cover.km, image: `${IMG_BASE}/2024/12/yasoda-bs.jpg` },
 ];
 
-export const PORTRAIT = `${IMG_BASE}/2025/01/vc-bs.jpg`;
+/**
+ * Bundled photographs of Maharaja.
+ *
+ * These are local assets rather than remote URLs on purpose: the site has no
+ * standalone portrait (every "-bs.jpg" there is a book cover with the temple
+ * as the subject and Maharaja as a small inset, which cropped to a circle
+ * showed brickwork), and bundling means the hero paints instantly with no
+ * network fetch on a cold start.
+ */
+export const PORTRAIT = require("../assets/portraits/portrait.jpg");
+export const HERO_BG = require("../assets/portraits/speaking-hall.jpg");
