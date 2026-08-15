@@ -1,4 +1,5 @@
-import { Image, Linking, Text, TouchableOpacity, View, StyleSheet } from "react-native";
+import { Linking, Text, TouchableOpacity, View, StyleSheet } from "react-native";
+import { Image } from "expo-image";
 import { colors } from "./theme";
 
 export default function YouTubeEmbed({ videoId, title }: { videoId: string; title?: string }) {
@@ -13,7 +14,7 @@ export default function YouTubeEmbed({ videoId, title }: { videoId: string; titl
       accessibilityRole="link"
       accessibilityLabel={title ? `Watch ${title} on YouTube` : "Watch on YouTube"}
     >
-      <Image source={{ uri: thumbnail }} style={styles.thumb} resizeMode="cover" />
+      <Image source={{ uri: thumbnail }} style={styles.thumb} contentFit="cover" cachePolicy="disk" transition={150} />
       <View style={styles.overlay} />
       <View style={styles.playButton}>
         <View style={styles.playTriangle} />

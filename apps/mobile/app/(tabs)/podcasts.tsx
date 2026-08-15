@@ -1,4 +1,5 @@
-import { ScrollView, View, Text, TouchableOpacity, StyleSheet, Image } from "react-native";
+import { ScrollView, View, Text, TouchableOpacity, StyleSheet } from "react-native";
+import { Image } from "expo-image";
 import { useRouter } from "expo-router";
 import { podcasts } from "../../src/content";
 import { colors, IMG_BASE } from "../../src/theme";
@@ -22,7 +23,7 @@ export default function PodcastsScreen() {
                 style={[styles.item, i < arr.length - 1 && styles.itemBorder]}
                 onPress={() => router.push(ep.href as any)}
               >
-                <Image source={{ uri: ep.image ?? THUMB }} style={styles.thumb} />
+                <Image source={{ uri: ep.image ?? THUMB }} style={styles.thumb} cachePolicy="disk" transition={150} />
                 <View style={styles.itemBody}>
                   <Text style={styles.itemText}>{ep.title}</Text>
                   <Text style={styles.date}>{ep.date}</Text>

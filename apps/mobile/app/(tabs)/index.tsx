@@ -1,4 +1,5 @@
-import { ScrollView, View, Text, TouchableOpacity, StyleSheet, Image, useWindowDimensions } from "react-native";
+import { ScrollView, View, Text, TouchableOpacity, StyleSheet, useWindowDimensions } from "react-native";
+import { Image } from "expo-image";
 import { useRouter } from "expo-router";
 import { COLLECTION, PORTRAIT, colors, type Section } from "../../src/theme";
 
@@ -11,7 +12,14 @@ function BookCover({ item, width }: { item: Section; width: number }) {
       onPress={() => router.push(item.href as any)}
     >
       <View style={[styles.cover, { backgroundColor: item.color }]}>
-        <Image source={{ uri: item.image }} style={styles.coverImg} resizeMode="cover" />
+        <Image
+          source={{ uri: item.image }}
+          style={styles.coverImg}
+          contentFit="cover"
+          cachePolicy="disk"
+          recyclingKey={item.image}
+          transition={150}
+        />
         <View style={[StyleSheet.absoluteFill, { backgroundColor: item.color, opacity: 0.32 }]} />
         <View style={styles.spine} />
         <View style={styles.coverTitleWrap}>
@@ -36,7 +44,7 @@ export default function HomeScreen() {
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       {/* Hero */}
       <View style={styles.hero}>
-        <Image source={{ uri: PORTRAIT }} style={styles.heroImg} />
+        <Image source={{ uri: PORTRAIT }} style={styles.heroImg} contentFit="cover" cachePolicy="disk" transition={150} />
         <View style={styles.heroText}>
           <Text style={styles.heroKicker}>HIS HOLINESS</Text>
           <Text style={styles.heroTitle}>Bhanu Swami Maharaja</Text>

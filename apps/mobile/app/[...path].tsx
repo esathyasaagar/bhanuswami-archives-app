@@ -1,4 +1,5 @@
-import { ScrollView, View, Text, TouchableOpacity, StyleSheet, Image } from "react-native";
+import { ScrollView, View, Text, TouchableOpacity, StyleSheet } from "react-native";
+import { Image } from "expo-image";
 import { useLocalSearchParams, useRouter, Stack } from "expo-router";
 import {
   navItems,
@@ -219,7 +220,7 @@ export default function CatchAllScreen() {
         {video ? (
           <YouTubeEmbed videoId={video} title={title} />
         ) : (
-          heroImage && <Image source={{ uri: heroImage }} style={styles.hero} />
+          heroImage && <Image source={{ uri: heroImage }} style={styles.hero} cachePolicy="disk" transition={150} />
         )}
         <Text style={styles.title}>{title}</Text>
         {description && <Text style={styles.description}>{description}</Text>}
@@ -233,7 +234,7 @@ export default function CatchAllScreen() {
                 disabled={!row.href}
                 onPress={() => row.href && router.push(row.href as any)}
               >
-                {row.image && <Image source={{ uri: row.image }} style={styles.thumb} />}
+                {row.image && <Image source={{ uri: row.image }} style={styles.thumb} cachePolicy="disk" transition={150} />}
                 <View style={styles.itemBody}>
                   <Text style={styles.itemText}>{row.title}</Text>
                   {row.description && <Text style={styles.itemDesc}>{row.description}</Text>}
