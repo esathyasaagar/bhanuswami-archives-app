@@ -27615,6 +27615,225 @@ So, of course, I just later said that the question is asked, well, if he is fast
 
 Hare Krsna!` },
   "/sb/1/8": { title: "Chapter 8 : Prayers by Queen Kunt\u012b and Par\u012bk\u1e63it Saved", article: `SB_1.8.30 – Lord’s appearance & activities are bewildering, contradictory & inconceivable !` },
+  "/sb/1/8/27": { title: "Srimad Bhagavatam 1.8.27 | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 14 October 2025", video: "SsBVy5Je7Mw", article: `Srimad Bhagavatam 1.8.27 | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 14 October 2025
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 1 Chapter 8 Verse 27.
+
+ŚB 1.8.27
+
+नमोऽकिञ्चनवित्ताय निवृत्तगुणवृत्तये ।
+आत्मारामाय शान्ताय कैवल्यपतये नम: ॥ २७ ॥
+
+namo ’kiñcana-vittāya
+nivṛtta-guṇa-vṛttaye
+ātmārāmāya śāntāya
+kaivalya-pataye namaḥ
+
+Synonyms
+
+namaḥ — all obeisances unto You; akiñcana-vittāya — unto the property of the materially impoverished; nivṛtta — completely transcendental to the actions of the material modes; guṇa — material modes; vṛttaye — affection; ātma-ārāmāya — one who is self-satisfied; śāntāya — the most gentle; kaivalya-pataye — unto the master of the monists; namaḥ — bowing down.
+
+Translation
+
+My obeisances are unto You, who are the property of the materially impoverished. You have nothing to do with the actions and reactions of the material modes of nature. You are self-satisfied, and therefore You are the most gentle and are master of the monists.
+
+Purport
+
+A living being is finished as soon as there is nothing to possess. Therefore a living being cannot be, in the real sense of the term, a renouncer. A living being renounces something for gaining something more valuable. A student sacrifices his childish proclivities to gain better education. A servant gives up his job for a better job. Similarly, a devotee renounces the material world not for nothing but for something tangible in spiritual value. Śrīla Rūpa Gosvāmī, Sanātana Gosvāmī and Śrīla Raghunātha dāsa Gosvāmī and others gave up their worldly pomp and prosperity for the sake of the service of the Lord. They were big men in the worldly sense. The Gosvāmīs were ministers in the government service of Bengal, and Śrīla Raghunātha dāsa Gosvāmī was the son of a big zamindar of his time. But they left everything to gain something superior to what they previously possessed. The devotees are generally without material prosperity, but they have a very secret treasure-house in the lotus feet of the Lord. There is a nice story about Śrīla Sanātana Gosvāmī. He had a touchstone, and this stone was left in a pile of refuse. A needy man took it, but later on wondered why the valuable stone was kept in such a neglected place. He therefore asked Sanātana for the most valuable thing, and then he was given the holy name of the Lord. Akiñcana means one who has nothing to give materially. A factual devotee, or mahātmā, does not give anything material to anyone because he has already left all material assets. He can, however, deliver the supreme asset, namely the Personality of Godhead, because He is the only property of a factual devotee. The touchstone of Sanātana Gosvāmī, which was thrown in the rubbish, was not the property of the Gosvāmī, otherwise it would not have been kept in such a place. This specific example is given for the neophyte devotees just to convince them that material hankerings and spiritual advancement go ill together. Unless one is able to see everything as spiritual in relation with the Supreme Lord, one must always distinguish between spirit and matter. A spiritual master like Śrīla Sanātana Gosvāmī, although personally able to see everything as spiritual, set this example for us only because we have no such spiritual vision.
+
+Advancement of material vision or material civilization is a great stumbling block for spiritual advancement. Such material advancement entangles the living being in the bondage of a material body followed by all sorts of material miseries. Such material advancement is called anartha, or things not wanted. Actually this is so. In the present context of material advancement one uses lipstick at a cost of fifty cents, and there are so many unwanted things which are all products of the material conception of life. By diverting attention to so many unwanted things, human energy is spoiled without achievement of spiritual realization, the prime necessity of human life. The attempt to reach the moon is another example of spoiling energy because even if the moon is reached, the problems of life will not be solved. The devotees of the Lord are called akiñcanas because they have practically no material assets. Such material assets are all products of the three modes of material nature. They foil spiritual energy, and thus the less we possess such products of material nature, the more we have a good chance for spiritual progress.
+
+The Supreme Personality of Godhead has no direct connection with material activities. All His acts and deeds, which are exhibited even in this material world, are spiritual and without affection for the modes of material nature. In the Bhagavad-gītā the Lord says that all His acts, even His appearance and disappearance in and out of the material world, are transcendental, and one who knows this perfectly shall not take his birth again in this material world, but will go back to Godhead.
+
+The material disease is due to hankering after and lording it over material nature. This hankering is due to an interaction of the three modes of nature, and neither the Lord nor the devotees have attachment for such false enjoyment. Therefore, the Lord and the devotees are called nivṛtta-guṇa-vṛtti. The perfect nivṛtta-guṇa-vṛtti is the Supreme Lord because He never becomes attracted by the modes of material nature, whereas the living beings have such a tendency. Some of them are entrapped by the illusory attraction of material nature.
+
+Because the Lord is the property of the devotees, and the devotees are the property of the Lord reciprocally, the devotees are certainly transcendental to the modes of material nature. That is a natural conclusion. Such unalloyed devotees are distinct from the mixed devotees who approach the Lord for mitigation of miseries and poverty or because of inquisitiveness and speculation. The unalloyed devotees and the Lord are transcendentally attached to one another. For others, the Lord has nothing to reciprocate, and therefore He is called ātmārāma, self-satisfied. Self-satisfied as He is, He is the master of all monists who seek to merge into the existence of the Lord. Such monists merge within the personal effulgence of the Lord called the brahmajyoti, but the devotees enter into the transcendental pastimes of the Lord, which are never to be misunderstood as material.
+
+HH Bhanu Swami Maharaj:
+
+Hare Krishna. So, these are the prayers of Queen Kunti. And this particular verse, in this particular verse, Queen Kunti is offering respects to the Supreme Lord Krishna. And she addresses Him by using different phrases. So, the first name of Krishna here is akinchana vitta. Akinchana means a person who doesn’t have anything. In other words akinchana means a poor person [Laughs]. Vitta means wealth. So Krishna is the wealth for people who have nothing. So who is the poor person? Actually everybody in the material world is poor. If we don’t have Krishna, we are poor. So, Krishna is the most valuable treasure. And for all the people in the material world who have nothing, Krishna is the greatest treasure.
+
+So, what do we do with treasure? Usually people get money, and they spend it, and they enjoy. But scripture tells us we shouldn’t enjoy. So, on the other hand, we do have enjoyment in the spiritual world. But this is a different type of enjoyment. In the material world, we enjoy with our senses. In the spiritual world, we don’t have material senses, we have spiritual senses. These spiritual senses are not meant for our enjoyment. Those spiritual senses are for serving Krishna and giving Krishna enjoyment. As a result of serving Krishna with great affection, we do experience great bliss.
+
+In other words, the treasure of the spiritual world is serving Krishna and consequently becoming satisfied. So, that is a wealth for the people in the spiritual world. That wealth is never spent up. It is eternal. The wealth of the material world is spent up. We spend the money and we get left with no money. We get pleasure for our senses, but it has a beginning and an end. So that pleasure of having a beginning and an end leads to misery. So, instead of getting happiness, we get suffering. So because of that, though people may think they have money and they’re enjoying, actually they’re all very poor because they have to suffer. So it is an illusion to think that we’re wealthy in the material world. All that wealth leads to suffering. So the real, real wealth is Krishna.
+
+So, the word akinchana, of course, has another meaning. So akinchana can mean a person who is materially detached and thus he has nothing. That’s a good qualification for advancing in spiritual life. In Bhagavatam it says, qualification for bhakti is for a person who has a taste for the pastimes of the Lord and has not too much material attachment. If one reaches prema through sadhana bhakti, then the person has zero material attachment. So he’s completely detached from material enjoyment. And in prema, he has complete possession of the wealth of Krishna. So in other words, akinchana vitta means those who have no complete material attachment [Pause].
+
+Hare Krishna. So, then the meaning is that Krishna is great wealth for people who are completely detached from the material world and are completely attached to the Supreme Lord. Of course, the complete or the simply being detached from the material world is not the qualification for attaining Krishna. If you’re completely detached from everything in the material world, you’re qualified for liberation. So that is what jnanis do. Jnanis become completely detached from everything material, they get liberation. But they don’t get Krishna. So thus, the impersonalists do not get the treasure of Krishna. Instead they get liberation. So they’re still poor [Laughs]. So, definitely Krishna Himself is also akinchana. That means He is completely detached from everything in the material world.
+
+And in the second line, we get nivrtta guna vrttaye, this means He is completely beyond the material modes of nature, completely detached from everything. The Supreme Lord is never contaminated by anything in the material world. But because He is completely detached from the material world, that does not mean that Krishna is detached from the spiritual world. No, He is very attached to His devotees. So, in the second line, there’s a glorification of Krishna because He is not contaminated by the material world. However, in the spiritual world, Krishna is completely attached to His devotees.
+
+In the third line, we have the word atmarama, which means one who enjoys atma, He enjoys the self. So, this is a little more positive. Instead of saying that Krishna is not attached to anything in the material world, it means He is enjoying atma, He is enjoying spiritually. Now, the word atmarama is usually associated with impersonalists. They feel very peaceful in Brahman. They enjoy internally instead of externally. So here, Krishna is also called atmarama. So, Krishna is not directing Himself to enjoyment in the material world. He is satisfied internally. However, Krishna is not like an impersonalist sitting and peacefully meditating. Krishna is having pastimes in the spiritual world. He is quite different from an impersonalist.
+
+So, when we chant Hare Krishna mantra, we say Rama. Which means enjoyer. So, who is Krishna enjoying? He is enjoying with Radha. So, why do we say that Krishna is also atmarama, enjoying Himself, atma? Also, we can explain that, also Radha is part of Krishna, so in that sense He is enjoying Radha [Laughs]. Radha is atma [Laughs].
+
+In the third line also we have the word santa. Krishna is santa, very peaceful. Of course, we see Krishna not only is peaceful, sometimes He is fighting demons. However, even if Krishna is fighting demons, He is never disturbed. In the material world, people are affected by lust, anger, greed, envy, etc. Krishna has none of these bad qualities. So, in that sense, Krishna is santa. So, in that sense, everybody in the spiritual world is santa, very peaceful, no lust, anger, greed. So, we have in the spiritual world devotees, so for in santa rasa, peaceful rasa. But in the spiritual world, santa rasa is considered very inferior, more better than santa rasa is dasya, sakhya, vatsalya, madhurya. So, being peaceful is not the best quality in the spiritual world.
+
+So, madhurya rasa is celebrated as the supreme rasa. But in madhurya rasa, there is the most disturbance. There is the most possessiveness of Krishna. And when Krishna disappears, then the Gopis feel the most disturbance, they are not peaceful at all. So, everyone in spiritual world is devoid of material lust, anger, greed, in that sense, they are santa, but they also have spiritual emotions, which are very, very strong. So, therefore, we can glorify that Krishna as being very peaceful in one sense, but actually in the spiritual world, there is the most intense bliss.
+
+The last phrase here is kaivalya pati, Krishna is the master of impersonal liberation. This does not appear to be a very good praise of Krishna to call Him [Laughs] the master of impersonal liberation. But we also see Krishna’s praise as Yogeshwara, the master of yoga. He is the giver of material results. In other words, Krishna can give anything. He gives material results, He gives liberation. He also gives prema. So, therefore, we are advised, if you want material benedictions, don’t worship devatas, worship Krishna. If you want liberation, you have to worship Krishna.
+
+And if you want prema, you must worship Krishna. Krishna is called a desire tree. He is called chintamani, a touchstone. Nama chintamani Krishna, Krishna is touchstone or chintamani. The name of Krishna is chintamani. This means that Krishna bestows everything. However, the devotees do not ask for material benedictions or liberation. They only desire prema. So, usually the word kaivalya will mean impersonal liberation. It often means oneness. It can also mean purity.
+
+So, what is the purest thing? Prema is the purest thing. So, sometimes the word kaivalya means prema, so Krishna is the master of prema. So, we worship Krishna not for liberation or kaivalya in that sense, but for prema. So, therefore, these words can be taken with various meanings. Krishna, of course, is in charge of everything. Therefore, He will experience or He will display ultimate detachment from everything in the material world. So, these words are praised because they show that Krishna is not contaminated by anything in the material world. However, higher praise for Krishna is to praise Krishna for His pastimes in the spiritual world. So, that is the meaning that the devotees can relish. Okay, any question?
+
+Q & A:
+
+1.) Hare Krishna Maharaj, pranams at your lotus feet. Thank you for the lecture. Maharaj, you said that the ultimate goal of devotees is to get Krishna prema. But as we are sadhaka bhaktas, we don’t start. I mean, our goal is that, but we are more into, you know, getting material benefits or other stages as you explained. So, when do we know that, I mean, when we can realize that our ultimate goal is prema and we should only work for prema rather than other things which comes together with the devotional service. Hare Krishna.
+
+Yeah, well, when [Laughs] when this happens is when we get knowledge. So, in this purport Prabhupada is explaining about what is real wealth. Sanatana Goswami throws the touchstone into the rubbish because it’s useless, material things are useless. Srila Prabhupada explains in the Bhagavatam and in Bhagavad Gita about bhakti. So, pure bhakti means we worship Krishna, that’s good. But we worship Krishna not asking for material things or liberation. So, when we’re performing sadhana bhakti, this is how we have to perform it. [Not audible].
+
+Hare Krishna. So, when we talk about bhakti, when Lord Caitanya presents bhakti, He’s talking about pure bhakti. The devotees in sadhana should be performing pure bhakti with no desire for material results or liberation. So, because we’re doing sadhana, we’re not in prema, we obviously are not pure, we still have many material desires. However, when we perform bhakti, when we chant Hare Krishna, we don’t ask Krishna please give me car.
+
+When we chant Hare Krishna, what are we asking for? So, Prabhupada says we’re praying to Radha, energy of Krishna, please engage me in your service. We’re not saying, Hare Krishna, O Krishna, please give me more money. Okay, so, therefore, in the beginning of devotional service, though we have many desires, when we’re executing devotional service, we’re not praying for material things. If we have all these material desires, we will not get prema. Hare Krishna.
+
+2.) Hare Krishna Maharaj. There is one question that you mentioned that we should chant our rounds or we should chant the holy names of the Lord without any material motivation. But sometimes we encourage our children to chant Hare Krishna mahamantra and to get better results in exams, to get better results in their jobs and all. So, how can we correct them or how we can bring them on the path of pure devotional service?
+
+HH Bhanu Swami Maharaj: Oh, I see [Laughs]. So, what’s the question?
+
+Devotee: Yeah, so how can we, you know, encourage our children to keep chanting the holy names without desiring for any material results?
+
+HH Bhanu Swami Maharaj: Well, of course, Krishna also accepts people who worship Him asking for material things, but that’s inferior bhakti. And for people who have many desires, we can say, okay, you have all these desires, at least you chant Hare Krishna [Laughs]. However, those who are more intelligent will understand that all these material things are temporary, so better we chant with prema. So, yes, Krishna can fulfill all desires. He is the chintamani. He is a desire tree. But the ultimate goal should be that prema. We should not think that the only result of worshipping Krishna is to pass exams [Laughs].
+
+3.) Maharaj, today is the appearance of Radha kunda. Can you say a few words about, glorification of Radha kunda?
+
+No, actually, it’s not the appearance of Radha kunda. Radha kunda appeared after killing Arishtasura, which is in, I think, April or something. So, it’s actually not the appearance of Radha kunda today. But they have a celebration now, I think, because of Bahulastami or something like that [Laughs].
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/1/8/28": { title: "Srimad Bhagavatam 1.8.28 | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 15 October 2025", video: "ZD-mx3rx0nI", article: `Srimad Bhagavatam 1.8.28 | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 15 October 2025
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 1 Chapter 8 Verse 28.
+
+ŚB 1.8.28
+
+manye tvāṁ kālam īśānam
+anādi-nidhanaṁ vibhum
+samaṁ carantaṁ sarvatra
+bhūtānāṁ yan mithaḥ kaliḥ
+
+Synonyms
+
+manye — I consider; tvām — Your Lordship; kālam — the eternal time; īśānam — the Supreme Lord; anādi-nidhanam — without beginning and end; vibhum — all-pervading; samam — equally merciful; carantam — distributing; sarvatra — everywhere; bhūtānām — of the living beings; yat mithaḥ — by intercourse; kaliḥ — dissension.
+
+Translation
+
+My Lord, I consider Your Lordship to be eternal time, the supreme controller, without beginning and end, the all-pervasive one. In distributing Your mercy, You are equal to everyone. The dissensions between living beings are due to social intercourse.
+
+Purport
+
+Kuntīdevī knew that Kṛṣṇa was neither her nephew nor an ordinary family member of her paternal house. She knew perfectly well that Kṛṣṇa is the primeval Lord who lives in everyone’s heart as the Supersoul, Paramātmā. Another name of the Paramātmā feature of the Lord is kāla, or eternal time. Eternal time is the witness of all our actions, good and bad, and thus resultant reactions are destined by Him. It is no use saying that we do not know why and for what we are suffering. We may forget the misdeed for which we may suffer at this present moment, but we must remember that Paramātmā is our constant companion, and therefore He knows everything, past, present and future. And because the Paramātmā feature of Lord Kṛṣṇa destines all actions and reactions, He is the supreme controller also. Without His sanction not a blade of grass can move. The living beings are given as much freedom as they deserve, and misuse of that freedom is the cause of suffering. The devotees of the Lord do not misuse their freedom, and therefore they are the good sons of the Lord. Others, who misuse freedom, are put into miseries destined by the eternal kāla. The kāla offers the conditioned souls both happiness and miseries. It is all predestined by eternal time. As we have miseries uncalled-for, so we may have happiness also without being asked, for they are all predestined by kāla. No one is therefore either an enemy or friend of the Lord. Everyone is suffering and enjoying the result of his own destiny. This destiny is made by the living beings in course of social intercourse. Everyone here wants to lord it over the material nature, and thus everyone creates his own destiny under the supervision of the Supreme Lord. He is all-pervading and therefore He can see everyone’s activities. And because the Lord has no beginning or end, He is known also as the eternal time, kāla.
+
+HH Bhanu Swami Maharaj:
+
+So, Kunti continues praising the Supreme Lord by showing His different, how He controls everything. When we define a Supreme Lord, that means He is the highest person, no one controls Him, He controls everything else. So, literally when we say Isha, which means Supreme Lord, that means controller. So in the material world, we also have controllers. So a husband controls a wife and children. A king controls his citizens. Individual controls his body and senses. But somebody also is controlling even the greatest person in the material world. So one of these controllers is time.
+
+So everyone is a controller, but everybody dies. So time is said to be the person who produces your death. No one can prevent passing of time. With the passing of time, people age, they grow old. And then they die. No one can prevent this. Of course, nobody likes to get old, nobody likes to die, but there’s no escape. So we may struggle, but no one has ever succeeded in conquering old age and death. But time also belongs to material world. And material world is controlled by the Supreme Lord.
+
+So, sometimes, like in Bhagavad Gita, it says that the Lord is time. Of course, this means the Lord controls time. Time is also the shakti of the Lord. And the shakti and the shaktiman, that is, Krishna is the shaktiman and time is the shakti, they are considered to be non-different. And therefore, as I said, Krishna says, I am time, the destroyer. So Krishna identifies Himself with time, but ultimately it’s His shakti. All shaktis have a shaktimans. Energy is there, controller of energy must be there. So Supreme Lord is the shaktiman, the possessor of all shaktis. This means that Krishna is never controlled by time. He is never subject to old age and death.
+
+We see that Krishna, of course, when He appears in the material world, Krishna appears to change. He is a little baby, then He is a little boy, five years old, then He grows up, then He is eight years old. So He changes and then He reaches kaisora age. After He reaches kaisora age, He stops aging. However, though Krishna appears to grow and age somewhat in the material world, actually He is not controlled by time. His baby form is eternal. His kaisora form is eternal. So, Krishna can have appearance of growing up and changing but actually He is always eternal.
+
+Of course, in the spiritual world, though there is no time, there’s also an appearance of time. Krishna wakes up in the morning, He goes out in the fields, He eats His lunch at noon, He returns from the fields in the evening, He goes to sleep at night. It looks like there is time there. But this appearance of time in the spiritual world is also under the control of Krishna. Again He uses his shakti in the spiritual world to create an appearance of time. Why does He do this? Through this appearance of time, we have lila, pastimes of the Lord.
+
+What is the purpose of pastimes? To experience bliss and give bliss to the devotees. So, time is simply an instrument of Krishna to produce bliss in the spiritual world. That is very different from time in the material world. Time in the material world destroys all the bodies of the living entities. So Brahma has a long lifetime, but he also has a material body. And though Brahma lives a long time, he has to give up the material body. At a certain time, he dies. So this whole cycle of creation and destruction in the material world is under time. Time is under the control of the Supreme Lord. We see that creation and destruction take place in a very orderly manner.
+
+We have a rotation of yugas, satya, treta, dwapara, kali one thousand times in the day of Brahma. At the end of Brahma’s day, then all the worlds up until svargaloka are destroyed. Next day of Brahma, they’re created again. Next night of Brahma, destroyed again. This goes on for one hundred of Brahma’s years. And when Brahma dies, everything in the universe is destroyed completely. So Maha Vishnu breathes in, everything is destroyed. And when Maha Vishnu breathes out again, material world is again created.
+
+So, creation, destruction take place, but all planned by the Supreme Lord. So the Lord is the controller of time. So that is kala here. Kunti is saying that Krishna is kala, but because He controls time. And then she says, you are Isha, you are the controller. So, by saying controller, then He is the ultimate, the highest controller. Devatas are also controllers, Brahma is also controller, but Krishna is Supreme controller. When we say that Krishna is the controller, we should not think that Krishna has to everyday go through so much trouble to control everybody. We see that we have governments of the world controlling people. Every day they have to meet to see how to control everybody.
+
+Krishna controls everything, but He doesn’t have to put any effort into it. When He has to create a material world, He puts forth no effort. Simply thinks, let the material world be created. And it’s created. So, He does it through His shaktis. And He also gives these shaktis to some jivas, like Brahma and Shiva. Of course, sometimes Shiva is a jiva, sometimes Shiva is Supreme Lord Himself. But Supreme Lord empowers devatas, He empowers sages. He empowers Manus. And they are the kings who rule the world. And Supreme Lord empowers devotees to spread bhakti. So in this way, the Lord is all powerful, but He shows His power through empowering others.
+
+So there are many controllers, but Supreme Lord is the highest controller. Of course, when we talk of controller, we may think negatively, controllers like to exploit everybody. But Supreme Lord does not do this. It says in the third line, Supreme Lord is equal to everybody. He’s not thinking of how to exploit anyone. So in this way, the Lord rules, but He rules perfectly. Of course, as Bhagavad Gita says, yes, the Lord is equal to everyone, but He favors His devotees. So, this is not a fault. This is a good quality. So the Lord is equal to everybody, doesn’t unnecessarily for no reason hate somebody or love somebody, but if an individual shows affection for the Lord, the Lord shows affection for that person.
+
+So how does the Lord know that a particular jiva is favorable and has affection? In the second line, Kunti says that Krishna is vibhu. Vibhu means He is all-pervading. He is everywhere. He knows everything. So He knows who is a devotee, who is not a devotee. So because the Lord favors the devotee, the process of bhakti is very powerful. It is a means of getting Krishna’s mercy. And thus, in Chapter 12 of Bhagavad Gita, Krishna says, by His mercy, He delivers the devotee from the material world very quickly.
+
+At the beginning of Chapter 12 of Bhagavad Gita, Arjuna asks, what is better? Should I do bhakti yoga or should I do jnana? And Krishna answers, bhakti is quicker and easier. And thus, after explaining karma, jnana and yoga, at the end of the Bhagavad Gita, Krishna says, just do bhakti yoga. So this is the way in which we can approach the Lord, not because He is the controller of everything, but because He is the most merciful. He responds to the devotees.
+
+So, the Supreme Lord is in this position of controlling and showing mercy forever, eternally. He shows His control over the nature by creating and destroying material worlds. That’s one aspect, time and He does this eternally. But simultaneously, eternally, He is showing mercy and delivering jivas from material world through bhakti. So, the Lord is the controller, but we see people in the material world are suffering. So we’ll say, well, Krishna is making people suffer. Then He cannot be God. How can God be so cruel? So the answer is, that it’s not the Lord that creates the suffering for the jivas. The jivas create their own suffering. But of course, Krishna is also the jivas because there is shakti. The shakti and the shaktiman are non-different.
+
+So thus, in the last line, Krishna says, I am also quarrel, fighting between living entities in this material world. Material world, with all of its qualities, is also shakti of the Lord. And therefore, the Lord can be said to be also material world and all the problems of the material world. However, though, there are problems in the material world, the Lord always tries to solve the problems. So, for that purpose, the Lord gives scriptures. And first of all, He tries to stop the quarreling. How? By giving karma yoga. He supplies rules called dharma. If people follow the rules, they don’t fight anymore. They become peaceful.
+
+But, how are people to follow the rules? So, the Lord empowers a king to enforce the rules. These kings are descendants from Manus who were empowered by the Lord. So, jivas create all the suffering in the, quarrels in the material world and the Lord helps them solve that by empowering Manus to enforce dharma. But, creating peace in the material world is not a final solution. So though, we can stop the quarreling etc. dharma does not stop the process of birth and death. So, to stop the process of birth and death, Krishna supplies jnana yoga and astanga yoga. And He empowers sages to teach this.
+
+However, simply to escape from the material world is not enough. We have to get to the spiritual world and get bliss. So, Krishna supplies the process of bhakti, so that one can get to the spiritual world and get bliss. So, this is the arrangement of the Lord to get the jivas out of the suffering and quarrel that they produce in the material world. In this way, the Lord is equal to everyone, He is trying to solve all their problems. The Lord is perfect. The jivas in the material world are imperfect. But, the Lord wants the jivas to be perfect, so He supplies these methods of karma yoga, jnana yoga, astanga yoga and bhakti yoga. And thus the Lord has no fault.
+
+Okay. Hare Krishna. Any question?
+
+Q & A:
+
+1.) Hare Krishna prabhu. So, prabhu, Maharaj told that Shiva is jiva and at the same time, Shiva is Jiva and Bhagavan svayam. So, I didn’t understand that point.
+
+So, usually, Shiva is an expansion of the Supreme Lord, non-different from Vishnu, not a jiva. And thus, in Nectar of Devotion, Rupa Goswami describes that Shiva has 55 qualities, regular jivas have 50 qualities. One of those 5 extra qualities is that Shiva has eternal body. So, he doesn’t take a material body subject to birth and death. He is not a small particle of consciousness like a jiva. However, he is distinguished from Vishnu because, he manifests less qualities.
+
+So, Rupa Goswami also mentions that Shiva has 55 qualities, Vishnu has 60 qualities, 5 extra qualities. So, Krishna manifests more powers than Shiva. One of those powers is that Supreme Lord produces universe from His breathing, as Maha Vishnu produces all the universes. Shiva does not do that [Laughs]. Another difference is that, this Vishnu is the source of all the avatars that come in the material world. So, this is usually the form of Shiva.
+
+However, when in some universes, sometimes, Supreme Lord appoints a jiva and empowers him to act like Shiva. Usually, the Lord appoints a jiva to be Brahma. But sometimes, the Lord also takes the role of Brahma. Usually, Supreme Lord appoints jivas to be the devatas, like Indra. Sometimes, the Lord Himself becomes Indra.
+
+2.) Hare Krishna Maharaj. Maharaj, prabhuji’s question is that in order to transcend from jnana yoga to bhakti yoga, how can we progress in a determined manner?
+
+HH Bhanu Swami Maharaj: Jnana yoga to bhakti?
+
+Devotee: Yes, Maharaj.
+
+HH Bhanu Swami Maharaj: Oh. Well, jnana yoga has some plus points and some minus points. So, in Chapter 4 of Bhagavad Gita and Chapter 5, Krishna is praising jnana. And the reason is that one is very detached from the material body. Mind is very pure. So, this is good for practicing spiritual life. However, there is also some negative point. The jnani may be attached to liberation. And if one is very attached to liberation, it becomes more difficult to get to prema. So, the definition of pure bhakti is that we should not mix with desires for liberation. So, we encourage pure bhakti. We should have no desire for material enjoyment, no desire for liberation. So, jnana can proceed to bhakti under certain conditions. If jnana is used simply to maintain purity, fine. But, if we strive for liberation, we often also begin to offend the Lord. When we aim for liberation, we say Brahman is Supreme and Brahman has no form, qualities and activities.
+
+Devotee: Maharaj, you said something more after that?
+
+HH Bhanu Swami Maharaj: Yeah, yeah. Brahman has no form, qualities, activities. But if we accept the Lord, He has form, qualities, activities. And so then the jnani will think, I don’t want to attain Supreme Lord because I can’t get liberation [Laughs], He has His form, qualities and activities, this is all material. Why should I worship the Lord? So, if the jnani develops a very negative attitude towards the Lord, that is difficult for him to get to bhakti. By good fortune, some jnanis do not have this bhakti negative attitude. And therefore, if they get the mercy of devotees, they progress to yoga. So, we have the case of Sukadeva. Sukadeva was described as atmarama. He was enjoying the bliss of Brahman. But, he did not reject Bhagavan. And when he heard Srimad Bhagavatam from the disciples of Veda Vyasa, then he developed attraction for Krishna, Bhagavan. Of course, Krishna is very special. More than any other form of God, Krishna has most attractive qualities and pastimes. So, even those who are fixed in jnana, can become attracted to Krishna. Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/sb/1/8/30": { title: "SB_1.8.30 \u2013 Lord\u2019s appearance & activities are bewildering, contradictory & inconceivable !\u00a0", video: "IrvHemolFHE", article: `Srimad Bhagavatam – 1.8.30 | HH Bhanu Swami Maharaj | Goloka Eco farm | August 16, 2025 | 
 
 Om Namo Bhagavate Vāsudevāya 
@@ -27782,6 +28001,118 @@ So, one explanation is that this is not talking about pure bhakti. It’s a very
 The other meaning is that when we talk about punya, the best punya is bhakti. So bhakti causes bhakti. But of course in that sense, if it’s going to be a beginning of devotional service, it will be mercy of devotees. That would be the punya. 
 
 Devotees: HH Bhanu Swami Maharaj Ki Jai!!!` },
+  "/sb/1/8/33": { title: "Srimad Bhagavatam 1.8.33 | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 20 October 2025", video: "rfyrv51K3Jw", article: `Srimad Bhagavatam 1.8.33 | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 20 October 2025
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+ŚB 1.8.33
+
+apare vasudevasya
+devakyāṁ yācito ’bhyagāt
+ajas tvam asya kṣemāya
+vadhāya ca sura-dviṣām
+
+Synonyms
+
+apare — others; vasudevasya — of Vasudeva; devakyām — of Devakī; yācitaḥ — being prayed for; abhyagāt — took birth; ajaḥ — unborn; tvam — You are; asya — of him; kṣemāya — for the good; vadhāya — for the purpose of killing; ca — and; sura-dviṣām — of those who are envious of the demigods.
+
+Translation
+
+Others say that since both Vasudeva and Devakī prayed for You, You have taken Your birth as their son. Undoubtedly You are unborn, yet You take Your birth for their welfare and to kill those who are envious of the demigods.
+
+Purport
+
+It is also said that Vasudeva and Devakī, in their previous birth as Sutapā and Pṛśni, underwent a severe type of penance to get the Lord as their son, and as a result of such austerities the Lord appeared as their son. It is already declared in the Bhagavad-gītā that the Lord appears for the welfare of all people of the world and to vanquish the asuras, or the materialistic atheists.
+
+HH Bhanu Swami Maharaj:
+
+So Supreme Lord is unborn, he has no birth and death. He has no karma. Nevertheless, he appears in this material world and he seems to be born. Sometimes the Lord is born in a remarkable way. When he appeared as Varaha, he came out of the nostril of Brahma. When he appeared as Narasimha Deva, he came out of the pillar. Sometimes, the Lord appears in a remarkable way but sometimes he appears as an ordinary person. For instance as Ramachandra, he has, looks like a normal mother and father. However, as Krishna, he has, he appeared with mother and father, but even this is extraordinary. He is born in the prison house even though he is Supreme Lord. It looks like he is not even raised by his mother and father. He is smuggled out of the prison house and he goes to Gokul. Then he is raised by Nanda and Yasoda and only later on he gets to see Vasudeva and Devaki again.
+
+So therefore, Supreme Lord, as Krishna appears in a remarkable way also, a kind of, like a human being but also in a very strange way. So this is puzzling for people in the material world. And they may even doubt that Krishna is Supreme Lord because he appears in this world in a very mundane way. His disappearance also is very strange. In the other avatars, sometimes the Lord just ascends into the sky and disappears that way. In the other avatars, sometimes the Lord just ascends into the sky and disappears that way. But as Krishna, he gets shot in the foot by a hunter and then he seems to die. Though it is hard to explain the appearance of the Lord in material world, but when we come to Krishna, it is very puzzling because it looks very material. Nevertheless, this is also plan of Krishna.
+
+Krishna is the highest form of God according to Srimad Bhagavatam but he is also not accessible to all people. In Bhagavad Gita, Krishna says that he is hidden from the materialists and they think he is just a material person. And that’s exactly what happens. Krishna appears and it looks like he is very material, born in a prison house, dying by getting shot by an arrow. Some materialists will think Krishna is just an ordinary person. Those who are devotees, who have understanding of the real nature of the Lord, will appreciate Krishna as the highest form of Lord. Therefore, if we read Srimad Bhagavatam carefully as a devotee, we can understand the truth. If we try to understand Bhagavatam from a material point of view with no bhakti, then we will get different conclusion.
+
+So it is the nature of scripture itself, to hide the truth from unqualified people. Krishna says in Chapter 9 of Bhagavad Gita that this knowledge is the king of knowledge and the greatest secret. And at the end of Bhagavad Gita, in Chapter 7, he says, you discuss this Bhagavad Gita with devotees, but you do not teach it or reveal it to materialistic, envious people. So, one of the methods of doing this is to present the truth in an indirect fashion, that is, the truth is not plainly spoken. And this is so not only for Bhagavatam and Bhagavad Gita, but scripture in general. So it is available for people who are qualified, for people who have devotion. If materialists read, then they will think, oh yes, Krishna is born in the Yadu family, Krishna is born from Vasudeva and Devaki, but it’s a material person. Devotees will understand that Supreme Lord has no birth. But He arranges for birth in the material world out of affection for His devotees. Of course, here it is explained that the Lord appears for killing demons and killing, increasing the prosperity of the Earth. But that is an external reason.
+
+The internal reason, the more important reason is that the Lord appears in the material world to give pleasure to His devotees. So in the Bhagavatam, it is explained that the Lord appeared as Vasudeva and Devaki’s son because they prayed, we want you as our son. And similarly, Nanda and Yasoda, they want Krishna as their son. So to fulfill the desire of the devotee, to express their Vatsalya rasa or parental rasa, the Lord appears as a small child. Vatsalya rasa is most intensely expressed when the child is very small. So when Krishna is born, up to five years old, this is called his Kaumara period. And Nanda and Yasoda express their Vatsalya most intensely in this period. In that period, up until five years old, child is completely protected by the parents and cannot protect himself. Although, Krishna needs no protection at all, because he is the protector of everyone [Laughs]. He kills the demon etc, nevertheless, he takes the role of needing protection from his devotees, so he takes the role of a small child and the devotees act as his parents.
+
+It is said that in spiritual world, the Lord doesn’t grow. So Krishna is in Vrindavana with all the people there and he is Kaisora aged eternally. Though, Nanda and Yasoda do not see small child, there they see Kaisora Krishna instead. So when Krishna appears in material world, this gives great opportunity to his mother and father to care for him, when he is young child in Kaumara period. In this way he responds to his devotees. This is Damodara month and we meditate on the pastime of mother Yasoda tying up Krishna. So this pastime takes place when Krishna is in his Kaumara period. He is a small child and mother Yasoda has to feed him. And if she doesn’t feed him, Krishna becomes angry. And then mother Yasoda must run and feed Krishna to stop him from crying.
+
+Devotee: Sorry Maharaj.
+
+HH Bhanu Swami Maharaj: Mother Yasoda has to come and stop Krishna from crying by feeding him. She has to protect him, she has to feed him, she has to bathe him. In this particular rasa, Vatsalya rasa, the devotee is superior and bigger and Krishna is small, unprotected. And because parent is bigger, devotee is bigger, they also have to punish Krishna. So such an idea, and the devotee is, for other people, very strange, how can you punish God?
+
+But if a devotee takes Krishna as their son, then it is natural that if child does mischief, parent will punish. So when Krishna is a small child, mother Yasoda is taking care of and sometimes she has to punish him, this is an expression of her Vatsalya rasa. If Krishna is bigger, then she cannot do this. Krishna becomes Kaisora age, he is bigger, then he goes to Dvaraka. Mother Yasoda sees Krishna in Dvaraka, she cannot take a stick and try to punish him [Laughs]. So this small form of the Lord who is born to mother and father and gets raised for some years, this is an opportunity for Yasoda and Nanda to express their Vatsalya rasa. Of course, Krishna also when he is a child, he kills demons. But his main interest is to experience the joy of his devotees serving him. So when he is small, mother and father serve Krishna with great joy in Vatsalya rasa.
+
+So, Nanda and Yasoda experience great joy, but Krishna also experiences great joy. Of course it may appear though Krishna is not happy, he gets angry because mother Yasoda puts him down to take milk off the fire. When he sees mother Yasoda with a stick, Krishna becomes afraid. When she catches him, he begins to cry. So this does not look like joy, but actually Krishna gets great joy from acting in this way. Why? Because his devotees, for instance Yasoda, take great joy in acting as Krishna’s parent. So later on, mother Yasoda tried to tie up Krishna. She could not do so. But finally, Krishna got tied up. So, why? Because Krishna saw the great devotion of mother Yasoda in trying to tie him up. Of course, from material point of view, we can say, well, how is getting tied up an act of devotion?
+
+But mother Yasoda is expressing her love for Krishna by disciplining him. And when Krishna sees the intensity of her resolve to act as parent, then Krishna was very pleased and he got tied up. So, in this way, Krishna comes into the material world and acts as a child in response to his devotees. And of course by doing this, then people in the material world can begin to understand the nature of bhakti, the nature of prema. And though Krishna has disappeared, all the devotees have disappeared, 5000 years later, we can still experience and understand that great love of Yasoda, Nanda for Krishna by reading Srimad Bhagavatam.
+
+So Krishna is most skillful because he is the Supreme Lord. And thus he responds to his devotees like Nanda and Yasoda and the cowherd boys and the Gopis. And therefore he manifests different ages, he’s with the cowherd boys when he’s a little older, that’s Pauganda age, and then he’s with the Gopis when he’s in Kaisora age. Simultaneously, he also satisfies the devatas because devatas want the demons killed, so Krishna kills the demons. So Kamsa sent many demons to kill Krishna in Vrindavana, Krishna killed all the demons. So, in this way, he gave pleasure to the devatas. We see when Krishna killed Aghasura, then all the devatas came and they were praising and showering flowers.
+
+Devotee: Maharaj, which demon?
+
+HH Bhanu Swami Maharaj: Aghasura, snake. So, simultaneously, in responding to all of his devotees in Vrindavana, he was able to satisfy the devatas also. Devatas are also devotees. But their way of being satisfied is a little bit different from that of the people of Vrindavana. The devatas have a duty to maintain peace in the universe and if Krishna helps maintain it, then they are very satisfied with Krishna. What happened here? Hare Krishna.
+
+So of course, in Bhagavad Gita, Krishna says I’m equal to everyone, but I favour my devotee. So, this is how Krishna favours the devotees. And he satisfies Nanda and Yasoda, satisfies the cowherd boys, satisfies the Gopis and satisfies the devatas. And even though he kills the demons to satisfy the devatas, he does not hate the demons. He is equal to everybody. He is equal to everyone, sama. And when he kills the demon, now the demon also gets benefits. When Krishna kills demons, they get liberation. Not only they get liberation, sometimes, they go to the spiritual world and get a spiritual body.
+
+Now this is something very remarkable, the demon also gets, take reward for getting killed [Laughs]. So, of course, this is one special quality of Krishna. When other forms of the Lord, like Narasimha Deva and Ramachandra kills demons, they don’t get liberation and they don’t go to spiritual world. Nevertheless, they don’t go to hell also. The Lord never hates anyone in any form. So, when Narasimha Deva kills Hiranyakasipu, he does not go to hell. He is born again as a demon [Laughs], Ravana. When Rama kills Ravana, he doesn’t go to hell. He becomes Sisupala. So, when any demon becomes killed by a form of the Lord in any avatar form, they don’t go to hell. The Lord does not hate them. They get a body in the material world where they can enjoy some more. When Krishna kills demons, they get liberation or they go to spiritual world. So, this shows a special nature of Krishna.
+
+So, this is one reason why Krishna is distinguished from everybody else, because he has these very special qualities of mercy. So, the Lord appears in material world as Krishna for many reasons. Mainly, he satisfies his devotees. And sometimes to satisfy them, he has to kill demons. And when he kills demons, he also favours them. So, he gives them liberation or a place in the spiritual world. So, Krishna comes in material world to maintain the stability of the world by killing demons. But more important is, he gives very great joy to his various devotees. And he gives opportunity for devotees in the future to also relish those pastimes through Srimad Bhagavatam. In all cases, Krishna is manifesting his great mercy. Hare Krishna.
+
+Q & A:
+
+1.) Hare Krishna. Maharaj, we have heard that, as Krishna has passed away. So somewhere I heard that he passes away when the arrow was hit on his toe that he left his body like a snake leaves his body, the extra skin. So how to understand when Krishna left his body, that he was having like, any extra form or how. This is little bewilder, difficult to understand. So can you please explain in a simple manner and what happened to the remnants of Krishna’s body at that time?
+
+So the eternal form of the Lord is spiritual form. And when Krishna appears in the material world, he appears with that spiritual form. When the devotees see that form, they appreciate it. When demons see the form, they think it is material. He is the Supreme Lord, he is in control of all matter. If he wants, Krishna can show a material form also. He does that when he shows Arjuna the universal form that’s material, material elements. So definitely, no one else can show the form, only Krishna could show the form, it’s his form, but it is definitely material, so it’s called temporary form, not spiritual form. When Krishna was in the arena of Kamsa, different people saw Krishna differently. Yasoda and Nanda and Vasudeva and Devaki saw him as their child in Vatsalya rasa, Kamsa saw him in fear. And some people saw Krishna as a material being, universal form, Visvarupa [Laughs]. This means they saw Krishna as a material body, very disgusting.
+
+So, when Krishna disappeared, in one form, it’s described in Bhagavatam. His chariot came down. He got on the chariot, then he ascended to the spiritual world [Laughs]. But he also left another body, a material body there. So, this is the body that looked like a, died from an arrow, then they cremate the body etc. So, this is easy for Krishna to do because he is in control of everything in the material world. He can make any material body he wants. So, why will Krishna do such a thing? So, he does so, so the material people can be convinced that Krishna is just a material body. So, he hides his real nature from the materialists but devotees can understand his spiritual form. So, in this way, Krishna hides his real form from the materialists.
+
+2.) It says that Krishna left from Mathura and Vrindavana. And he left their parents. Then he never came back to Vrindavana and Mathura. Is this his proper behavior to his mother and father?
+
+This appears contradictory because the people in Vrindavana are the greatest devotees. How can Krishna leave and not fulfill his promise to go back? If he didn’t, then Krishna is a liar. How can Krishna be a liar? How can he be a liar to the greatest devotees? So, therefore, the Acharyas explain how he actually fulfilled his promise. So, one is by quoting from Padma Purana to show that after killing Dantavakra, when he was in Dvaraka, he went to Mathura and killed Dantavakra, then Krishna returned to Vrindavana. In this way, he fulfilled his promise to finally return. And once he returned, he stayed there, then he expanded his form and in another form, he went back to Dvaraka [Laughs].
+
+This is also described in Gopala Campu of Jiva Gosvami. However, objection is Krishna told everyone, I will return very soon. But if he returned after killing Dantavakra, that’s not soon. That was many, many, many years later [Laughs]. So, he is still breaking his promise [Laughs]. So, Visvanatha Chakravarti gives another explanation. That is, after three months of staying in Mathura, Krishna did return. Of course, when he returned, everybody was very happy. Simultaneously, he stayed in Mathura. He can expand himself in two forms. In that way, he fulfilled his promise to come back soon, only three months he was gone. However, problem is that in Bhagavatam, it’s described that Krishna did not come back after three months and they waited and waited and waited. He didn’t come back for many years and they were dying of separation.
+
+So, Visvanatha Chakravarti explains Krishna actually expanded himself, went back to Vrindavana. Simultaneously, he stayed in Mathura and then in Dvaraka and the people of Vrindavana also had two forms. One form of all the people, including the Gopis, Nanda, Yasoda reunited with Krishna because he came back after three months. The other form, he didn’t come back at all and they waited for three months. They waited for years, he didn’t come back. So, two forms of the Vrajavasis were manifested by Krishna. One group in separation, where Krishna didn’t return for many years. The other form, three months afterwards, Krishna came back and everybody was joyful.
+
+So, Visvanatha Chakravarti justifies his explanation by pointing out how Uddhava, when he returned with Krishna’s message for Nanda and Yasoda and the Gopis, he saw two different Vrindavanas. He describes when he came to Vrindavana, everybody was joyful. The cowherds were shouting at the cows and the bulls. Everybody was milking their cows. So, obviously, if they were in separation, they wouldn’t be doing this. Then he also describes complete lamentation in Vrindavana, Yasoda and Nanda were no longing cooking in their kitchens, they didn’t cook anything. They were not eating, they were lamenting, not sleeping etc. So he describes [Laughs] two different Vrindavanas simultaneously. So, in this way, two sets of Vrajavasis were there. One in separation and one with Krishna returning. So, in this way, Krishna fulfilled his vow to come back soon. Okay. Hare Krishna.
+
+3.) Since demon have hostile to the Lord, then how from hatred they got prema to get into spiritual world while Krishna killing demons like Putana?
+
+So, one answer of course, is great mercy. And the other explanation of course is, Krishna touches anybody, they become purified. So therefore, any contact with Krishna is very purifying. In relation to Sisupala, explanation is given that, of course Sisupala hated the Lord for three births. He hated the Lord. So, therefore, he wasn’t qualified to go to the spiritual world. However, Krishna’s form is most attractive. Krishna’s name is most attractive. So, in his hatred Sisupala got absorbed in the form of Krishna and the name of Krishna.
+
+So, though he hated the Lord, simultaneously he could not help thinking of the beautiful form of the Lord or uttering Krishna’s name. So, continuous thoughts in hatred, even though hatred is not good, eventually purified Sisupala. So, by that continual thinking of Krishna, chanting his name in hatred, he got purified, finally Krishna touched him with the Sudarsana Chakra and he became spiritualized. So, he went and got a spiritual body [Laughs].
+
+4.) How to develop taste in chanting?
+
+Okay. The process of devotional service is such that we go through different stages. In the beginning we have very little attraction and we have lots of material attraction. But by regularly chanting with devotion, then gradually the material tendencies become destroyed and the bhakti begins to increase. And when we continue the bhakti and the bhakti is more and the material desires are less, at least we get to nishtha stage, steadiness. And when the bhakti is stronger and material desires are less, then we come to ruchi, we get a taste.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/sb/10": { title: "Canto 10: The Summum bonum", article: `CHAPTER 3: The Birth of Lord Kṛṣṇa
 
 CHAPTER 62: The Meeting of Ūṣā and Aniruddha
@@ -35238,6 +35569,3316 @@ Devotee: So, after attaining prema only they can go, is it right understanding M
 HH Bhanu Swami Maharaj: If they are in Prema, then they can go with the pastimes in the material world, or they can go to Goloka also, depending on Krishna’s will. 
 
 Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!!` },
+  "/sb/10/86": { title: "CHAPTER 86 : Arjuna Kidnaps Subhadr\u0101, and K\u1e5b\u1e63\u1e47a Blesses His Devotees", article: `SB_10.86.30-31 – The effort required to see the unseen who is factually behind everything !
+
+SB 10.86.32-35 – Supreme Lord is captivated by devotion, not worldly position !
+
+SB 10.86.36–45 – Testimonies to the Holy Name’s simple, universal, and supremely powerful nature !
+
+SB_10.86.46-47 – Scientists still seeks consciousness; devotees relish self & supreme consciousness!
+
+SB_10.86.48 – The mystery behind why & how only a few could see the Lord factually and others don’t!
+
+SB_10.86.49-52 – Devotees transmit the Lord’s mercy by imparting transcendental knowledge!
+
+SB_10.86.53–54 – The crux of Epistemology is in Krsna respecting spiritual authority !
+
+SB_10.86.55–59 – “Qualified Brahmana” : Acharya’s meaning vs Devotees misconceptions !` },
+  "/sb/10/86/30-31": { title: "SB_10.86.30-31 \u2013 The effort required to see the unseen who is factually behind everything !", video: "ygSNAXUuttw", article: `Srimad Bhagavatam 10.86.30-31 | HH Bhanu Swami Maharaj | ISKCON Japan | 22 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 30.
+
+ŚB 10.86.30
+
+vācā madhurayā prīṇann
+idam āhānna-tarpitān
+pādāv aṅka-gatau viṣṇoḥ
+saṁspṛśañ chanakair mudā
+
+Synonyms
+
+vācā — in a voice; madhurayā — gentle; prīṇan — trying to please them; idam — this; āha — he said; anna — with food; tarpitān — who had been gratified; pādau — the feet; aṅka — on his lap; gatau — situated; viṣṇoḥ — of Lord Kṛṣṇa; saṁspṛśan — massaging; śanakaiḥ — slowly; mudā — happily.
+
+Translation
+
+When they had eaten to their full satisfaction, for their further pleasure the King began to speak slowly and in a gentle voice as he held Lord Viṣṇu’s feet in his lap and happily massaged them.
+
+Text 31
+
+Translation
+
+Śrī Bahulāśva said: O almighty Lord, You are the Soul of all created beings, their self-illumined witness, and now You are giving Your audience to us, who constantly meditate on Your lotus feet.
+
+Purport
+
+Śrīla Viśvanātha Cakravartī explains Bahulāśva’s inner thoughts as follows: Bahulāśva glorifies Lord Kṛṣṇa as the inspiring Soul of all life and consciousness, thinking that even an inert dullard like himself could be awakened to devotional awareness by His mercy. He glorifies the Lord as the witness of all pious and impious actions, confident that the Lord remembers whatever little devotional service he has ever done. And he glorifies Him as self-illumined, never needing to be enlightened or informed by any external source, with the knowledge that the Lord has always been aware of Bahulāśva’s long-cherished secret desire to see Him.
+
+HH Bhanu Swami Maharaj:
+
+So in this verse Bahulasva, the king is speaking. And he praises Krishna using three phrases. So the first one is sarva-bhūtānām ātmā, He is the soul or atma of all beings. And the second one is sākṣī, He is the witness of all beings. And then the third description is sva-dṛk, which means He sees everything by Himself with no assistance from others. So in the purport, Vishwanath Cakravarti is explaining these three phrases in terms of Bahulasva’s acceptance of mercy. So the first phrase was He is the atma of all beings, this means that He gives life to every single jiva and every single body. So whatever king Bahulasva does is ultimately to the credit of the Lord. He is the force that inspires Bahulasva to do everything. So whatever Bahulasva has accomplished materially and spiritually ultimately depends on the ultimate atma, Supreme Lord.
+
+So there’s a famous statement in the Upanishads that the Lord is the eye of the eye, the nose of the nose, the hand of the hand etc, so everybody has senses but ultimately the person who inspires all of that to work is Supreme Lord. So Bahulasva is saying that whatever he has accomplished in his life is simply because of the inspiration of the Lord. Of course, if we take this to an extreme then we can say well, the jiva can do nothing, the Lord is doing everything. So that is true ultimately that jivas depend on the Lord. Nevertheless Krishna gives each jiva some independence to act as he wants.
+
+So ultimately we cannot say I become a devotee simply because the Lord wills it and I’m not a devotee because the Lord wills it, we cannot say like that. However the devotee always gives credit to the Lord. So therefore, he says whatever I can accomplish as a devotee is ultimately because of the Lord’s mercy. So that is true. However then the Lord becomes merciful because He sees that the devotee or the jiva chooses the Lord and he chooses to serve Him.
+
+So the second description here is that Krishna is the witness or sakshi. Which means He sees everything. It comes from aksha, aksha means the eye [Laughs]. So the Lord witnesses or sees everything. And this also implies that He is rather neutral. In other words He doesn’t make the jiva do certain things, He lets the jiva do it and He certainly looks at it [Laughs]. So often Paramatma is described as the witness. So He looks at the jiva but He does not interfere. So how does the Lord exert His power if He simply looks?
+
+So another word used to describe Paramatma is He is the permitter. So if the jiva has a certain desire, Paramatma permits it and He allows it to happen. So this is the normal function of Paramatma. And the Paramatma witnesseses all of the jivas doing all of their sinful activities and their pious activities. However, when the jiva decides to do devotional activities, the Lord no longer acts as a neutral witness. Instead of being Paramatma, He acts as Bhagavan. And as we see in Bhagavad-Gita, Krishna says, I’m in my devotee, not my devotee is in me, so the Lord responds very very appropriately to all of the devotee’s desires. Still, as Bhagavan, the Lord is capable of seeing everything about each jiva. So He can see all the devotional activities of a devotee and He can respond.
+
+So Bahulasva here is indicating that, as Supreme Lord, Krishna witnesses all of his devotional activities and He’s willing to be merciful to them because of that. Of course, without requesting anything, the Lord naturally responds to all the devotee’s endeavours.
+
+Devotee: Without request?
+
+HH Bhanu Swami Maharaj: Yeah. Then the third phrase means sva-dṛk, He, which literally means He sees by Himself independently. This means that by Himself, He knows everything. He doesn’t require someone else to tell Him. So by His very nature, He knows everything. So in other words, Krishna can be aware of all of Bahulasva’s devotional activities and his desires to serve the Lord. He is the perfect knower. Without having to endeavour at all, He knows everything that the devotee desires. So Bahulasva has the desire to see the Lord and serve the Lord. So certainly Supreme Lord will fulfill that desire. So in other words, He will fulfill the desires of Bahulasva.
+
+So by these phrases, he is praising the Supreme Lord and at the same time, asking Him to fulfill his desire to serve. And he recognizes that Krishna has come because of his full engagement in devotional service. So in the last two lines, he says that I’ve been able to see You or meet You because I’ve always been remembering Your lotus feet. So, a person who’s constantly engaged in devotional service, whose mind is completely absorbed in the Lord, he has to see the Lord. So in other words, the devotee has to put forth some effort in order to see the Lord.
+
+Prabhupada often gives the example of materialists. So the materialist says, I will believe in the Lord if the Lord will show Himself to me. But the answer to that is, the person doesn’t deserve to see the Lord [Laughs] for the Lord will not reveal Himself. So the Lord reveals Himself to those who endeavour in devotional service. So through this simple verse, Bahulasva is expressing the nature of devotional service and the nature of the Supreme Lord. And though he is the king because he is a devotee, he also has great humility.
+
+Okay, Hare Krishna.
+
+Q & A :
+
+1.) Devotee is always thinking of Krishna, meditates on Krishna, so that moment also was to be understood that in relation because he is thinking of Krishna, so already that moment the relation is there right?
+
+Yeah.
+
+Devotee: Thank you, that’s sweet.
+
+HH Bhanu Swami Maharaj: So devotional service invokes the presence of the Lord. So of course, it does not apply only to meditation, if you simply utter the name of the Lord, the Lord becomes present [Laughs]. And even if you utter the name without devotion, the Lord becomes present.
+
+Devotee: Without devotion, He becomes present?
+
+HH Bhanu Swami Maharaj: Yes. And that is why when Ajamila named his son Narayana, suddenly all of his karmas were destroyed [Laughs]. So the name is non-different from Krishna, so even if you don’t remember the Lord but you utter His name, you get the same effect. So we see that yogis have to practice a lot in order to meditate. And it is difficult to control the mind. So it is said in scriptures that chanting the holy name is the best meditation. Why? Because it gives the same result but quicker. The result of meditation is to see the Lord. And by chanting the name of the Lord, the Lord also becomes present. So that is the special power of the holy name.
+
+Devotee: So he is chanting everyday, an initiated devotee 16 rounds, someone forget to do chanting because he has no taste. What is the difference between both chanting. One person continues and other person cannot. So what is the difference?
+
+HH Bhanu Swami Maharaj: So chanting in any case, with endeavour or no endeavour, faith or no faith gives results. So therefore, Ajamila without doing anything except naming his son Narayana got rid of his karmas. However he was a special case also. So he was special because he had committed no aparadhas. Therefore, he got this very quick effect. But many people and even many people who start bhakti with faith have committed aparadhas. And thus, their destruction of karmas will be slower. In addition to destruction of karmas, of course, the main effect of bhakti is to produce prema. With that knowledge we are able to avoid aparadhas. And then we can concentrate on developing pure bhakti. So people who have committed more aparadhas will find some difficulty in the practices. So they have some faith in the Supreme Lord, some faith in the scriptures, so they can practice but it’s slow. Because it becomes slow, they also become impatient and frustrated. This means that they have not developed sufficient taste. And thus they may even give up the process. Other devotees have committed much less aparadhas, so their progress is much more steady. And even if there are obstacles, they persevere.
+
+2.) Hare Krishna Maharaj, please accept my dandavat pranams. Thank you Maharaj 
+
+for glorifying the effect of holy name but in the last chapter when Krishna was in Kurukshetra and he was meeting with His relatives, we didn’t see that, their relatives, they were chanting Krishna’s name rather His even father Vasudeva who was interested in Brahman aspect of Krishna and he was thinking Krishna is Brahman. So [Laughs] why they couldn’t see that, the devotees there at that time, they are interested in nama rather they are interested more in Brahman and Paramatma aspect? Hare Krishna.
+
+So we can ask the same question about Arjuna on the battlefield of Kurukshetra, suddenly he becomes illusioned and he doesn’t want to fight. At the same time, we know that, Arjuna and Vasudeva and others, they are nitya siddhas, so they should have no ignorance. So the explanation is, this is not normal ignorance, this is yogamaya. So though generally we criticize ignorance as the cause of our suffering in this world, there is a type of ignorance in the spiritual world. But the ignorance in the spiritual world is not because of any fault in the jiva. So the Lord Himself produces ignorance or lack of awareness in the spiritual world for His pastimes. So if Arjuna or Vasudeva appear to be ignorant and they don’t know something, this is not because of their material ignorance, it’s because of the will of the Lord. In the case of Arjuna, the Lord created that ignorance or yogamaya so that He could speak Bhagavad Gita. So similarly with Vasudeva’s questions, then Krishna will give some answers.
+
+3.) Thank you Maharaj. So Maharaj, in Mahabharata pastimes, we see that all His parshadas, they always chant Krishna’s name but in Krishna’s pastimes, we didn’t see to that extent. What would be the reason for that?
+
+So it may appear like that. But if we examine closely, we do see that the people of Vrindavan or the Gopis are uttering Krishna’s names. And we do see, so many prayers like Kunti’s prayers, the names of the Lord are there. When Krishna disappeared in the Rasa-lila the Gopis searched for Krishna. And then, they searched for Krishna and then they found Radha. And they all searched for Krishna. But they couldn’t find Him. But they instead went to the bank of the Yamuna. And they were still longing for Krishna. So they began doing kirtan. And then suddenly Krishna appeared [Laughs].
+
+4.) Ajamila has not commited any aparadha but he was doing all sinful activities to the jivas it means harmful to the jivas, so it doesn’t create the aparadha? That’s my question.
+
+So normal sinful activities are related to normal jivas. Normal sinful activities are related to normal jivas, not devotees. When we talk about aparadhas, we can say these are sinful activities involving devotees. So you can commit a violence against ordinary living entity, that’s a sin, you commit violence against a devotee, it becomes aparadha. Of course, we can say that the violence against an ordinary jiva is an aparadha of sorts against a jiva but generally we use the aparadha term to involve devotees and the Supreme Lord.
+
+Devotee: Can you say it again? Sorry.
+
+HH Bhanu Swami Maharaj: Yeah. So the aparadha involves devotees or Supreme Lord. So if we see the nama aparadhas, they all are concerned relationship with devotees or Supreme Lord. We criticize people who are spreading the holy name [Laughs], so that’s a Vaishnava aparadha. We criticize Guru, another Vaishnava aparadha. We criticize the holy name because we say it is like the name of devatas. So therefore, we think that Krishna is just like a material devata. Or we criticize bhakti, so we say the holy name is like a pious material activity. So offenses involve devotees, Supreme Lord or devotional service, so, they’re also sins but they give worse effects. Like normal sinful activities, they create bad karma. But in addition to that, they also destroy bhakti. Destroys bhakti. So sinful activities normally do not destroy bhakti. And thus in Bhagavad Gita, Krishna says, even if you commit the most sinful activity, you’re my devotee. He doesn’t say that about aparadhis, but about sinful people, sinful people [Laughs]. So the aparadhas are worse than the sins.
+
+Devotee 1: Thank you so much. Yamuna Mataji has a question?
+
+Devotee 2: Maharaj, thank you for coming.
+
+5.) Does Paramatma not feel pain even if He’s watching that the jiva is suffering?
+
+So of course, the Supreme Lord whether He’s Paramatma or Bhagavan is conscious and He has compassion. So we can give the example of a judge. So the judge distributes the punishments [Laughs]. And he does that without showing special compassion to one or the other. So it does not mean he has no compassion but as functioning as a judge, he doesn’t show special favors. So Paramatma supervises and sees that, all the jivas are giving justice according to their karmas.
+
+Devotee: It means that He’s suffering [Laughs]?
+
+HH Bhanu Swami Maharaj: In one sense, He’s compassionate [Laughs].
+
+6.) When Krishna sees the Gopis are very much suffering, by not able to see Krishna, then Krishna feels pain in His heart but in normal jiva, if they are suffering Krishna has compassion but Krishna Himself doesn’t get pain or still He has pain or what is the difference between the devotees like Gopis and normal jiva?
+
+So Krishna’s relation with the Gopis or any devotees in the spiritual world involves what we call pain or whatever but this is all part of prema. So the Gopis’ suffering is all related to separation from Krishna. And Krishna’s feeling of pain is separation from the Gopis. So though we can call it pain or suffering or whatever, it is all related to Krishna and it’s all pure. It’s quite different from Krishna’s relationship with the jivas in the material world who do not have prema. The jivas in the material world do not suffer because of separation from Krishna, they suffer because of their karmas. So of course, Krishna is compassionate to the jivas who are suffering in the material world. But that is quite different from the suffering that Krishna experiences in relation to the Gopis which is because of relationship with Krishna [Laughs].
+
+Devotee: [Not clear]
+
+HH Bhanu Swami Maharaj: Our suffering is related to our identity with a material body. And it’s all originates from ignorance. So suffering in the material world is just involving Krishna’s separating from devotees, devotees separting from Krishna. So it is completely different and there is no identity with the material bodies [Laughs]. So in prema, the jiva has no identity with the material body. In prema, the jiva doesn’t have any ignorance. Rather, that jiva is completely surrendered to Supreme Lord. So his identity is not with material body but being servant of Krishna. So that relationship with Krishna gives rise to bliss. Within that bliss, we get separation and that looks like suffering. But it’s part of the bliss. So we can say the suffering, Krishna is suffering with the Gopis is actually bliss [Laughs]. And in fact, it is said that’s the highest bliss. So this is quite different from material suffering [Laughs].
+
+Hare Krishna. Haribol! Jai!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/32-35": { title: "SB 10.86.32-35 \u2013 Supreme Lord is captivated by devotion, not worldly position !", video: "Yk-RTnpAgGA", article: `Srimad Bhagavatam 10.86.32-35 | HH Bhanu Swami Maharaj | ISKCON Japan | 23 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 32.
+
+ŚB 10.86.32
+
+sva-vacas tad ṛtaṁ kartum
+asmad-dṛg-gocaro bhavān
+yad ātthaikānta-bhaktān me
+nānantaḥ śrīr ajaḥ priyaḥ
+
+Synonyms
+
+sva — Your own; vacaḥ — statement; tat — that; ṛtam — true; kartum — to make; asmat — our; dṛk — to the eyes; gocaraḥ — accessible; bhavān — You; yat — which; āttha — spoke; eka-anta — with a single aim; bhaktāt — than the devotee; me — my; na — not; anantaḥ — Lord Ananta; śrīḥ — Goddess Śrī; ajaḥ — unborn Brahmā; priyaḥ — more dear.
+
+Translation
+
+You have said, “Neither Ananta, Goddess Śrī nor unborn Brahmā is dearer to Me than My unalloyed devotee.” To prove Your own words true, You have now revealed Yourself to our eyes.
+
+Text 33
+
+Translation
+
+What person who knows this truth would ever abandon Your lotus feet, when You are ready to give Your very self to peaceful sages who call nothing their own?
+
+Text 34
+
+Translation
+
+Appearing in the Yadu dynasty, You have spread Your glories, which can remove all the sins of the three worlds, just to deliver those entrapped in the cycle of birth and death.
+
+Text 35
+
+Translation
+
+Obeisances to You, the Supreme Personality of Godhead, Lord Kṛṣṇa, whose intelligence is ever unrestricted. Obeisances to the sage Nara-Nārāyaṇa, who always undergoes austerities in perfect peace.
+
+Purport
+
+Śrīla Viśvanātha Cakravartī comments that the King offered these prayers to encourage Lord Kṛṣṇa to remain at his home for some days. The King thought, “Since contact with the Supreme Lord can free anyone from misconceptions and doubts, Kṛṣṇa’s presence in my home will fortify my intelligence so that I can withstand the onslaughts of material desires. In His expansion as Nara-Nārāyaṇa Ṛṣi, the Lord always resides in Badarikāśrama for the good of the whole land of Bharata, and so He may also create good fortune for the land of Mithilā by remaining here for at least a few days. Since Lord Kṛṣṇa’s propensity is toward peace and simplicity, He will certainly prefer my simple home to the excessive opulence of Dvārakā.”
+
+HH Bhanu Swami Maharaj:
+
+So Bahulasva is a king but he’s also a great devotee. And the Lord actually values a person as a devotee more than He values a person as a king. And thus He says that the Lord has more affection for His devotee than He has for Ananta or Lakshmi or Brahma. Definitely the Lord has affection for Lakshmi because she’s His consort. She’s also a great devotee. Ananta acts as the bed of Vishnu, so he’s constantly serving Vishnu. He’s also a great devotee. Brahma is the son of Vishnu. He’s born from Vishnu’s navel. He’s also a great devotee of the Lord.
+
+Here it is said here and in other places as well that actually the Lord prefers His devotees over these great devotees. So this is to show, these statements are there to show that the Lord values bhakti. And being a son or a wife or a servant is less important than the devotion. Of course, we cannot say that Lakshmi and Brahma and Ananta are not devotees, they’re also very great devotees. However, even if one does not have a position as the wife or the son or as the servant, the Lord will respond to a person who has great devotion.
+
+So Bahulasva is a great king, that doesnt matter so much, what matters is he’s a great devotee. Therefore, the Lord will agree to fulfill the desires of every devotee. So, Krishna in Dvaraka has plenty of queens, He has plenty of servants, plenty of devotees there. Yet, He leaves Dvaraka and He comes to see this king Bahulasva. So it’s not because he’s a king but because he is devotee.
+
+There’s a story of Gajendra. Gajendra was a big elephant. And he was enjoying nicely with his female elephants in the water. Then, he was attacked by a crocodile. And crocodile grabbed his leg and the elephant began to struggle. So, the elephant tried to get out of the water, but the crocodile kept pulling him back into the water. So, they struggled in the water for a thousand years. Finally, Gajendra, who was an elephant, remembered some verses praising Vishnu from his previous life.
+
+So, he called out to the Lord, praising Him. Vishnu was in Vaikuntha. He was with Lakshmi, surrounded by many servants. He was enjoying the company of Lakshmi. Suddenly, He stood up and ran away. He jumped on Garuda. And He directed Garuda to come down to the material world to save Gajendra. So because Gajendra was calling, the Lord left Lakshmi. Of course, Gajendra was not even a pure devotee. He was praying to the Lord because he was attacked by the crocodile. But even though he was impure in his bhakti, the Lord responded and He gave up Lakshmi.
+
+So this pastime shows how the Lord is willing to help His devotee. Now of course, this does not mean that Lakshmi is not a great devotee, Lakshmi is the greatest devotee. So how can He give up His great devotees for another devotee who is not even a pure devotee [Laughs]? So this shows how the Lord is attracted to all types of devotees. Of course, we could resolve this peculiar idea of leaving Lakshmi by saying that the Lord never leaves her, so He expands Himself in another form [Laughs]. So in this way, the Lord never gives up any devotee.
+
+Generally, of course, we see that the Lord responds according to the amount of your devotion. So if you have a little devotion, Lord responds a little, if you have great devotion, the Lord responds a lot. And thus we see there are six qualities of bhakti. The last quality is Krishna akarshani. This means that in the stage of prema, the devotee controls Krishna. So if one is merely doing sadhana, one does not control Krishna. But still the Lord is attracted even to these devotees doing sadhana. But He is completely controlled by devotees in prema.
+
+So that is the normal way in which the Lord responds to different types of devotees. But we see sometimes the Lord makes exceptions. So He kills Putana, who is a big demoness, and she ends up in spiritual world. He kills Aghasura, Aghasura ends up in the spiritual world [Laughs]. So sometimes the Lord acts in a very surprising way and gives His mercy to very undeserving people. But we should not think it is better we all become demons and get killed by Krishna than we get to the spiritual world [Laughs]. We don’t have to do sadhana [Laughs]. We cannot take advantage of Krishna’s extraordinary mercy [Laughs]. So these are not normal cases, these are extraordinary cases.
+
+So if one thinks I’ll become a big demon so I’ll go to the spiritual world by being killed by Krishna, this also becomes offense. So if we think that we can take advantage of Krishna’s extraordinary mercy and become a demon [Laughs] and go to the spiritual world, that becomes offensive. It is something like committing sin and then expecting to get rid of all this suffering by chanting the holy name [Laughs]. We should also understand that though Krishna gives extraordinary mercy to Putana and Aghasura, the place they get in the spiritual world is never equal to the position given to serious devotees who practice nicely.
+
+So the prema that a devotee who’s seriously practicing attains is much greater than whatever the demons attain. So this follows the rule that Krishna responds according to the amount of devotion. So the main message here is that Krishna responds to devotees. And that is without regard for their material position. So just as Krishna responded to this king, so He also responded to a poor brahmana. So Srutadeva was a poor brahmana in the same city and Krishna also went to his house. And Krishna was completely satisfied with the service of Srutadeva. His worship and service was very simple because he was poor, but Krishna was completely satisfied. So Krishna was satisfied with devotion, not with any material conditions.
+
+Hare Krishna!
+
+Q & A :
+
+1.) In any kind of state, devotee, non-devotee, if they pray to Krishna, will they get satisfied?
+
+So Krishna responds to everybody. But if a person is not a devotee, he is a materialist in the material world, even though the Lord is affectionate to everybody, He responds differently than He responds to devotees.
+
+Devotee: For the non-devotees, how He responds? He doesn’t respond?
+
+HH Bhanu Swami Maharaj: He is sama [Laughs], He is neutral. He doesn’t hate them, nor does He favor them. But if one offers to the Lord, the Lord responds. But we see that one can surrender to various degrees. And according to the surrender, the Lord responds. So to a devotee doing sadhana, they may be in anartha nivritti, nishtha, ruchi, or asakti, and then the Lord responds according to their level of advancement. But during this stage of sadhana, the Lord does not reveal Himself. But if one reaches bhava stage, then the anarthas are very, very little, and the devotion is very, very great. So then the Lord responds by revealing Himself.
+
+But if one attains prema, where there is no anarthas at all, and the devotion is 100%, the Lord responds more. So in prema, Krishna becomes servant of the devotee. Rasa fully manifests. And the bliss becomes complete. So we can say in sadhana, certainly the Lord responds to devotee. So the jiva feels some spiritual happiness. If the devotee gets to bhava stage, that devotee can experience bliss. If the devotee attains prema, the devotee experiences intense bliss. So, of course, this is also in response to the capacity of each devotee. So, according to what one can actually appreciate, the Lord responds differently. Hare Krishna.
+
+2.) Why Krishna shows mercy to Putana, Sishupala? Krishna gave great mercy to them even if they are not devotees, exceptional mercy He gave them. So why that kind of scenes are shown to us? What is His intention?
+
+Well, one, Krishna is unpredictable. Generally He follows certain rules [Laughs]. But He can also break all the rules [Laughs]. And we cannot find fault when the Lord does that. So it’s said the Lord can do anything if He wants and He will do nothing if He doesn’t want to do it. And then He will do the opposite also [Laughs]. So therefore, the Lord in that way is unpredictable. Of course, in the case of Putana, why Putana? Why not another demon? And the reason is that Putana dressed up like a Gopi. So of course her intention was to kill Krishna. But because she dressed up like a Gopi and she acted like she was mother of Krishna, trying to feed Him milk, so Krishna became a little compassionate.
+
+In the case of Sishupala, Sishupala, of course, was a big demon also. So, his good quality was that he could not stop thinking of Krishna. Bad quality was he hated Krishna [Laughs]. He could not stop thinking of Krishna, not because he was dedicated to Vishnu, because as previously he was Ravana and [Laughs] Hiranyakasipu whatever, but reason why is Krishna is all-attractive. So, though he hated the Supreme Lord when he appeared as when Krishna appeared, he hated Him with great absorption. And that great absorption over a long period of time purified Sishupala. So, when all of his karmas and sinful desires had been eradicated by concentrating on Krishna even in hatred, then the Lord killed him and he went to Vaikuntha.
+
+So, the example is given of a wasp. A bumblebee. It’s an insect. It grabs another insect and it puts a cocoon around him and traps him. So, that insect is trapped. And that trapped insect is sitting there and he’s living in fear of this wasp all the time [Laughs]. And finally, thinking so much in fear of the wasp, he turns into a wasp and comes out of the thing as a wasp [Laughs]. So, even though Sishupala was a demon and he was thinking of Krishna in hatred, by that constant thinking, he got a form in the spiritual world [Laughs].
+
+It is said that when Krishna kills demons [Not clear], if Vishnu kills them, they don’t get liberation, but they get a nice birth. When Krishna kills demons, they may get liberation in Brahman or they may get a form in the spiritual world, sarupya.
+
+Devotee: So, he was just thinking that Putana case and Sishupala case, Krishna only considers their good qualities, good points like in Putana case, she looks like Gopi and Sishupala’s constant thinking of the Lord, and He becomes very merciful, so He always sees their good points. So, that is a common case between Putana and Sishupala.
+
+HH Bhanu Swami Maharaj: Well, we can say that Krishna is more merciful than the other forms of the Lord. That’s definitely true. The other point is that Krishna is more attractive, so even the demons start concentrating on Krishna, so they get better result.
+
+3.) Maharaj, my question is, sometimes in exceptional cases, if he is not so bad, but also gives bad results, He can be more merciful, but He can be more worse [Laughs]. In some cases, this is exceptional mercy, but in some cases, can He be more bad?
+
+[Laughs] Give more punishment?
+
+Devotee: Punishment should be small, but Krishna gives very high punishment.
+
+HH Bhanu Swami Maharaj: Well, if Krishna kills a demon, they always get good results. They go to Brahman or they get to spiritual world. When Vishnu kills a demon, they may get a nice body like Hiranyakasipu becomes Ravana, Ravana becomes Sishupala. Now any form of the punishment that the Lord gives a demon actually, it’s not a punishment, it’s beneficial for them. Of course, normally, the punishment is simply karma for the normal persons in the material world.
+
+HH Bhanu Swami Maharaj: What he’s saying?
+
+Devotee: He said like about Gajendra you were saying right, Krishna came to save Gajendra. So, he was saying something like, it depends on devotion, but also the intensity of devotion matters, or something like that.
+
+HH Bhanu Swami Maharaj: And which is true. Obviously Gajendra cannot compare to Lakshmi [Laughs]. Yeah, the Lord is very merciful, not even Krishna even Vishnu.
+
+4.) Gajendra case, you said that Supreme Lord responds according to devotion. But according to devotee, devotion is also different? Gajendra’s case, he became very intense based on material suffering because he spent thousand years fighting by his own power. Then finally he realized the limit of his own power. Then he surrendered. At that point, until that thousand years, he never remembered Krishna. But finally, he was fighting for one thousand years. Finally, he became intensely materialistic. Then he woke up. Then he remembered the previous smriti. Then he offered flowers. Then Vishnu responded.
+
+Yeah. So, yes, he wasn’t practicing pure bhakti. This is a case of mixed bhakti, like Dhruva. So in Bhagavad Gita, Krishna says, those who are in suffering, as in the case of Gajendra, those who want money, as in the case of Dhruva, they’re also my devotees [Laughs]. So the Lord responds to whatever they want in terms of material. He gave Dhruva a kingdom. He rescued Gajendra. Those who practice pure bhakti do not want to get free of their misery. They don’t want material benefits. They only want to serve the Lord eternally. And the Lord rewards that. Of course, these devotees like Dhruva or Gajendra can progress beyond mixed bhakti and get to pure bhakti. Then they also get the best results.
+
+5.) Difference between just worshiping the demigods for attaining material benefits and mixed bhakti. Mixed bhati is better than worshiping devatas?
+
+Yeah. Mixed bhakti is better than worshiping devatas [Laughs].
+
+Devotee: Because they’re purified.
+
+HH Bhanu Swami Maharaj: Hmm.
+
+Devotee: And devatas are never purified.
+
+HH Bhanu Swami Maharaj: Yeah, yeah. So mixed bhakti is better than karma yoga. And pure bhakti is better than mixed bhakti. And prema bhakti for Krishna is better than prema bhakti for Vishnu [Laughs].
+
+Devotee: And Radharani’s bhakti…
+
+HH Bhanu Swami Maharaj: Yeah highest [Laughs].
+
+Devotee: Highest.
+
+HH Bhanu Swami Maharaj: Madhurya is the highest. Radha is the highest.
+
+Devotee: How they cultivate such intensity? My final question is, Krishna’s response is based on intention, material motivation etc.
+
+HH Bhanu Swami Maharaj: Yes. Yeah
+
+Devotee: Even Sishupala, they’re very intense. [Not clear].
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: How to cultivate such intensity like Gopis? Because in Gajendra’s case, or even in our case, material emergency stimulates intensity. Gopi is always intense. How to cultivate such regular, continuous intensity?
+
+HH Bhanu Swami Maharaj: Well, if we practice vaidhi bhakti, it’s not so intense. If we practice raganuga, it’s more intense [Laughs]. And in raganuga bhakti, you could have dasya, sakhya, vatsalya, madhurya and madhurya is the most intense. So if we practice that type of bhakti, madhurya bhakti then we can attain that intense bhakti. So according to your choice of sadhana, less intense, more intense, and you get also your results, Krishna responds [[Laughs].
+
+Okay. Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaja ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/36-45": { title: "SB 10.86.36\u201345 \u2013 Testimonies to the Holy Name\u2019s simple, universal, and supremely powerful nature !", video: "Iha65Gy0izA", article: `Srimad Bhagavatam 10.86.36-45 | HH Bhanu Swami Maharaj | ISKCON Japan | 24 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 36.
+
+ŚB 10.86.36
+
+dināni katicid bhūman
+gṛhān no nivasa dvijaiḥ
+sametaḥ pāda-rajasā
+punīhīdaṁ nimeḥ kulam
+
+Synonyms
+
+dināni — days; katicit — a few; bhūman — O omnipresent one; gṛhān — in the home; naḥ — our; nivasa — please dwell; dvijaiḥ — by the brāhmaṇas; sametaḥ — joined; pāda — of Your feet; rajasā — with the dust; punīhi — please sanctify; idam — this; nimeḥ — of King Nimi; kulam — the dynasty.
+
+Translation
+
+Please stay a few days in our house, along with these brāhmaṇas, O all-pervading one, and with the dust of Your feet sanctify this dynasty of Nimi.
+
+Text 37
+
+Translation
+
+[Śukadeva Gosvāmī continued:] Thus invited by the King, the Supreme Lord, sustainer of the world, consented to stay for some time to bestow good fortune on the men and women of Mithilā.
+
+Text 38
+
+Translation
+
+Śrutadeva received Lord Acyuta into his home with as much enthusiasm as that shown by King Bahulāśva. After bowing down to the Lord and the sages, Śrutadeva began to dance with great joy, waving his shawl.
+
+Text 39
+
+Translation
+
+After bringing mats of grass and darbha straw and seating his guests upon them, he greeted them with words of welcome. Then he and his wife washed their feet with great pleasure.
+
+Purport
+
+To provide even this simple welcome, Śrutadeva had to go next door to his neighbors and borrow extra mats. This insight is provided by Śrīla Viśvanātha Cakravartī.
+
+Text 40
+
+Translation
+
+With the wash water, the virtuous Śrutadeva copiously sprinkled himself, his house and his family. Overjoyed, he felt that all his desires had now been fulfilled.
+
+Text 41
+
+Translation
+
+He worshiped them with offerings of auspicious items easily available to him, such as fruits, uśīra root, pure, nectarean water, fragrant clay, tulasī leaves, kuśa grass and lotus flowers. Then he offered them food that increases the mode of goodness.
+
+Text 42
+
+Translation
+
+He wondered: How is it that I, fallen into the blind well of family life, have been able to meet Lord Kṛṣṇa? And how have I also been allowed to meet these great brāhmaṇas, who always carry the Lord within their hearts? Indeed, the dust of their feet is the shelter of all holy places.
+
+Text 43
+
+Translation
+
+When his guests were seated comfortably, having each received a proper welcome, Śrutadeva approached them and sat down nearby with his wife, children and other dependents. Then, while massaging the Lord’s feet, he addressed Kṛṣṇa and the sages.
+
+Text 44
+
+Translation
+
+Śrutadeva said: It is not that we have attained the audience of the Supreme Person only today, for we have in fact been associating with Him ever since He created this universe with His energies and then entered it in His transcendental form.
+
+Text 45
+
+Translation
+
+The Lord is like a sleeping person who creates a separate world in his imagination and then enters his own dream and sees himself within it.
+
+Purport
+
+In the illusion of his dream, a sleeping person creates an apparent world, complete with cities populated by the fictional products of his imagination. In somewhat the same way, the Lord manifests the cosmos. Of course, the creation is not illusory for the Lord, but it is for those souls who are put under the control of His Māyā potency. As her service to the Lord, Māyā deludes the conditioned souls into accepting as real her temporary, insubstantial manifestations.
+
+HH Bhanu Swami Maharaj:
+
+So in the same city as the king, we have Srutadeva, a very poor brahmana. So Krishna visited both of these devotees. And we see that the welcome given by the brahmana, Srutadeva, was very different from that given by the king. So it is customary when the guest comes to any house, palace or house, you have to welcome the person and give them a place to sit. So of course, it is improper to just seat a person on the floor, so you need asana, you need some sort of mat [Laughs]. But Krishna came with all the brahmanas, so then he needed many mats, he didn’t have enough, so he have to go to the neighbour’s house and borrow some mats [Laughs]. And his offering was very simple. Water, grass and Tulasi leaves and lotus.
+
+So this of course, is just according to Bhagavad Gita. Krishna says, offer Me a leaf, fruit and flower. So that’s exactly what Srutadeva offered according to scripture but the important thing is he offered with devotion. And thus, Krishna was completely satisfied. And then Srutadeva began to praise the Lord. Just as the king praised Him, so Srutadeva also praised the Lord. So this is also customary. You offer some water, a seat, some food, whatever, and you offer kind words.
+
+So we see whenever devotees meet the Lord in Bhagavatam, they begin by offering a whole set of prayers [Laughs]. So in these prayers, they praise the Lord for His wonderful qualities and His beauty. And they indicate their surrender by offering respects. Of course, no one is able to fully describe the Lord and praise Him. However, to their capacity, they speak and the devotion is what is important. So we see that the king and Srutadeva were both very skillful at describing the Lord. However, many people may not be able to express themselves properly.
+
+So, Supreme Lord has simplified the process. If you don’t have enough knowledge, you don’t have, no grammar, and you don’t know the proper words, then the Lord gives you an alternative. One simply utters the name of the Lord. That’s the simplest possible [Laughs] expression. It doesn’t involve any grammar. It only requires that you know the name of the Lord [Laughs]. But even if you utter the name accidentally, not knowing anything about the Lord or even His name, still it is effective [Laughs]. And thus, Ajamila uttered the name Narayana simply because that was the name of his son and he got effect.
+
+So, we use the word kirtan. Kirtan means to glorify. The word kirti means fame. Somebody said do kirtan, for glorifying the Lord. We can describe His form and His qualities and His activities. So, we have rupa kirtan, we have guna kirtan and we have lila kirtan. However, if we don’t have knowledge, we can’t do these things [Laughs]. So, the simplest possible kirtan is nama kirtan. And, even if we don’t have all that knowledge of grammar and whatever to describe the qualities and pastimes of the Lord, the Lord is equally satisfied with this, the name. And, in fact, the Lord is even more satisfied with just the name.
+
+So, there’s the story of Gopa kumar in Brhad Bhagavatamrta. So, Gopa kumar got diksha and he got a ten-syllable mantra from his guru. So, the guru said, you have to chant this mantra. But he didn’t explain what it meant. So, Gopa kumar began to chant this mantra, but he did it silently because it was a secret mantra. It was actually the same ten syllable mantra that Caitanya Mahaprabhu got when he got His diksha. So, this was a Krishna mantra, and by chanting it, he became attracted to Krishna. By the power of the mantra, he was able to go to swarga loka, Brahma loka, and Shiva loka, and Vaikuntha.
+
+Even though he got to Vaikuntha, he didn’t feel very satisfied. He saw the form of Vishnu, he appreciated, but he expected the form of Krishna. So Narada Muni appeared to him and he said, well, you are very fortunate, but you are also very rare. You’ve attained Vaikuntha, but you’re not satisfied. You’re aspiring for something that even I cannot get. So he said, if you want Krishna, and you want to go to Krishna’s planet, you have to chant Krishna’s name.
+
+So he had been chanting Krishna mantra, but then Narada Muni says you have to chant His name [Laughs]. Of course, in the mantra there’s also Krishna’s name. So what’s the difference? So, of course, the difference is the expression. Name is simply calling out to Krishna. It’s quite spontaneous. So we can easily express our feelings for Krishna by calling His name. So the mantra has Krishna’s name in it, but Krishna’s name is there with other words.
+
+So mantras are constructed in a special way. They will have, of course, a word that indicates respect, like namaha or svaha. This is the verb. And, of course, we offer respects to Krishna, to Govinda. Words like Krishnaya, Govindaya namaha, etc. And we also have a bija syllable. This is a special syllable connected with the deity. So, the mantra has to be chanted in a special way to get the proper effect. And it is chanted with great reverence. So, of course, mantra is non-different from Krishna because it has Krishna’s name in it. But the expression is somewhat different from just chanting Krishna’s name.
+
+So, Narada Muni said if you want to get Krishna, instead of your mantra, you chant Krishna’s name. So, the same truth is also indicated in Caitanya Caritamrta. There Lord Caitanya says that, by chanting the mantra, you get liberation. By chanting the name, you can get prema. So there again, Lord Caitanya is indicating, name is more powerful. So, though the name is simpler, it’s also more powerful than the mantra. And thus, Lord Caitanya has recommended chanting the name as the main dharma in kali yuga.
+
+So Gopa kumar followed the instruction of Narada Muni and began nama-kirtan. And then, suddenly he ended up in Goloka [Laughs]. In other words, chanting the name of Krishna is the most powerful way of pleasing Krishna and getting His mercy. Of course, we don’t reject any way of praising Krishna [Laughs]. But still, we emphasize nama-sankirtan as the main method.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Hare Krishna Maharaj, thank you for the wonderful class. Maharaj, we see the sloka that ataḥ śrī-kṛṣṇa-nāmādi na bhaved grāhyam indriyaiḥ sevonmukhe hi jihvādau svayam eva sphuraty adaḥ [Brs. 1.2.234]. So you can see like our current senses are impure and we cannot get the taste. And you mentioned about Mahaprabhu’s getting mantra from His spiritual master, Iswara Puri Pada. And Mahaprabhu, He was saying that kibā mantra dilā, gosāñi, kibā tāra bala japite japite mantra karila pāgala [Cc. Ādi 7.81]. So can we conclude here that, until and unless we get the mercy from our spiritual master and senior Vaishnavas, we cannot essentially make a good progress and getting the taste from chanting japa. Because we are chanting, I mean long time, but we are not getting the taste. What would be the reason for that? Do we need mercy from, a special mercy from Guru? That is my question.
+
+For normal mantras, which are secret, you have to take diksha. So necessarily you have to get the mercy of the diksha guru to get the mantra. But Caitanya Mahaprabhu says in Caitanya Caritamrta that nama does not depend on diksha. Of course, the mantras are secret. So you are not going to know what the mantra is, unless somebody who knows the mantra gives it to you secretly [Laughs]. So we cannot chant the mantra unless we get it from the guru [Laughs]. The name is not secret, it’s loud. It’s available to everybody. So we don’t have to learn it from the guru because we already get it [Laughs] just by walking on the street or whatever. And we meet people, we encourage them to chant Hare Krishna [Laughs]. So in that way, it does not depend on the mercy of the diksha guru to get the mantra in order to start chanting and get effect. Ajamila chanted name Narayana, no diksha [Laughs]. He had no faith, he had no bhakti, he just chanted the name Narayana and he destroyed all of his karmas. Of course, normally, if we have faith and we begin chanting Krishna’s name, we don’t need diksha for that. But in order to avoid offenses and to chant purely, we need knowledge. Without that knowledge, we can destroy our karmas. However, to get prema, we do need knowledge. So we need the mercy of some guru, not necessarily diksha guru. So that’s why we trace a parampara. If the chanting Hare Krishna was there, we don’t need any parampara, technically [Laughs]. But because we want prema, therefore we need some teaching, some siksha. So we trace a siksha parampara.
+
+2.) Hare Krishna. So her question is for chanting alone, we should not utter the sound or when we chant silently or when we chant loudly or with sound, what is the difference of effect?
+
+So for mantras which are secret, it always has to be silent. For chanting the name, you can do it loudly, medium or silently. As we studied in the Sikshastaka, the name has no rules [Laughs]. Chanting mantras have rules. But for name, you can chant it silently, loudly, privately, publicly, impure, pure, doesn’t matter. You can chant inattentively, attentively. With devotion, with no devotion. However, in chanting the name, if we want prema, then of course, we do need some attention and some devotion and we avoid aparadhas.
+
+Devotee: Maharaj, you prefer to chant silently or with some sounds?
+
+HH Bhanu Swami Maharaj: Generally silently.
+
+Devotee: Thank you so much.
+
+HH Bhanu Swami Maharaj: It is said, and of course, not recorded in scripture, that Haridasa Thakur chanted so many rounds every day. One third he did silently, one third semi-silent, and one third loudly [Laughs]. There is a story of kolavecha Sridhar in Mayapur. So all night along, he would be loudly chanting Krishna’s name. So many brahmanas would come and criticize him. You can’t chant loudly, you have to do it silently [Laughs]. But he was so enthusiastic, he couldn’t follow their advice [Laughs].
+
+3.) Maharaj, one question, many devotees ask, to be connected to the parampara, do we need first initiation, second initiation, or no initiation? How we can connect ourselves with the guru parampara?
+
+So if we look at our parampara as traced in Bhagavad Gita, we do it by siksha. However, in ISKCON generally we think you have to connect to the parampara by diksha. This is what people preach, you got to connect to the sampradaya by taking initiation [Laughs].
+
+Devotee: Could you repeat again?
+
+HH Bhanu Swami Maharaj: We teach at ISKCON that you have to connect with our parampara by initiation. But we see our line is not traced by diksha, it’s traced by siksha. So this does not mean that we reject diksha, because we see even Lord Caitanya took diksha. And all the people we’re tracing in the siksha line also took diksha. But the idea is that, the main emphasis for carrying our parampara is through the siksha. And the reason for that is that scripturally speaking, diksha refers to getting the secret mantras. And they’re less important as sadhana than chanting Hare Krishna. So of course, we get those mantras at what we call second initiation. But the funny thing in ISKCON, usually people think they’re initiated with first initiation, not second initiation [Laughs]. But if you were to trace your diksha line, you could not trace it by first initiation, you have to trace it by your second initiation guru [Laughs]. So if you only took first initiation, not second initiation, you could not trace a diksha line, technically. So we call the first ceremony first initiation, but technically, or scripturally, the second is where you get the mantra. So that’s where you trace your parampara. However, most devotees in ISKCON take first initiation and think that is initiation [Laughs]. So in one sense, it’s not, but it’s definitely more important for us. So if you didn’t get second initiation, only got first initiation, you could trace that siksha line. And for us that’s more important than diksha. Of course, we could say that the first initiation is more siksha and less diksha. So, as I said, technically we don’t need diksha for attaining success and chanting the holy name, but at least we need siksha guru. So in that sense, the first initiation would be sufficient. In one place, Bhaktisiddhanta Saraswati explains that taking shelter of the holy name is more important than getting initiation. Diksha is for people who don’t have faith in the holy name [Laughs]. Of course, then the question will arise, well, do we need first initiation at all? Just siksha guru without first initiation.
+
+Devotee: Those who don’t have faith in name need the initiation.
+
+HH Bhanu Swami Maharaj: So Prabhupada in one place says, actually initiation means you accept Krishna consciousness seriously [Laughs]. And taking first initiation is just a formality. So then, of course, some devotee asks, well then we don’t need first initiation also? But then Prabhupada says, ok, yes, but it has some use as well [Laughs]. Of course, Bhaktisiddhanta Saraswati Thakur established the ceremony, but he never called it first initiation at all. Initiation was second initiation. First initiation was not called initiation. So the point is we don’t reject second initiation or diksha as such, and we put more emphasis on the first initiation, which is proper also for chanting holy name. And at the same time, theoretically, we don’t even need that ceremony, but generally ceremonies are good to make things official [Laughs]. If we put too much emphasis on the ceremony, then there’s a tendency to materialize it, to make it material. Just like in school or university, you get a degree. If you get the degree with the official stamp, etc, then you’re accepted, you know [Laughs] by society. And ideally, if you have a degree, you should be qualified with a certain level of knowledge. But then some people want the degree without the qualification [Laughs]. So if you got the degree, you get more respect [Laughs]. So by ritualizing first initiation particularly, then it also becomes some sort of material standard. If I pass that ritual, then I’m accepted by everybody [Laughs]. So people strive for that title without the proper qualification. For that reason, some gurus in ISKCON are a little bit skeptical, and therefore they make the devotees wait for many, many, many years [Laughs] before [Laughs] they get initiation [Laughs], because they don’t think they’re serious [Laughs]. Of course, this is not just an ISKCON problem. We say in all religions the same thing takes place you formalize the religion, then it tends to be a little bit material [Laughs].
+
+4.) Maharaj, one further question. Many people become confused about this initiation, first, second, diksha, siksha. Some people think, I don’t need anybody. I just follow Srila Prabhupada. I read his books. He’s my siksha guru. Can you please establish once and for all, why do we need a living person, a living guru who instructs us?
+
+So when we trace a parampara, we’re tracing one devotee to another devotee to another devotee. So if it’s a diksha parampara, one devotee gives a mantra to another, he gives it to another, he gives it to another. And if it’s a siksha parampara, there, one person teaches, he teaches another, he teaches another. However, in a siksha parampara, we also have siksha taken from a primary Acharya who may not be living. So simultaneously we have a siksha guru who is living, we may have a siksha guru from the past as well like Rupa Goswami or whatever. So in ISKCON, we take Srila Prabhupada, who is the Founder Acharya as our primary siksha guru. And even though, many generations go on, still in the future, those devotees can accept Srila Prabhupada as their siksha guru. But even though we do that, that does not mean that we reject a living guru. There may be cases where a person couldn’t get a diksha guru or a siksha guru for some reason, maybe he lives in Siberia or something or Mongolia or Antarctica or whatever. But you know, some cases may be. Generally, one should accept a siksha guru at least.
+
+Devotee: Siksha guru we should accept?
+
+HH Bhanu Swami Maharaj: Yeah, living siksha guru. And the reason is that even though we have the teachings of Prabhupada recorded in the books, etc, even that becomes a matter of dispute. People say it means this, people say it means that. So we have to have someone to say, okay, it means this.
+
+5.) Hare Krishna Maharaj. I have a corresponding question. Jiva Goswami had three principle siksha disciples, Narottama Dasa Thakura, Srinivasa Acharya and who else? Shyamananda Prabhu. So we see that in Narottama Dasa’s case, he took permission from Lokanath Goswami. Lokanath Goswami essentially requested Jiva Goswami to give him siksha. And also we see Hrdaya Caitanya Prabhu, he instructed Shyamananda Prabhu to take siksha from Jiva Goswami. So if both the siksha guru and diksha guru, if both are living, is it necessary to take permission from diksha guru to accept a siksha guru? So that is my question, or we can take it by our choice?
+
+In Krishna Bhajanamrta there, Narahari says that, if you accept a diksha guru, if you want to accept a siksha guru after that, you should take permission from the diksha guru. And any knowledge that you get from the siksha guru, you should reveal that to the diksha guru so there is no contradiction in the teachings. Of course, before taking diksha, you may also have siksha gurus. You could not take permission from a diksha guru because you don’t have [Laughs] one at that time. So that is a safeguard, getting permission from diksha guru, so that the teachings are not contradictory. Of course, in ISKCON generally, the teachings are going to be rather the same [Laughs]. We got the same scriptures, etc. So that rule becomes less important to some degree.
+
+Okay. Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/46-47": { title: "SB_10.86.46-47 \u2013 Scientists still seeks consciousness; devotees relish self & supreme consciousness!", video: "eJOMxC4gOEE", article: `Srimad Bhagavatam 10.86.46-47 | HH Bhanu Swami Maharaj | ISKCON Japan | 25 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 46.
+
+ŚB 10.86.46
+
+śṛṇvatāṁ gadatāṁ śaśvad
+arcatāṁ tvābhivandatām
+ṇṛṇāṁ saṁvadatām antar
+hṛdi bhāsy amalātmanām
+
+Synonyms
+
+śṛṇvatām — for those who are hearing; gadatām — speaking; śaśvat — constantly; arcatām — worshiping; tvā — You; abhivandatām — offering praise; nṛṇām — for men; saṁvadatām — conversing; antaḥ — within; hṛdi — the heart; bhāsi — You appear; amala — spotless; ātmanām — whose minds.
+
+Translation
+
+You reveal Yourself within the hearts of those persons of pure consciousness who constantly hear about You, chant about You, worship You, glorify You and converse with one another about You.
+
+Text 47
+
+Translation
+
+But although You reside within the heart, You are very far away from those whose minds are disturbed by their entanglement in material work. Indeed, no one can grasp You by his material powers, for You reveal Yourself only in the hearts of those who have learned to appreciate Your transcendental qualities.
+
+Purport
+
+The all-merciful Lord is in everyone’s heart. Seeing Him there, however, is possible only when one’s heart is completely purified. Materialists may demand that God prove His existence by coming into view as a result of their empirical investigations, but God has no need to respond to such impudence. As Lord Kṛṣṇa states in Bhagavad-gītā (7.25):
+
+nāhaṁ prakāśaḥ sarvasya
+yoga-māyā-samāvṛtaḥ
+mūḍho ’yaṁ nābhijānāti
+loko mām ajam avyayam
+
+“I am never manifest to the foolish and unintelligent. For them I am covered by My internal potency, and therefore they do not know that I am unborn and infallible.”
+
+HH Bhanu Swami Maharaj:
+
+So, for a person using his material senses, it is very difficult to even see the atma. Atma is spiritual, your senses are material, so how can you see the spiritual atma with material senses? So, even to prove the existence of the atma by science is impossible. So, if that is impossible, how much more impossible it is to perceive the Supreme Lord with His form, qualities, and activities? Of course, it is may be praiseworthy that some scientists try to find the atma by scientific means, at least they think may be there is an atma [Laughs]. But, it is ultimately impossible.
+
+So, you cannot see the atma with a microscope. It does not have a material form. So, when the scriptures say that the atma is smaller than the smallest and one ten thousandth of the tip of the hair, what it means is ultimately we can’t see it [Laughs]. So, with a microscope, we can see small things. But, that has a limit. So, then they have the electron microscope, they can see even smaller things like particles, atoms, etc. So, perhaps they can see something one ten thousandth of the tip of the hair, even if they can, they cannot see the atma because it’s not material.
+
+Some scientists have tried a different thing. They weigh your body when you are alive and when you are dead [Laughs]. They say there is a little difference in the weight [Laughs]. But, the atma has no weight [Laughs]. So, difference in weight is not because the atma has left the body, but because your pranas and subtle body have left [Laughs]. So, subtle body is material, so we can say yes, it does have a little bit of weight to it.
+
+So, we cannot prove atma by seeing or weighing or whatever. So, of course, then we have other means we could try. So, in the modern world, they have testimony, like we have sabda for scripture, that is testimony also. So, people may not believe in scripture, but they may believe in testimony of people of the present time. However, we can’t believe the testimony of any ordinary person. A person says, I see the atma, another one says, I don’t see the atma.
+
+So, how do we believe one and not believe another? However, we do have indirect testimony from near-death experience, and those people have very similar experiences, and they say, I am not the body, I am the soul. So, there is testimony there from a certain type of person who has had an experience. But then again, we could say, I believe this testimony, I don’t believe the testimony. So, ultimately, we cannot definitely prove. We may have some idea that may be it could be so, but we have no definite proof.
+
+So, the other way we can prove is simply accept scripture. So, it is similar to testimony of people who have near-death experience [Laughs]. So, you can accept or not accept, depending on your faith. Some people accept scripture as true, some people reject it. So, therefore, ultimately, according to science or whatever, we can’t prove even atma, what to speak of Supreme Lord.
+
+The other way you can try to prove is by, we say, absence or negation. So, we cannot explain things in science unless we accept a conscious being like atma or God [Laughs]. So, that is the problem in quantum physics at the moment. It looks like there’s consciousness and there is no way of explaining it except consciousness, but some people still don’t want to accept [Laughs].
+
+Devotee: Didn’t understand the meaning of?
+
+HH Bhanu Swami Maharaj: Quantum physics [Laughs]. Yeah. So, in quantum physics, it looks as if consciousness is there. It looks like consciousness influences matter.
+
+So, this is a problem in science that nobody can explain without accepting consciousness. You have to accept consciousness. If you don’t, then you are stuck. But still, they don’t want to accept [Laughs]. So, the only thing that can be done is to devise an experiment to show that, this particular experiment won’t work unless you do accept consciousness. If they devise such an experiment, then fine, everyone has to accept consciousness [Laughs].
+
+So, anyway, there is a problem to prove even atma, what to speak of proving Supreme Lord. So, for that reason, some people will simply give up that idea of proving by science and they will just accept scripture. And the interesting fact is that the testimony of people who have near-death experience is very similar to what is said in scripture. So, we can say that whatever the people who have near-death experience, whatever they experience, is similar to what the sages must experience when they write scriptures.
+
+Of course, counter-argument, we can argue against this and say, well, it’s all because they are experiencing in a certain way, but that’s all prejudiced by their individual, you know, ideas, whatever, individual consciousness. So, it doesn’t mean it’s true, it just means that’s what they experience [Laughs]. So, that’s true, but then again, we can also argue the same about science. If we say all the people that are saying, yes, soul exists according to scripture or near-death experience, they’re all an illusion. So, we can say, scientists also are using consciousness to prove whatever, you know, it could also be illusion [Laughs], everything could be illusion for them also [Laughs], just another illusion [Laughs].
+
+So, that is why scripture itself says, the use of logic ends up with endless arguments [Laughs]. Most intelligent people will establish a conclusion which will defeat everybody else. But then another person a few years later, more intelligent, will defeat that and put a new theory up [Laughs]. And then for some time, everybody in the world accepts that, and then a few years later, another intelligent person says that’s wrong, and he establishes a new theory. So, this will go on forever [Laughs]. So, that is why scripture says logic itself is insubstantial. Ultimately, there’s no end to the arguments [Laughs]. Of course, one positive aspect of the human consciousness is we want a definite answer, we want a conclusion [Laughs]. However, logic and science cannot give us that final conclusion. Translation.
+
+So, the solution is go to scripture. There you get a conclusion. It doesn’t say it’s insubstantial, there’s something higher. This is the final conclusion. That’s what scripture says. But to accept scripture requires faith. And if we don’t have faith, they don’t accept. So, scientists don’t have faith, they won’t accept it [Laughs]. So, this is the problem with the human being. He can choose different methods to get his knowledge.
+
+So, scripture itself says the advanced human being, he will accept scripture. And then, of course, in scripture, there are different types of scripture. Ultimately, we have to come to the conclusion of scripture also [Laughs]. And our Acharyas say that finally, Bhagavatam is the conclusion of all the scriptures [Laughs]. Of course, even in Bhagavatam, then we get various propositions. So, therefore, the Acharyas give us the final conclusion of Bhagavatam [Laughs]. o, through this, we get proof by the statements of scripture that atma exists, different from material world. But more than that, we have a description of the Supreme Lord with form, qualities, and activities. So, if it’s difficult to accept atma, it’s even more difficult to accept the Supreme Lord [Laughs].
+
+We find that some scientists, not all, but some, will tend to accept, okay, there’s some universal consciousness [Laughs]. But if we say, okay, the universal consciousness is Maha-Vishnu, He’s a huge form, and He’s lying on an ocean sleeping, and out of His pores come [Laughs] all the universes, scientists cannot even believe that [Laughs]. But it’s even harder for such a scientist who may accept an impersonal atma or something. It’s even more difficult if we say, well, the ultimate form of God is a little boy playing with the cows [Laughs]. But a person who has faith in scripture will accept that. So not only the person who has faith in scripture accepts this idea of Krishna is God, but if he follows the process in Bhagavatam, he can also realize it. So that is the ultimate proof.
+
+So, as this verse states here, materialists cannot see the Lord. But He’s not on some far off planet beyond this universe. He’s actually in your heart. He’s very close. But a materialist can never see Him. So this is the misfortune of a materialist [Laughs]. The Lord is present before the person, but he can’t see Him [Laughs]. But one who is a devotee, then he hears, chants, worships the Lord, talks about the Lord, he can see Him. So this verse says, the present verse says, You appear in the heart of those persons who hear, chant, remember, etc.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Maharaj, Bhagavatam says that, become completely pure, then Krishna appears in the heart. But before that, we are now, before that situation, so sadhana bhakti, so gradually process. So pure devotee six kind of symptom, always depends on Krishna, Krishna protects me, etc. And he’s not attached to liberation, like that. So slowly, slowly we are attached to six kinds of symptoms, like appearing slowly, slowly. Right? So we have step by step only, not white and black, grey zone. Can you explain like that?
+
+So, in sadhana, we do not see the Lord, but in bhava stage, then we can see the Lord. But in prema, we can see the Lord constantly. But not only we see the Lord, we experience the Lord fully in prema. So, before bhava, we do sadhana bhakti. And because we are not so pure, our senses are covered, etc, we don’t see the Lord. However, in the stage before bhava, that’s called asakti, you almost see the Lord [Laughs]. So it says, you have a vision of the Lord, like a reflection of the Lord in the heart. So, in other words, through sadhana bhakti, gradually that form of the Lord becomes more and more revealed. So we get a glimpse in asakti, and finally in bhava we get real vision of the Lord. So, before the asakti stage, then of course the bhakti is gradually growing, so we are becoming more and more qualified. So, we don’t experience the presence of the Lord by seeing Him, but there are symptoms. So, because of contact with the Lord, even in beginning bhakti, then we get destruction of sins and suffering, manifestation of good qualities. And the atma begins to experience a happiness, which is not material happiness, nor the happiness of liberation. So, that experience of happiness in the atma matures and becomes bliss when we see the Lord in bhava.
+
+2.) Mostly we are, life is difficult, so liberation attachment so much I have [Laughs]. But I follow Krishna consciousness, that’s okay?
+
+So, we see that even in scripture, the idea that we want to get rid of the material world is quite prominent. Therefore, in scripture itself it always says, perform bhakti, get rid of all your suffering [Laughs]. You hear this pastime of the Lord, you get rid of fear of snakes or something [Laughs] like that. So, in the beginning of devotional service, then we may expect such results, okay, I’ll get rid of my suffering, whatever like that. But the mature devotee will understand that his main process is simply to serve the Lord, and all these other aspects like getting rid of material suffering is accompanying symptom only. So, as the devotee advances, he develops more tolerance. And as he gets more tolerance, then he has not so much concern anymore for the sufferings of this material body.
+
+3.) Hare Krishna Maharaj. Thank you for wonderful class. Maharaj you mentioned about these nine steps, sraddha, sadhu-sanga, bhajana-kriya, anartha-nivrtti etc. But in adi-lila, I think Mahaprabhu said that I am not so much attracted by sadhana bhakti, I like spontaneous or raganuga bhakti. So, I’m just wondering, like, in this nine-step process, can you connect it to sadhana bhakti, like beginning of sraddha, sadhu-sanga, bhajana-kriya, and then automatically, this is spontaneous raganuga bhakti will come? Or this is a different thing, this nine-step process and sadhana bhakti and raganuga bhakti. What is the transition? When we can experience transition between sadhana bhakti and raganuga bhakti?
+
+So, raganuga is actually one type of sadhana. It’s not different from sadhana.
+
+Devotee: Raganuga is not one type of sadhana?
+
+HH Bhanu Swami Maharaj: It is one type.
+
+Devotee: Okay, okay.
+
+HH Bhanu Swami Maharaj: So, sadhana has two types, vaidhi and raganuga. However, both lead to bhava and prema. But, the result in prema will be slightly different. If we follow vaidhi sadhana, the prema will also have reverence for the Lord. And, we can realize Vishnu or the avatar forms, or even Krishna in Dwaraka or Aishwarya Goloka but if we do raganuga sadhana, we can realize Krishna in Vrindavan with no reverence.
+
+Devotee: Thank you, Maharaj.
+
+4.) Maharaj, I have another question. Your Divine Grace mentioned about the logic. And, I was remembering, Jaimini rishi, he was the propounder of this nyaya sastra. And, in Kalyana Kalpataru of Bhakti Vinoda Thakura, he also mentioned about this nyaya sastra. Is it the same thing that our, some of our Acharyas, they also studied for some time, this nyaya sastra?
+
+So, nyaya sastras, nyaya is one of the six darshanas [Laughs], founded by Gautama. And, we don’t reject logic, but we don’t depend on it. So, we can use logic to establish siddhanta. But, we cannot distort the logic [Laughs], to try to prove something also [Laughs]. So, we can use logic, but it should follow the scripture, it should not depart from the conclusion. For instance, in Bhagavad Gita, then we can use logic and we can conclude that what Krishna says at the end, Surrender unto Me, in Me alone, that is the conclusion. We can establish that by logic. But, we can also misuse logic and say that the statement of Krishna, Surrender unto Me, is not the final statement, and we’ll say some other statement [Laughs] is final instead. But to come to that false conclusion, we do have to distort the meaning of words in scripture and start giving indirect interpretations. So, logic is useful, but at the same time, we realize its limitations.
+
+5.) Hare Krishna Maharaj. We are using smartphones everyday, so much, many people are using, even homeless people [Laughs]. So, some country decided children should not use smartphone because brain doesn’t work. How do we use nicely smartphones because we don’t want reaction.
+
+So everything we can use in Krishna consciousness, at the same time, we have to be careful. So we should try to link it somehow with development of our Krishna consciousness. So, a mobile phone, we can utilize because it’s convenient to communicate, etc. However, that same phone is utilized by other people to exploit you [Laughs]. They can exploit it to control your opinions, your views, your ideas, give you false knowledge. And exploit you and take your money [Laughs]. So the cell phone is there, but a lot of the content is there to take your money away [Laughs]. Why companies are interested in cell phones because they make a lot of money out of you [Laughs]. So they influence your mind and they make you want to buy different things [Laughs]. And of course, though, it’s useful if we depend on it, then we stop thinking and we let the phone think [Laughs]. So instead of thinking, we let the phone think for us [Laughs]. So of course, behind the phone there’s some other person, so actually somebody is controlling us [Laughs]. So therefore, we lose our independent capacity to think [Laughs]. So that’s why they want to limit the use for children [Laughs]. Because the child cannot distinguish how they’re getting exploited.
+
+Hare Krishna. Jai. Haribol!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/48": { title: "SB_10.86.48 \u2013 The mystery behind why & how only a few could see the Lord factually and others don\u2019t!", video: "suyd4xmh6iY", article: `Srimad Bhagavatam 10.86.48 | HH Bhanu Swami Maharaj | ISKCON Japan | 26 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 48.
+
+ŚB 10.86.48
+
+namo ’stu te ’dhyātma-vidāṁ parātmane
+anātmane svātma-vibhakta-mṛtyave
+sa-kāraṇākāraṇa-liṅgam īyuṣe
+sva-māyayāsaṁvṛta-ruddha-dṛṣṭaye
+
+Synonyms
+
+namaḥ — obeisances; astu — may there be; te — unto You; adhyātma — the Absolute Truth; vidām — for those who know; para-ātmane — the Supreme Soul; anātmane — to the conditioned jīva soul; sva-ātma — from Yourself (in the form of time); vibhakta — who gives; mṛtyave — death; sa-kāraṇa — having a cause; akāraṇa — having no cause; liṅgam — the forms (respectively, the material form of the universe and also Your original spiritual form); īyuṣe — who assume; sva-māyayā — by Your own mystic potency; asaṁvṛta — uncovered; ruddha — and blocked; dṛṣṭaye — vision.
+
+Translation
+
+Let me offer my obeisances unto You. You are realized as the Supreme Soul by those who know the Absolute Truth, whereas in Your form of time You impose death upon the forgetful souls. You appear both in Your causeless spiritual form and in the created form of this universe, thus simultaneously uncovering the eyes of Your devotees and obstructing the vision of the nondevotees.
+
+Purport
+
+When the Lord appears before His devotees in His eternal, spiritual form, their eyes become “uncovered” in the sense that all vestiges of illusion are dispelled and they drink in the beautiful vision of the Absolute Truth, the Personality of Godhead. For the nondevotees, on the other hand, the Lord “appears” as material nature, His universal form, and in this way He covers their vision so that His spiritual, personal form remains invisible to them.
+
+Śrīla Viśvanātha Cakravartī gives another interpretation of this verse, based on an alternative understanding of anātmane, a form of the word anātmā: Various classes of men know the Absolute Truth in different ways. The devotees of the Lord who are in the reciprocal mood of neutral admiration (śānta-rasa) meditate on the Supreme as possessing a divine, personal form (ātmā or śrī-vigraha) transcending all aspects of material illusion. The impersonal philosophers (jñānīs) conceive of Him as formless (anātmā). And the envious demons see Him in the form of death.
+
+HH Bhanu Swami Maharaj:
+
+So in the previous verse the brahmana was describing how the devotees see the Lord but the non-devotees do not see Him. And though one cannot see someone, it does not mean they’re not present. The example is given in Bhagavatam that a person has a jewel hanging on his neck. But the person forgets that he hung it around his neck and he’s looking all over the house looking for his jewel [Laughs]. And then someone else points out, hey, it’s on your neck [Laughs].
+
+So Paramatma is in the heart but the materialist can’t see Him even though He’s sitting there [Laughs]. Though the materialist doesn’t know He’s there, it doesn’t mean He’s not there, He’s still there. So those who are qualified realize the Lord, those who are not qualified do not realize the Lord. In the Brahma Samhita it says, those whose eyes are anointed with prema, they see the Lord. So that is their qualification for seeing the Lord. Just like some people have, let’s say, short sight. But they can still see. So their qualification is they can read a book close by. But if they look in the distance, they cannot see things properly, they can’t see clearly what’s on the mountain. So their eyes are not qualified to see at a distance. Other people are farsighted. So very easily they can see what’s on the mountain. So they are qualified to see at a distance.
+
+So some people can see the Lord because they’re qualified to see. Others are not qualified they cannot see the Lord. So yesterday I was discussing about scientists, they’re not qualified to see the Lord, they don’t have spiritual eyes [Laughs]. And no matter how hard they look with their material eyes, they cannot see the Lord. They can’t even see the atma [Laughs]. Of course, Prabhupada also says, that those who are impersonalists, if they try very hard even they have no faith, they’re not qualified to see the Lord, eventually they can realize atma. So Prabhupada talks about ascending knowledge. So with your own knowledge, you make endeavors to see atma.
+
+So what is the endeavor of the jnani? He uses his logic and his intellect. And so through logic and intellect then they conclude finally we’re not the body [Laughs]. And we’re something else [Laughs]. So that’s basically what some scientists also can conclude. So to some degree, yes, with your intelligence and logic you can come to a spiritual solution. This is also explained in terms of the three gunas. So tamoguna and rajoguna are basically covered by ignorance. But sattvaguna even though it’s a material guna coming from prakrti, it’s described as prakasa. So prakasa is sometimes translated as light. So kasa means to light up [Laughs]. Yeah and it’s also translated as, to manifest. So then, from that we say that prakasa means knowledge. We often have the metaphor the light, lamp of knowledge [Laughs].
+
+So knowledge gives enlightenment, it lights up things. If you’re in a dark room, you put a light there, then it reveals an object. Similarly our knowledge will reveal objects. So the quality of sattva is prakasa, enlightenment or knowledge. Of course, all human beings whether they’re in tamoguna or rajoguna or sattva guna have definitely superior knowledge than animals and plants. So the prakasa of people in tamoguna and rajoguna is looking at material objects and understanding material objects.
+
+So what is special about people in sattva guna having prakasa knowledge? So their prakasa is knowledge of atma. So when you come to sattva guna, the natural quality of sattva is that you begin to understand atma. In other words, people in sattva guna naturally begin to inquire, I don’t think I’m the material body after all [Laughs]. So a sattvic scientist starts to inquire and then he may also think okay, yeah, the, the conscious entity is not part of prakriti. And those people in sattva that have some punya they look at the scriptures and then they see the jnana sastras and upanishads and then the upanishads say, yes you are not the body, you are atma. So these are usually people in sattva, brahmanas. So the brahmanas are qualified to study upanishads. Why? because they’re in sattva and sattva gives prakasa, some understanding of atma. So those in tamoguna and rajoguna are not qualified to study the upanishads.
+
+So they conclude, okay, atma is different from body, atma is real, all the rest is maya and then they inquire how do I realize atma? So the scriptures supply jnana yoga and astanga yoga. And if they really endeavor in this process, they realize atma. So sattva guna itself which is part of matter gives the opportunity to the jiva to atleast realize atma. So though we usually condemn material world is all maya, the sattva guna portion has a little bit in which you can realize atma, so it’s not all bad [Laughs].
+
+So it’s like a, material world is like a big prison house with the gunas. And in the tamoguna layer at the bottom, then you have the plants then you have the animals and then you have the people in tamoguna. Then next layer up, you have all the people in rajoguna. On top of the prison, top floor, then you have the people in sattva guna. And somewhere in that top layer of the prison, there’s a little hole and you can escape [Laughs]. So when you get to sattva guna and you practice jnana and yoga then you can get a little hole and get out of the material world [Laughs]. However, to make the hole and get out also requires great endeavor [Laughs]. But the prison itself provides the opportunity to get out, if you get up to the top, then you find the hole and you can escape.
+
+So the prison house is there and of course, it’s not a nice place but it also gives opportunity to get out. However, it’s what the sattva guna supplies in terms of getting out is limited. You get to realize atma. But you do not realize the Supreme Lord. So in one sense, yes, the jnanis and the yogis got a little ointment on their eyes and they see something different from material [Laughs] world [Laughs]. It’s like the blind man suddenly he gets some medicine and atleast he can see there’s light [Laughs]. So yes, he realized all not darkness, light but he cannot really see anything.
+
+So people that get far, okay, they rejoice, okay, I got light, I’m not darkness anymore [Laughs]. But then on the other hand, their eyes are not completely cured. If we really can cure the eye then not only you see light but you can actually see forms. So sattva guna and jnana yoga and astanga yoga do not reveal the form of the Lord. So not complete vision. So if a person performs bhakti yoga, he gets complete vision. So if he gets prema, then he sees very clearly the Supreme Lord.
+
+So the goal ultimately is not just to see light but to see the form of the Lord. And if we want to see the form of the Lord, then the process is bhakti yoga. So the process of bhakti yoga uses our senses. Of course, when we use our senses in sadhana bhakti, we are using material senses. So normally if you use your senses, you end up in maya. Normal use of your senses does not create knowledge, it creates more ignorance [Laughs]. It produces maya, karma etc. And thus the jnanis and yogis want to stop the senses and stop the mind completely. If they can do it, it’s difficult and if they do it, they stop the karma, they stop the ignorance and they get liberation.
+
+But the devotee, if he uses his senses, does not create karma, does not create ignorance. How is that possible? And the reason is, he’s using his senses but he has engaged them in bhakti yoga. And when he does so, there is no gunas attached to his actions. If you do karma yoga, your senses are influenced by rajoguna and tamoguna. If you’re in sattva guna doing jnana and yoga, your senses are influenced by sattva guna. If you use your senses in bhakti yoga, no gunas. The reason is bhakti yoga itself is part of the Supreme Lord, it’s not in the gunas at all.
+
+In fact, rather than belonging to the three gunas in the material world, bhakti belongs to the gunas of Krishna [Laughs]. The gunas belong to the external energy of the Lord, matter. Bhakti belongs to the internal energy of Krishna. So when we use our senses in bhakti yoga, we get completely different results from using them in karma yoga, jnana yoga or astanga yoga. So when we use our senses in bhakti yoga, we don’t create more karma and get stuck in the gunas, we destroy karma. But something superior to that happens. So we destroy karma and material qualities but then the jiva starts developing spiritual qualities. And because the devotee is using his senses to serve the Lord, see the Lord, hear the Lord etc, he develops spiritual senses. So in other words, through the process of bhakti, eventually the jiva develops spiritual body and spiritual senses.
+
+So the devotee goes through the different stages bhajana-kriya, anartha-nivritti, nishtha, ruchi, asakti, when he gets to bhava then his senses can see the Lord. In the processes of jnana and astanga yoga, the yogi and the jnani, they eventually destroy material body, karma, material desires, etc, but they don’t develop any spiritual senses. So what is left? There is the atma without material body without material senses and without material karma. So in that state, the atma doesn’t see anything or do anything [Laughs]. So the process of bhakti is the process by which the jiva develops his spiritual senses and his spiritual body. Then he becomes qualified to see the Lord and serve the Lord.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Hare Krishna Maharaj. Thank you for the very wonderful class. You mentioned about premāñjana-cchurita-bhakti-vilocanena [Bs 5.38], that sloka. So I am wondering that in Caitanya Caritamrta, Krishna Das Kaviraj Goswami, he specifically mentioned that only the devotees, they will understand this bhakti literatures and this Caitanya Caritamrta. So when we see the pastime of Krishna, it appears sometime that, it’s not acceptable. Krishna is stealing Gopis dress. So can we conclude that these pastimes are to make more illusion to the demoniac person by this Krishna’s pastimes, so that they cannot understand Krishna nicely? So [Laughs] so that is my first question Maharaj.
+
+So the spiritual pastimes of the Lord in the spiritual world have no connection with the material world or the people in the material world. The Lord’s essential quality is bliss. And the pastimes in the spiritual world are simply an expression of that bliss. And those pastimes involve the Lord and His devotees. So all the pastimes of Krishna described in the 10th canto of Bhagavatam are expression of the Lord’s bliss. So it’s got nothing to do with the material world at all. If the materialist looks at those pastimes and criticizes them and cannot understand them, it’s not that the Lord is purposely producing them to bewilder them, it’s just that the materialist, jiva has no qualification to appreciate them. Of course, the pastimes of Vishnu in Vaikuntha, if the materialist hears about them, then he may not be so puzzled by them. Because if we accept a superior person who is God, then we expect reverence. So we can say that, if the materialist, if he is presented with Vishnu in Vaikuntha, then it’s not too difficult to understand. However, Krishna, with His pastimes, takes a less superior role, in fact, an inferior role in many cases, He gets chased by Mother Yasoda and punished by Mother Yasoda, etc. This is more puzzling for a materialist. So in other words, the pastimes of Krishna are more difficult to understand than the pastimes of Vishnu. So not only they are difficult for materialists to understand, they are even difficult for spiritual people to understand [Laughs]. And therefore, the followers of Vishnu are more, the followers of Krishna are less. But that’s not some, something that Krishna personally does to repel people [Laughs]. It’s just another way in which the Lord expresses His bliss. So why He needs different ways to express His bliss? And the answer is, we have infinite number of jivas with spiritual desires and they have different spiritual desires. So some appreciate Vishnu, some appreciate Ramachandra some appreciate Narasimha Dev, some appreciate Varaha, some appreciate Krishna. In other words, it’s the Lord’s response to the desires of His devotee. It’s not a response to materialists.
+
+2.) So her question, two questions but they are basically related and her question is, when you said that the jnanis and the yogis do not develop spiritual qualities, does that mean they don’t have any bhakti? So that’s the first question. Then second related question is that, on the other hand, even if the devotees perform bhakti but if they are still at the beginning level and if they are still very much covered by rajas and tamas but then, because they are performing bhakti, do they still sort of start to develop spiritual body?
+
+So jnanis and yogis, their goal is Brahman. And that Brahman has no material qualities or form. The only qualities and form they know are material qualities and form. So they reject material qualities and form. And goal is to attain that formless quality, quality-less Brahman [Laughs]. So the Lord fulfills their desire and He gives them Brahman realization with no form or qualities. So devotee begins bhakti with faith. And that means faith in bhakti scriptures. And what do bhakti scriptures say? There is Supreme Lord, He has form, qualities and activities, we are His servant. And the process of realizing the Lord is bhakti yoga. So the devotee starts the practice of bhakti yoga and eventually he develops spiritual qualities and a form and then he realizes Lord with a form and qualities. So in the Nectar of Devotion in describing bhakti, it is said that there are two qualities that manifest in sadhana bhakti. One is destruction of suffering, karmas, material desires, ignorance. In other words, we are gradually destroying our subtle body. So that’s not complete in sadhana bhakti, but it begins. The other quality that develops in sadhana is manifestation of good qualities. Of course, when we say destruction of kleshas, suffering, etc. it means good and bad material qualities, that is, sattva, raja, tamas, all those qualities gone. So when we say devotee develops qualities through bhakti in sadhana, it cannot mean even sattvic qualities, it has to be spiritual qualities. In other words, in sadhana bhakti, the devotee, the jiva in the devotee begins to develop spiritual qualities. So when the devotee develops in the nishtha, ruchi, asakti and into bhava, then gradually the jiva is developing its spiritual form, spiritual qualities, spiritual senses. So in bhava, he can see the Lord with the spiritual senses. And his sthayi-bhava, which means his particular relationship like santa, dasya, sakhya, vatsalya, madhurya also manifest. So that means he develops spiritual qualities.
+
+3.) Okay. So Madhumangal prabhu’s question is that, today we talked about seeing the Lord, devotees want to see the Lord.
+
+HH Bhanu Swami Maharaj: He means they want to serve the Lord [Laughs].
+
+Devotee: Yes. So does that mean, because until, like for us, our desire to see the Lord is based on our desire and our curiosity, because we haven’t seen the Lord, so we are curious about seeing. But is it different from, for example, the Gopis when they want to see the Lord, is it that they don’t have, it’s not that they have desires but they want to serve?
+
+HH Bhanu Swami Maharaj: Yeah. So when we talk about seeing the Lord, probably it’s may be a mistranslation of the Sanskrit [Laughs]. So in bhava stage, you get darshan of the Lord or sakshatkar, direct meeting of the Lord. So the suggestion there is that the Lord reveals Himself to the devotee. Not that we desire to see just Him [Laughs]. So in sadhana bhakti, we are also practicing uttama bhakti which means pure bhakti, so therefore, the impetus behind it is not that we want something but rather we are trying to please the Lord by our service. So therefore, a devotee who only wants to see the Lord, may be we can say, he’s not practicing pure bhakti [Laughs]. If it’s so, he can go to the spiritual world to see the Lord and does not serve Him [Laughs]. So this is more like santa [Laughs]. Just like some people desire to go to the spiritual world, so they get salokya but again they’re not serving the Lord [Laughs]. Of course, they are related to Krishna, so they get to the spiritual world, but the relationship is there but it’s very weak in one sense. The devotees who are practicing pure bhakti, emphasis is upon serving the Lord. And seeing the Lord, getting spiritual body, going to spiritual world those are secondary things which aid his service only.
+
+Devotee: Yeah. So he was remembering may be Narada Muni story where…
+
+HH Bhanu Swami Maharaj: Yeah, he saw Him once.
+
+Devotee: Yeah, initially Krishna revealed Himself to Narada Muni but then when Narada Muni tried to see the Lord, he couldn’t.
+
+HH Bhanu Swami Maharaj: Yeah, yeah, yeah. So of course, that seeing is there but generally for the devotees seeing is not just seeing. It’s also serving [Laughs]. So seeing the Lord once, then his service to the Lord was very limited [Laughs]. So when we say, seeing the Lord constantly, then we are not just seeing the Lord, we mean serving the Lord constantly also.
+
+Devotee: At that stage when the devotee wants to serve, is he or she motivated mainly by a desire or the joy, the joy of service?
+
+HH Bhanu Swami Maharaj: Oh, well, if we say, I will serve in order to become happy, then this also becomes, let’s say, mixed bhakti [Laughs].
+
+Devotee: Yeah, so is it that when the pure devotees are serving the Lord constantly, is their motivation out of joy? I mean, they want to serve.
+
+HH Bhanu Swami Maharaj: Yeah, so it’s an expression of their inherent bliss also [Laughs]. Bhakti itself is composed of hladini and samvit shaktis. So bliss is inherent in bhakti itself. So when the person reaches bhava stage, his serving the Lord is an expression of his bliss [Laughs]. And by serving, the bliss increases [Laughs]. And then the desire to serve increases [Laughs].
+
+4.) Hare Krishna, Maharaj. Maharaj, your Divine Grace mentioned that the jnani and the yogi, both of them, their destination is Brahman. But as far as I remember, when I studied canto 2 of Srimad Bhagavatam, Srila Prabhupada in his purport, he mentioned that the yogis, the astanga yogis particularly, since they are Paramatma vadi, so they can reach Vaikuntha loka sometime. So would your Divine Grace kindly explain a little bit more about the jnani and yogi and their destination? Hare Krishna.
+
+So the jnani’s goal is Brahman, so that’s what he attains. The Paramatma yogi worships Paramatma for liberation. So he worships Paramatma in order to get liberation. So when he realizes Paramatma, then he has a choice. He can merge into Paramatma or merge into the effulgence of Paramatma. So very similar to what the jnani attains. If the jnani or the yogi gets the mercy of a devotee practicing pure bhakti, they could change. And then their goal can be, to realize the Lord and kind of serve the Lord. So they generally will practice jnana-misra bhakti or yoga-misra bhakti. And then they could attain Vaikuntha. Ultimately, highest they could get is santa rasa. If by the mercy of devotees, they can get beyond jnana-misra bhakti or yoga-misra bhakti, they could practice pure bhakti and they could get to higher rasas.
+
+Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/49-52": { title: "SB_10.86.49-52 \u2013 Devotees transmit the Lord\u2019s mercy by imparting transcendental knowledge!", video: "lsw0nXIhryk", article: `Srimad Bhagavatam 10.86.49-52 | HH Bhanu Swami Maharaj | ISKCON Japan | 27 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 49.
+
+ŚB 10.86.49
+
+sa tvaṁ śādhi sva-bhṛtyān naḥ
+kiṁ deva karavāma he
+etad-anto nṛṇāṁ kleśo
+yad bhavān akṣi-gocaraḥ
+
+Synonyms
+
+saḥ — He; tvam — You; śādhi — please order; sva — Your; bhṛtyān — servants; naḥ — us; kim — what; deva — O Lord; karavāma — we should do; he — oh; etat — having this; antaḥ — as its end; nṛṇām — of humans; kleśaḥ — the troubles; yat — that; bhavān — Your good self; akṣi — to the eyes; go-caraḥ — visible.
+
+Translation
+
+O Lord, You are that Supreme Soul, and we are Your servants. How shall we serve You? My Lord, simply seeing You puts an end to all the troubles of human life.
+
+Text 50
+
+Translation
+
+Śrī Śukadeva Gosvāmī said: After hearing Śrutadeva speak these words, the Supreme Personality of Godhead, who relieves His surrendered devotees’ distress, took Śrutadeva’s hand in His own and, smiling, spoke to him as follows.
+
+Purport
+
+Ācārya Viśvanātha comments that Lord Kṛṣṇa took Śrutadeva’s hand and smiled as a gesture of friendship, to tell Him, “Yes, you know the truth about Me, and I also know all about you. So now I will tell you something special.”
+
+Text 51
+
+Translation
+
+The Supreme Lord said: My dear brāhmaṇa, you should know that these great sages have come here just to bless you. They travel throughout the worlds with Me, purifying them with the dust of their feet.
+
+Purport
+
+Śrīla Śrīdhara Svāmī explains that Lord Kṛṣṇa thought Śrutadeva had shown too much reverence to Him and not enough to the sages, and thus He turned the brāhmaṇa’s attention to them.
+
+Text 52
+
+Translation
+
+One can gradually become purified by seeing, touching and worshiping temple deities, places of pilgrimage and holy rivers. But one can attain the same result immediately simply by receiving the glance of exalted sages.
+
+Purport
+
+Rather than remaining in seclusion and concentrating on their own perfection, Vaiṣṇava brāhmaṇas of the highest order dedicate their lives to sharing the benediction of the Lord’s devotional service. In the words of the sons of King Prācīnabarhi:
+
+teṣāṁ vicaratāṁ padbhyāṁ
+tīrthānāṁ pāvanecchayā
+bhītasya kiṁ na roceta
+tāvakānāṁ samāgamaḥ
+
+“Dear Lord, Your personal associates, Your devotees, wander all over the world to purify even the holy places of pilgrimage. Is not such activity pleasing to those who are actually afraid of material existence?” (Bhāg. 4.30.37) And Prahlāda Mahārāja says:
+
+prāyeṇa deva munayaḥ sva-vimukti-kāmā
+maunaṁ caranti vijane na parārtha-niṣṭhāḥ
+naitān vihāya kṛpaṇān vimumukṣa eko
+nānyaṁ tvad asya śaraṇam bhramato ’nupaśye
+
+“My dear Lord Nṛsiṁhadeva, I see that there are many saintly persons indeed, but they are interested only in their own deliverance. Not caring for the big cities and towns, they go to the Himālayas or the forest to meditate with vows of silence [mauna-vrata]. They are not interested in delivering others. As for me, however, I do not wish to be liberated alone, leaving aside all these poor fools and rascals. I know that without Kṛṣṇa consciousness, without taking shelter of Your lotus feet, one cannot be happy. Therefore I wish to bring them back to shelter at Your lotus feet.” (Bhāg. 7.9.44)
+
+HH Bhanu Swami Maharaj:
+
+So Srutadeva had praised the Supreme Lord. And though the Lord accepted the praise, now the Supreme Lord is praising the brahmanas who accompanied the Lord. And He says, they have come to give you mercy. And their only purpose is to travel throughout the world, purifying people. So in other words, Krishna is praising the devotees because they are spreading the message of the Lord. Of course, the Lord also does this, He teaches Bhagavad Gita to Arjuna. And when He comes as avatar, He often gives teachings. And these teachings are supposed to continue even after the Lord disappears. However, that is not sufficient.
+
+What happens when the Lord is not there? So the Lord appears in every yuga cycle. But even for the shortest yuga, that means after half a million years [Laughs]. So during that time then, there is, no one there teaching. Of course, the Lord’s teachings remain. But even the teachings tend to get lost. And even if they are not lost, they get misunderstood. Therefore, we need other people to carry on the teachings with the correct understanding. So if the Lord isn’t there, who is there? Human beings. But not all human beings are qualified to carry on the message of the Lord. So those who are qualified to carry on the message are the devotees. And thus the Lord glorifies the devotees because they are carrying on His message when He is not there.
+
+One of the qualities of the Lord is He is very merciful. But when the Lord is not present personally, then the devotees are the mediums for the Lord’s mercy. So this is the normal way in which the Lord’s mercy is distributed in the world. And thus, one has to give proper respect to the devotees. Without the devotees, then we have no connection with the Lord. So the devotee is the medium for the Lord’s message. So in one of his writings, Prabhupada says, a devotee is the transparent via media [Laughs]. So here transparent would mean that the message goes on with no distortion.
+
+Devotee: With no distortion, distortion?
+
+HH Bhanu Swami Maharaj: Yeah. The message is transmitted without distortion.
+
+Devotee: Yeah, distortion means?
+
+HH Bhanu Swami Maharaj: Just like sometimes you turn on the radio and the reception is not good, so you could not hear the music or the talking very well, it’s static and so much is there and you can’t get the right message. Or similarly, if there is a concert, but the microphone is not working properly [Laughs], then the singer is singing, but we get some distorted sound. Of course, if you are watching television, television is not working properly then the images are all distorted. So we have to have a proper transmitter [Laughs]. So the devotees are the proper transmitters for the Lord’s message and mercy.
+
+We often talk about the mercy of the Lord. However, when we analyze carefully, we see that mercy is usually transmission of knowledge. So Sukadeva is merciful to Pariksit Maharaj. How is he merciful? He speaks to him. Narada Muni is merciful to Vyasadeva. Why? Because he gives instructions. So when we say that the devotee is transmitting the Lord’s mercy, he is actually transmitting the message of the Lord. So one devotee transmits to another devotee, that devotee transmits to another devotee. So in this way we get parampara. But this is, parampara based on teachings, so we call it the siksha parampara. So through this siksha parampara, the teachings are transmitted over time for hundreds and thousands of years, intact, with no change.
+
+So in this way, the mercy of the Lord continues by a parampara system. So of course, there may be instances where the Lord directly transmits knowledge, but that is like Krishna to Arjuna or [Laughs] whatever. But the normal method is one devotee transmits to another devotee. But when a devotee transmits to another devotee, that new devotee, he actually gets connection with Krishna. So therefore, the devotee connects with another devotee, but through that he connects to Krishna. So in this way, the teachings are transmitted for thousands of years. So this was the traditional method of preserving the teachings.
+
+So long ago, the teachings were transmitted without even books. So teacher would recite scripture, student had to memorize it [Laughs]. So it was a big effort just to memorize a veda [Laughs]. So there’s no way of learning the veda unless somebody speaks it to you. However, not only one has to learn the veda, one has to learn the meaning of the veda [Laughs]. Later on, of course, then they wrote everything down with books, but still the method of learning the whole veda still continued.
+
+So one could also use the written veda, but primarily they depended on the transmission from a teacher. And though the veda was written down in a book, the meaning was not written down in the book, so therefore the teacher had to explain the meaning. So there was always necessity of the teacher. And to accept the teacher, we have to give proper respect. One has to be a qualified student. So it was up to the teacher to decide who he would accept to give the teachings to. In order to carry out the teachings, he had to select qualified students. So in this way, there was a parampara through teachings.
+
+So in the modern world, of course, we have books much more available. And by their mercy, Acharyas have also explained not everything, but some of the meanings. So we may think, well, I’ll just take the book with the commentaries of the Acharyas. I can learn in that way. We have the text. We have an explanation. So why do we need a teacher? So it may sound logical to come to that conclusion. However, as I mentioned, the student had to be qualified to accept the knowledge.
+
+So in terms of works like Bhagavatam, qualification is devotion. Then if we don’t have devotion and we study the work and the commentaries, we’re not going to come out with the correct meaning [Laughs]. So ultimately, the words of scripture are not material. So even if we have explanations, still we need some level of realization and devotion to get the correct meaning. So the teacher is the person who has a certain level of devotion and realization. So he can be authorized to teach. And then he will judge who is qualified to hear.
+
+So even in the modern world, though we do have books and commentaries, etc., we still carry on this process of learning through parampara. So the speaker has to be a devotee. And we have devotees on many levels. In one sense, all the devotees have some qualification to preach and speak. But then we also see that, those with a higher level, they are better preachers. So I mentioned about the transmitter, the transmission should be clear [Laughs]. So the more advanced the devotee, the clearer the transmission. The less advanced devotee also can transmit, but more static [Laughs].
+
+Devotee: What’s static?
+
+HH Bhanu Swami Maharaj: Unclear [Laughs]. Of course, because he’s a devotee, even that person with his transmission, it has some value [Laughs]. Thus, even if the static is there on the radio and whatever, we hear the song, still we will listen to it even if it’s not so clear [Laughs]. So in this way, all the devotees act as transmitters, but some are better transmitters than others. And though we respect all the devotees and all the transmitters, still those who are transmitting clearly, we give more respect. And thus we give most respect to the Acharyas and then we respect other persons less. So in this way, we carry on the message that Krishna gives, we distribute the mercy of Krishna.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Dandavat pranam Maharaj. Thank you very much for the wonderful class. Maharaj, my question is based on this verse where Prahlada Maharaj is requesting Lord Narasimha Dev that I would like to, like he would like to preach throughout, so that the poor souls can get benefited. So Maharaj, I have a question like, Lord is Paramatma, He is sitting inside everybody’s heart, so, and He comes also every, ages and ages, so why not he gives directly His own love, I know [Laughs] like people, we also have, souls have their own way of thinking, but if Krishna understands that we are the one who will be only happy, only by associating with Him, and so He can directly transmit this, his own prema bhakti to everybody, all the souls and you know [Laughs]. Why doesn’t he do that? And secondly Maharaj, one more follow up question on this, why, yeah, it’s related to that, sorry sorry. So, and why not any devotee prayed in history, I mean, I don’t know whether any devotee prayed in history for this, like, Lord, why don’t you directly give your own prema bhakti to every living entity.
+
+So, I mentioned the other day that yes, Paramatma is with all the jivas, but unfortunately the jivas are pretty deaf and blind [Laughs]. So, even we say, don’t preach to the faithless people [Laughs]. So, if a devotee is at a certain level of devotion, then yes, Lord internally also gives guidance. But a person who is not a devotee cannot hear that advice at all, even if he gives it [Laughs]. Just like in this world, you may give advice to people and tell them this is very good, do this, this and this, they don’t listen [Laughs]. And we also see, even Krishna comes in the material world, not everybody becomes a devotee. And in fact, when Narasimha Dev appeared, Hiranyakasipu fought with Him and got killed [Laughs]. He didn’t become a devotee at all [Laughs]. So, the Lord is willing to teach, but one has to be qualified. And Paramatma functions to witness the activities of the non-devotees [Laughs]. And Paramatma is neutral. If one becomes devotional, then the Lord can also speak, but He’s no longer Paramatma, He is Bhagavan in the heart [Laughs]. And in Bhagavad Gita, Krishna says, I give you intelligence by which you come to Me. So, even though we do have Bhagavan in the heart, able to teach once you become a devotee, still we have the external devotee as well. So, we have the external guru, the external devotee and this is the usual method by which people are able to advance.
+
+2.) Hare Krishna Maharaj. Thank you for the wonderful class. Maharaj, in Srimad Bhagavatam, we see that the greatest pure devotees like Prahlada Maharaj and Jada Bharat, they are entirely dependent upon Krishna’s mercy. When Jada Bharat was attacked by dacoits in the jungle, he didn’t do any over-endeavor, but he was dependent on Krishna’s mercy. And even the dacoits, they wanted to kill him, but he didn’t say anything. And then mother Kali, she came out from the deity form, and she killed the dacoits, but still Jada Bharat was dependent on Krishna’s mercy. But still Jada Bharat didn’t say anything. But in ISKCON now preaching has become a buzzword. It becomes something important, popular. So, we see there are millions of immature preachers in ISKCON. They don’t even have any foundation in devotion, but they want to preach. So Maharaj, if I feel that, I am not still situated even in vaidhi sadhana, then should I endeavor for preaching or I shall depend on Krishna’s mercy, that if Krishna desires, then he will send me some souls and I will try my best, but I should not over-endeavor for preaching. Is that a correct understanding Maharaj?
+
+Jada Bharat is a special case because he was in prema. And as we know, the person in prema doesn’t see anything, there is no necessity of preaching in the material world because everything is perfect. For that reason, the usual preacher is the madhyama devotee. And madhyama devotees could be, start with sraddha and bhajana-kriya, anartha-nivrtti, nishtha, ruchi, asakti [Laughs]. And those madhyamas, they give nice instructions to the kanishthas. Of course, to teach the kanishtha, they have to be more advanced than the kanishtha [Laughs]. So, if one accepts pure bhakti and is seriously practicing, then, and he has of course knowledge of Bhagavad Gita or whatever, then he is a madhyama, though he could be at stage 1 or stage 5 or whatever. So, at any level as a madhyama, he could preach, but those who are more advanced and have more knowledge, they are better preachers. And we have to distinguish these devotees from other persons who do not have knowledge, don’t read Bhagavad Gita or whatever and may have a little enthusiasm for preaching and whatever, but they are another category [Laughs]. So, according to one’s understanding and level, then one can attract and develop other persons as devotees.
+
+Devotee 1: Could you say again? Sorry.
+
+HH Bhanu Swami Maharaj: According to one’s knowledge and level of advancement, then one can attract persons and raise them up to your level. So, to some extent, all of these madhyamas give some mercy to those who are in a lesser position. But how much effort they are going to make in doing preaching or whatever, that’s according to one’s own circumstances.
+
+Devotee 2: Maharaj like what about preacher and his actual activities? Like he’s preaching but his behaviour is not matching.
+
+HH Bhanu Swami Maharaj: So, as I said, according to one’s level, one can preach [Laughs]. So, if he says one thing and acts another way, then the people he’s going to attract are similar people [Laughs]. So, as I said, generally, if we’re a madhyama and we do have knowledge, etc., we’re in one category. If we have some attraction to bhakti and whatever, we have no knowledge, then we could preach so many things, but we’re going to get different crowd of people [Laughs].
+
+Devotee 3: Maharaj one more point. Srila Prabhupada instructed us to distribute books, and many preachers in the beginning of Krishna consciousness say, we don’t know anything. Prabhupada instructed, okay you give the book, but don’t start to preach to people because you have no knowledge. So, just distribute books. What is the value of your preaching? Because if people can read one line of these books, there’s much more effect than half an hour of your preaching. So, from day one, we are preaching in the streets of the world, distributing Srila Prabhupada books. That is our preaching, according to my understanding. Is it correct?
+
+HH Bhanu Swami Maharaj: Of course, that’s good, but then Prabhupada also said, you distribute my books, but you should also read them [Laughs]. So, we have devotees distributing books, but they are not following the instructions in the books. What good is that also [Laughs]? Of course, it is possible that people get the book somehow or other, they can get benefit, but if they have a nice example and a devotee who is following properly, then they are more inclined to take up the process [Laughs]. And then of course, we have people, they get the book and they read the book and they come back and say I don’t understand anything [Laughs]. So then they need a devotee to explain okay, this is what it means in simple terms [Laughs]. We see that, I think, in Mongolia, somehow, they got some books. And then they were reading the books, and then they began to chant, and they got some beads [Laughs], nobody knew they were there, but they were actually becoming devotees with our, just the books [Laughs]. Even in like Bulgaria, those two brothers [Laughs], they, they just got the books, and they started chanting and whatever like that on their own, then they met devotees later on [Laughs].
+
+Okay, Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/53-54": { title: "SB_10.86.53\u201354 \u2013 The crux of Epistemology is in Krsna respecting spiritual authority !", video: "EaPK_x54DkI", article: `Srimad Bhagavatam 10.86.53-54 | HH Bhanu Swami Maharaj | ISKCON Japan | 28 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 53.
+
+ŚB 10.86.53
+
+brāhmaṇo janmanā śreyān
+sarveṣām prāṇinām iha
+tapasā vidyayā tuṣṭyā
+kim u mat-kalayā yutaḥ
+
+Synonyms
+
+brāhmaṇaḥ — a brāhmaṇa; janmanā — by his birth; śreyān — the best; sarveṣām — of all; prāṇinām — living beings; iha — in this world; tapasā — by his austerity; vidyayā — by his learning; tuṣṭyā — by his satisfaction; kim u — what more, then; mat — upon Me; kalayā — with loving meditation; yutaḥ — endowed.
+
+Translation
+
+By his very birth, a brāhmaṇa is the best of all living beings in this world, and he becomes even more exalted when he is endowed with austerity, learning and self-satisfaction, what to speak of devotion to Me.
+
+Text 54
+
+Translation
+
+Even My own four-armed form is no dearer to Me than a brāhmaṇa. Within himself a learned brāhmaṇa comprises all the Vedas, just as within Myself I comprise all the demigods.
+
+Purport
+
+It is understood from the Vedic science of epistemology, the Nyāya-śāstra, that knowledge of an object (prameya) depends on a valid means of knowing (pramāṇa). The Supreme Personality of Godhead can be known only by means of the Vedas, and thus He relies on the brāhmaṇa sages, who are the Vedas personified, to reveal Him in this world. Even though Lord Kṛṣṇa embodies all the demigods and viṣṇu-tattva expansions of Nārāyaṇa, He considers Himself obliged to the brāhmaṇas.
+
+HH Bhanu Swami Maharaj:
+
+So Krishna is saying that the brahmana is very dear to the Lord. So why is he dear? So in this verse he answers, the brahmana knows all the Vedas and through the Vedas people can understand about the Lord. So in the previous verses again Krishna was saying that the brahmanas are very merciful to all living entities. They are merciful because they reveal knowledge. So what is so important about the Vedas? So at the beginning of this purport, there is a little bit of an explanation. So the Vedas act as pramana or proof.
+
+So proof or pramana means an accepted means of knowing. So the pramana means that we need a method of knowing. So for instance, how do we know that the population of Tokyo is so many, 30 million people, how do we know that? So of course we can say, well we can count all the individuals, but that’s a little difficult for us [Laughs]. But then we do have people, government agencies that do count all the people. So we go to the agency and then we ask for that population. So they will give us some number, may be it’s 30 million. But of course then we will say, well, how did you get that number? So they have you know, people, they go out and they count all the people [Laughs]. Census, they call it census. It’s called a census, you count all the people [Laughs].
+
+So to know that number is very important for many things. It is used for voting, who can vote [Laughs]. If we get more people voting than there is population, then there’s a problem, somebody’s cheating [Laughs]. And we also use that number to analyze how many young people, how many old people, how many working people, how many foreigners, and sociologists and other people use that information for many things. And based on that we make educational systems, health systems, etc. So we take the government as the authority for that knowledge. So that’s called the pramana [Laughs]. So they are pramana for number of population. So that population is the prameya.
+
+So the government gives statistics for knowing population, which is the prameya. So the government is the pramana, and the population statistics, the number, that’s called the prameya. So to know about atma and Supreme Lord, the prameya, what is the pramana? So we can try to use our senses, but that doesn’t give any result because our material senses cannot see atma or God. We can use more refined instruments like microscopes, electron microscopes, telescopes etc but still we cannot get an answer. Or without seeing, we can think and we can intuit or through logic come to some conclusions about atma or God. Of course Prabhupada calls this speculation.
+
+The reason why this is faulty is because our theories are all based upon our sense perceptions. Sometimes our conclusions may be true, sometimes they may be false, but we don’t know. For instance, we look at a mountain and then we see some, looks like smoke on the mountain, so we say, because there’s smoke on the mountain, there’s a fire. So this of course, is based on the previous conclusion we have by experience that fire gives smoke. So if there is smoke, there must be fire.
+
+Of course, then there’s a little problem. Of course, we say the fire causes the smoke. But even after the fire goes out, the smoke may continue. So if we say there’s fire on the mountain, but actually the fire has already gone out, then it’s not correct. The only way we can correct the mistake is to go up on the mountain and see if there’s a fire or not [Laughs], and then we’ll say, well no, the smoke was caused by a fire, but the fire went out, and that would be a proper conclusion.
+
+Or, we may think, yes, there is smoke on the mountain, but it may be a cloud. So we make a mistake and think that the cloud is smoke, and then we come to a conclusion. So again, because there’s a cloud on the mountain doesn’t mean there’s fire [Laughs]. So such type of logic to prove something is not always true. That’s why in science they make a theory, and they have to keep testing it and testing it and testing it to see if it works so many times [Laughs]. And then they can say, okay, this is not just a theory, it’s actually true. However, we can continue to test and test and test, and finally we find, ah, there’s an exception [Laughs], that it’s not true anymore, the theory’s not true. So in any case, this type of method of proving or pramana is not perfect. But for everyday living, using our senses and using logic and inference is useful for us, so we use it all the time. However, we have to recognize it is not perfect, subject to mistake.
+
+So, how do we know about atma and God? So we cannot use our usual pramanas of senses and logic here because they apply only to material things. So if we don’t have a method of knowing, then we can’t know about God or atma. So some scientists conclude, okay, we don’t know, finished [Laughs]. So we can’t even discuss it. We can’t say God exists, we can’t say God does not exist. So still some people insist, no, we have to know [Laughs], we want to know.
+
+So again, what is the pramana, how are we going to know? So then we come up with another pramana, that is called sabda. So sabda, of course, this means sound, but it actually means authorized sound. Or perfect knowledge. So it is simply stated, and that is the proof itself. So, scripture says, atma exists, God exists, God has this form, God is called Krishna, God is called Narayana.
+
+So, what is the proof? Because scripture says it, that’s the proof [Laughs]. So we cannot say, why does scripture say that Krishna is blue, why does Krishna say that He has a flute? No, scripture says it, that’s the proof [Laughs]. It’s like a person, and he goes to a foreign land. Foreign, a different country, he goes to another country. And then he observes everything, all the country and the people, whatever. And then he comes back and he says, okay, this country, let’s say Iceland [Laughs] Iceland. And he says, okay, the people are like this, they speak this language, they’ve got some color hair, their eyes are this color, they do this for their job etc. So then we hear him, and then we accept, okay, people of Iceland have this color hair, they speak this language, etc.
+
+And we don’t question, why are you saying this? So we don’t question because we trust that he went there and he saw, he had an experience, and we accept him as an authority. So in the same way, we accept the authority of the Vedas. So once we accept the authority, we do not question it. So we accept that authority, particularly on subjects of God and atma. We have no other way of knowing about them. So some people choose to accept the authority of the Vedas. So they accept the Vedas as pramana because they want to know about God. If they want to know about material world, then they don’t have to go to Vedas.
+
+So therefore, we say Veda is pramana, it gives us the proof. And what is the object of our knowledge there? What is the prameya? So the prameya is Supreme Lord. So that pramana and the prameya is preserved by human beings. And these human beings communicate the knowledge to us. They give us that knowledge [Laughs]. So traditionally, the brahmanas are the people who study the Vedas. So if we want to know about God, we go to the brahmana, and he knows the pramana, he knows the prameya, so he gives us information about God. However, we have other recipients of that knowledge. The other people who have that knowledge. And that knowledge is not only in Vedas, it’s in Puranas, it’s in Mahabharata, it’s in Bhagavad Gita, which is not Veda.
+
+Still, we need someone to give us that knowledge. So who gives it? The Vaishnava, the devotee. He may not be a brahmana. But he is a devotee of the Lord. Of course, we can ask, so we have the pramana, which gives us knowledge of God, the prameya. Why do we need somebody to deliver it? We can just get the pramana, read Bhagavad Gita, read the Vedas. So we can ask, why can’t we just go to the authoritative text Bhagavad Gita, Bhagavatam, Vedas? Why do we need some person there? Why do we need the brahmanas to deliver the Vedas?
+
+So the reason is that when we do have some knowledge or a text or whatever, it’s better we get it from an expert. So we need the brahmana to explain the Vedas or we need the devotee to explain the Puranas. So it’s just like in the material world, we will have libraries full of books. And we’ll have all knowledge about medicine, surgery, and all branches of medicine there. But in normal cases, you can’t just go to the library to take all the books and read them on medicine and become a doctor [Laughs]. You need some authority to give us the essential texts and the real meaning of those things and he has experience and he can give us the real knowledge.
+
+So therefore, the pramana or the scripture, is delivered through an authorized devotee. And to get the knowledge from that devotee, we have to give proper respect. So Krishna was speaking to Srutadeva and he said, oh, you’ve not respected the brahmanas enough [Laughs]. If you respect them, then you will get the knowledge of the Vedas [Laughs].
+
+Hare Krishna!
+
+Q & A :
+
+1.) His question is, sabda is even perceived by imperfect senses, so how can it be the perfect knowledge?
+
+Yes. So as I said, we have the knowledge of scripture but we should take it through an authorized person. And the scripture will not be available to an unqualified person. So therefore, we say, if you don’t have devotion, you cannot understand Bhagavatam [Laughs]. So though, we start out with imperfect senses, imperfect mind, etc, because we do have some faith and some devotion, we get access to a little bit of that knowledge. But it’s likely, in the beginning, our mistaken senses will give us wrong knowledge [Laughs]. And therefore, we have the teacher there, that’s the Vaishnava, who will say, no, you got the wrong interpretation [Laughs]. So therefore, we have two safeguards to see that the knowledge is intact. One, we have, the person has to be qualified with devotion. And second, we have someone to teach the knowledge, so that they guarantee we don’t make mistake [Laughs]. Of course, there is another objection. Scriptures are made up of words. Words and sound are material. How we can say that Veda is our spiritual authority when they’re made up of material words [Laughs]. How can we understand Supreme Lord, who is beyond material words, by using material words [Laughs]. So that is the question which is asked in the next chapter [Laughs] of Bhagavatam. The answer is that, yes, Veda and scripture is made up of words, but the words are not material. How is that possible [Laughs]? It’s possible because Supreme Lord, who is spiritual, has His spiritual shaktis, that can make words spiritual, not material. So when we hear and read scriptures, it may look material, like material sound and material words, but the more that we are spiritualized and devotional, the more we get the spiritual meaning of the words.
+
+Devotee: Scientists also have authority and they have faith for some type. So the same logic they are using as sabda.
+
+HH Bhanu Swami Maharaj: So in the material world also we have sabda. Newspaper is a sabda. Television news is a sabda [Laughs]. Textbooks in science and university are sabda. Of course, some of the sabdas are more reliable. Some are may be fake [Laughs]. And ultimately, none of these sabdas in the material world are perfect. Because they are dealing with material subject matters using senses and logic. And eventually whatever knowledge is there gets refuted by new discoveries [Laughs]. But as far as the material world is concerned, these act as authorities, and they are useful in normal circumstances. They are useful for us as authorities. So our Acharyas also do not reject pratyaksha or sense knowledge or logic. And we can also use them even on spiritual subjects in sabda. So to read scripture we have to use some logic [Laughs]. However, that logic and sense perception should not dominate our meaning in the scripture. We should not interpret the scripture to come up with our own conclusions by logic [Laughs]. We should not interpret the scripture and produce a meaning which we like [Laughs]. In other words, we don’t put our own goals into that and say this is the meaning of scripture.
+
+2.) In this particular sloka, Krishna says, very general, that brahmanas are very dear to me. And through them we can understand the Veda. But in kali yuga we see there are so many brahmanas. Some are impersonalists, some are fake, some are Mayavadi, some are Brahmavadi. The rikshawala has a brahmana thread and he thinks I’m a brahmana. So how to distinguish who is a real brahmana because in the Bhagavad Gita Krishna says, my devotees are very dear to Me. But here He says the brahmanas are very dear. It’s a very general statement.
+
+Of course, here also it is said that the brahmana is to respected by his birth, his knowledge, his tapasya and conduct etc and by his devotion [Laughs]. Similarly in the Caitanya Caritamrta it’s said that, okay, we respect humans as higher than animals and among the humans, those who follow varnashrama are superior. In the varnashrama system, the brahmana is superior. But the brahmana who’s actually following all the rules he’s better than that [Laughs]. So in other words, he has now, she has austerity etc. So he’s capable of teaching the Vedas. But superior to the brahmana is the Vaishnava. So Krishna praises everybody, praises varnashrama system, ultimately praises the brahmana but then ultimately more than that is the Vaishnava [Laughs]. And when He praises, He means praising those people who are actually following [Laughs]. If they’re not really following or if they’re doing the opposite and cheating, then of course that they’re not to be respected at all [Laughs]. So those who are actually carrying out their functions as a brahmana or as a Vaishnava, those are the persons that get the most respect.
+
+3.) Hare Krishna Maharaj. Could you please explain the word prameya. Is it only used for the Supreme Lord or does it have a broader significance?
+
+So the words pramana and prameya have a general usage. So the pramana for medicine are the medical textbooks [Laughs]. And if it’s a textbook on anatomy then the prameya is heart, lung and stomach and all these things that you’re supposed to know [Laughs]. So the newspaper reports current events, things that are happening earthquakes, wars etc, so it’s a pramana [Laughs]. And the prameya is the events which they should be reporting true [Laughs]. So we’ll have various pramanas with their individual prameyas. So then we’ll have Vedas and Puranas etc, they are pramana. And the prameya is Supreme Lord and atma. Of course, they will also have other prameyas. So those same scriptures will explain karma yoga, jnana yoga, astanga yoga. And each of those yogas will have a prameya, that is the karma yoga will end up with swargaloka or jnana with Brahman, so these are also prameyas [Laughs]. But then we have the highest prameya that is Supreme Lord, Bhagavan.
+
+Devotee: We don’t ask for pramana for normal life?
+
+HH Bhanu Swami Maharaj: Oh, for pramana, we don’t ask for pramana in regular life?
+
+Devotee: We say something, that person is bad. Then we say, oh, he’s bad. We never ask for pramana and all something or proof. We just believe.
+
+HH Bhanu Swami Maharaj: So in normal life, our pramama is our sense perceptions. Or our conclusions or inferences based on our sense perceptions. So we can say that person is a cheater. But there must have been some pramana, some way of knowing it [Laughs]. How do we know he’s a cheater? So we may see him cheating, come to the hundi box and steal some money ah, he’s stealing [Laughs]. So that’s direct sense perception. Or we may not see him steal but we come into the temple room after he left, we see him leave and the hundi is empty, the donation box is empty, so we’ll conclude, oh, he must have stolen the money, that’s inference [Laughs]. So in these cases our sense perception and our inference are pramana. And then, if you report that this person is a thief to another person, you become a pramana [Laughs].
+
+Devotee: But that person is, if I tell somebody he’s a thief, he doesn’t believe me.
+
+HH Bhanu Swami Maharaj: Yeah, then he says you’re not a pramana [Laughs]. You didn’t see or you misinterpreted. That’s also there. So the pramanas are not perfect in the material world. So in complicated cases, then you go to court [Laughs]. And then people testify and then they see, are you telling the truth or not telling the truth? Are you a pramana or not a pramana? And then the lawyer will get up and question you, did you actually see him steal the money or may be you just inferred it? Or even if you saw him, how many feet away were you? Did you see clearly? May be you weren’t wearing your glasses, so you made a mistake. So we do have the four defects of knowledge. So you make a mistake, you may think he stole the money but he actually didn’t do that. You saw him put his hand near the hundi but actually he was doing something else [Laughs]. Another is called pramada, he may have stolen the money but you’re standing there looking at him but you were thinking of something else, you don’t even see it [Laughs]. So sometimes in court then they get all the witnesses to a crime. You question them all, they all say something different [Laughs]. So one will say, I didn’t see anything, he didn’t do anything, so that’s inattention [Laughs]. Another may say, I think he must have stole that thing, but when they question him, may be it wasn’t true or not [Laughs]. And some witnesses may be too far away, so then they may say something, but may be too far away, senses are incapable of seeing at a distance. And then we have the witnesses actually saw it, but he says something different because somebody pays him to make a different statement, that’s called cheating [Laughs]. So these are the defects which are present in human society for our senses and our anumana or inference, and they even carry over into science. They may have the same four defects.
+
+Devotee: Even Vaishnava Acharyas have different commentary?
+
+HH Bhanu Swami Maharaj: So that is, we can say, different interpretations of the scripture, which is a pramana. So we take a pramana, and there may be different opinions about certain statements. So these differences may occur because the words can mean different things. And they’re not necessarily wrong, one is right and one is wrong, as long as the conclusion is correct. So there are rules for interpreting scripture. So the basic rule is we go by the direct words as much as possible. And all the individual statements of the scripture should also align with and agree with the final conclusion. So with those two rules, then you could interpret differently and still be correct [Laughs].
+
+Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/86/55-59": { title: "SB_10.86.55\u201359 \u2013 \u201cQualified Brahmana\u201d : Acharya\u2019s meaning vs Devotees misconceptions !", video: "CBB_UMkEu8s", article: `Srimad Bhagavatam 10.86.55-59 | HH Bhanu Swami Maharaj | ISKCON Japan | 29 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 86 Verse 55.
+
+ŚB 10.86.55
+
+duṣprajñā aviditvaivam
+avajānanty asūyavaḥ
+guruṁ māṁ vipram ātmānam
+arcādāv ijya-dṛṣṭayaḥ
+
+Synonyms
+
+duṣprajñāḥ — those of corrupted intelligence; aviditvā — failing to understand; evam — in this way; avajānanti — neglect; asūyavaḥ — and behave enviously toward; gurum — their spiritual master; mām — Me; vipram — the learned brāhmaṇa; ātmānam — their own self; arcā-ādaū — in the visibly manifest Deity of the Lord; ijya — as being worshipable; dṛṣṭayaḥ — whose vision.
+
+Translation
+
+Ignorant of this truth, foolish people neglect and enviously offend a learned brāhmaṇa, who, being nondifferent from Me, is their spiritual master and very self. They consider worshipable only such obvious manifestations of divinity as My Deity form.
+
+Text 56
+
+Translation
+
+Because he has realized Me, a brāhmaṇa is firmly fixed in the knowledge that everything moving and nonmoving in the universe, and also the primary elements of its creation, are all manifest forms expanded from Me.
+
+Text 57
+
+Translation
+
+Therefore you should worship these brāhmaṇa sages, O brāhmaṇa, with the same faith you have in Me. If you do so, you will worship Me directly, which you cannot do otherwise, even with offerings of vast riches.
+
+Text 58
+
+Translation
+
+Śrī Śuka said: So instructed by his Lord, with single-minded devotion. Śrutadeva worshiped Śrī Kṛṣṇa and the topmost brāhmaṇas accompanying Him, and King Bahulāśva did the same. Thus both Śrutadeva and the King attained the ultimate transcendental destination.
+
+Text 59
+
+Translation
+
+O King, thus the Personality of Godhead, who is devoted to His own devotees, stayed for some time with His two great devotees Śrutadeva and Bahulāśva, teaching them the behavior of perfect saints. Then the Lord returned to Dvārakā.
+
+Purport
+
+In his narration of this pastime in Kṛṣṇa, the Supreme Personality of Godhead, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda concludes: “The instruction we receive from this incident is that King Bahulāśva and Śrutadeva the brāhmaṇa were accepted by the Lord on the same level because both were pure devotees. This is the real qualification for being recognized by the Supreme Personality of Godhead. Because it has become the fashion of this age to become falsely proud of having taken birth in the family of a kṣatriya or a brāhmaṇa, we see persons without any qualification claiming to be brāhmaṇa or kṣatriya or vaiśya. But as it is stated in the scriptures, kalau śūdra-sambhava: ‘In this Age of Kali, everyone is born a śūdra.’ This is because there is no performance of the purificatory process known as saṁskāras, which begin from the time of the mother’s pregnancy and continue up to the point of the individual’s death. No one can be classified as a member of a particular caste, especially of a higher caste — brāhmaṇa, kṣatriya or vaiśya — simply by birthright. If one is not purified by the process of the seed-giving ceremony, or garbhādhāna-saṁskāra, he is immediately classified among the śūdras because only the śūdras do not undergo this purificatory process. Sex life without the purificatory process of Kṛṣṇa consciousness is merely the seed-giving process of the śūdras or the animals. But Kṛṣṇa consciousness is the highest perfection, by which everyone can come to the platform of a Vaiṣṇava. This includes having all the qualifications of a brāhmaṇa. The Vaiṣṇavas are trained to become freed from the four kinds of sinful activities — illicit sex, indulgence in intoxicants, gambling and eating animal foodstuffs. No one can be on the brahminical platform without having these preliminary qualifications, and without becoming a qualified brāhmaṇa, one cannot become a pure devotee.”
+
+Thus end the purports of the humble servants of His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda to the Tenth Canto, Eighty-sixth Chapter, of the Śrīmad-Bhāgavatam, entitled “Arjuna Kidnaps Subhadrā, and Kṛṣṇa Blesses His Devotees.”
+
+HH Bhanu Swami Maharaj:
+
+So if we read this last statement, no one can be on brahminical platform without having preliminary qualification. Without becoming a qualified brahmana, one cannot become a pure devotee. If we read this, then we will think, well, first we have to become brahmanas, then we can practice bhakti. But Prabhupada also says in the purport that the, being a brahmana is not just by birth. So he also have to undergo samskaras. So even if you are born as a brahmana but you don’t undergo the samskaras, you are not a brahmana. But then we have other people, vaishyas, kshatriyas and sudras, they may undergo samskaras, still they are not brahmanas. So then, we conclude that only a born brahmana who undergoes the samskaras can become a devotee. But this is completely contradictory to what else is said in the Bhagavatam [Laughs]. And of course, it is contradictory to the teachings of Caitanya Mahaprabhu. He says everybody can become a devotee [Laughs]. So what does this statement mean? Without becoming a qualified brahmana, one cannot become a pure devotee. What does that mean? This means that only people who can become pure devotees are those who birth after birth raise themselves through the gunas, then they are born into the brahmana family, and they perfectly do the samskaras, then they are qualified to be devotees. But that doesn’t make sense [Laughs].
+
+So Lord Caitanya says, anyone can become a guru, whether he is a sudra, or a brahmana, or a kshatriya, or a sannyasi, or whatever, grhastha, doesn’t really matter, as long as he knows Krishna. So, what does this phrase mean, becoming a qualified brahmana? What is that? So Haridasa Thakur, was he a qualified brahmana? But he is Namacharya. He was not born in a brahmana family, he didn’t undergo any samskaras [Laughs], so definitely he was not considered even in the varnashrama system, but he was Acharya. So therefore, this phrase, being a qualified brahmana, has to have a different meaning. If we look in Bhaktisiddhanta Saraswati’s commentaries on Caitanya Caritamrta, he actually says that Haridasa Thakur was a brahmanata, he had the level of a brahmana, or superior to a brahmana. So, how did he become brahmanata, qualified as a brahmana because he was a Vaishnava. So, that’s actually what Prabhupada says previously in the same purport. Krishna consciousness is the highest perfection by which everyone can come to the platform of a Vaishnava. This includes having all qualifications of a brahmana. So, if you become a Vaishnava, automatically you have all the qualifications of a brahmana, plus more [Laughs]. So, when Bhaktisiddhanta Saraswati Thakur uses the word brahmanata, he’s not referring to a person who by birth was born as a brahmana and underwent samskaras [Laughs]. And in fact, we can say, when he uses the word brahmana, he means a person who understands Brahman, Parabrahman. He understands as Krishna. In other words, anyone who knows Krishna, he is the brahmana [Laughs].
+
+So, there’s a very famous verse in Bhagavatam which is also quoted in Nectar of Devotion. And there it says that the dog-eater, who was not even in the varnashrama system by birth or conduct, if he chants the holy name once, he is qualified to do the sacrifices that a brahmana can do. But, this doesn’t mean that the goal of a person is to become a brahmana. Rather, it means that anyone who chants the holy name surpasses a brahmana. So, whatever a brahmana can do, the Vaishnava who chants the holy name is qualified to do but, obviously, he’s got a superior qualification. So, we really achieve brahmanata, that position of being a real brahmana, by chanting the holy name. So, this was the understanding among the followers of Caitanya Mahaprabhu. So, Haridasa Thakur came from a family not in the varnashrama system at all, but he chanted the holy name purely, he was superior to any brahmana. So, the power of bhakti and the holy name, is superior to any other process. So, if you do samskaras, you can become a brahmana, but that doesn’t make you into a Vaishnava.
+
+So, as I said, the followers of Lord Caitanya accepted this principle that bhakti and the holy name, puts us in a higher position than any varna or ashrama. So, we also have another process called Vaishnava diksha. So, in Vaishnava diksha, again, we don’t consider your birth at all. So, if the guru decides that a mleccha or a dog-eater is a qualified Vaishnava, he will give him the Vaishnava mantra for deity worship. So, again, even by not just the holy name, but the Vaishnava mantras of diksha, a person surpasses being a brahmana.
+
+So, these devotees, even if they came from mleccha family, if they got the mantra, they were qualified to worship the deity. Others who are following the smritis, the smarthas [Laughs], they will say, no, you should be a brahmana, born brahmana, to worship the deity. But, according to pancharatra, no, anyone who gets that mantra from guru, he’s qualified to worship the deity, whether he’s a brahmana or not. So, this was a controversy among people in India [Laughs], in Bengal, especially in Vrindavan, even after the time of Bhaktisiddhanta Saraswati Thakur, the brahmanas say, no, you Gaudiya Vaishnavas are low class because you have people who are not brahmanas worshipping deities.
+
+So, Bhaktisiddhanta Saraswati Thakur, and of course, as we see even in this purport, according to Lord Caitanya’s philosophy, they say, no, one who is a Vaishnava is superior to a brahmana, so therefore he can worship the deity or do any other activity. So, then what he did, after giving the Vaishnava mantra for worshipping the deity to his disciples, then he gave the Brahma Gayatri mantra also. Look, our Vaishnavas can do whatever a brahmana can do. So, he gave them Brahma Gayatri mantra and the thread [Laughs]. But, we should not make the mistake and think that because the devotee has become a brahmana, he can worship the deity, that’s a mistake. Rather, it’s the opposite [Laughs]. Because he is a Vaishnava, he can do whatever a brahmana can do, plus more [Laughs].
+
+So, a devotee who has the Vaishnava mantra, but not the Brahma Gayatri, he can worship the deity. One who has got the Vaishnava mantra, but does not have the Brahma Gayatri, he can worship the deity. But, one who has the Brahma Gayatri and is a brahmana, but doesn’t have our Vaishnava mantra, he cannot worship the deity [Laughs]. So, the important factor is that we’re a Vaishnava and we’ve got the Vaishnava mantra [Laughs]. And whether we have the Brahma Gayatri mantra or not doesn’t really matter. And this is because of that, that, it didn’t matter that the Gaudiyas whether you are brahmana or not didn’t really matter and they got the mantra and they worshipped the deity, up until the point of Bhaktisiddhanta Saraswati Thakur [Laughss].
+
+So, in other words, the Vaishnava mantra, diksha mantra, is more powerful for us than the Brahma Gayatri mantra. But then we have another astonishing fact. Harinama is even more powerful than the Vaishnava mantra [Laughs]. And thus, we have Haridasa Thakur, did not take Vaishnava initiation, no Vaishnava mantra, no Brahma Gayatri, chanted holy name and he’s higher than a brahmana [Laughs]. So, the final conclusion is that, by following the activities of Vaishnava, getting Vaishnava mantra, chanting Hare Krishna, we get to the highest platform of being a real brahmana by real realization of Krishna. So, the devotee practicing pure bhakti has all qualifications. So, therefore, he’s the most qualified brahmana [Laughs].
+
+Okay. Hare Krishna.
+
+Q & A :
+
+1.) Hare Krishna, what is meant by Vaishnava mantra?
+
+Vaishnava mantra is second initiation mantra.
+
+Devotee: Is it also Gayatri mantra?
+
+HH Bhanu Swami Maharaj: Well, apart from the Brahma Gayatri mantra, which is technically not Vaishnavic, it’s Vedic, for vaishyas, kshatriyas and brahmanas. Apart from that, we’re talking about Guru mantra, Gauranga mantra, and Krishna mantra. So, in second initiation, we get two types of Vaishnava mantra. One is the mantra for worshipping the deity, like Krishna or Gauranga. The other is the Krishna Gayatri or the Gauranga Gayatri or the Guru Gayatri, which is technically a meter, 24-syllable meter, that is used for meditation on the deity. So, they are similar in construction to the Vedic Brahma Gayatri.
+
+2.) Hare Krishna Maharaj. Maharaj now in ISKCON like the brahmana initiation looks like more senior and more important. And the pujaris, because they are connected to deities and festivals and abhishekam and all, it feels like new people are aspiring to become more pujaris than actually just chanting Hare Krishna maha mantra and depend on Hare Krishna maha mantra. So, how can Maharaj, we can educate the people in this direction?
+
+So, of course, if we read carefully Bhagavatam and Caitanya Caritamrta, then we realize that the most important process is Harinama. Lord Caitanya traveled around and said chant the holy name, He didn’t say worship the deities [Laughs]. Of course, we do not reject deity worship. Archana is one of the processes of bhakti. And it’s one among the five most important angas of bhakti. However, it does require qualification in the sense that, you have to be judged by the guru that you are qualified to worship the deity etc, whereas Hare Krishna, we tell everybody to chant Hare Krishna, no matter what qualification. So, to take second initiation in one sense indicates that one has reached a certain level of progress in following rules. But a person who hasn’t got second initiation may also be following the same rules [Laughs]. Of course, the only difference is that the person who has second initiation is qualified to worship the deity. So, of course, worshipping the deity is a process of bhakti, so fine, you can practice Archana [Laughs]. But the goal of our bhakti is not to do Archana [Laughs]. The goal of our bhakti is attain Krishna, and the main process is Harinama. So to realize this, we need proper knowledge by closely studying the books.
+
+Devotee: Maharaj, in ISKCON also it has become one of the sources of earning, pujari?
+
+HH Bhanu Swami Maharaj: Source of?
+
+Devotee: To do the yajna and to do puja.
+
+HH Bhanu Swami Maharaj: So it has become source of?
+
+Devotee: Earning.
+
+HH Bhanu Swami Maharaj: Earning. Oh [Laughs], it’s become a source of earning. Well, if we take second initiation in order to make money, that’s materialistic. Just as if we recite Bhagavatam to make money, again, that’s materialistic [Laughs]. So in other words, we shouldn’t materialize the process of bhakti.
+
+Devotee: Maharaj it’s like we observe that pujaris are more into rules and regulation, cleanliness what is do’s and don’ts. But it’s not like more emphasis on brahminical qualifications like truthfulness, simplicity, honesty. So we don’t see that much training and education. So how can we educate in that direction also for the pujaris in ISKCON?
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: Brahmanas, they follow the rules and all but basic qualifications as per Bhagavad Gita, you should be truthful, you should be simple. Those qualities we don’t see in the brahmana, devotees also.
+
+HH Bhanu Swami Maharaj: Which [Laughs] in the pujaris and the other devotees also [Laughs]?
+
+Devotee: Yeah.
+
+HH Bhanu Swami Maharaj: Of course, in the Nectar of Instruction there, Rupa Goswami says one of the unfavorable aspects is following too much rule [Laughs]. What this indicates, not that we don’t want rules, but that means that, we can follow the rule but without the proper goal of the rule. So the goal is to increase bhakti and attain prema. So we practice angas of bhakti as a rule and we may also follow other rules which are favorable to support that. So many of these favorable rules we may take from varnashrama system. For instance, brahminical conduct. So they are favorable as long as they help us increase the bhakti. But if we follow those rules for the rules sake then, and we get too attached to them, they may become unfavorable for our development of bhakti. So our Acharyas say, you can follow the rules of varnashrama along with doing bhakti, but one should not become too dependent on those varnashramic rules. If we think our bhakti depends on following those rules in varnashrama, then this becomes an impurity in bhakti.
+
+Okay fine. Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87": { title: "CHAPTER 87 : The Prayers of the Personified Vedas", article: `SB 10.87.1 – Techniques to decode the supreme spiritual reality encrypted in the scriptures !
+
+SB 10.87.2 – Sukadeva’s indirect refutation of Parikṣit’s impersonal inquiry !
+
+SB_10.87.3 – Srimad Bhagavatam, the final truth of all Vedic sources !
+
+SB_10.87.4~13 – The repeated question of great sages & the extensive commentaries of acharyas !
+
+SB_10.87.14 – The Simply wonderful proof of Supreme Brahman is real & personal !
+
+SB_10.87.15 – The hidden cause behind the creation of material world & unlocking its plan !
+
+SB_10.87.16 – Words of scripture carry Lord’s shaktis – it destroys pain & bestows bliss !
+
+SB 10.87.17 – Prayers of the personified Vedas devastatingly refute impersonalism !
+
+SB 10.87.18 – Various choices in spiritual life & their destinations !
+
+SB_10.87.19 – Vaishnava acharya’s various philosophies to establish the Supremacy of Supreme Lord !
+
+SB_10.87.20 – Jiva : Part & Parcel of the Lord – A deeper spiritual insight !` },
+  "/sb/10/87/1": { title: "SB 10.87.1 \u2013 Techniques to decode the supreme spiritual reality encrypted in the scriptures !", video: "CfFNTrC8oyA", article: `Srimad Bhagavatam 10.87.1 | HH Bhanu Swami Maharaj | ISKCON Japan | 30 April 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 1.
+
+ŚB 10.87.1
+
+śrī-parīkṣid uvāca
+
+brahman brahmaṇy anirdeśye
+nirguṇe guṇa-vṛttayaḥ
+kathaṁ caranti śrutayaḥ
+sākṣāt sad-asataḥ pare
+
+Synonyms
+
+śrī-parīkṣit uvāca — Śrī Parīkṣit said; brahman — O brāhmaṇa (Śukadeva); brahmaṇi — in the Absolute Truth; anirdeśye — which cannot be described in words; nirguṇe — which has no qualities; guṇa — the qualities of material nature; vṛttayaḥ — whose scope of action; katham — how; caranti — function (by referring); śrutayaḥ — the Vedas; sākṣāt — directly; sat — to material substance; asataḥ — and its subtle causes; pare — in that which is transcendental.
+
+Translation
+
+Śrī Parīkṣit said: O brāhmaṇa, how can the Vedas directly describe the Supreme Absolute Truth, who cannot be described in words? The Vedas are limited to describing the qualities of material nature, but the Supreme is devoid of these qualities, being transcendental to all material manifestations and their causes.
+
+Purport
+
+Before beginning his commentary on this chapter, Śrīla Śrīdhara Svāmī prays:
+
+vāg-īśā yasya vadane
+lakṣmīr yasya ca vakṣasi
+yasyāste hṛdaye saṁvit
+taṁ nṛṣiṁham ahaṁ bhaje
+
+“I worship Lord Nṛsiṁha, within whose mouth reside the great masters of eloquence, upon whose chest resides the goddess of fortune, and within whose heart resides the divine potency of consciousness.”
+
+sampradāya-viśuddhy-arthaṁ
+svīya-nirbandha-yantritaḥ
+śruti-stuti-mita-vyākhyāṁ
+kariṣyāmi yathā-mati
+
+“Desiring to purify my sampradāya and being bound by duty, I will briefly comment on the prayers of the personified Vedas, to the best of my realization.”
+
+“In as much as Śrīmad-Bhāgavatam has already been perfectly honored by my predecessors’ explanations, I can only gather together the remnants of what they have honored.”
+
+Śrīla Viśvanātha Cakravartī offers his own invocation:
+
+mama ratna-vaṇig-bhāvaṁ
+ratnāny aparicinvataḥ
+hasantu santo jihremi
+na sva-svānta-vinoda-kṛt
+
+“The saintly devotees may laugh at me for becoming a jewel merchant though I know nothing about precious jewels. But I feel no shame, for at least I may entertain them.”
+
+na me ’sti vaiduṣy api nāpi bhaktir
+virakti-raktir na tathāpi laulyāt
+su-durgamād eva bhavāmi veda-
+stuty-artha-cintāmaṇi-rāśi-gṛdhnuḥ
+
+“Though I have no wisdom, devotion or detachment, I am still greedy to take the philosopher’s stone of the Vedas’ prayers from the fortress in which it is being kept.”
+
+māṁ nīcatāyām aviveka-vāyuḥ
+pravartate pātayituṁ balāc cet
+likhāmy ataḥ svāmī-sanātana-śrī-
+kṛṣṇāṅghri-bhā-stambha-kṛtāvalambaḥ
+
+“If the wind of indiscretion — my failure to acknowledge my lowly position — threatens to knock me down, then while writing this commentary I must hold on to the effulgent pillars of the feet of Śrīdhara Svāmī, Sanātana Gosvāmī and Lord Śrī Kṛṣṇa.”
+
+praṇamya śrī-guruṁ bhūyaḥ
+śrī-kṛṣṇaṁ karuṇārṇavam
+loka-nāthaṁ jagac-cakṣuḥ
+śrī-śukaṁ tam upāśraye
+
+“Repeatedly bowing down to my divine spiritual master and to Lord Śrī Kṛṣṇa, the ocean of mercy, I take shelter of Śrī Śukadeva Gosvāmī, the protector of the world and its universal eye.”
+
+At the end of the preceding chapter, Śukadeva Gosvāmī told Parīkṣit Mahārāja:
+
+evaṁ sva-bhaktayo rājan
+bhagavān bhakta-bhaktimān
+uṣitvādiśya san-mārgaṁ
+punar dvāravatīm agāt
+
+“Thus, O King, the Personality of Godhead, who is the devotee of His own devotees, stayed for some time with His two great devotees, teaching them how perfect saints behave. Then He returned to Dvārakā.” In this verse the word san-mārgam can be understood in at least three ways. In the first, sat is taken to mean “devotee of the Supreme Lord,” and thus san-mārgam means “the path of bhakti-yoga, devotional service.” In the second, with sat meaning “a seeker of transcendental knowledge,” san-mārgam means “the philosophical path of knowledge,” which has impersonal Brahman as its object. And in the third, with sat referring to the transcendental sound of the Vedas, san-mārgam means “the process of following Vedic injunctions.” Both the second and the third of these interpretations of san-mārgam lead to the question of how the Vedas can describe the Absolute Truth.
+
+Śrīla Śrīdhara Svāmī elaborately analyzes this problem in terms of the traditional discipline of Sanskrit poetics: We should consider that words have three kinds of expressive capacities, called śabda-vṛttis. These are the different ways a word refers to its meaning, distinguished as mukhya-vṛtti, lakṣaṇā-vṛtti and gauṇa-vṛtti. The śabda-vṛtti termed mukhya is the primary, literal meaning of a word; this is also known as abhidhā, a word’s “denotation,” or dictionary meaning. Mukhya-vṛtti is further divided into two subcategories, namely rūḍhi and yoga. A primary meaning is called rūḍhi when it is based on conventional usage, and yoga when it is derived from another word’s meaning by regular etymological rules.
+
+For example, the word go (“cow”) is an example of rūḍhi, since its relation with its literal meaning is purely conventional. The denotation of the word pācaka (“chef”), on the other hand, is a yoga-vṛtti, through the word’s derivation from the root pac (“to cook”) by addition of the agent suffix ka.
+
+Beside its mukhya-vṛtti, or primary meaning, a word can also be used in a secondary, metaphorical sense. This usage is called lakṣaṇā. The rule is that a word should not be understood metaphorically if its mukhya-vṛtti makes sense in the given context; only after the mukhya-vṛtti fails to convey a word’s meaning may lakṣaṇā-vṛtti be justifiably presumed. The function of lakṣaṇā is technically explained in the kāvya-śāstras as an extended reference, pointing to something in some way related to the object of the literal meaning. Thus, the phrase gaṅgāyāṁ ghoṣaḥ literally means “the cowherd village in the Ganges.” But that idea is absurd, so here gaṅgāyām should rather be understood by its lakṣaṇā to mean “on the bank of the Ganges,” the bank being something related to the river. Gauṇa-vṛtti is a special kind of lakṣaṇā, where the meaning is extended to some idea of similarity. For example, in the statement siṁho devadattaḥ (“Devadatta is a lion”), heroic Devadatta is metaphorically called a lion because of his lionlike qualities. In contrast, the example of the general kind of lakṣaṇā, namely gaṅgāyāṁ ghoṣaḥ, involves a relationship not of similarity but of location.
+
+In this first verse of the Eighty-seventh Chapter, Parīkṣit Mahārāja expresses doubt as to how the words of the Vedas can refer to the Absolute Truth by any of the valid kinds of śabda-vṛtti. He asks, kathaṁ sākṣāt caranti: How can the Vedas directly describe Brahman by rūḍha-mukhya-vṛtti, literal meaning based on convention? After all, the Absolute is anirdeśya, inaccessible to designation. And how can the Vedas even describe Brahman by gauṇa-vṛtti, metaphor based on similar qualities?
+
+The Vedas are guṇa-vṛttayaḥ, full of qualitative descriptions, but Brahman is nirguṇa, without qualities. Obviously, a metaphor based on similar qualities cannot apply in the case of something that has no qualities. Furthermore, Parīkṣit Mahārāja points out that Brahman is sad-asataḥ param, beyond all causes and effects. Having no connection with any manifest existence, subtle or gross, the Absolute cannot be expressed by either yoga-vṛtti, a meaning derived etymologically, or lakṣaṇā, metaphor, since both require some relationship of Brahman to other entities.
+
+Thus King Parīkṣit is puzzled as to how the words of the Vedas can directly describe the Absolute Truth.
+
+HH Bhanu Swami Maharaj:
+
+Hare Krishna!
+
+So at the end of the last chapter, as described here, it was said that Krishna taught Srutadeva and the king san-marga, the path of sat. Now the word sat can mean devotees, so the path of the devotees which means bhakti, so Krishna taught about bhakti, so that’s the way we would interpret it [Laughs]. However, the word sat also may refer to Brahman, so it’s the path of impersonalism and Brahman. So Parikshit in this first verse is asking, how can you speak about Brahman? Because Brahman is anirdesya, it cannot be described. This is what Veda is saying. It cannot be described.
+
+So how can we use words to talk about Brahman even in the Vedas [Laughs]? And Brahman has no qualities. So we can’t even describe Brahman using metaphors that involve similarity of qualities. So the example is given in the purport, so and so person is a lion. So it means this person is like a lion because he fights very courageously. So we can make that statement because of similiarity of quality. The lion has courage and this certain person has courage. But in speaking about Brahman, we cannot do that because there’s no similarity of quality, it says Brahman has no qualities.
+
+So we cannot compare Brahman to anything. So either literally taking words or metaphorically taking words, we cannot talk about Brahman [Laughs]. So therefore, the Vedas actually become meaningless to discuss Brahman. So that of course, is a very important question. And ultimately, if you know, personalist is, one accepts impersonalism, this is true. Nothing can describe Brahman, even the Vedas [Laughs]. And thus, the impersonalists say, followers of Shankaracharya says, if you realize Brahman, you also reject the Vedas.
+
+So then the question comes, then why do, why do the [Laughs] followers of Shankara even study the Vedas. So that of course, is a complicated question and they have difficulty answering. But then, I think someone of their writers [Laughs] gives an example. So world is like a dream. And in that dream of course, we all are just having illusory experiences. But then a tiger, it may come along in the dream and roar. So the tiger is also illusory. But because of the roar of tiger, tiger, we wake up [Laughs]. So part of the illusion is useful for getting us out of the illusion [Laughs].
+
+So even though Vedas are part of the illusion, they serve like the lion or the tiger roaring and they stimulate us to get out of the illusion [Laughs]. Of course, the Vaishnavas do not have this problem. And the prayers of the personified Vedas are there to answer this in terms of Vaishnava philosophy [Laughs]. So ultimately, Brahman refers to Bhagavan. And Bhagavan has qualities. Of course, they are spiritual qualities. So, we can describe those qualities if we have spiritual words [Laughs]. So, the Vedas are spiritual words, so therefore the Vedas can describe Bhagavan [Laughs].
+
+Devotee: Spiritual words? In the spiritual words, you mean?
+
+HH Bhanu Swami Maharaj: No, the Vedas consist of words which are spiritual, not material. So those words can describe Bhagavan. Of course, then the next objection will be, well, Vedas are made up of spiritual words, but they look like they are material words, because they are the same words we use [Laughs] in the material world [Laughs]. So, how can the same word be material and spiritual [Laughs]? So, of course, in the material world we have the five elements, we have the sense objects, we have sound, etc. We have words, all of this is arising from prakrti, so it’s material.
+
+So, normally, yes, the words we use in the material world are material words [Laughs]. At the same time, we also know that the Vedas are eternal, they are never created and destroyed, so they are quite different from normal words [Laughs]. So, how do these spiritual words arise? They don’t arise from prakrti. So, these words arise from the spiritual shakti of the Lord, the internal energy of the Lord. Material sound arises from bahiranga shakti, external energy, and Vedas arise from antaranga shakti, internal energy of the Lord.
+
+So therefore, Vedas and Puranas, etc, are not material sound, they are spiritual sound. If Vedas are spiritual sound, how can a person in the material world will hear spiritual sound with a material ear? Impossible [Laughs]. For that reason, the Vedas are restricted. If you are a sudra, you cannot hear the Vedas, you cannot say the Vedas. Why? Because you will take them as material. And, of course, we do the same with the Bhagavatam. The Bhagavatam and Bhagavad Gita are for people with faith, devotees, not for materialists, not for the envious.
+
+Of course, when we begin devotional service, we have a little bhakti, so our understanding of the spiritual nature of those words is quite limited. But, the more we advance in bhakti, then the more we can realize the spiritual import of those words. So, a more advanced devotee, when he hears the descriptions of Krishna’s form, qualities, and pastimes, he becomes very inspired. And a person who is just beginning devotional service will be less inspired.
+
+So, by our devotion, we can access the spiritual nature of the words. So, therefore, the spiritual literature, Vedas and Puranas, etc, can describe the Supreme Brahman, Bhagavan. Because Supreme Lord has form, qualities, and activities. So definitely, that Supreme Brahman is anirdesya, or indescribable, by material words. And Bhagavan is nirguna, without qualities in the sense that He has no material qualities. However, the Lord can be described because He has spiritual qualities. And, spiritual words can indicate Supreme Lord.
+
+In this purport, there is a discussion about capacity of words, or sabda-vritti. That is, what is the capacity, or the potency of words. So words are distinguished from sound because the words have meaning. So, the normal meaning of words is the direct meaning of it. So, if you say dog, it means this animal on four legs with fur and waggy tail [Laughs]. So, we have commonly accepted meanings of words. That’s how we communicate [Laughs]. So, this we call the mukhya-vritti, or the main way, the principal, primary meaning. In Caitanya Caritamrta, Lord Caitanya calls this the abhidha-vritti, the direct meaning of the words, literal meaning of the words.
+
+So, when we put words together, we get sentences. When we put sentences together, we get paragraphs. When we put paragraphs together, we get a chapter. So, in this way, we generally take the mukhya-vritti, or abhidha, as the way of getting the meaning. So in this way, we will get the correct meaning of thd scriptures. But sometimes we cannot take the direct meaning of words. Because it doesn’t make sense [Laughs]. So, if we take the literal meaning, there is a river on the Ganga, there is a village on the Ganga, it means there is a village floating on top of the river. But that’s not, we don’t see that [Laughs]. So we say, no, it’s not a river floating on the Ganga, a village floating on the Ganga, there’s a village on the bank of the Ganga. But we say a village on the Ganga. So, we interpret the phrase village on the Ganga to mean village on the bank of the Ganga. That’s our interpretation [Laughs].
+
+So this, taking the interpreted meaning is called lakshana. So it is acceptable and not always, but under circumstances where the direct meaning does not make sense. So, that’s this one example. Then of course, then we have these other examples of so-and-so person as a lion. So, he’s not literally a lion. So, we say okay, he’s like a lion. So this is also lakshana but it’s called gauna-vritti or a function of similarity of qualities [Laughs]. So, in any case, this lakshana or secondary meaning of words by interpretation is useful, but we can’t use it all the time [Laughs].
+
+So, we use words in the scriptures, but then we should try to take the direct meaning as much as possible. And the direct meaning will describe the form and qualities and activities of Bhagavan. So, if the scriptures say Krishna is blue, then we accept, okay, He is blue. But if we say, well, okay, Brahman has no qualities and form, so therefore Krishna is blue, it doesn’t really mean that. It means something else [Laughs]. So, we can say Krishna means black, and black means unknowable.
+
+Devotee: Unknowable means?
+
+HH Bhanu Swami Maharaj: Cannot be known. And blue in Shyama, in Sanskrit, and Shyama also means dark and unknown [Laughs]. And therefore, we say Krishna is blue, it also means Brahman cannot be described [Laughs]. So, that is the use of lakshana to support our philosophical idea rather than to just take the direct meaning [Laughs]. So, our Acharyas, when they comment on scriptures, then they try to explain things mainly using the direct meaning of words and not the abhidha and they try to avoid the lakshana as much as possible.
+
+Okay. Hare Krishna!
+
+Q & A :
+
+1.) If Bhagavad Gita and Bhagavatam is only for people with faith, but in book distribution we give it to anyone. Considering that when they read one line also, they will start progressing. How to understand this?
+
+So actually in distributing books, we look for favourable people. Of course, sometimes, we don’t, appearances fool us but generally, we look for those people who may be more favourable and we approach and we talk and then we find if they’re interested. Then we try to say, okay, here’s the book and whatever. So by talking to people, we can see if they have some slight interest at least. So it is said we avoid the demons [Laughs]. So we don’t try to approach those people who are obviously hostile. And it says we approach the balisha, the innocent. So they are not, let’s say, inimical. They’re not negative. They may not be positive, but at least they’re not demons [Laughs]. But among those innocent people, not all are going to become interested and take a book even [Laughs]. So therefore, ultimately, in distributing books, those people who do take, do have some interest and must have a little faith. Of course, in the early days of book distribution, in enthusiasm, people would, devotees would trick people into taking books, but then they found people just took the books and put them in the garbage-can [Laughs] later on [Laughs]. So what’s the use of that [Laughs]?
+
+2.) Hare Krishna Maharaj. Thank you for the wonderful class. I have two questions. First one is, Maharaj, what is the difference between Brahmavadi and Mayavadi? And my second question is that, we, ISKCON devotees, we do not focus much on Vedas. Is this because that Srimad Bhagavatam is the fruit of Veda? Is that the reason? I mean, we do not have much knowledge on Veda, and our gurus, our senior devotees, they also don’t encourage us to study Veda. This is because everything is contained in Srimad Bhagavatam. Is that the reason? Hare Krishna.
+
+So there are many types of impersonalists. Among those impersonalists, we have the mayavadis. We have the six darshanas which include nyaya or logic and patanjali’s yoga and what is it? The vaiseshika philosophy. So these are all impersonal. Ultimately, they believe there is something up there which is different from prakriti.
+
+Devotee: You said prakriti and then?
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: What did you explain? Those philosophies?
+
+HH Bhanu Swami Maharaj: Logic, logic, and what was it, yoga, patanjali yoga, and vaiseshika philosophy about the atoms and we even have the kapila sankhya, also impersonal [Laughs]. So, one of the Sad-darsanas is also Vedanta. And in Vedanta, we have Shankara’s philosophy. So, based upon Vedanta sutras and Upanishads, Shankaracharya concludes in impersonal Brahman. But, then he also says, prakriti or material nature does not exist. Jiva does not exist. So, that’s why it’s mayavada, they say everything is maya except Brahman. So, these other philosophies like yoga or nyaya, they will have an impersonal Brahman, but they don’t say that prakriti, material world is illusion. It’s not maya. So, philosophy is somewhat different, but the final experience is experience the impersonal Brahman in these cases [Laughs]. So, as for the Vedas, our Acharyas accept the Vedas as sacred and absolute and spiritual.
+
+Devotee: Sacred and spiritual and?
+
+HH Bhanu Swami Maharaj: Yeah, and also eternal. However, Jiva Goswami explains in Tattva Sandarbha that this is true, but the Vedas are at the present time difficult to understand, not complete. So, Veda Vyasa wrote Puranas so that the same Vedic message would be easier to understand. So the Puranas are easier for the people of kali yuga to understand. But they are equal to the Vedas, and therefore they are called the 5th Veda.
+
+Devotee: It’s Srimad Bhagavatam and Bhagavad Gita you mean, right?
+
+HH Bhanu Swami Maharaj: Among the Puranas, as described in the first canto, Srimad Bhagavatam is the concluding, or the conclusion of all the Puranas. So, rather than study the Vedas, which are very difficult to understand, it’s better to study Srimad Bhagavatam and we get the final conclusion.
+
+3.) Sometimes the scripture is very difficult to understand for me, and even if the Acharya explained by using the examples, or the interpretation of the example, and still I don’t understand what it means, and so sometimes I use my, you know, a kind of maybe speculation, I use my experience or my understanding what the word is, something like that, and then I’m using my experience to help to understand the scripture. Is that a wrong attitude to read scripture?
+
+Okay. So, when we hear or study or read scriptures, obviously we are also getting the meaning according to our own experience [Laughs]. For instance, we read something and we will say, oh, I agree with that, yeah, because I also experienced it [Laughs]. So to some degree we can firm the scripture by our own experience. So this increases our faith. But of course, some things are beyond our experience. So they may be more difficult to understand [Laughs]. And we can try to fit it into our experience, but we can only speculate sometimes. So this will become dangerous if we take some statements and we don’t understand and then we try to change them, alter them to make it fit into our experience [Laughs]. And that’s exactly what impersonalists do when they read Bhagavad Gita or Bhagavatam, they interpret it according to their impersonalist experience and start distorting the meaning [Laughs]. So therefore, we do have to read carefully. And that’s why we do have the commentaries of Acharyas so that we don’t speculate too much.
+
+Devotee: Thank you very much.
+
+HH Bhanu Swami Maharaj: Hare Krishna!
+
+4.) Hare Krishna. I have a question. Krishna emphasizes about importance of brahmana and respect to the devotees. So He said Srutadeva and Bahulasva to respect the brahmanas, means for us, we should respect the devotees. So it means if we respect Krishna or Krishna philosophy, sastra, authority, but at the same time if we don’t respect to the devotees, even like equal devotees or make like friendship, like equal devotees not so much respect, then that is wrong way? It will be corrected or it will be not correct [Laughs]?
+
+So in the last chapter Krishna explained that we respect the brahmana, Vaishnava because they deliver the message of Krishna [Laughs]. So only the devotee can understand Bhagavatam. And we have to go to scripture like Bhagavatam because we rely on that as our pramana, that’s our proof [Laughs]. So if we don’t respect the devotees, then we don’t get the message properly. And thus we cannot advance in bhakti. So we respect all living entities, among all the living entities of course, we do respect the devotees the most. But among equals, then we act in a friendly way and we can exchange knowledge. For superior devotee we receive the knowledge. And in relating to a lesser devotee, then we give knowledge. So by interacting with these various devotees in different ways, we progress in our bhakti.
+
+Devotee: Thank you so much.
+
+HH Bhanu Swami Maharaj: Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/14": { title: "SB_10.87.14 \u2013 The Simply wonderful proof of Supreme Brahman is real & personal !", video: "6C8qbLvGEic", article: `Srimad Bhagavatam 10.87.14 | HH Bhanu Swami Maharaj | ISKCON Japan | 4 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 14.
+
+ŚB 10.87.14
+
+śrī-śrutaya ūcuḥ
+
+jaya jaya jahy ajām ajita doṣa-gṛbhīta-guṇāṁ
+tvam asi yad ātmanā samavaruddha-samasta-bhagaḥ
+aga-jagad-okasām akhila-śakty-avabodhaka te
+kvacid ajayātmanā ca carato ’nucaren nigamaḥ
+
+Synonyms
+
+śrī-śrutayaḥ ūcuḥ — the Vedas said; jayajaya — victory to You, victory to You; jahi — please defeat; ajām — the eternal illusory potency of Māyā; ajita — O unconquerable one; doṣa — to create discrepancies; gṛbhīta — who has assumed; guṇām — the qualities of matter; tvam — You; asi — are; yat — because; ātmanā — in Your original status; samavaruddha — complete; samasta — in all; bhagaḥ — opulences; aga — nonmoving; jagat — and moving; okasām — of those who possess material bodies; akhila — of all; śakti — the energies; avabodhaka — O You who awaken; te — You; kvacit — sometimes; ajayā — with Your material energy; ātmanā — and with Your internal, spiritual energy; ca — also; carataḥ — engaging; anucaret — can appreciate; nigamaḥ — the Vedas.
+
+Translation
+
+The śrutis said: Victory, victory to You, O unconquerable one! By Your very nature You are perfectly full in all opulences; therefore please defeat the eternal power of illusion, who assumes control over the modes of nature to create difficulties for conditioned souls. O You who awaken all the energies of the moving and nonmoving embodied beings, sometimes the Vedas can recognize You as You sport with Your material and spiritual potencies.
+
+Purport
+
+According to Śrīla Jīva Gosvāmī, the twenty-eight verses of the prayers of the personified Vedas (texts 14-41) represent the opinions of each of the twenty-eight major śrutis. These chief Upaniṣads and other śrutis concern themselves with various approaches to the Absolute Truth, and among them those śrutis are supreme which emphasize pure, unalloyed devotional service to the Supreme Personality of Godhead. The Upaniṣads direct our attention to the Personality of Godhead by first negating what is distinct from Him and then defining some of His important characteristics.
+
+Śrīla Viśvanātha Cakravartī interprets the first words of this prayer, jaya jaya, to mean “please reveal Your superexcellence.” The word jaya is repeated out of either reverence or joy.
+
+“How should I reveal My excellence?” the Lord might ask.
+
+The śrutis answer by requesting Him to mercifully destroy the ignorance of all living beings and attract them to His lotus feet.
+
+The Lord says, “But Māyā, who imposes ignorance on the jīvas, is full of good qualities [gṛbhīta-guṇām]. Why should I oppose her?”
+
+“Yes,” the Vedas answer, “but she has taken on the three modes of nature to bewilder the conditioned souls and make them falsely identify with their material bodies. Her modes of goodness, passion and ignorance, moreover, are tainted [doṣa-gṛbhīta] because You are not manifest in their presence.”
+
+The śrutis go on to address the Lord as ajita, implying that “only You cannot be conquered by Māyā, whereas others, like Brahmā, are defeated by their own faults.”
+
+The Lord responds, “But what proof do you have that she cannot conquer Me?”
+
+“The proof lies in the fact that in Your original state You have already realized the perfection of all opulences.”
+
+At this point the Lord might object that merely destroying the ignorance of the jīvas will not suffice to bring them to His lotus feet, since the jīva soul, even after his ignorance is dispelled, cannot attain the Lord without engaging in devotional service. As the Lord states in His own words, bhaktyāham ekayā grāhyaḥ: “I am attainable only through devotional service.” (Bhāg. 11.14.21)
+
+To this objection the śrutis reply, “My Lord, O You who awaken all energies, after creating the intelligence and senses of the living entities, You inspire them to work hard and enjoy the fruits of their labor. In addition, by Your mercy You awaken their ability to pursue the progressive paths of knowledge, mystic yoga and devotional service, allowing them to advance toward You in Your aspects of Brahman, Paramātmā and Bhagavān, respectively. And when jñāna, yoga and bhakti mature, You empower the living beings to directly realize You in each of Your three aspects.”
+
+If the Lord were to ask for authoritative evidence to support this statement by the personified Vedas, they humbly reply, “We ourselves are the evidence. On some occasions — such as now, the time of creation — You consort with Your external, Māyā potency, whereas You are always present with Your internal energy. It is at times such as the present, when Your activity is outwardly manifest, that we, the Vedas, can recognize You in Your play.”
+
+Thus endowed with authority by their personal association with the Supreme Lord, the śrutis promulgate the processes of karma, jñāna, yoga and bhakti as various means for the conditioned souls to employ their intelligence, senses, mind and vitality in search of the Absolute Truth.
+
+In many places the Vedas glorify the transcendental, personal qualities of the Supreme. The following verse appears in the Śvetāśvatara Upaniṣad (6.11), the Gopāla-tāpanī Upaniṣad (Uttara 97), and the Brahma Upaniṣad (4.1):
+
+eko devaḥ sarva-bhūteṣu gūḍhaḥ
+sarva-vyāpī sarva-bhūtāntarātmā
+karmādhyakṣaḥ sarva-bhūtādhivāsaḥ
+sākṣī cetāḥ kevalo nirguṇaś ca
+
+“The one Supreme Lord lives hidden inside all created things. He pervades all matter and sits within the hearts of all living beings. As the indwelling Supersoul, He supervises their material activities. Thus, while having no material qualities Himself, He is the unique witness and giver of consciousness.”
+
+The Supreme’s personal qualities are further described in the following quotations from the Upaniṣads: Yaḥ sarva-jñaḥ sa sarva-vid yasya jñāna-mayaṁ tapaḥ. “He who is all-knowing, from whom the potency of all knowledge comes — He is the wisest of all” (Muṇḍaka Upaniṣad 1.1.9); sarvasya vaśī sarvasyeśānaḥ: “He is the Lord and controller of everyone” (Bṛhad-āraṇyaka Upaniṣad 4.4.22); and yaḥ pṛthivyāṁ tiṣṭhan pṛthivyā āntaro yaṁ pṛthivī na veda: “He who resides within the earth and pervades it, whom the earth does not know.” (Bṛhad-āraṇyaka Upaniṣad 3.7.3)
+
+The Lord’s role in creation is mentioned in many statements of the śruti. The Bṛhad-āraṇyaka Upaniṣad (1.2.4) states, so ’kāmayata bahu syām: “He desired, ‘I will become many.’” The phrase so ’kāmayata (“He desired”) here implies that the Lord’s personality is eternal, for even prior to the creation the Absolute Truth experienced desire, and desire is an attribute unique to persons. The Aitareya Upaniṣad (3.11) similarly states, sa aikṣata tat-tejo ’sṛjata: “He saw, and His power sent forth the creation.” Here the word tat-tejaḥ refers to the Lord’s partial expansion Mahā-Viṣṇu, who glances upon Māyā and thus manifests the material creation. Or tat-tejaḥ may refer to the Lord’s impersonal Brahman feature, His potency of all-pervasive, eternal existence. As described in Śrī Brahma-saṁhitā (5.40):
+
+yasya prabhā prabhavato jagad-aṇḍa-koṭi-
+koṭiṣv aśeṣa-vasudhādi-vibhūti-bhinnam
+tad brahma niṣkalam anantam aśeṣa-bhūtaṁ
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+
+“I worship Govinda, the primeval Lord, who is endowed with great power. The glowing effulgence of His transcendental form is the impersonal Brahman, which is absolute, complete and unlimited and which displays the varieties of countless planets, with their different opulences, in millions and millions of universes.”
+
+In summing up this verse, Śrīla Śrīdhara Svāmī prays:
+
+jaya jayājita jahy aga-jaṅgamā-
+vṛtim ajām upanīta-mṛṣā-guṇām
+na hi bhavantam ṛte prabhavanty amī
+nigama-gīta-guṇārṇavatā tava
+
+“All glories, all glories to You, O unconquerable one! Please defeat the influence of Your eternal Māyā, who covers all moving and nonmoving creatures and who rules over the modes of illusion. Without Your influence, all these Vedic mantras would be powerless to sing of You as the ocean of transcendental qualities.”
+
+HH Bhanu Swami Maharaj:
+
+So we have Srutis or the Vedas are here praising the Lord. The original question of Parikshit is how can the Vedas describe the Lord? So here, they are describing the Lord [Laughs]. Of course, these are descriptions in the Bhagavatam. And if we look in the Srutis themself, the Vedas, we will not find these prayers.
+
+Devotee: Could you say please?
+
+HH Bhanu Swami Maharaj: We do not find these prayers exactly in the Vedas. So what the Srutis say are Upanishads. That’s describing Supreme Lord, Brahman, etc [Laughs]. However, Upanishads are difficult to understand. So Vedavyasa wrote the Bhagavatam to explain the meaning of Upanishads, explain the meaning of Brahma Sutras. So we can ask the question, what is the importance of the Vedas?
+
+Why do we have to put so much emphasis on the Vedas? In one sense, we don’t. We just study the Bhagavatam [Laughs]. So our answer is, while we are actually studying the Vedas, we study the Bhagavatam because we are getting the essence, the real conclusion of the Vedas. However, other philosophers will protest. And they will say, you have to show us how Bhagavatam is saying the same thing as Upanishads [Laughs].
+
+So therefore, our Acharyas often quote the Upanishads to explain the verses of Bhagavatam. Of course, we can still ask, well, why, why do we put so much emphasis upon Vedas? The reason is, they are the original scriptures. They are eternal. It says, the Jiva is eternal, Prakriti is eternal, Vedas are also eternal. Of course, the Vedas appear in every universe. However, it is like the Supreme Lord Krishna appears in every universe, but He is also eternal.
+
+So, the Vedas are actually never created, but they appear from the mouth of Brahma. Other scriptures, like the Puranas, are written by Vedavyasa at a certain time, so they have a beginning. So, for that reason, some people will put more emphasis on the Vedas, because they are eternal, Puranas are temporary manifestations. However, because they have the same meaning, then we can say, well, they are the same [Laughs]. So, that is the conclusion, the argument of our Acharyas.
+
+Others, the impersonals like Shankaracharya, will say, no. Sruti is the highest proof. And if Puranas, or Mahabharata, or other works, Smritis, etc., contradict, then we’ll take the authority of Sruti over them. So, in other words, they will use Lakshana to interpret the Puranas to say the same thing as their conclusion on the Vedas [Laughs]. However, the Vaishnavas say no, the Puranas are saying the same thing. There is no contradiction. So, all the Vaishnava Acharyas say, Puranas describe Bhagavan, the Lord with form, qualities, and activities. Upanishads also describe Bhagavan with form, qualities, and activities.
+
+The impersonals say, no. The Upanishads speak only of impersonal Brahman, no qualities, form, activities. So, Shankaracharya has written commentaries on ten Upanishads, which he says are most important and he gives impersonal interpretations. Our Acharyas will say, the same Upanishad says, no, your meaning is wrong [Laughs].
+
+So, we see here in the commentary, we have many quotes from Brhadaranyaka Upanishad, Mundaka Upanishad. These are Upanishads that Shankaracharya has written impersonal commentary on, but here, we’ll see, it’s expressing personal Bhagavan. Of course, then, the impersonalists will argue, oh, Upanishads say that, but they’ll use Lakshana to say it’s not actually personal [Laughs]. Here Lakshana means, not direct meaning. They’ll give it a non-direct meaning, and say, it means something else [Laughs].
+
+So all these statements that say the Lord creates the world, he knows everything, he controls everyone, it’s poetic language, metaphor, it doesn’t actually mean that [Laughs]. And for that reason, we see in the Caitanya Caritamrta, Lord Caitanya is talking to the impersonalists and says we do have to use direct meaning as much as possible. We can’t just, anytime we feel like it, start interpreting things. So impersanlists will take Upanishads, and based on Upanishads we have Vedanta Sutras which give meaning to Upanishads. But, the Vaishnava Acharyas will take the same Brahma Sutra and give personal meaning. For instance, we got the first verse, athāto brahma-jijñāsā [Vedanta Sutra 1.1.1], we should inquire about Brahman.
+
+So, impersonalists will say, yes, after you’ve experienced karma and karma yoga and swarga loka, etc., you should reject that, and you should try to merge into impersonal Brahman. But, Ramanujacharya, who was the first major Acharya to refute or argue with Shankaracharya, says, no, Brahman means Narayana. And, Nimbarkacharya and Baladeva Vidyabhusana say, Brahman means Krishna [Laughs]. So, the Brahma Sutras then, the Vaishnava Acharyas give meaning to the Brahma Sutras, to show that it’s all about Bhagavan.
+
+So, when Parikshit asks this question to Sukadeva, can the Vedas describe the Absolute Truth, Brahman, it’s also a question, is that Brahman personal or impersonal? So, in his prayers to the personified Vedas, we’ll see, Brahman is impersonal. So, in his prayers to the personified Vedas, we’ll see a lot of the verses are simply stating that this Supreme Brahman is personal. He has qualities, He has activity, He has form.
+
+So, this verse is addressing the Lord, and when Maha-Vishnu was waking up or whatever, and it’s saying, okay, that’s glorifying Supreme Lord, and say, may you be ever excellent. May you manifest your excellent qualities eternally. So, this is the meaning of the word Jaya. Of course, normally, we say Jaya means be victorious [Laughs]. But our Acharyas usually explain that Jaya means, please manifest your excellence eternally. So, one of the ways in which the Lord can manifest his excellence is described here. You defeat Maya [Laughs]. The Jivas on their own cannot defeat Maya. Even Brahma cannot defeat Maya. But the Lord can easily defeat Maya.
+
+So, this verse describes that the Lord actually has, it says here, second line, samasta-bhagaḥ, He have all wonderful qualities. Lord has all wonderful qualities. And, he’s also got akhila-śakty-avabodhaka. He manifests all Shaktis. And He manifests the material world. So, in this verse, we see that the Srutis are accepting that the Lord has activity, and He has Shaktis. And, He controls the material world. So, the material world is not illusory, it’s real. The Shaktis of the Lord are real.
+
+Devotee: What did you say about Shakti?
+
+HH Bhanu Swami Maharaj: They are real. And, the Lord Himself, with His Shaktis and His activities and His qualities, is real. If everything was unreal, then the whole verse would be meaningless. How can you glorify the Lord for illusory things [Laughs]? So, in other words, the Srutis can describe that Supreme Brahman, because Supreme Brahman has form, qualities and activities, which are real.
+
+Devotee: Can you say again? Sorry.
+
+HH Bhanu Swami Maharaj: The Srutis can describe this Supreme Brahman, because a Supreme Brahman has form, qualities and activities. Of course, in a verse like this, the Lord’s qualities and activities, etc., are relating to Maya. So, it’s talking about the Lord conquering over Maya, and in the purport we see the Lord creating the material world, etc., controlling the material world. So, this is one aspect of the Lord, as Maha-Vishnu and Garbhodakasayi Vishnu [Laughs]. However, with His internal energy, of course, the Lord manifests hyis pastimes as Krishna, described in the rest of the tenth canto.
+
+So, in the last line here, it says that the Lord is playing with Ajaya, with Prakriti, manifesting the material world, and it says He’s playing with Atmana, his internal energy, by which He manifests and has activities in the spiritual world. But both interacting with external energy and internal energy are aspects of the Supreme Lord with form, qualities, and activities.
+
+Okay, Hare Krishna.
+
+Q & A :
+
+1.) [Question not audible].
+
+Here in the purport, I think at the beginning, it says, Jiva Goswami saying that actually the Srutis are speaking, and each verse is representing a different Upanishad. 28 verses, 28 different Upanishads speak [Laughs]. So, of course, there are 108 Upanishads. Of those, Shankaracharya says that ten are the most important, and he wrote commentary on those. And of those, of course, some are the longest Upanishads, and it’s Chandogya and Brhadaranyaka Upanishad, very, very long, the longest Upanishads. Some are short, Isopanishad is short, Mundaka Upanishad is not so long. But these Upanishads also have a lot of statements which can be taken as impersonal [Laughs]. However, there are other Upanishads which we call Vaishnava Upanishads, so they’re glorifying Vishnu and Krishna [Laughs]. One of them is Gopala Tapani Upanishad [Laughs]. So, this is a glorification of Krishna and Krishna Mantra [Laughs]. So, our Acharyas have written commentaries on that. Vishwanath has a commentary, Jiva has a commentary, Prabodhananda Saraswati has a [Laughs] commentary. So, there’s quite a few commentaries on Gopala Tapani Upanishad, but not, Shankaracharya doesn’t comment on that one. And, of course, people will say, well, where is Krishna mentioned in the Vedas [Laughs]? So, our Acharyas will say, Gopala Tapani Upanishad is Sruti [Laughs]. So, our Acharyas often quote in their commentaries Gopala Tapani Upanishad [Laughs]. But they will also quote verses like here from Mundaka Upanishad and Brhadaranyaka Upanishad that show the Lord has activities and qualities.
+
+Devotee: All of those are Sruti?
+
+HH Bhanu Swami Maharaj: Yes.
+
+Devotee: Sruti, which means eternal and never change?
+
+HH Bhanu Swami Maharaj: Yes. Yes. No question? Okay.
+
+Devotee: Difficult to ask question [Laughs].
+
+HH Bhanu Swami Maharaj: [Laughs] Hare Krishna.
+
+2.) There is one, in the purport, it is written, she has taken, “Yes,” the Vedas answer, “but she has taken on the three modes of nature to bewilder the conditioned souls and make them falsely identify with their material bodies. So this represents what? Like it represents the Maya’s power or?
+
+Yes, this is Maya. So, Maya is energy of the Lord, also a servant of the Lord. But, she has a rather strange duty of [Laughs] putting the Jivas in illusion [Laughs]. This is why she says, I conquer, you should conquer over Maya. Even though Maya belongs to the Lord and His servant, she has this negative quality of bewildering Jivas. So, therefore, the Srutis may conquer over Maya as if it were an enemy, but actually it’s Shakti of the Lord [Laughs]. For the Jivas, it becomes the enemy, not for the Lord.
+
+3.) [Not clear] says that Krishna cannot manifest in the presence of Maya. So, if Maya is there, Krishna cannot be there, right? That is one statement. Three modes. If three modes are there, Krishna cannot manifest there.
+
+Well, He is everywhere, but Jivas cannot see Him. Atleast of course, nitya siddha Jivas [Laughs] or Jivas in Prema can see but others cannot see because they are covered by maya.
+
+4.) Hare Krishna. Sruti, like here, the Srutis are talking. So, Srutis, like this is maybe personality of the Sruti?
+
+Yeah.
+
+Devotee 1: How it is like?
+
+HH Bhanu Swami Maharaj: Like we have Devatas of fire and water and whatever. Even we have Upadevatas for the trees and the mountains and whatever like in general [Laughs]. We are [Laughs] worshiping the mountains and trees, so we have Upadevatas and that’s material, of course. So in spiritual world also, things are represented by personalities. So some of the Shaktis of the Lord have personalities like Yogamaya Shakti or whatever like that. I think the 16 major Shaktis in Vaikuntha are also personalities. They are like expansions of Lakshmi. So, therefore the Vedas also have a personal form.
+
+Devotee 2: So, this is scripture, I want to say, emphasis, like Sruti also, Smriti also, praise the Lord, glorifying the Lord. So, that is conclusion. So, that is very important because Sruti itself describes and glorifying the Lord, that’s why.
+
+HH Bhanu Swami Maharaj: Hmm.
+
+5.) So, there is one statement that Maya has good qualities in the purport, Maya has good qualities. So, what are the good qualities of Maya?
+
+Doṣa-gṛbhīta-guṇāṁ. It is accepted as false [Laughs].
+
+Devotee: But Maya who poses ignorance on the Jivas is full of good qualities. Gravita gunan. Why should I oppose her, the Lord says.
+
+HH Bhanu Swami Maharaj: So, that’s interpretation of dosha, grbhita, gunam. So, yes, the good qualities from material point of view, like Sattvaguna, but ultimately it is also dosha. It is also faulty, it is material [Laughs]. Apparently good qualities. So that’s, in other words, there is an exchange here. Maya has gunas, some of the qualities are good, why condemn her? Actually, the qualities are to put the Jiva into Maya. So, the answer is, she has taken on the three modes of nature, the mood of the conditioned souls. The qualities are actually not good. So we can say, why criticize Maya because we have Satya Loka, we have Swarga Loka, such nice places. So don’t criticize her [Laughs].
+
+6.) In the Srutis like in 10th canto, we have the pastimes of Krishna specifically. So, in Srutis also there is an explanation of these pastimes of Krishna? Or like how it is they explain the pastimes also?
+
+Well, we have Gopala Tapani Upanishad, so there are mentions, you know, Radha and others. Not detailed pastimes, but at least they get mentioned, and the whole thing is about the mantras of Krishna.
+
+Devotee: Sruti and Upanishad are the same?
+
+HH Bhanu Swami Maharaj: They are part of it. Upanishads are part of Sruti. So, we have Brahmanas, Aranyakas, which are Karma Kanda. We have Jnana Kanda, Upanishads, and the Samhita section, which is Upasana Kanda and a part of Vedas. Brahmanas, Aranyakas, Upanishads, and Samhitas.
+
+Okay. Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/15": { title: "SB_10.87.15 \u2013 The hidden cause behind the creation of material world & unlocking its plan !", video: "XygvUA8gCg8", article: `Srimad Bhagavatam 10.87.15 | HH Bhanu Swami Maharaj | ISKCON Japan | 5 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 15.
+
+ŚB 10.87.15
+
+bṛhad upalabdham etad avayanty avaśeṣatayā
+yata udayāstam-ayau vikṛter mṛdi vāvikṛtāt
+ata ṛṣayo dadhus tvayi mano-vacanācaritaṁ
+katham ayathā bhavanti bhuvi datta-padāni nṛṇām
+
+Synonyms
+
+bṛhat — as the Supreme; upalabdham — perceived; etat — this (world); avayanti — they consider; avaśeṣatayā — in terms of its being the all-pervading foundation of existence; yataḥ — since; udaya — the generation; astam-ayau — and dissolution; vikṛteḥ — of a transformation; mṛdi — of clay; vā — as if; avikṛtāt — (the Supreme itself) not being subject to transformation; ataḥ — therefore; ṛṣayaḥ — the sages (who compiled the Vedic mantras); dadhuḥ — placed; tvayi — in You; manaḥ — their minds; vacana — words; ācaritam — and actions; katham — how; ayathā — not as they are; bhavanti — become; bhuvi — upon the ground; datta — placed; padāni — the steps; nṛṇām — of men.
+
+Translation
+
+This perceivable world is identified with the Supreme because the Supreme Brahman is the ultimate foundation of all existence, remaining unchanged as all created things are generated from it and at last dissolved into it, just as clay remains unchanged by the products made from it and again merged with it. Thus it is toward You alone that the Vedic sages direct all their thoughts, words and acts. After all, how can the footsteps of men fail to touch the earth on which they live?
+
+Purport
+
+There may be some doubt as to whether the Vedic mantras are unanimous when identifying the Supreme Personality of Godhead. After all, some mantras state, indro yāto ’vasitasya rājā: “Indra is the King of all moving and nonmoving beings” (Ṛg Veda 1.32.15), while others say, agnir mūrdhā divaḥ: “Agni is the chief of the heavens,” and yet other mantras point to different deities as the Absolute. It would seem, then, that the Vedas present a polytheistic world view.
+
+Answering this doubt, the Vedas themselves explain in this verse that there can be only one source of universal creation, called Brahman or Bṛhat, “the greatest,” which is the singular truth underlying and pervading all existence. No finite deity like Indra or Agni can fulfill this unique role, nor would the śrutis be so ignorant as to propose such an idea. As indicated here by the word tvayi, Lord Viṣṇu alone is the Absolute Truth. Indra and other demigods may be glorified in various ways, but they possess only those powers Lord Śrī Viṣṇu has granted them.
+
+The Vedic sages understand that this entire world — including Indra, Agni, and everything else perceivable by the eyes, ears and other senses — is identical with the one Supreme Truth, the Personality of Godhead, who is called Bṛhat, “the greatest,” because He is avaśeṣa, “the ultimate substance that remains.” From the Lord everything expands at creation, and into Him everything dissolves at annihilation. He exists before and after the material manifestation as the constant basis, known to philosophers as the “ingredient cause,” upādāna. Despite the fact that countless manifestations emanate from Him, the Supreme Lord exists eternally unchanged — an idea the śrutis specifically emphasize here with the word avikṛtāt.
+
+The words mṛdi vā (“as in the case of clay”) allude to a famous analogy spoken by Udālaka to his son Śvetaketu in the Chāndogya Upaniṣad (6.4.1): vācārambhanaṁ vikāro nāmadheyaṁ mṛttikety eva satyam. “The objects of the material world exist merely as names, transformations defined by language, whereas the ingredient cause, like the clay from which pots are made, is the actual reality.” A mass of clay is the ingredient cause of various pots, statues and so on, but the clay itself remains in its essence unchanged. Eventually, the pots and other objects will be destroyed and return to the clay from which they came. Similarly, the Supreme Lord is the total ingredient cause, yet He remains eternally untouched by transformation. This is the purport of the statement sarvaṁ khalv idaṁ brahma: “Everything is Brahman.” (Chāndogya Upaniṣad 3.14.1) Wondering at this mystery, the great devotee Gajendra prayed,
+
+namo namas te ’khila-kāraṇāya
+niṣkāraṇāyādbhuta-kāraṇāya
+
+“Obeisances again and again to You, the source of all creation. You are the inconceivable cause of all causes, and of You there is no other cause.” (Bhāg. 8.3.15)
+
+Prakṛti, material nature, is often considered the ingredient cause of creation, in Western science as well as in the Vedas. This does not contradict the higher fact of the Supreme Lord’s being the final cause, since prakṛti is His energy, and is herself subject to change. In Śrīmad-Bhāgavatam (11.24.19), Lord Kṛṣṇa says:
+
+prakṛtir yasyopādānam
+ādhāraḥ puruṣaḥ paraḥ
+sato ’bhivyañjakaḥ kālo
+brahma tat tritayaṁ tv aham
+
+“The material universe is real, having prakṛti as its original ingredient and final state. Lord Mahā-Viṣṇu is the resting place of nature, which becomes manifest by the power of time. Thus nature, the almighty Viṣṇu and time are not different from Me, the Supreme Absolute Truth.” Prakṛti, however, undergoes transformation, while her Lord, the supreme puruṣa, does not. Prakṛti is the Personality of Godhead’s external energy, but He has another energy — His internal energy — which is svarūpa-bhūtā, nondifferent from His very essence. The Lord’s internal energy, like Himself, is never subject to material change.
+
+Therefore the mantras of the Vedas, along with the ṛṣis who have received these mantras in meditation and transmitted them for the benefit of mankind, direct their attention primarily toward the Personality of Godhead. The Vedic sages direct the activities of their mind and words — that is to say, the inner as well as the literal meaning (abhidhā-vṛtti) of their utterances — first of all toward Him, and only secondarily toward separated transformations of prakṛti, such as Indra and other demigods.
+
+Just as a man’s footsteps, whether placed on mud, stone or bricks, cannot fail to touch the surface of the earth, so whatever the Vedas discuss within the realm of material generation, they relate to the Absolute Truth. Mundane literature describes limited phenomena, disregarding the relation of its subjects to the total reality, but the Vedas always focus their perfect vision on the Supreme. As the Chāndogya Upaniṣad affirms in its statements mṛttikety eva satyam and sarvaṁ khalv idaṁ brahma, reality is understood properly when everything is seen to be dependent on Brahman, the Absolute, for its existence. Brahman alone is real, not because nothing we see in this world is real, but because Brahman is the absolute, final cause of everything. Thus the word satyam, as used in the phrase mṛttikety eva satyam, has been defined in another context as “ingredient cause” by no less an authority than Lord Kṛṣṇa Himself:
+
+yad upādāya pūrvas tu
+bhāvo vikurute param
+ādir anto yadā yasya
+tat satyam abhidhīyate
+
+“A material object, itself composed of an essential ingredient, creates another material object through transformation. In this way one created object becomes the cause and basis of another created object. A particular thing may be called real in that it possesses the basic nature of another object that constitutes its cause and original state.” (Bhāg. 11.24.18)
+
+Explaining the word Brahman, Śrīla Prabhupāda writes in Kṛṣṇa, the Supreme Personality of Godhead: “The word Brahman indicates the greatest of all and the maintainer of everything. The impersonalists are attracted by the greatness of the sky, but because of their poor fund of knowledge they are not attracted by the greatness of Kṛṣṇa. In our practical life, however, we are attracted by the greatness of a person and not by the greatness of a big mountain. Actually the term Brahman actually applies to Kṛṣṇa only; therefore in the Bhagavad-gītā Arjuna admitted that Lord Kṛṣṇa is the Parabrahman, or the supreme rest of everything.
+
+“Kṛṣṇa is the Supreme Brahman because of His unlimited knowledge, unlimited potencies, unlimited strength, unlimited influence, unlimited beauty and unlimited renunciation. Therefore the word Brahman can be applied to Kṛṣṇa only. Arjuna affirms that because the impersonal Brahman is the effulgence emanating as rays of Kṛṣṇa’s transcendental body, Kṛṣṇa is the Parabrahman. Everything is resting on Brahman, but Brahman itself is resting on Kṛṣṇa. Therefore Kṛṣṇa is the ultimate Brahman, or Parabrahman. The material elements are accepted as inferior energy of Kṛṣṇa because by their interaction the cosmic manifestation takes place, rests on Kṛṣṇa, and after dissolution again enters into the body of Kṛṣṇa as His subtle energy. Kṛṣṇa is therefore the cause of both manifestation and dissolution.”
+
+In summary, Śrīla Śrīdhara Svāmī prays:
+
+druhiṇa-vahni-ravīndra-mukhāmarā
+jagad idaṁ na bhavet pṛthag utthitam
+bahu-mukhair api mantra-gaṇair ajas
+tvam uru-mūrtir ato vinigadyase
+
+“The demigods, headed by Śiva, Agni, Sūrya and Indra, and indeed all beings in the universe, do not come into existence independently of You. The mantras of the Vedas, though they speak from various viewpoints, all speak about You, the unborn Lord appearing in numerous forms.”
+
+HH Bhanu Swami Maharaj:
+
+Hare Krishna. So the first word here is Brhad which literally means big. But this actually is the root word which expands into the word Brahman. So often our Acharyas will analyze the meaning of words. So the word Brahman comes from this word Brhad, which means big. However, so many big objects in this world, we have big universe etc, so it ultimately means the biggest. Ultimately, we say the Lord who is all-pervading. So the Lord is bigger than the biggest. He spreads everywhere. And another usage of that word Brhad is He who expands. Or we can say He who causes growth. Which means He is the final cause, or the cause of all causes. So that is the meaning of that word Brahman, that which is the greatest, or all-pervading, and which causes everything else.
+
+So material universes are created and destroyed, so they’re not the greatest. The Lord always remains. So this is also a common description of the Lord. So in the Upanishads, also in the four verses, essential verses of the Bhagavatam, there it says the Lord exists before everything else and after everything else. So to help us understand, an example is given. Clay is transformed into pots and whatever. Finally the pots are destroyed, they go back to the clay again [Laughs]. So the earth remains, even though there are so many transformations. So the Lord remains, even though we have so many transformations in this material world.
+
+Of course, we can also object to this example [Not clear] that how can the Lord be compared to clay [Laughs]? We can say everything goes back to prakrti. How we can compare the Lord to prakrti? Prakrti remains and then it transforms and everything goes back to prakrti. And prakrti is eternal. It is not destroyed by the Lord. So we can say well, prakrti is Brahman, because everything comes out of prakrti, everything goes back into prakrti [Laughs]. But we also know prakrti cannot transform into the universes unless Mahavishnu glances.
+
+So ultimately, the Lord is the cause of prakrti resting and then expanding into a majority of universes and then getting destroyed [Laughs]. So the Supreme Lord remains previous and after [Laughs]. Of course, modern scientists will say no, forget about Mahavishnu glancing, world manifests, world is destroyed. World is manifested, world is destroyed. [Not clear] [Laughs]. Of course, we can also argue, well, earth is there and that becomes pots. But it doesn’t become pots on its own, we need someone there to grab the earth and make it into pots [Laughs]. So we have two kinds of causes, material cause and indirect cause. So the material cause is like the earth. And this is called Upadana. That’s mentioned somewhere here in the purport, I think [Laughs]. So, prakrti is Upadana, the material cause of the universe. But it requires the glance of Mahavishnu to transform into universes.
+
+So this is the indirect cause, which we call nimitta. So that is like the potter [Laughs]. So these terms are often used to describe creation and cause. So it is not too complicated to say that, okay, the Lord is the nimitta cause. So Mahavishnu glances, this is the nimitta, and then prakrti is the material cause. So this is accepted by many philosophers. Modern scientists don’t have that nimitta like Lord glancing, the nimitta and the upadana are the same thing [Laughs], the prakrti [Laughs].
+
+But then of course, the argument that Prabhupada gives is well, earth does not automatically manifest into clay pots or roof tiles or whatever, it requires an intelligent person. So how is it possible that material nature, without any intelligence, makes a flower, makes an animal [Laughs]? We never, if we look at a painting, nice painting, we never say, oh, the paint got together and made itself. Nobody, nobody made the painting [Laughs]. We don’t say that [Laughs]. But scientists will say, no, prakrti itself has its own intelligence by which it can do everything [Laughs]. Of course, there are some serious scientists who also find this is problematic. It doesn’t make sense [Laughs].
+
+So then the scriptures, of course, give us an alternative version. They give us an alternative. So prakrti does not have intelligence. The intelligence comes from Supreme Lord. So the creation of the material world is not just some chance explosion. It is manifested by the Lord with a certain plan for the jivas. That was mentioned in the first reply that Sukadeva gave to Pariksit when he asked how is it possible that the Vedas can express something without form [Laughs].
+
+So then Sukadeva replied, Supreme Lord creates material world with intelligence of the jivas, etc. So they can live in the material world and they can get liberation. So Lord has a plan [Laughs]. So the people who read the Vedic literature will conclude that Brahman is the supreme cause. However, then we get two opinions. Yes, Brahman is the cause, but does He have form and activities or no form and no activities [Laughs]? So then we have this argument. We have the Vaishnavas and we have the impersonalists. And they both have arguments and they both quote scriptures.
+
+So scriptures say Brahman has no form, no qualities, no activity, no change. But Vaishnavas will see the same scriptures and the same scriptures also say the Lord has a form, the Lord creates the world, etc. So these verses here are showing, yes, the Lord has a form, the Lord creates the world. So the only question is, well, why does scripture say both things? And the answer is, the Lord is both. He has form, He has no form. He has no activity, He has activity [Laughs]. The Lord is impersonal Brahman, He is also Bhagavan. And He can be in opposite states because of acintya shakti. So it is according to the statements of the Vedas here [Laughs], they’re talking about the Lord creating the material world, etc. And they’re saying, it is not possible to say, okay, Brahman is there, but He doesn’t manifest anything, everything is illusion. That’s impossible to conclude.
+
+So we can make a statement, the potter makes a pot from clay. Well, then we can’t say, well, the clay is illusory and the pot is illusion. If that were so, we would just make a statement and say, the potter doesn’t do anything [Laughs]. So if the scriptures say that Supreme Brahman creates the material world, creates living entities with bodies, etc. We can’t say it’s all illusion. So that is one of the main points that these verses are trying to explain.
+
+Okay, Hare Krishna!
+
+Q & A :
+
+1.) Hare Krishna Bhanu Maharaj. Thank you very much. My question is simple. Why in the material world many people are attracted to impersonal, impersonalism? Can you explain?
+
+So, of course, that’s true even among common religions, Islam, Christianity, Judaism, Buddhism, they’re basically impersonal [Laughs]. One reason is that, in talking about Supreme Lord, we don’t want to mix Him with material qualities and material forms. So that’s a good reason [Laughs]. And for that reason, the scriptures, the Upanishads also say, the Lord has no qualities, the Lord has no form, because they don’t want us to associate the Lord with material things [Laughs]. In other words, it’s a rejection of everything in the material world. And definitely that is true. The Lord has got nothing to do with material world. Of course, it’s also a conclusion we can reach if we come to sattva guna. If we come to sattva guna, we’re not much interested in the material world, so we tend to reject it. And then we feel there must be some other thing there besides material world, but then we start concluding it is impersonal. So people in the material world who reach sattva guna often become jnanis and yogis [Laughs]. So impersonal form of God is very popular among people in sattva guna [Laughs]. So it’s natural, the people that take to yoga process, then they will be inclined to impersonal [Laughs]. So therefore one reason for that popularity may be people have reached sattva guna. It’s often the conclusion of logical argument. By logic we conclude, okay, material was not created by matter itself, there must be something intelligent there. And that intelligent thing doesn’t have any material qualities, no material form [Laughs]. So that far we can go with logic. So Srila Prabhupada describes jnana as an ascending process, through our logic we conclude in impersonal Brahman. However, by this same logic we cannot say, okay, that supreme entity is blue or He plays a flute. Logically we can never conclude [Laughs] that [Laughs]. The only way we get that conclusion is if we accept scriptures [Laughs]. So some people don’t want to do that, so they accept impersonalism, but not personal.
+
+Devotee: Thank you very much. Hare Krishna.
+
+2.) Hare Krishna Maharaj. As it is mentioned here, prakriti is the personality of Godhead’s external energy, but He has another energy, this internal energy which is swarupa bhuta. So can you please give some example of the internal energy and external energy so that we can understand in a simple language, and also the meaning of swarupa bhuta.
+
+So we define a Supreme Lord, but then the question arises, well, how does He do anything? So He can personally do everything [Laughs]. Like the potter makes the pot and gets his hands dirty [Laughs]. So if the Supreme Lord creates a material world and He personally involves, it doesn’t sound too nice because He gets tangled up with [Laughs] the matter.
+
+Devotee: Can you say again, sorry?
+
+HH Bhanu Swami Maharaj: Yeah, so we don’t want to say that the Lord directly interacts with matter. So to explain how He does it, we say the Lord has His shaktis. So that material shakti manifests prakrti eternally, and then that prakrti under the influence of the Lord creates a material world, and indirectly then the Lord has devatas in charge of things in the material world. So this external energy is called the bahiranga shakti, external means that, it’s not directly in the Lord’s interest. He lets it operate by itself [Laughs]. So the Lord, on the other hand, has His internal energy manifesting spiritual world and pastimes there. That’s the Lord’s interest. Material world, no [Laughs]. Outside His interest. So just as the external energy manifests everything in the material world, the internal energy manifests everything in the spiritual world. So this internal energy, of course, is composed of sandhini, samvit, and hladini and it manifests the spiritual world, everything in the spiritual world and rasa and bliss [Laughs]. So the internal energy directly manifests the Lord’s spiritual desires. So because it directly expresses the Lord’s very nature of bliss, we call it His swarupa shakti.
+
+3.) Can you please explain more about swarupa shakti?
+
+Yeah. So the swarupa shakti we also call the cit shakti or antaranga shakti or internal energy. So the Lord’s nature is knowledge and bliss. But how can He manifest that? How can He express that? How can He feel that knowledge and bliss? So, of course, bliss manifests through rasa. And rasa does not exist if there’s only one person. So therefore we must have not just the Lord, we have to have other people in the spiritual world [Laughs]. And those people in spiritual world interact with the Lord. And to interact with the Lord, they also need knowledge and bliss [Laughs]. So all of this is accomplished by this internal energy, which has samvit shakti to cause the knowledge and hladini shakti to cause the bliss. And to manifest everything, we have the sandhini shakti [Laughs].
+
+Devotee: Thank you very much.
+
+4.) Can I have a question? How about Shiva tattva? Shiva is more than Brahma, his tattva, but at the same time not like Vishnu. How he is different from Vishnu? Almost Vishnu? What is the difference between Vishnu and Shiva? Can you explain?
+
+So the jiva is defined as many, many small conscious particles. So they are conscious particles, but some of them fall into ignorance and get material bodies [Laughs]. Supreme Lord is one, not many. He is full of knowledge and full of bliss. Never falls into ignorance, He has eternal spiritual body. But Supreme Lord can manifest, though He is one, He can manifest many different forms. And some of those forms manifest less qualities, some manifest more qualities. So Shiva is described as one form of the Lord, but he manifests five less qualities than the Vishnu form. So we put him in a special category. Unlike the jivas, he has an eternal body of sat-cit-ananda [Laughs].
+
+Devotee: It’s the same as jiva and Shiva?
+
+HH Bhanu Swami Maharaj: No.
+
+Devotee: No. Different?
+
+HH Bhanu Swami Maharaj: Not as sat-cit-ananda, he can be conditioned in the material world. The Lord has eternal spiritual body. Shiva has eternal spiritual body. Shiva can manifest special powers that jivas don’t have. But he does not have same qualities as Vishnu, or he doesn’t manifest them. He doesn’t manifest universes like Mahavishnu [Laughs]. He doesn’t manifest avatars. So, because he manifests less qualities than the Vishnu forms, he is put in separate category.
+
+Devotee: How about Shiva is touching material world, but still he is transcendental, right?
+
+HH Bhanu Swami Maharaj: Yes. Yeah.
+
+Devotee: Okay. Thank you very much. Hare Krishna.
+
+HH Bhanu Swami Maharaj: We say that he is tamoguna or whatever. He is not really tamoguna. He is in charge of tamoguna. Just like Vishnu is in charge of sattvaguna [Laughs]. Sometimes, in a particular universe, a jiva can take up the role of Shiva [Laughs]. In that sense, he is like Brahma, a jiva, who causes creation. So, a jiva takes up the role of Shiva and is able to destroy the universe [Laughs]. So, when a jiva becomes Shiva, then of course he could be affected by the gunas.
+
+Devotee: Thank you very much. Hare Krishna
+
+5.) In spiritual world, how can we use the word manifest because it is eternal, everything is there already?
+
+Yeah, they eternally manifested [Laughs]. Not that they weren’t there and they show. In other words, a form like Varaha manifests a certain amount of qualities. He shows those qualities eternally.
+
+6.) Maharaj, just like Krishna creates this material world for the jiva. So, the spiritual world also Krishna created?
+
+Well, not created, it’s eternal.
+
+Devotee: Yeah, eternal, but it’s also like the jivas. Like when we want to serve and enjoy with Krishna, it’s like that also.
+
+HH Bhanu Swami Maharaj: So, that implies a cause or a reason why the Lord manifests the spiritual world, though it’s eternal. But ultimately we have to say that the Lord’s bliss is not caused by anything. It’s spontaneous. So, the spiritual world and everything in it is simply a spontaneous manifestation or expression of the Lord’s bliss without cause.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/16": { title: "SB_10.87.16 \u2013 Words of scripture carry Lord\u2019s shaktis \u2013 it destroys pain & bestows bliss !", video: "n_nfD1jjSAs", article: `Srimad Bhagavatam 10.87.16 | HH Bhanu Swami Maharaj | ISKCON Japan | 6 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 16.
+
+ŚB 10.87.16
+
+iti tava sūrayas try-adhipate ’khila-loka-mala-
+kṣapaṇa-kathāmṛtābdhim avagāhya tapāṁsi jahuḥ
+kim uta punaḥ sva-dhāma-vidhutāśaya-kāla-guṇāḥ
+parama bhajanti ye padam ajasra-sukhānubhavam
+
+Synonyms
+
+iti — thus; tava — Your; sūrayaḥ — wise saints; tri — of the three (planetary systems of the universe, or the three modes of nature); adhipate — O master; akhila — of all; loka — the worlds; mala — the contamination; kṣapaṇa — which eradicates; kathā — of discussions; amṛta — nectar; abdhim — into the ocean; avagāhya — by diving deeply; tapāṁsi — their troubles; jahuḥ — have given up; kim uta — what to speak; punaḥ — moreover; sva — their own; dhāma — by the power; vidhuta — dispelled; āśaya — of their minds; kāla — and of time; guṇāḥ — the (undesirable) qualities; parama — O supreme one; bhajanti — worship; ye — who; padam — Your true nature; ajasra — uninterrupted; sukha — of happiness; anubhavam — (in which there is) experience.
+
+Translation
+
+Therefore, O master of the three worlds, the wise get rid of all misery by diving deep into the nectarean ocean of topics about You, which washes away all the contamination of the universe. Then what to speak of those who, having by spiritual strength rid their minds of bad habits and freed themselves from time, are able to worship Your true nature, O supreme one, finding within it uninterrupted bliss?
+
+Purport
+
+According to Śrīla Jīva Gosvāmī, in the previous verse those śrutis whose presentation of the Supreme Truth may seem impersonal clarified their true purpose. Now, in the present verse, those who focus exclusively on the divine Personality of Godhead, who speak of His transcendental pastimes, take their turn in praising Him.
+
+Because all the Vedas declare the supremacy of the Personality of Godhead as the cause of all causes, discriminating persons should take to His worship. By diving into the ocean of His glories, intelligent devotees help dispel the distress of all souls and loosen their own burning attachment to materialistic life. These advancing devotees gradually give up all material attachment and lose any interest they once had in the troublesome austerities of karma, jñāna and yoga.
+
+Beyond these devotees are the sūris, connoisseurs of spiritual truth, who honor the nectarean ocean of the Supreme Lord’s glories by immersing themselves fully within it. These mature devotees of the Supreme Lord achieve unimaginable perfection. The Lord, reciprocating their sincere endeavors, empowers them to realize Him in His personal form. Remembering with rapture the Lord’s intimate pastimes and entourage, they are automatically freed from the last subtle traces of mental contamination and from sensitivity to the unavoidable pains of disease and old age.
+
+Referring to the purifying power of devotional service, the śrutis say, tad yathā puṣkara-palāśa āpo na śliṣyante evam evaṁ-vidi pāpaṁ karma na śliṣyate: “Just as water does not adhere to a lotus leaf, so sinful activities do not adhere to one who knows the truth in this way.” The Śatapatha Brāhmaṇa (14.7.28), Taittirīya Brāhmaṇa (3.12.9.8), Bṛhad-āraṇyaka Upaniṣad (4.4.28) and Baudhāyana-dharma-śāstra (2.6.11.30) all concur: na karmaṇā lipyate pāpakena. “One thus avoids becoming tainted by sinful activity.”
+
+The Ṛg Veda (1.154.1) refers to the Supreme Lord’s pastimes as follows: viṣṇor nu kaṁ vīryāṇi pravocaṁ yaḥ pārthivāni vimame rajāṁsi. “Only he may fully enunciate the heroic deeds of Lord Viṣṇu who can count all the particles of dust in the world.” Many śruti-mantras glorify devotional service to the Lord, such as eko vaśī sarva-go ye ’nubhajanti dhīrās/ teṣāṁ sukhaṁ śāśvataṁ netareṣām: “He is the one omnipresent Lord and controller; only those wise souls who worship Him obtain eternal happiness, not anyone else.”
+
+In this connection Śrīla Śrīdhara Svāmī prays:
+
+sakala-veda-gaṇerita-sad-guṇas
+tvam iti sarva-manīṣi-janā ratāḥ
+tvayi subhadra-guṇa-śravaṇādibhis
+tava pada-smaraṇena gata-klamāḥ
+
+“Because all the Vedas describe Your transcendental qualities, all thoughtful persons are attracted to hearing and chanting about Your all-auspicious qualities. Thus by remembering Your lotus feet, they are freed from material distress.”
+
+HH Bhanu Swami Maharaj:
+
+So, the original question of Parīkṣit is, how can the Vedas describe that Supreme Brahman? The previous verse mentioned Brhad, so by that it is indicating that we are talking about Brahman. And that Brahman remains, after everything else is destroyed. And the sages glorify that Brahman. So this verse continues by talking about who glorifies the Lord. But instead of talking about Brahman, they talk about the ocean of bliss, topics of the Lord.
+
+So, descriptions of the Lord are very sweet. And they’re actually talking about topics of Brahman. The topics of Brahman are sweet [Laughs]. But obviously, this Brahman must have some sweet qualities. Must have, must have. Why because these topics, like Brahman, destroy all suffering in this world. In other words, that Brahman is Bhagavan. And Bhagavan has sweet qualities and sweet pastimes. Hearing those pastimes and qualities of the Lord, people destroy their suffering in this world.
+
+So, people hear the topics and they can destroy their suffering. What to speak of about people who realize the Supreme Lord? So, those who realize the Lord definitely have washed away all contamination. And what do those people realize? They realize that sweet form. And because of that, then they become completely blissful. So, generally, when we talk about realizing Brahman, we don’t talk about experiencing the highest bliss. The emphasis is upon destroying illusion and suffering and ignorance of this world.
+
+What happens when we destroy ignorance, illusion and suffering of this world? Well, we become peaceful. But is peace equal to bliss? Of course, the Srutis, the Vedas, Upanishads say this Brahman is Ananda, it is bliss. So, such a statement is a little bit of a problem for the impersonalist. Brahman should have no qualities, but Brahman is blissful [Laughs]. So, the only way they can counter that objection is to interpret Ananda. So, explanation of Ananda is, Ananda does not mean bliss, it means absence of suffering. So, we can describe Brahman in terms of negation.
+
+Devotee: We can describe?
+
+HH Bhanu Swami Maharaj: Yeah. So, this is the argument they give [Laughs]. Of course, the Vaishnavas object to this and say this is not the direct meaning of bliss [Laughs]. So, there is a very famous verse in the Taittiriya Upanishad. There it says that the Brahman is rasa. And the Jiva realizing that Lord who is rasa become blissful. So, in other words, the Taittiriya Upanishad says that the Lord does have qualities, or Brahman does have qualities, and if we realize those qualities, the Jiva becomes blissful [Laughs]. So, there is no contradiction to say the Brahman is bliss [Laughs]. Instead of defining bliss by absence of something negatively, the Vaishnavas define bliss positively. And the Jivas realizing the Lord develop that bliss.
+
+Of course, as Taittiriya Upanishad says, the Lord is actually rasa. Which means that the essential nature of the Lord is to establish relationships with His devotees. So, these blissful relationships with the Lord are called rasa. And the whole of Nectar of Devotion is about realizing the different rasas with the Lord. So, in that relationship or rasa, the Lord experiences bliss, the devotee experiences bliss. So, the devotee gets bliss from seeing the Lord’s wonderful qualities and the wonderful activities of the Lord. And the Supreme Lord becomes blissful on seeing the wonderful activities and qualities of the devotee. So, this is quite different from the bliss of an impersonalist.
+
+So, those who cultivate jnana and liberation are said to have dried up hearts. There is no appreciation of rasa. Certainly, they get freedom from material miseries, but on the other hand, they have no experience of a relationship with the Lord. So, the scriptures describe that Supreme Brahman or Supreme Lord. There are two types of description. One is the philosophical description. Lord is supreme, independent, controls material energy, establishes relationships with the devotees. The other descriptions are concerning the pastimes of the Lord with His devotees in the spiritual world. So, scriptures can describe Supreme Lord in both these ways. Why? Because, ultimately, that Supreme Lord does have qualities and does have activities [Laughs].
+
+So therefore, this verse is describing how the devotees, hearing those descriptions of the Lord, which are very sweet, they are able to give up their material pain completely. So, though the scriptures use words, the effect of hearing those words is very different from hearing material words. So therefore, we should not consider the words of the Vedas or other scriptures to be material. These words of scripture are filled with the Shakti of the Lord. And thus, they can destroy your pain and they can give you an experience of bliss in the spiritual world.
+
+So, because it’s the Srutis or the Upanishads who are uttering these prayers, we see in the commentary that Jiva Goswami, Vishwanath, they’ll start quoting all Sruti [Laughs] to show how the Srutis are glorifying the sweet qualities of the Lord. So, one who worships that Lord and glorifies that Lord or hears descriptions of that Lord who has wonderful sweet qualities, he attains perfection. So, no one can say that the Vedas only talk about impersonal Brahman. So, all of the Upanishadic verses quoted here are showing that Upanishads describe the Lord with qualities.
+
+Okay, Hare Krishna!
+
+Q & A :
+
+1.) Thank you very much Maharaj. So can you describe about an advanced devotee who is very blissful but they are free from material bondage, example is sick and very difficult for us. But very advanced devotees, they are always blissful. How? Can you explain? Hare Krishna.
+
+So, the more the devotee advances in bhakti, the closer he comes to the Lord. And the closer he comes to the Lord, the further away he is from the material world. So, in other words, as the devotee advances, he becomes less attached to his material body. And if that devotee realizes the Lord in bhava and prema, he completely forgets his material body. So, the functions of the body continue, but the devotee is not even aware of it [Laughs]. And he may also not even be aware of society around him. So, such a devotee who has realized the Lord has manifested a spiritual body, and he identifies with that. And he regards that material body as some sort of burden. It’s something not useful to him which he has to carry around [Laughs]. So, very willingly, he’s ready to give it up. So, devotees who are not at the stage of bhava and prema, of course, are not so detached. So, they still have some identity with their material bodies. Still, they are not too disturbed by all the problems the body gives. So, in Nectar of Devotion, Rupa Goswami lists 64 Angas of Bhakti. One of them is, don’t be overcome by lamentation and other emotions [Laughs]. Even a devotee practicing sadhana should develop that quality of not being disturbed by his material circumstances. But the more advanced he becomes, then the more this manifests.
+
+2.) Thank you, Hare Krishna. I have a question. In the Bhagavad Gita, Chapter 18, verse 54, it is described that after realizing the brahma bhuta stage, we can go to the happier stage of devotional service. At one time, if I’m very much attached to this material body, material society, etc., and I get pain from the material body. It means I’m not at the stage of the bhakti process?
+
+HH Bhanu Swami Maharaj: What?
+
+Devotee: I’m not on the stage of bhakti process?
+
+HH Bhanu Swami Maharaj: If we get pains from our body?
+
+Devotee: Yeah.
+
+HH Bhanu Swami Maharaj: Oh [Laughs]. So, as I mentioned, as the devotee advances in bhakti, he becomes more tolerant of the disturbances from material body. So, the devotee will still feel pain and get sick and whatever, but he doesn’t become overwhelmed by those conditions. So, the more the devotee advances, then the more he becomes indifferent to all of these material conditions.
+
+Devotee: Indifferent?
+
+HH Bhanu Swami Maharaj: Indifferent, not effected by. So, a devotee cannot expect that immediately he will feel no pain from material circumstances, etc. This is a gradual process. In any case, the devotee should not blame the Lord for his suffering. He takes the suffering as a result of his karmas, and he simply continues to serve the Lord with devotion. And Bhagavatam says that a devotee that continues his bhakti in this way, he gets the mercy of the Lord.
+
+Devotee: So, even without reaching brahma bhuta stage, we can do bhakti?
+
+HH Bhanu Swami Maharaj: Yeah, obviously [Laughs]. That particular verse has a nice meaning given by Vishwanath Chakravarti Thakur. So, he takes that verse as a verse concerning a jnani. So, the jnani advances and advances, and he gets indifferent to material world. So, in that process, the real jnani who wants liberation has to do a little bit of bhakti. If he does not do even a little bhakti, he cannot get liberation. So, the intelligent jnani will do a little bhakti and respect the Lord, even though he is trying to merge in Brahman, he will give respect to the Lord. However, when he is practicing jnana, that bhakti is not so noticeable, you can’t see it too much [Laughs]. So, when that jnani advances upto liberation, he has to give up all the processes of jnana which are in sattva guna, otherwise he has to stay in the material world. So he has to give up all those sattvic things in order to get liberation. So, he gives up all of the jnana processes, what’s left? The little bit of bhakti [Laughs]. So, that’s why that verse says, he attains bhakti to Me [Laughs]. So, he gives up all the jnana, only the bhakti is left, and then with that bhakti, the Lord allows him to merge [Laughs].
+
+Devotee: Thank you so much.
+
+3.) In purport, it says that you free yourself from the time. What does it mean? In purport, free yourself from the time.
+
+HH Bhanu Swami Maharaj: What?
+
+Devotee: Then what to speak of those who, having by spiritual strength, rid their minds of bad habits and freed themselves from time, are able to worship your true nature, O Supreme One, finding within it uninterrupted bliss. So, this is the translation? So, what is the influence of time or which time is this?
+
+HH Bhanu Swami Maharaj: Oh, free themselves from time? So, if one realizes the Lord, one is freed from all aspects of maya. So, a devotee automatically, if he attains the Lord, is free from everything in the material world. So, if devotees attain the Lord, they automatically become free from everything in the material world. So, here it mentions, vidhutāśaya-kāla-guṇāḥ he destroys his mind, he destroys time, he destroys gunas. Which means that when he realizes the Lord, he has developed a spiritual body, and that’s no longer under the influence of material time. It’s eternal. His prema and his rasa, his spiritual form is eternal. No influence of time.
+
+Okay. Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/17": { title: "SB 10.87.17 \u2013 Prayers of the personified Vedas devastatingly refute impersonalism !", video: "7YEu1TUb2YM", article: `Srimad Bhagavatam 10.87.17 | HH Bhanu Swami Maharaj | ISKCON Japan | 7 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 17.
+
+ŚB 10.87.17
+
+dṛtaya iva śvasanty asu-bhṛto yadi te ’nuvidhā
+mahad-aham-ādayo ’ṇḍam asṛjan yad-anugrahataḥ
+puruṣa-vidho ’nvayo ’tra caramo ’nna-mayādiṣu yaḥ
+sad-asataḥ paraṁ tvam atha yad eṣv avaśeṣam ṛtam
+
+Synonyms
+
+dṛtayaḥ — bellows; iva — as if; śvasanti — they breathe; asu-bhṛtaḥ — alive; yadi — if; te — Your; anuvidhāḥ — faithful followers; mahat — the total material energy; aham — false ego; ādayaḥ — and the other elements of creation; aṇḍam — the universal egg; asṛjan — produced; yat — whose; anugrahataḥ — by the mercy; puruṣa — of the living entity; vidhaḥ — according to the particular forms; anvayaḥ — whose entrance; atra — among these; caramaḥ — the ultimate; anna-maya-ādiṣu — among the manifestations known as anna-maya and so on; yaḥ — who; sat-asataḥ — from gross and subtle matter; param — distinct; tvam — You; atha — and furthermore; yat — which; eṣu — among these; avaśeṣam — underlying; ṛtam — the reality.
+
+Translation
+
+Only if they become Your faithful followers are those who breathe actually alive, otherwise their breathing is like that of a bellows. It is by Your mercy alone that the elements, beginning with the mahat-tattva and false ego, created the egg of this universe. Among the manifestations known as anna-maya and so forth, You are the ultimate one, entering within the material coverings along with the living entity and assuming the same forms as those he takes. Distinct from the gross and subtle material manifestations, You are the reality underlying them all.
+
+Purport
+
+Life is without purpose for one who remains ignorant of his most well-wishing benefactor and thus fails to worship Him. Such a person’s breathing is no better than the breathing of a blacksmith’s bellows. The gift of human life is a fortunate opportunity for the conditioned soul, but by turning away from his Lord, the living being commits spiritual suicide.
+
+In the words of Śrī Īśopaniṣad (3):
+
+asuryā nāma te lokā
+andhena tamasāvṛtāḥ
+tāṁs te pretyābhigacchanti
+ye ke cātma-hano janāḥ
+
+“The killer of the soul, whoever he may be, must enter into the planets known as the worlds of the faithless, full of darkness and ignorance.” Asuryāḥ means “to be obtained by demons,” and demons are persons who have no devotion for the Supreme Lord, Viṣṇu. This definition is stated in the Agni Purāṇa:
+
+dvau bhūta-sargau loke ’smin
+daiva āsura eva ca
+viṣṇu-bhakti-paro daiva
+āsuras tad-viparyayaḥ
+
+“There are two kinds of created beings in this world, godly and demoniac. Those dedicated to the devotional service of Lord Viṣṇu are godly, and those opposed to such service are demoniac.”
+
+Similarly, the Bṛhad-āraṇyaka Upaniṣad (4.4.15) states, na ced avedīn mahatī vinaṣṭiḥ … ye tad vidur amṛtās te bhavanty athetare duḥkham evopayanti: “If one does not come to know the Supreme, he must suffer utter destruction.… Those who realize the Supreme become immortal, but others inevitably suffer.” A person must revive his Kṛṣṇa consciousness to be relieved of the suffering caused by ignorance, but the process by which this is done need not be difficult, as Lord Kṛṣṇa assures us in Bhagavad-gītā (9.34):
+
+man-manā bhava mad-bhakto
+mad-yājī māṁ namaskuru
+mām evaiṣyasi yuktvaivam
+ātmānaṁ mat-parāyaṇaḥ
+
+“Engage your mind in always thinking of Me, become My devotee, offer obeisances to Me and worship Me. Being completely absorbed in Me, surely you will come to Me.” Despite disqualifications and weaknesses, one need only willingly become anuvidha, the Supreme Lord’s trusting and trustworthy servant. The Kaṭha Upaniṣad (2.2.13) proclaims:
+
+nityo nityānāṁ cetanaś cetanānām
+eko bahūnāṁ yo vidadhāti kāmān
+taṁ pīṭha-gaṁ ye ’nupaśyanti dhīrās
+teṣāṁ śāntiḥ śāśvatī netareṣām
+
+“Among all the eternal, conscious beings, there is one who supplies the needs of everyone else. The wise souls who worship Him in His abode attain everlasting peace. Others cannot.”
+
+What is alive, and what is dead? The bodies and minds of materialistic nondevotees seem to display the symptoms of life, but this appearance is deceptive. Actually, the conditioned soul has little control over his own bodily existence. Against his will, he has to excrete waste, get sick from time to time, and eventually age and die. And in his mind he unwillingly suffers anger, hankering and lamentation. Lord Kṛṣṇa describes this situation as yantrārūḍhāni māyayā (Bg. 18.61), riding helplessly as a passenger in a mechanical vehicle. The soul undoubtedly is alive, and irrevocably so, but in his ignorance that inner life is covered and forgotten. In its place, the automation of the external mind and body carries out the dictates of the modes of nature, which force one to act in a way altogether irrelevant to the dormant needs of the soul. Calling out to the forgetful prisoners of illusion, the Śvetāśvatara Upaniṣad (2.5) urges:
+
+śṛṇvantu viśve amṛtasya putrā
+ā ye dhāmāni divyāni tasthuḥ
+
+“All you sons of immortality, hear, you who once resided in the divine kingdom!”
+
+So, on the one hand, what is normally viewed as living — the material body — is in actuality a dead machine being manipulated by the modes of nature. And on the other hand, what the materialist condescendingly views as inert matter meant for exploitation is in its unknown essence connected with a living intelligence vastly more potent than his own. The Vedic civilization recognizes the intelligence behind nature as belonging to demigods who preside over the various elements, and ultimately to the Supreme Lord Himself. Matter, after all, cannot act coherently without the impulse and guidance of a living force. As Kṛṣṇa states in Bhagavad-gītā (9.10):
+
+mayādhyakṣeṇa prakṛtiḥ
+sūyate sa-carācaram
+hetunānena kaunteya
+jagad viparivartate
+
+“This material nature, which is one of My energies, is working under My direction, O son of Kuntī, producing all moving and nonmoving beings. Under its rule this manifestation is created and annihilated again and again.”
+
+In the beginning of creation, Lord Mahā-Viṣṇu glanced at the dormant material nature, prakṛti. Thus awakened, the subtle prakṛti began to evolve into more concrete forms: first the mahat; then false ego in conjunction with each of prakṛti’s three modes; and gradually the various material elements, including intelligence, mind, the senses and the five physical elements with their presiding demigods. Even after becoming separately manifested, however, the deities responsible for the various elements could not work together to produce the perceptible world until Lord Viṣṇu, by His special mercy, once more intervened. This is described in the Third Canto of Śrīmad-Bhāgavatam (3.5.38-39):
+
+ete devāḥ kalā viṣṇoḥ
+kāla-māyāṁśa-liṅginaḥ
+nānātvāt sva-kriyānīśāḥ
+procuḥ prāñjalayo vibhum
+
+devā ūcuḥ
+nanāma te deva padāravindaṁ
+prapanna-tāpopaśamātapatram
+yan-mūla-ketā yatayo ’ñjasoru-
+saṁsāra-duḥkhaṁ bahir utkṣipanti
+
+“The controlling deities of these physical elements are empowered expansions of Lord Viṣṇu. They are embodied by eternal time under the external energy, and they are His parts and parcels. Because they were entrusted with different functions of universal duties and were unable to perform them, they offered fascinating prayers to the Lord. The demigods said, ‘O Lord, Your lotus feet are like an umbrella for the surrendered souls, protecting them from all the miseries of material existence. All the sages under that shelter throw off all material miseries. We therefore offer our respectful obeisances unto Your lotus feet.’”
+
+Hearing the prayers of the assembled demigods of the elements, the Supreme Lord then showed His favor (Bhāg. 3.6.1-3):
+
+iti tāsāṁ sva-śaktīnāṁ
+satīnām asametya saḥ
+prasupta-loka-tantrāṇāṁ
+niśāmya gatim īśvaraḥ
+
+kāla-saṁjñāṁ tadā devīṁ
+bibhrac chaktim urukramaḥ
+trayoviṁśati tattvānāṁ
+gaṇaṁ yugapad āviśat
+
+so ’nupraviṣṭo bhagavāṁś
+ceṣṭā-rūpeṇa taṁ gaṇam
+bhinnaṁ saṁyojayām āsa
+suptaṁ karma prabodhayan
+
+“The Lord thus heard about the suspension of the progressive creative functions of the universe due to the noncombination of His potencies, such as the mahat-tattva. The Supreme Powerful Lord then simultaneously entered into the twenty-three elements with the goddess Kālī, His external energy, who alone amalgamates all the different elements. Thus when the Personality of Godhead entered into the elements by His energy, all the living entities were enlivened into different activities, just as one is engaged in his work after awakening from sleep.”
+
+In Kṛṣṇa, Śrīla Prabhupāda explains the five levels of ego covering the self: “Within the body there are five different departments of existence, known as anna-maya, prāṇa-maya, mano-maya, vijñāna-maya, and at last ānanda-maya. [These are enumerated in the Brahmānanda-vallī of the Taittirīya Upaniṣad.] In the beginning of life, every living entity is food conscious. A child or an animal is satisfied only by getting nice food. This stage of consciousness, in which the goal is to eat sumptuously, is called anna-maya. Anna means ‘food.’ After this one lives in the consciousness of being alive. If one can continue his life without being attacked or destroyed, one thinks himself happy. This stage is called prāṇa-maya, or consciousness of one’s existence. After this stage, when one is situated on the mental platform, that consciousness is called mano-maya. The material civilization is primarily situated in these three stages — annamaya, prāṇa-maya and mano-maya. The first concern of civilized persons is economic development, the next concern is defense against being annihilated, and the next consciousness is mental speculation, the philosophical approach to the values of life.
+
+“If by the evolutionary process of philosophical life one happens to reach the platform of intellectual life and understands that he is not this material body but is a spirit soul, he is situated in the vijñāna-maya stage. Then, by evolution of spiritual life, he comes to understand the Supreme Lord, or the Supreme Soul. When one develops his relationship with Him and executes devotional service, that stage of life is called Kṛṣṇa consciousness, the ānanda-maya stage. Ānanda-maya is the blissful life of knowledge and eternity. As it is said in the Vedānta-sūtra, ānanda-mayo ’bhyāsāt. The Supreme Brahman and the subordinate Brahman, or the Supreme Personality of Godhead and the living entities, are both joyful by nature. As long as the living entities are situated in the lower four stages of life — anna-maya, prāṇa-maya, mano-maya and vijñāna-maya — they are considered to be in the material condition of life, but as soon as one reaches the stage of ānanda-maya, he becomes a liberated soul. This ānanda-maya stage is explained in the Bhagavad-gītā as the brahma-bhūta stage. There it is said that in the brahma-bhūta stage of life there is no anxiety and no hankering. This stage begins when one becomes equally disposed toward all living entities, and it then expands to the stage of Kṛṣṇa consciousness, in which one hankers to render service unto the Supreme Personality of Godhead. This hankering for advancement in devotional service is not the same as hankering for sense gratification in material existence. In other words, hankering remains in spiritual life, but it becomes purified. When our senses are purified, they become freed from all material stages, namely anna-maya, prāṇa-maya, mano-maya and vijñāna-maya, and they become situated in the highest stage — ānanda-maya, or blissful life in Kṛṣṇa consciousness.
+
+“The Māyāvādī philosophers consider ānanda-maya to be the state of being merged in the Supreme. To them, ānanda-maya means that the Supersoul and the individual soul become one. But the real fact is that oneness does not mean merging into the Supreme and losing one’s own individual existence. Merging into the spiritual existence is the living entity’s realization of qualitative oneness with the Supreme Lord in His aspects of eternity and knowledge. But the actual ānanda-maya (blissful) stage is attained when one is engaged in devotional service. That is confirmed in the Bhagavad-gītā: mad-bhaktiṁ labhate parām. The brahma-bhūta ānanda-maya stage is complete only when there is the exchange of love between the Supreme and the subordinate living entities. Unless one comes to this ānanda-maya stage of life, his breathing is like the breathing of a bellows in a blacksmith’s shop, his duration of life is like that of a tree, and he is no better than the lower animals like the camels, hogs and dogs.”
+
+In accompanying the jīva within the coverings of Māyā, the Paramātmā is not bound by karmic entanglement as the jīva is. Rather, the Supreme Soul’s connection with these coverings is like the apparent connection between the moon and some tree branches it is seen through. The Supersoul is sad-asataḥ param, always transcendental to the subtle and gross manifestations of anna-maya and so on, although He enters among them as the sanctioning witness of all activities. As their final cause, the Supersoul is in one sense identical with the manifest products of creation, but in His original identity (svarūpa) He remains distinct. In this second sense He is the ānanda-maya alone, the last of the five kośas. Therefore the śrutis address Him here as avaśeṣam, the residual essence. This is also expressed in the text of the Taittirīya Upaniṣad (2.7): raso vai saḥ. Within His personal essence, the Supreme Lord enjoys rasa, the reciprocation of the mellows of devotional service, and integral to the play of rasas is the participation of realized jīvas. Raso vai saḥ rasam hy evāyaṁ labdhvānandī bhavati: “He is the embodiment of rasa, and the jīva who realizes this rasa becomes fully ecstatic.” Or in the words of the personified Vedas praying in this verse, the Supersoul is ṛtam, which Śrīla Viśvanātha Cakravartī interprets as here meaning “realized by great sages.”
+
+In the opinion of Śrīla Viśvanātha Cakravartī, the last word of all authoritative scripture (sarvāntima-śruti) is contained in the aphorism raso vai saḥ, which is demonstrably a reference to Lord Śrī Kṛṣṇa as the infinitely expanding embodiment of divine pleasure (sarva-bṛhattamānanda). The Gopāla-tāpanī śruti (Uttara 96) states, yo ’sau jāgrat-svapna-suṣuptim atītya turyātīto gopālaḥ: “Lord Kṛṣṇa, the cowherd, transcends not only the material consciousness of wakefulness, dream and deep sleep, but also the fourth realm of pure, spiritual awareness.” The ānanda-maya Supersoul is simply an aspect of the primeval Lord Govinda, as declared by Him, viṣṭabhyāham idaṁ kṛtsnam ekāṁśena sthito jagat: “With a single fragment of Myself I pervade and support this entire universe.” (Bg. 10.42)
+
+The śrutis thus tactfully assert that even among the various personal forms of Godhead, Kṛṣṇa is supreme. Understanding this, Nārada Muni will later offer obeisances to Lord Kṛṣṇa in the words namas tasmai bhagavate kṛṣṇāyāmala-kīrtaye (text 46), even though He is standing in front of Lord Nārāyaṇa Ṛṣi.
+
+Śrīla Śrīdhara Svāmī concludes his comments on this verse by praying,
+
+nara-vapuḥ pratipādya yadi tvayi
+śravaṇa-varṇana-saṁsmaraṇādibhiḥ
+nara-hare na bhajanti nṛṇām idaṁ
+dṛti-vad ucchvasitaṁ viphalaṁ tataḥ
+
+“O Lord Narahari, persons who have attained this human form live uselessly, merely breathing like bellows, if they fail to worship You by hearing about You, chanting Your glories, remembering You and performing the other devotional practices.”
+
+HH Bhanu Swami Maharaj:
+
+So these are prayers by the personified Vedas, which actually means the Upanishads. But, of course, this is not Vedic language, this is Bhagavatam language here [Laughs]. So, the Upanishads are praising the Supreme Lord when He’s waking up [Laughs]. And the prayers are supposed to answer this question, can the Vedas express the Supreme, who has no material form [Laughs]? Of course, not only the Vedas, can any literature express the Supreme Lord, but particularly the Vedas are important because they are the foundation of Vedic life. So, because the Vedas are speaking and they’re answering questions about the Vedas, they are referring to the Vedas in these verses.
+
+So, in this verse, of course, one of the previous verses is talking about Brahman or Brhad. So, in this verse, there’s another Vedic reference. Brhad, which stands for Brahman [Laughs]. And in this verse, the third line particularly refers to Taittiriya Upanishad. And particularly it’s about the kosha starting with the annamaya kosha So, that section has become quite famous. And here, there’s a reference, anna-mayādiṣu, it’s talking about. So, he’s referring to all of the different koshas or coverings.
+
+So, in that Upanishad, it describes we have the food covering, we have the prana covering, we have the mind covering, we have intelligence covering, and then finally we get to the bliss covering, anandamaya kosha [Laughs]. So, they’re discovering, let’s say, gross and then more and more subtle coverings on the jiva. We can think of the gross body, and then we have a subtle covering, which looks like this, but it’s more subtle. It looks like our body with hands and feet. So, that’s your pranamaya kosha.
+
+So, then above the pranas, which is actually a type of air, then we get mind, intelligence, and then we come to the, the bliss covering [Laughs]. So, all those coverings are there, but ultimately the basis is Supreme Lord. So, in other words, we have a material body, and we have all the coverings, etc., whatever, and ultimately behind that is the Supreme Lord. So, the basis of everything in our body, the basis of everything in the universe is Supreme Lord. And in the previous line, we have talked about mahat-tattva ahankara, and whole universe, and the basis again is Supreme Lord. It’s created by the Lord.
+
+So, this material world has lots of variety. First we get all the elements, mahat-tattva, ahankara, earth and fire, water, etc. They form into universes. So, universe is called andam or egg. That’s because it has a shell around it, like an egg shell. And the shell is made out of the elements. And within that shell, Brahma creates planets. He creates 14 levels of planets. From lowest tamoguna to highest sattvaguna. So, we get all varieties of places within this universe. And then Brahma creates bodies for the jivas. And the bodies are also made out of material elements. So, in that context, we have a description of the different koshas of the body. So, we get varieties of bodies made out of these different coverings.
+
+So, looking at the world and looking at the places and looking at the bodies, we can become completely contented. So, first we try to enjoy everything. But then we may think, well, who created all this [Laughs]? And then if we go to the Vedic literature, then we will get some answers. So, we get some unclear answers [Laughs]. So, the Upanishads say, okay, the source of everything is Brahman. Brahman means that which is big, it spreads everywhere, it’s all-pervading. And it’s completely separate from this material world.
+
+So, it’s separate from the gross elements, separate from the subtle elements. So, that is mentioned in the last line here sad-asataḥ paraṁ. But as I said this answer in the Upanishad is a little unclear. So unclarity is this. Okay, we have this Supreme cause or whatever. So one unclarity is, okay, this is the cause. Does it have form or no form? And if the Brahman is the ultimate reality, is this material world real or not? Can we have a material world which is partially real, or is it [Not clear] unreal, or is it really real [Laughs]?
+
+So, these questions arise because the Vedas, or the Upanishads, say both things. Brahman has form, Brahman has no form. And the world is said to be real but then it’s said to be illusion [Laughs]. So, then, what is the real truth [Laughs]? So, if the Brahman has no form and qualities, and nothing else exists, so, how can anything describe it? Because everything is an illusion, so you can’t have an illusion describing the real [Laughs]. And can you describe something that has no form and qualities [Laughs]?
+
+So, therefore, these prayers of the personified Vedas are answering these questions. And of course, they are a refutation of impersonalism [Laughs]. So, though, many people will think Upanishads are presenting impersonalism, here the personified Vedas are presenting personalism. Of course, the answer to the Parikshit’s question is also given by the very circumstance of the personified Vedas offering their prayers [Laughs]. So Parikshit asked this question but the answer is actually given simply by the circumstances.
+
+So, one, it’s the Upanishads speaking and praising the Lord [Laughs]. The Lord is sleeping, and they’re waking Him up, so obviously there’s a person there [Laughs]. So, the Vedas are praising the Lord. That means they’re using words to glorify the Lord. And the Lord has form and qualities, and activities. So in all these different verses, then ultimately, the answer is that the Supreme Lord has form, qualities and activities [Laughs]. Of course, when we say, okay, Lord has form, qualities and activities, etc., then the question comes, well, that’s true, how does He relate to a material world which is completely inert and we can say contaminated with gunas [Laughs].
+
+Devotee: I’m sorry. Supreme Lord is contaminated?
+
+HH Bhanu Swami Maharaj: How does He relate to material world and not become contaminated [Laughs]? So, in the second line it says that the Supreme Lord creates this material world, this universe [Laughs], which is inert and contaminated [Laughs]. So, of course, if He physically contacts it, His hands get dirty, just like a potter’s hands get dirty with all the clay [Laughs]. So, to answer that, we say the Lord is completely separate, Sada, Sata, Param. He’s completely separate from these elements.
+
+So, to answer that, we say the Lord is completely separate, Sada, Sata, Param. He’s completely separate from these elements. And thus we explain, the Lord doesn’t touch anything. He glances at a distance and then prakrti begins to manifest into universes [Laughs]. However, even there, Lord has no physical contact with the world, we can say, but He thinks about creating a material world which is full of gunas and detestable and sinful, etc., so His mind becomes contaminated [Laughs].
+
+So, this of course, is a we can say a problem [Laughs] which philosophy and religion has to answer. So, Shankaracharya gives a simple answer. Material world actually doesn’t exist, so those contamination, that’s not real [Laughs]. Buddhism gives a nice answer, there’s no creator, there’s nothing, so it’s all illusion, so there’s no contamination of anything [Laughs].
+
+So if we accept a real world, then of course we have to start explaining what’s the Lord’s relationship with it [Laughs]. So, using scripture, then we have various Acharyas giving various explanations. And thus we have Ramanuja’s philosophy, we have Madhvacharya’s philosophy, we have Nimbarka’s philosophy, and we have Caitanya Mahaprabhu’s philosophy. And, of course, of these, Lord Caitanya has given a very nice explanation. So, the Lord is completely separate from everything. But the Lord has Shaktis. So, through the Shaktis, everything is accomplished.
+
+So this allows for separation of the Lord from the material world [Laughs]. However, the Shakti is related to the Lord. So we say the Lord is Shaktiman, that means He possesses and He controls that Shakti. So without the Lord’s existence, the Shakti does not exist. So in this last line, it says here that the Lord is avaśeṣam. The Lord ultimately is the only thing that remains, He’s the basis of everything. And because He is there, His Shaktis exist, and then the world exists.
+
+In this verse, the Vedas or Upanishads are addressing the Lord as tvam, You. So, obviously, they are addressing Him as a person [Laughs]. So, we should recognize this Supreme Lord. By realizing the Lord, then we can actually attain the Supreme goal. And if we don’t do this, then we are lifeless [Laughs]. So example is given of the bellows, you know what bellows are? They’re these things you press together, air comes out, and then it heats up the fire so you can melt the metal. The blacksmith uses it [Laughs]. So, the human being that he breathes, he’s just like a bellows if he doesn’t recognize the Lord.
+
+Okay, Hare Krishna!
+
+Q & A :
+
+1.) My question is how those realization of annamaya, pranamaya, manomaya, etc. And Bahiranga Shakti, Antaranga Shakti, and Hladini Shakti, Samvit Shakti, Sandhini Shakti. Because here in the purport, Prabhupada explains, like anandamaya kosha is a material realization of the Lord. It means the Lord expresses his energy as material, means Bahiranga Shakti. Or like anandamaya is like a kind of bliss, so that is related with Antaranga Shakti and that comes from Hladini Shakti. I want to know the relation with those Shaktis, the realization.
+
+So, these are different koshas, annamaya to vijnanamaya are all Bahiranga Shakti. So, they constitute the gross and subtle bodies. Of course, one can experience material happiness with any of these koshas. You can get gross material enjoyment with annnamaya kosha. You can get a little bit more subtle enjoyment with pranamaya and manomaya koshas [Laughs]. We can think of these koshas as different levels of consciousness [Laughs]. From the grossest to more subtle. And as your consciousness gets more subtle, your enjoyment also becomes more subtle. We can also associate this with the Chakras of the body. So, you have your Muladhara Chakra and your Swadhisthana Chakra and Manipura Chakra. And as you progress with the Chakras, there is like a little more refined consciousness. So, if your consciousness is stuck in the Muladhara Chakra, then your basic happiness is survival. So, you are a food conscious [Laughs], annamaya kosha [Laughs]. So, if you just get the essentials and survive, that is your happiness [Laughs]. And if our consciousness progresses upwards through the Chakras, then gradually we get happiness from our senses. Here are the senses [Laughs]. And then we go a little further, we get happiness from emotional things like loving relationships, etc. So, then the fifth kosha is the anandamaya kosha. So, our Acharyas usually say this is not material happiness, this is spiritual happiness. So, we go from material happiness, and then more and more subtle material happiness, and then we get happiness from atma and Supreme Lord. So, all these lower koshas, annamaya, etc. are parts of Bahiranga Shakti, external energy. And the happiness that we get from them is all maya. So, when we get to the fifth anandamaya kosha, that is spiritual bliss. That’s the real bliss, and it involves Hladini Shakti. It must also include the Samvit Shakti. This is spiritual awareness. We have realized the Lord. And we realize the Lord, we serve the Lord, we have Rasa, and then we get the bliss. So, this is actually, the Bhakti Shakti is [Laughs] made up of Hladini and Samvit Shaktis. So, this is internal Shakti of the Lord.
+
+2.) Where is Brahmananda situated? Is it situated in the anandamaya kosha?
+
+In the description of these koshas, the koshas are described as purushas, persons. So, they have heads and arms and feet, etc. So, in there, Brahman is also mentioned. So, in there, Brahmananda is also mentioned in the anandamaya kosha, we have Brahman at the bottom as the basis [Laughs]. It’s actually called the pucha or the tail. Brahman is the tail [Laughs]. Tail of the purusha [Laughs]. So, it is part of the anandamaya person, purusha, but it’s the lowest part [Laughs]. Now the tail of the dog is the last part of the dog and the best part is the head [Laughs].
+
+3.) Hare Krishna. Maharaj, thank you for the wonderful class. I have a couple of questions, actually. So, my first question is, Your Divine Grace mentioned about a different group of transcendentalists. And if you also see different sloka, for example, vadanti tat tattva-vidas [ŚB 1.2.11] and then the last word is advayam. So, first line mentioned that Krishna is advayam, but the second line, it is mentioned brahmeti paramātmeti bhagavān iti śabdyate [ŚB 1.2.11] [Laughs]. So [Laughs] my question is, is it the different kind of sastra that essentially made different groups of transcendentalists? Because it’s literally sometimes confusing. First line is saying Krishna is one and then next line is saying Krishna has three different features. And then Brahman, Paramatma, Bhagavan is coming. So, is that the sastra is the reason for these different divisions in the transcendentalists? So, that is my first question. And then we see that the different philosophies in our recent past, for example, it started from sunyavada. May be that is 1700 years back from Buddha. And then comes Mayavada and then Dvaitavada and then Visishta Dvaitavada. And then Mahaprabhu gave the Achintya bhedabheda tattva. But what happened before that, sunyavada and Buddhist philosophy? I mean, how, we have only the history of 1700 years, around 800 B.E. And what happened before that? [Laughs] That is my second question. And my final question is in first canto of Srimad Bhagavatam, we see that Yudhishthira Maharaj, he was a pure devotee of Lord. But he went to the north and he was doing Astanga Yoga. Even though he is a pure devotee of Lord, why Astanga Yoga was prominent to him? And what was his destination? Because Your Divine Grace mentioned before, that the Brahmavadi and the Paramatmavadi, they essentially merge into the Supreme Brahman. But I am interested like what was the destination of Yudhishthira Maharaj? Because he did Astanga Yoga and in Mahabharata it is mentioned that he went to Swargaloka. But in Bhagavatam, Srila Prabhupada writes in his commentary that he went to Vaikunthaloka. So what is the destination for Astanga Yogi? That is my question, particularly for Yudhishthira Maharaj. Hare Krishna.
+
+Some scriptures do describe this Brahman as personal and impersonal. And then some will say, well, the impersonal is superior, other we can interpret, it doesn’t mean too much and then others can say, oh, it’s first no, as impersonalists some, just a metaphorical or whatever. And based on their conclusion, they will perceive impersonal Brahman or personal Brahman.
+
+Devotee: Conclusion?
+
+HH Bhanu Swami Maharaj: Based on their conclusion, then they will go for impersonal Brahman or personal Brahman. But as Bhagavatam explains, the Lord is both. He is not one or the other. He’s both [Laughs] And if you follow Jnana, you can realize Brahman. If you follow Bhakti, you realize Bhagavan. Nevertheless, we can say that realization of Bhagavan is complete realization. Like realizing sunlight and Surya-deva within the sun. And if we realize Bhagavan, we develop rasa, we get bliss, not with Brahman. Second question, Buddhism arose as a reaction to followers of the Vedas.
+
+Devotee: They reacted?
+
+HH Bhanu Swami Maharaj: Yes, they didn’t like Karmakanda, so they said, okay, let’s reject the Vedas. So, before Buddhism, we have people following the Vedas, some follow Karmakanda, some Jnanakanda, some Bhakti, etc. So all paths were there previously. And then, after Shankaracharya, then again Bhakti was established. Third question, Yudhisthira is actually Nitya Siddha. So, he doesn’t have to practice anything, even Bhakti, because he’s already perfect [Laughs]. And he doesn’t have to go to Swargaloka or anything. So, if all those stories are there, whatever, these are just, we can say, actions that he does to show other people, but they’re actually not essential to his Bhakti. Just as Yudhisthira performed many horse sacrifices to absolve himself of the sin of killing so many people in battle of Kurukshetra. But he has no sin [Laughs].
+
+4.) Maharaj, in the purport, there is mention of Śvetāśvatara Upaniṣad. “All you sons of immortality, hear, you who once resided in the divine kingdom!” So, what is this, like, it was like you were in spiritual world, then came to material world, something like that?
+
+There’s something on page, oh, I don’t know what page it is there [Laughs]. Śvetāśvatara Upaniṣad. About [Śvetāśvatara Upaniṣad 2.5], about living in the hope in the spiritual world. You see that? Anyway, we have to see the context of that. I don’t know, I’ll look it up in the Śvetāśvatara Upaniṣad.
+
+Okay, Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/18": { title: "SB 10.87.18 \u2013 Various choices in spiritual life & their destinations !", video: "G8sdyV3ZV00", article: `Srimad Bhagavatam 10.87.18 | HH Bhanu Swami Maharaj | ISKCON Japan | 8 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 18.
+
+ŚB 10.87.18
+
+उदरमुपासते य ऋषिवर्त्मसु कूर्पद‍ृश:
+परिसरपद्धतिं हृदयमारुणयो दहरम् ।
+तत उदगादनन्त तव धाम शिर: परमं
+पुनरिह यत् समेत्य न पतन्ति कृतान्तमुखे ॥ १८ ॥
+
+udaram upāsate ya ṛṣi-vartmasu kūrpa-dṛśaḥ
+parisara-paddhatiṁ hṛdayam āruṇayo daharam
+tata udagād ananta tava dhāma śiraḥ paramaṁ
+punar iha yat sametya na patanti kṛtānta-mukhe
+
+Synonyms
+
+udaram — the abdomen; upāsate — worship; ye — who; ṛṣi — of sages; vartmasu — according to the standard methods; kūrpa — gross; dṛśaḥ — their vision; parisara — from which all the prāṇic channels emanate; paddhatim — the node; hṛdayam — the heart; āruṇayaḥ — the Āruṇi sages; daharam — subtle; tataḥ — thence; udagāt — (the soul) rises up; ananta — O unlimited Lord; tava — Your; dhāma — place of appearance; śiraḥ — to the head; paramam — the highest destination; punaḥ — again; iha — into this world; yat — which; sametya — reaching; na patanti — they do not fall down; kṛta-anta — of death; mukhe — into the mouth.
+
+Translation
+
+Among the followers of the methods set forth by great sages, those with less refined vision worship the Supreme as present in the region of the abdomen, while the Āruṇis worship Him as present in the heart, in the subtle center from which all the prāṇic channels emanate. From there, O unlimited Lord, these worshipers raise their consciousness upward to the top of the head, where they can perceive You directly. Then, passing through the top of the head toward the supreme destination, they reach that place from which they will never again fall to this world, into the mouth of death.
+
+Purport
+
+Here the śrutis who teach meditational yoga glorify the Personality of Godhead. The various processes of yoga are for the most part gradual and full of opportunities for distraction. Authentic methods of yoga, nonetheless, all aim at meditation on the Supersoul (Paramātmā), whose primary residence is in the region of the heart, alongside the jīva soul. This manifestation of Paramātmā in the heart is very subtle and difficult to perceive (daharam), and thus only advanced yogīs can realize Him there.
+
+Neophyte meditators often practice focusing on the Supersoul’s secondary presence in one of the lower centers of vital energy, such as the mūlādhāra-cakra, at the base of the spine, the svādhiṣṭhāna-cakra, in the area of the navel, or the maṇipūra-cakra, in the abdomen. Lord Kṛṣṇa refers to His expansion as Paramātmā in the abdominal cakra as follows:
+
+ahaṁ vaiśvānaro bhūtvā
+prāṇinaṁ deham āsthitaḥ
+prāṇāpāna-samāyuktaḥ
+pacāmy annaṁ catur-vidham
+
+“I am the fire of digestion in the bodies of all living entities, and I join with the air of life, outgoing and incoming, to digest the four kinds of food.” (Bg. 15.14) Lord Vaiśvānara presides over digestion and in general bestows the capacity of mobility on animals, humans and demigods. In the judgment of the śrutis speaking this verse, those who limit their meditation to this form of the Lord are less intelligent, kūrpa-dṛśaḥ, meaning literally “having eyes clouded by dust.”
+
+The superior yogīs known as Āruṇis, on the other hand, worship the Supersoul in His form as the indwelling companion of the jīva in the heart, the Lord who endows His dependent with the power of knowledge and inspires him with all varieties of practical intelligence. And just as the physical heart is the center of blood circulation, so the subtle heartcakra is the crossroads of numerous channels of prāṇa, called nāḍīs, which extend outward to all parts of the body. When these passageways have been sufficiently purified, the Āruṇi yogīs can leave the heart region and go upward to the cakra at the roof of the brain. Yogīs who leave their bodies through this cakra, the brahma-randhra, go directly to the kingdom of God, from which they need never return to be reborn. Thus even the unsure process of meditational yoga can bear the fruit of pure devotion if it is followed perfectly.
+
+Śrīla Viśvanātha Cakravartī Ṭhākura cites several śruti-mantras that echo the words of this verse: udaraṁ brahmeti śārkarākṣā upāsate hṛdayaṁ brahmeti āruṇayo brahmā haivaitā ita ūrdhvaṁ tv evodasarpat tac-chiro ’śrayate. “Those whose vision is clouded identify Brahman with the abdomen, while the Āruṇis worship Brahman in the heart. One who is truly Brahman-realized travels upward from the heart to take shelter of the Lord who is manifested at the top of the head.”
+
+śataṁ caikā ca hṛdayasya nāḍyas
+tāsāṁ mūrdhānam abhiniḥsṛtaikā
+tayordhvam āyann amṛtatvam eti
+viśvaṅṅ anyā utkramaṇe bhavanti
+
+“There are one hundred and one subtle prāṇic channels emanating from the heart. One of these — the suṣumṇā — extends to the top of the head. By passing up through this channel, one transcends death. The other channels lead in all directions, to various kinds of rebirth.” (Chāndogya Upaniṣad 8.6.6)
+
+The Upaniṣads refer repeatedly to the indwelling Paramātmā. Śrī Śvetāśvatara Upaniṣad (3.12-13) describes Him as follows:
+
+mahān prabhur vai puruṣaḥ
+sattvasyaiṣa pravartakaḥ
+su-nirmalāṁ imāṁ prāptim
+īśāno jyotir avyayaḥ
+
+aṅguṣṭha-mātraḥ puruṣo ’ntar-ātmā
+sadā janānāṁ hṛdaye sanniviṣṭaḥ
+hṛdā manīṣā manasābhikḷpto
+ya etad vidur amṛtās te bhavanti
+
+“The Supreme Personality of Godhead becomes the Puruṣa to initiate the expansion of this cosmos. He is the perfectly pure goal that yogīs strive to reach, the effulgent and infallible ultimate controller. Measuring the size of a thumb, the Puruṣa is always present as the Supersoul within the hearts of all living beings. By exercising proper intelligence, one can realize Him within the heart; those who learn this method will gain immortality.”
+
+In conclusion, Śrīla Śrīdhara Svāmī prays:
+
+udarādiṣu yaḥ puṁsāṁ
+cintito muni-vartmabhiḥ
+hanti mṛtyu-bhayam devo
+hṛd-gataṁ tam upāsmahe
+
+“Let us worship the Supreme Lord, who resides in the heart. When mortal beings think of Him by the standard procedures established by great sages, meditating upon Him in His expansions in the abdomen and other regions of the body, the Lord reciprocates by destroying all fear of death.”
+
+HH Bhanu Swami Maharaj:
+
+So, the previous verses were describing the Supreme Lord who has form, qualities and activities. This verse describes one method by which you can realize the Lord. It also indicates the goal, what happens when we realize the Lord. So this verse is describing yoga process. And even among yogis, there are different ways of meditating. So one such is to meditate on the abdomen and the other is to meditate on the heart.
+
+So as we said here, ultimately you have to meditate at the top of the head. So in another words, we have various chakras, ultimate goal is to reach top of the head and then you get liberation. So there are many scriptures describing this process of meditation. And it’s a let’s say, a rather complex process. And many practitioners warn that, if you don’t do it properly, you get very negative effects.
+
+So the reason is that in this yoga process, we’re dealing with the subtle body and the pranas. We meditate on the chakras. The chakras are centers of prana. The chakras are centers of prana. And the pranas circulate throughout the body and effect all of your organs. So if you don’t control the pranas properly and raise upto [Laughs] the top of the head, they an start doing other things in your body and you can get physical effects in term of illness and whatever.
+
+Yesterday we talked about the koshas. So we have the annamaya kosha, which is the gross body, and we have the pranamaya kosha, more subtle, prana body. So then we have the manomaya kosha, which is more subtle. So in the yoga system, you’re using the pranamaya kosha and the manomaya kosha [Laughs]. And you do something wrong, then you can get effects on the gross body and the subtle body and the mind [Laughs]. So therefore the yogis, though they have the scriptures, they always say, don’t just follow the scripture, you have to do it through a teacher [Laughs]. Otherwise you go crazy or you get physical effects [Laughs]. So though, it is described in the scripture, it’s also a difficult process. One of the effects is you can get siddhis. But the highest goal is to get liberation.
+
+So that liberation is described here in the last line [Laughs]. So this is one method by which we can get out of the material world. Of course it says that you escape from death [Laughs]. Which means you get liberation. Of course, the goal of the devotee is more than that, to realize the form, qualities, and activities of the Lord. So here, you are meditating on the stomach and you are meditating on the heart [Laughs], but the real process is to remember the Supreme Lord [Laughs]. Of course, the fortunate yogis will meditate on Paramatma.
+
+However, even there, if they realize Paramatma, they also usually make a bad choice. So though they realize Paramatma, then they choose to merge into Paramatma [Laughs]. Or they merge into His effulgence [Laughs]. So both are considered to be pretty unfortunate [Laughs]. After actually realizing the form of Paramatma, you merge into Him [Laughs]. So that is considered to be unfortunate because you have a choice to realize Paramatma then you can go on serve Him and realize Bhagavan but they don’t do that [Laughs]. So the only way they can actually make a good choice is if they get association with devotees [Laughs].
+
+So therefore, we can’t just practice independently, we do have to have the advice of a Guru [Laughs]. And the purpose of Guru is to direct you in the proper way [Laughs]. So this process is one way, but of course it’s not the only way to realize the Lord. And this process is difficult. And it’s likely you end in liberation, and you don’t realize the form, qualities, and activities of the Lord. And of course, the whole purpose of this, these prayers is to show the Supreme Lord with His form [Laughs], qualities, and activities [Laughs].
+
+Nevertheless, the scriptures also give us alternatives. You can realize Brahman, you can realize Paramatma, or you can realize Bhagavan. And it’s left to the jiva to decide which to [Laughs] attain. So scripture gives these different choices. And depending on who you accept as a teacher, then you start choosing different goals [Laughs]. So we have to choose the best teacher who gives us the highest goal [Laughs]. And of course we have to choose the best teacher who gives us the highest goal. And of course we have to choose the best scripture [Laughs]. If you concentrate only on the yoga scriptures, you gonna end up with one goal [Laughs]. If you only concentrate on Upanishads, you end up with Brahman [Laughs]. If you concentrate on Bhagavatam, then you realize Krishna. So in this way, we have many choices, and we also have many teachers, we also have many scriptures.
+
+So this may look a little confusing [Laughs]. Why do the Vedas give us so many choices [Laughs]? And the answer is, ultimately, they’re not giving many choices, they’re telling you the highest choice, but not all people want that, not all people are qualified for that, so they give other options. We can also say this is the Lord’s mercy. People have different inclinations, and the Lord responds to that. And we can contrast this with various religions. And in various religions, you don’t have any choice [Laughs]. No choice. Choose one thing, nothing else, no options, no other alternative [Laughs]. If you don’t choose Christ, you can’t go to [Laughs] heaven [Laughs]. If you don’t choose Christ, if you choose anything else, no, no result. Hell. You go to hell [Laughs]. And same with Islam [Laughs]. So many religions, no choice [Laughs]. In other words, the mercy of God is quite limited [Laughs]. So when people look at the Vedas, then they say, this is too much [Laughs]. Everything [Laughs]. You do anything you want [Laughs]. And of course, some people also take advantage of that [Laughs]. So many people, yes, Hinduism, very free, very liberal, do anything you want, choose any devata, worship anything, do anything [Laughs].
+
+However, if we look closely, we will see, you make choices, and you also get different results. If we want material results, we choose Karma Yoga. If we want spiritual results, we can choose Jnana Yoga, Astanga Yoga, or Bhakti Yoga. But evrn spiritually we get different results [Laughs]. So of course, most religions will distinguish material and spiritual results, fine, and they choose spiritual results. Two choices [Laughs]. But once you choose spiritual, only one, one way [Laughs]. And once you choose spiritual according to the Vedas, then we have three choices [Laughs].
+
+So therefore we have Brahman, Paramatma, and Bhagavan, the Lord manifested in different ways for different people. And though they are all one, and all spiritual, nevertheless, Bhagavan is the most complete manifestation. So an intelligent person following scripture will choose Bhagavan and Bhakti Yoga. But then the scriptures give us more choice [Laughs]. If you choose Bhagavan, then you can choose Vishnu, Narasimha Deva or Rama or Krishna, all sorts of choices [Laughs]. And though they all give prema and bliss, still, it is different prema and different bliss [Laughs]. And there again, intelligent person will choose the form who gives the most intense prema, the highest bliss. That is Krishna. So a person who chooses Krishna, then he is considered to be very fortunate.
+
+However, if a person chooses any other form of Bhagavan, he is not unfortunate [Laughs]. And when he attains that form, then he is also most fortunate [Laughs]. So in this way, the Lord shows mercy in a variety of ways. So that is also, we can say, a natural quality of the Lord. Rather than just respond to everybody in the same way, He should respond to individuals. And thus we have various forms of the Lord and various qualities manifested in those various forms.
+
+So in this way the Lord is showing His great mercy. And even that mercy is simply an aspect of His bliss. The essential quality of the Lord is bliss. And everything else, including His mercy, manifests from that bliss. And ultimately when He gives mercy, then the jiva can experience that bliss. And the bliss that the jiva experiences is individual. So that shows the perfection of the Lord.
+
+Okay, Hare Krishna.
+
+Q & A :
+
+1.) So what about after you choose Krishna?
+
+HH Bhanu Swami Maharaj: After you choose Krishna?
+
+Devotee: Hmm.
+
+HH Bhanu Swami Maharaj: You still have choice [Laughs]. So you can choose Krishna in Dwaraka, Krishna in Mathura and Krishna in Vrindavana. And then you can choose Dasya Rasa, Sakhya Rasa, Vatsalya Rasa, or Madhurya Rasa. And even there, in those individual Rasas, you have choice. There are different types of servants. There are different types of friends [Laughs]. Different types of elders. Different types of Gopis [Laughs]. So you get more and more choices [Laughs].
+
+Devotee: If we increase the choice, then more [Not clear] and variety of the [Not clear].
+
+HH Bhanu Swami Maharaj: Well, yeah, we can say, means, finer and finer choices according to your individual preference [Laughs]. So it becomes more individualized. The more you keep choosing, it’s customized. Customized for each individual [Laughs]. And then finally you get the individual, we can say individual form with individual qualities and complexion and service and whatever [Laughs].
+
+Devotee: Everything is in the content, in the rasa.
+
+HH Bhanu Swami Maharaj: Yeah, yeah. Just like in this material world, we have choices. So you can choose to, a transport. So you choose a car, or a motorcycle, or a bicycle [Laughs], or whatever, a train, bus, or whatever [Laughs]. And that’s individual choice on your circumstance and whatever. But even there you have choices. So if there’s a train, you can have the first class train [Laughs], the second class train [Laughs], whatever [Laughs]. Or if you choose car, then you have all choices of different cars you can drive [Laughs]. And each car will have it’s own advantages you know [Laughs]. And even if you choose a car, then you can also choose your particular color you like [Laughs]. And then you can start customizing that also [Laughs]. [Laughs] You can change the wheels and put AC in it and do all sorts of other things with it [Laughs]. So the same in the spiritual world [Laughs].
+
+2.) Maharaj, in material world, everything depends on money. I want to fly but I don’t have money. I will just buy a bicycle. So in the spiritual world, what is the currency?
+
+HH Bhanu Swami Maharaj: So in the spiritual world, you take a certain body, you have to choose a certain form of the Lord, etc. and certain service based on your own nature and capacity. So all Jivas have a capacity for bliss. So in the material world, the capacity is not manifested at all because we have material happiness, no bliss [Laughs]. So our capacity for bliss manifests when we serve the Lord. So when we reach prema, our capacity for bliss reaches its maximum. And we say that the maximum capacity is in Madhurya Rasa. But some Jivas do not choose that. Why because their capacity for bliss is different [Laughs]. If they choose Dasya, then capacity is different. So there’s actually a gradation in bliss in Prema itself. So we have Bhava, Prema, and I think, what is it? We get Pranaya, Sneha, Pranaya, Mana, Raga, Anuraga, Mahabhava. So we get all these different, and it’s more and more intense. But the intensity is also only in certain Rasas. So Madhurya Rasa gets Anuraga and Mahabhava. The others don’t. And Vatsalya you can say has Raga. And then Sakhya will have up to Pranaya. And Dasya is up to Prema [Laughs]. So their capacity is different and they gravitate towards certain Rasas. It gives them the maximum. And that’s most blissful for them and they’re content.
+
+Devotee: They cannot shift?
+
+HH Bhanu Swami Maharaj: Their capacity is different. Gas tank is only so much and you can put so much gas in your tank and you can’t put more in [Laughs].
+
+3.) If we choose only Krishna, Krishna gives unlimited varieties. If we choose only one Krishna, then Krishna gives unlimited varieties.
+
+HH Bhanu Swami Maharaj: If you don’t like choice, you choose Vishnu [Laughs].
+
+Devotee: If you choose Krishna, you get more variety and choices Krishna gives.
+
+HH Bhanu Swami Maharaj: Yeah [Laughs].
+
+Devotee: Yeah, she felt that.
+
+HH Bhanu Swami Maharaj: So that we must show mercy. So we get more types of devotees with Krishna and only one or two types with Vishnu [Laughs] choices are less.
+
+Devotee: So ultimately, mercy means to give freely. Mercy means variety.
+
+HH Bhanu Swami Maharaj: Yeah. Even we find with Krishna that in Vrindavan, that free will is manifested more freely than it is in Dwaraka. Because in Dwaraka, there is always reverence. So you are kind of confined by rules [Laughs]. Not with Krishna in Vrindavan [Laughs].
+
+Devotee: No rules [Laughs].
+
+HH Bhanu Swami Maharaj: [Laughs].
+
+Devotee: [Laughs].
+
+4.) Maharaj, how does Sampradaya influence our choices? It’s just not enacted by chance. Some people choose different, there are four Sampradayas. So different people choose or [Not clear] different Sampradaya. How this Sampradaya influence our choices in spiritual realm?
+
+Devotee 2: In spiritual realm?
+
+Devotee 1: Well, from here, we are going somewhere.
+
+HH Bhanu Swami Maharaj: So our choice starts in the material world with our sadhana. So, if we have faith, we have faith in bhakti, but then we have choice [Laughs]. And even there, that choice also is somewhat defined by form of God. So, if you choose Vishnu, then you go to Sri Sampradaya or Madhva Sampradaya. If we choose Krishna, we do Vallabha or Gaudiya Sampradaya or Nimbarka [Laughs]. And if we choose Madhurya Rasa, then we choose Nimbarka or Gaudiya [Laughs]. And if we choose Parakiya Rasa, then we choose Gaudiya [Laughs]. And that’s just for forms of God, Rasa, but in terms of philosophy, you can also choose. So you can choose different philosophies. Advaita, Visishta Advaita, Achintya bhedabheda tattva. Another kind of choice you can make [Laughs]. Another choice may be according to how much you are following Varnashramic system or not. So, Madhvas and Sri Sampradaya are following more, Gaudiya is less [Laughs].
+
+5.) Maharaj, for Mixed Bhakti, what is the destination?
+
+HH Bhanu Swami Maharaj: Mixed Bhakti?
+
+Devotee: Hmm.
+
+HH Bhanu Swami Maharaj: Yeah, with Mixed Bhakti, you can get up to Salokya and Sarupya. So, better than liberation. But with Salokya and Sarupya, it does not mean you get Prema. So, you can get like a bhava [Laughs], little weaker form.
+
+Devotee: With Pure Bhakti only you will get Prema and more, above Salokya and Sarupya?
+
+HH Bhanu Swami Maharaj: That’s also response to choice. So, if you choose Mixed Bhakti and you keep progressing with that choice, the Bhakti amount is less. So, the result is less in the spiritual world [Laughs]. And if you choose karma misra bhakti, then, which means you have some attachment to material enjoyment etc, the result is, but you are doing mainly bhakti, you get to the spiritual world, but then emphasis is upon the nice spiritual form and place [Laughs] rather than service.
+
+Devotee: Means Salokya?
+
+HH Bhanu Swami Maharaj: Yes, Salokya, Sarupya. And if you choose jnana misra bhakti, because of that jnana influence, you end up with Santa Rasa [Laughs].
+
+Devotee: Karma misra bhakti is not the Santa Rasa?
+
+HH Bhanu Swami Maharaj: Or more like a Rati [Laughs]. There is something called Samanya Bhakti, which is a kind of just a general devotional feeling. Like the, we can say the people of, when Krishna is passing on the road, the general people, population is offering respects and so [Laughs]. That’s called Samanya Bhakti [Laughs]. Not too intense.
+
+6.) Maharaj, this Rasa and different type of goal is very high level right to achieve. But when we are doing Sadhana Bhakti, devotees have tendency, because of the knowledge, they have tendency to look down to people who are practicing jnana or meditation. Though their goal is merely, only Brahman is the goal for them. Still it is very high from normal person’s perspective. So why we should look like that or we should avoid looking this practitioner as down or something doing not very important.
+
+So Brahman, Paramatma and Bhagavan are all aspects of one Lord. So anyone who’s pursuing that is better than someone pursuing material world. And even those following Karma Kanda or Karma Yoga are to be respected in the sense that they are at least following the Vedic path [Laughs]. At the same time, we also realize that they are ignorant of the highest goal. At the same time, we also realize that they are ignorant of the highest goal. So therefore we consider them unfortunate [Laughs]. And thus we will find that Krishna criticizes the followers of the Vedas [Laughs]. Flowery words of the Vedas and all. And in Bhagavatam the jnanis and yogis are criticized because they put do much effort into the goal and all they get is Brahman [Laughs].
+
+7.) Siksha line and Diksha line, the destinations will be similar?
+
+HH Bhanu Swami Maharaj: For devotees?
+
+Devotee: Yeah. For Rasa.
+
+HH Bhanu Swami Maharaj: Yeah, it depends. If they are teaching Vaidhi bhakti or they are teaching Vishnu or whatever, you will get one goal. If they are teaching Krishna, and of course, Diksha would mean that if you get a Vishnu mantra, then obviously you are gonna worship Vishnu and if you get Krishna mantra, you will worship Krishna [Laughs]. But if you are all within Gaudiya or all within ISKCON, you get the same mantra [Laughs]. So that doesn’t matter. And then a lot would depend on the teachings you get either from the Diksha Guru or the Siksha Gurus. But because we are teaching Bhagavatam and the Acharyas’ works and Lord Caitanya’s teachings [Laughs], the emphasis is on Madhurya Rasa [Laughs].
+
+8.) Hare Krishna Maharaj. What’s the exat meaning of liberation? This liberation is also eternal or eternity. As you said, the one who performs karma yoga will remain in this material world. And the one who performs Astanga Yoga will get liberated, and the one who performs Bhakti Yoga will attain the spiritual world. So liberation means, is it in the middle of the spiritual world and material world?
+
+HH Bhanu Swami Maharaj: So when we talk about liberation, we mean that a person realizes Brahman, impersonal aspect of the Lord, not Paramatma or Bhagavan. But the yogi can attain Paramatma, but if he merges into Paramatma, [Not clear] mere liberation is equivalent to Brahman. So as stated in this verse, you get that and you don’t come back to the [Laughs] death in the material world, so it’s eternal liberation.
+
+Devotee: But some Jiva come back right from Brahman?
+
+HH Bhanu Swami Maharaj: So that, of course, is because there’s a verse that, patanty adho ’nādṛta-yuṣmad-aṅghrayaḥ [ŚB 10.2.32]: they fall down because they don’t worship or respect the lotus feet of the Lord. So Jiva Goswami and Vishwanath both explain that if you’re a jnani, and you don’t worship the Lord or disrespect the Lord, you can come at the stage of Jivanmukta. You can attain realization of Brahman with the material body. So those persons fall. They come back to another material body. They don’t merge into Brahman. It’s also said if the jnani does, does worship the Lord, he can get that liberation and he doesn’t worship the Lord, he cannot get liberation ultimately.
+
+Devotee: So it means Maharaj, Astanga yoga, performing Astanga yoga is not enough. Bhakti should be there or worship should be there. Then only they will get eternal liberation?
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: And what is the source of bliss? What kind of bliss they get?
+
+HH Bhanu Swami Maharaj: Who? Yogis?
+
+Devotee: Yes yes liberated, eternally liberated.
+
+HH Bhanu Swami Maharaj: So that bliss is no more birth and death, no more karma, no more ignorance. So it’s just like a person who is sick, he recovers from the sickness. So in that sense, there is some happiness [Laughs]. But then of course we will say, well if you just recover from sickness and you are sitting in your house all day, is that happiness or not [Laughs]? So when you attain Brahman, there’s no body, there’s no senses, there’s nothing, and you’re just sitting in Brahman all the time. Free from suffering [Laughs].
+
+Okay, Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/19": { title: "SB_10.87.19 \u2013 Vaishnava acharya\u2019s various philosophies to establish the Supremacy of Supreme Lord !", video: "7r0TE_d6Hy0", article: `Srimad Bhagavatam 10.87.19 | HH Bhanu Swami Maharaj | ISKCON Japan | 9 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 19.
+
+ŚB 10.87.19
+
+स्वकृतविचित्रयोनिषु विशन्निव हेतुतया
+तरतमतश्चकास्स्यनलवत् स्वकृतानुकृति: ।
+अथ वितथास्वमूष्ववितथं तव धाम समं
+विरजधियोऽनुयन्त्यभिविपण्यव एकरसम् ॥ १९ ॥
+
+sva-kṛta-vicitra-yoniṣu viśann iva hetutayā
+taratamataś cakāssy anala-vat sva-kṛtānukṛtiḥ
+atha vitathāsv amūṣv avitathāṁ tava dhāma samaṁ
+viraja-dhiyo ’nuyanty abhivipaṇyava eka-rasam
+
+Synonyms
+
+sva — by Yourself; kṛta — created; vicitra — variegated; yoniṣu — within the species of life; viśan — entering; iva — apparently; hetutayā — as their motivation; taratamataḥ — according to hierarchies; cakāssi — You become visible; anala–vat — like fire; sva — Your own; kṛta — creation; anukṛtiḥ — imitating; atha — therefore; vitathāsu — unreal; amūṣu — among these (various species); avitatham — not unreal; tava — Your; dhāma — manifestation; samam — undifferentiated; viraja — spotless; dhiyaḥ — whose minds; anuyanti — understand; abhivipaṇyavaḥ — those who are free from all material entanglements (paṇa); eka–rasam — unchanging.
+
+Translation
+
+Apparently entering among the variegated species of living beings You have created, You inspire them to act, manifesting Yourself according to their higher and lower positions, just as fire manifests differently according to the shape of what it burns. Therefore those of spotless intelligence, who are altogether free from material attachments, realize Your undifferentiated, unchanging Self to be the permanent reality among all these impermanent life forms.
+
+Purport
+
+Hearing these prayers of the personified Vedas, in which the śrutis describe the Supersoul as entering countless varieties of material bodies, a critic may question how the Supreme can do this without becoming limited. Indeed, proponents of Advaita philosophy see no essential distinction between the Supreme Soul and His creation. In the impersonalists’ conception, the Absolute has inexplicably gotten itself entrapped by illusion and has thus become first a personal God and then the demigods, humans, animals, plants and finally matter. Śaṅkarācārya and his followers take great pains to cite Vedic evidence to support this theory of how illusion is imposed on the Absolute. But speaking for themselves, the Vedas here answer this objection and refuse to lend their authority to Māyāvāda impersonalism.
+
+The process of creation is technically called sṛṣṭi, “sending forth.” The Supreme Lord sends forth His variegated energies, and these partake of His nature while remaining distinct from Him. This fact is expressed in the true Vedic philosophy of acintya-bhedābheda, the inconceivable, simultaneous oneness and difference of the Supreme Lord and His energies. Thus although each of the multitude of individual souls is a distinct entity, all souls consist of the same spiritual substance as the Supreme. Since they partake of the Supreme Lord’s spiritual essence, the jīvas are unborn and eternal, just as He is. Lord Kṛṣṇa, speaking to Arjuna on the Battlefield of Kurukṣetra, confirms this:
+
+na tv evāhaṁ jātu nāsaṁ
+na tvaṁ neme janādhipāḥ
+na caiva na bhaviṣyāmaḥ
+sarve vayam ataḥ param
+
+“Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.” (Bg. 2.12) Material creation is a special arrangement for those jīvas who choose to separate themselves from the Supreme Lord’s service, and thus the creation involves producing an imitation world where they can try to be independent.
+
+After creating the many species of material life, the Supreme Lord expands into His own creation as the Supersoul in order to provide the intelligence and inspiration every living being needs for his day-to-day existence. As stated in the Taittirīya Upaniṣad (2.6.2), tat sṛṣṭvā tad evānuprāviśat: “After creating this world, He then entered within it.” The Lord enters the material world, however, without forming any binding connection to it; this the śrutis here declare by the phrase viśann iva, “only seeming to enter.” Taratamataś cakāssi means that the Paramātmā enters the body of every living being, from the great demigod Brahmā down to the insignificant germ, and exhibits differing degrees of His potency according to each soul’s capacity for enlightenment. Analavat sva-kṛtānukṛtiḥ: Just as fire ignited in several objects burns according to the different forms of those objects, so the Supreme Soul, entering the bodies of all living creatures, illuminates the consciousness of each conditioned soul according to his individual capacity.
+
+Even in the midst of material creation and destruction, the Lord of all creatures remains eternally unchanged, as expressed here by the word eka-rasam. In other words, the Lord eternally maintains His personal form of immeasurable, unalloyed spiritual pleasure. The rare living beings who completely (abhitas) disengage themselves from material dealings, or paṇa (thereby becoming abhivipaṇyavaḥ), come to know the Supreme Lord as He is. Every intelligent person should follow the example of these great souls and beg from them the chance to also be engaged in the Supreme Lord’s devotional service.
+
+This prayer is recited by śrutis whose mood is similar to that expressed in the following mantra of the Śvetāśvatara Upaniṣad (6.11):
+
+eko devaḥ sarva-bhūteṣu gūḍhaḥ
+sarva-vyāpī sarva-bhūtāntarātmā
+karmādhyakṣaḥ sarva-bhūtādhivāsaḥ
+sākṣī cetā kevalo nirguṇaś ca
+
+“The one Supreme Lord lives hidden inside all created things. He pervades all matter and sits within the hearts of all living beings. As the indwelling Supersoul, He supervises their material activities. Thus, while having no material qualities Himself, He is the unique witness and giver of consciousness.”
+
+Śrīla Śrīdhara Svāmī submits his own prayer:
+
+sva-nirmiteṣu kāryeṣu
+tāratamya-vivarjitam
+sarvānusyūta-san-mātraṁ
+bhagavantaṁ bhajāmahe
+
+“Let us worship the Supreme Lord, who enters the products of His own creation yet remains aloof from their superior and inferior material gradations. He is the pure, undifferentiated existence pervading everything.”
+
+HH Bhanu Swami Maharaj:
+
+Yeah. So the question was asked, how can this Brahman be expressed by words? So the answer is found when we find that the personified Vedas are describing the Lord [Laughs]. But then the problem comes is, what is the meaning that they express? One problem is that sometimes the Vedas say that only Brahman exists, nothing else. And that means the material world and the Jivas do not exist [Laughs].
+
+Of course, then we have other statements that say the Supreme Lord creates a material world, as is stated here [Laughs]. And even in this verse, he uses the words vitathāsu and avitathāṁ, one is false and one is true [Laughs]. So then there’s another contradiction. Lord has no form, no qualities, no activities. And then He is full of form, qualities, activities [Laughs].
+
+So then we can ask the question, why do the Vedas try to confuse us? And if there is contradiction, it’s meaningless. If you say the Lord has qualities, the Lord has no qualities, then ultimately, what’s the meaning of the Vedas? It’s meaningless. What is the authority of the Vedas? But if we accept the authority of the Vedas, we cannot reject the Vedas, so therefore we have to resolve the contradiction.
+
+So the one method is to accept some statements and reject the other statements [Laughs]. But we cannot reject the statements, that means the Vedas are also speaking something false [Laughs]. So we can say, these contradictory statements are relative statements, not absolute.
+
+So in other words, we don’t take the literal meaning of the words. So then we can take all these statements that talk about real world and qualities of the Lord, this is all metaphorical, not absolute [Laughs]. In other words, it’s all poetic expression, it’s not philosophy [Laughs]. So this is what Shankaracharya does, he takes all the impersonal statements and says, this is the absolute truth, everything else is poetic language [Laughs]. But we can do the opposite also, we can take all the personal statements and say all the impersonal statements are metaphorical [Laughs]. So this is what Madhvacharya does. So in this way, we get, okay, we cannot resolve the question, because we just have [Laughs] two arguments, I’m right and you’re wrong [Laughs].
+
+So Ramanuja has [Not clear] Advaita, so it’s kind of one like Shankaracharya. But his oneness is different from Shankara. So Shankaracharya’s oneness is only Brahman exists, nothing else exists [Laughs]. And that oneness has no form, qualities, activities, or anything. But Ramanujacharya says oneness means the Lord is everything but He has form, qualities, and activities [Laughs]. And material world and Jivas are different from the Lord, but they’re part of the Lord. But of course counter argument is well, you are saying everything is one but you are also saying Jivas and matter are different. So ultimately [Not clear] different [Laughs].
+
+So Ramanuja’s answer is that the Jivas and matter are different from the Lord, but they’re very closely related to the Lord, so therefore it’s all one. So he uses the example of object and its qualities. So the qualities are visesha. So we say the object has qualities. So the object has a certain color and a certain shape and made out of a certain substance, these are the qualities. So the qualities are part of the object, but the qualities are not the object, so they are different in that sense.
+
+So the quality is not the object but nevertheless once the qualities are there, people, you know [Laughs] say, see the object [Laughs]. So they are very intimately related with the object. So but they are not the object. So they’re different and they also connect the same as the object, oneness. So there is difference, but there is oneness, like the oneness of quality to object [Laughs]. So in this way, he accepts oneness, but he also accepts difference. And he also accepts Lord with qualities and form, etc. He accepts difference of the Lord from Jivas and matter. So that’s one way of accepting oneness and difference.
+
+The other way is Lord Caitanya’s method. And there, of course, it’s very similar because He accepts difference, He also accepts oneness. But He puts a little less emphasis on oneness. So we’ve got kind of a balance, both [Laughs], bheda-abheda. Both are there [Laughs], equal [Laughs]. And then the method of describing how there is oneness and difference is a little different. So Ramanuja says like quality of object is oneness with some difference, kind of stuck to it [Laughs].
+
+So Lord Caitanya’s method is to say that we have the oneness and we have the difference, which look contradictory. And they actually are contradictions. However, the Supreme Lord, by His Achintya Shakti, can make it non-contradictory [Laughs]. So He is simultaneously different from the Jiva and same as the Jiva. He is one with matter and different from matter [Laughs]. And all that by Achintya Shakti. So in this way, He does not have to interpret either statements of oneness or difference. He takes them both as real [Laughs].
+
+So in this way we see many endeavors to bring up the meaning of the Vedas [Laughs]. And different Acharyas will give different ways of explaining these [Laughs]. But that taking objectively, we can say is the best, like method is to minimise the interpretation and take the direct statements. And that is what Caitanya does [Laughs].
+
+So in this particular verse, the Srutis are explaining that the Lord creates everything and enters into everything. And He takes the form as all of these different things. And it’s just like fire. Fire will take different form according to what it’s burning. And at the same time, the Lord remains completely separate and unchanging.
+
+So in other words, the Lord is the, what, the basis of everything. And He remains unchanging. So He has a form, He performs activities. He creates the material world. He controls them. But He remains completely unaffected by them [Laughs]. So He’s simultaneously involved in everything and not involved in everything.
+
+This is also expressed in our idea that the Lord is Brahman, Paramatma and Bhagavan. As Brahman, we have jyoti neutral [Laughs]. As Paramatma, He is above the material world. But He also creates the material world. He also enters into the material world [Laughs]. But He remains completely untouched. But then He also has the form of Bhagavan. He’s also completely separate from material world, like Brahman [Laughs]. But unlike Paramatma who’s doing activities in material world, Bhagavan is simply doing activities in spiritual world [Laughs].
+
+So, Lord can be completely impersonal as Brahman, He can be completely personal as Bhagavan, all by His Achintya Shakti [Laughs]. Okay, Hare Krishna.
+
+Q & A :
+
+1.) Maharaj, Jiva has no Achintya Shakti?
+
+HH Bhanu Swami Maharaj: No, only the Lord has [Laughs]. Certainly the Jiva has Shakti. He has consciousness, so he has some knowledge Shakti. He has Shakti to act. He has Shakti to experience. But it is rather incomplete. So therefore, the Lord gives him Samvit Shakti and Hladini Shakti, so he can experience spiritual world [Laughs]. So Jivas have Shakti, but he cannot create material worlds [Laughs]. They cannot pervade everything like Paramatma. So, they are limited in their Shakti.
+
+Devotee: It seems like Achintya Shakti is the most powerful, more than the Supreme Lord Himself [Laughs].
+
+HH Bhanu Swami Maharaj: Well, the definition of Shakti is, it’s under the control of the Shaktiman. So, the Shakti does not exist from some object that possesses it [Laughs]. So, probably the same as in the material world, we have energy, but it has to be energy from something [Laughs].
+
+2.) My question is, the person who is called jnani, what kind of scripture do they find out. Is it impersonalism scripture?
+
+So the jnanis use Upanishads and Vedanta Sutra mainly. They also accept Bhagavad Gita and Puranas, but they will interpret it according to Upanishads. And Upanishads they will interpret according to impersonal. Because Upanishads have a lot of talk about Brahman and no form, no qualities. However the Vaishnava Acharyas will say that, okay you take the Upanishads as your authority but even if you take these Upanishads like Brhad Aranyaka Upanishad, Chandogya Upanishad, even though it talks about the impersonal Brahman, it also talks about Brahman with form, qualities and activities , so you cannot say that it is only impersonal. So, because Shankaracharya mainly uses Brahma Sutras and Upanishads as his proof, pramana, to defeat him, then Acharyas like Ramanuja and Madhva mainly use the same texts to defeat him [Laughs]. However, they also give equal importance to Mahabharata, Bhagavad Gita and Vishnu Purana. So when we come to Lord Caitanya, then already the other Vaishnava Acharyas have done their work with that. So He doesn’t emphasize Upanishads and Vedanta Sutra so much and He just concentrates on Srimad Bhagavatam [Laughs]. In the commentaries of the Acharyas we will see that, they will quote Upanishads and Brahma Sutras. So it shows that there’s agreement between Bhagavatam and Upanishads and Brahma Sutras.
+
+3.) Hare Krishna Maharaj, please accept my dandavat pranams. Thank you for your very clear lecture regarding these philosophies. So Maharaj, in Caitanya Caritamrta Adi Lila, we see that Krishnadasa Kaviraja Goswami is mentioning that anarpita-carīṁ cirāt karuṇayāvatīrṇaḥ kalau samarpayitum unnatojjvala-rasāṁ sva-bhakti-śriyam [CC Ādi 1.4]. So, what no incarnation has offered before, Mahaprabhu has offered that suddha Krishna Bhakti. So, I am just contemplating like Your Divine Grace mentioned about different philosophies starting from Sunyavada, then Mayavada, Visishta advaitavada, Dvaitavada, and then Nimbarka, and finally Achintya bheda-abheda. So, is it Lord’s divine arrangement to give the highest, highest thing, that is Krishna prema, so that we can understand the importance of Krishna prema after all of these doctrines or philosophies? So, that is my first question. And the next question is, if, since this sloka is recited from chapter 1 of Adi Lila, it seems that Mahaprabhu was, Mahaprabhu was very eager to give Krishna prema, but still, very hardly people are accepting it. And many people, they don’t accept Mahaprabhu as the Supreme Personality of Godhead. What would be the reason for that? Hare Krishna.
+
+HH Bhanu Swami Maharaj: So all the different Vaishnava Sampradayas are expressing same truth. So, Sambandha, Abhidheya and Prayojana is basically the same. However, just to establish Sambandha for instance, Supreme Lord is real, His form, qualities and activities, material world is real, Jiva is real, to accept that, require some argumentation to defeat Shankaracharya. So, therefore, the Acharyas’ endeavor to defeat all of his arguments and establish truth. But they also had to explain, if okay, Lord has form qualities, activities, how is it possible to correlate with the scriptures? So, therefore, they gave these different interpretations, Visishta advaita, Advaita, etc. And in their argumentation, they established the supremacy of Supreme Lord. And it is easier to establish Vishnu, because He is so often mentioned in Upanishads, Vedic literature, etc. So, once we establish okay, Bhagavan is Supreme, Bhagavan is Vishnu, then we can also begin to establish which form of Vishnu is the best [Laughs]. So, therefore, with Nimbarka, and with Vallabhacharya, and with Lord Caitanya, we get Krishna as the ultimate form of Bhagavan. But, not only we get Krishna as Supreme, with Lord Caitanya, we also get Madhurya Rasa as Supreme. So, in the verse of Caitanya Caritamrta, it mentions Ujjvala Rasa. Ujjvala Rasa is Madhurya Rasa. And in Ujjvala Rasa, then, ultimately, Radha Krishna is the [Laughs] ultimate revelation. So, though it is the highest, it’s also the rarest. Which means it’s the most difficult to attain. However, it is available by the mercy of Caitanya Mahaprabhu. So, if people in the present day are not attracted to it, then, even in Lord Caitanya’s time, not everybody [Laughs] got prema, not everybody became a devotee. But He made the prediction that every town and village in the future, name of the Lord will be chanted, Sankirtana would be there. So in the matter of time then it should increase and increase. It should increase, the Sankirtana. More people will appreciate Radha and Krishna.
+
+Devotee 1: Maharaj, this includes not only what we, ISKCON is doing, but there are so many other Maharajas and everybody in India, right? So, through them also, they are also preaching Radha and Krishna. So?
+
+HH Bhanu Swami Maharaj: Well, some of them are [Laughs]. Not all of them [Laughs].
+
+Devotee 1: Through that also, can we say that is also an arrangement?
+
+HH Bhanu Swami Maharaj: Well, we can say it’s a step in the right direction if they’re doing Kirtana. If they’re doing Kirtana with pure Bhakti, of course, that’s better. If they’re doing pure Bhakti for Radha Krishna, then it’s the best [Laughs].
+
+Devotee 1: So, that is also a part of the prediction of Caitanya Mahaprabhu? Can we say like that?
+
+HH Bhanu Swami Maharaj: Well, we can say it’s a part of it. Because all types of worship are accepted in one sense. So, we accept the Kanishtas and the mixed Bhakti as well. But ultimately, the best is pure Bhakti. So, we accept everything Vedic, but ultimately we accept the best part [Laughs] of the most. We accept that the most [Laughs]. So, we accept everything, but we also [Laughs] have degrees of acceptance [Laughs].
+
+4.) What is the purpose of Vedanta Sutra? Because Vyasadeva, before editing Srimad Bhagavatam, he wrote the Vedanta Sutra. The purpose is that everyone can accept Bhagavan as Lord Vishnu. Is that the purpose?
+
+So, Vedavyasa wrote the Brahma Sutras to explain Upanishads. So, throughout the Vedanta Sutra, he takes certain quotations or whatever, and then he explains them. And, of course, by explaining that, then he is also explaining Sambandha, Abhidheya, and Prayojana. So, then ultimately, yes, Bhagavan is Brahman. However, Brahma Sutras are sutras, so they’re like little brief statements [Laughs]. Like even sutras in Buddhism [Laughs]. But those sutras are long words actually. So, little short statements are made, maybe 3 words, 4 words, 5 words. Maximum, maybe 8 words or 10 words is a sutra [Laughs]. So, you don’t even get a full sentence [Laughs]. So, basically, it’s like an outline, you make a little outline, you put a few words here, a few words here [Laughs], a few words here [Laughs]. Only you can understand what it means [Laughs]. And, of course, many sages are fond of sutras, so we have Patanjali Yoga Sutras, etc. So, if you know everything, you know the conclusion already, it’s very nice, you can understand it clearly, and it’s a good way of just keeping it in your mind [Laughs]. But because it’s all these little short things, everyone can interpret it differently [Laughs]. So, because of that, then, Veda Vyasa thought, well, it’s too difficult to understand, so he wrote Bhagavatam as an expansion of the Brahma Sutras. And thus, when we say Brahman that means Krishna [Laughs].
+
+5.) Hare Krishna Maharaj, I want to clarify one more point. Maharaj, you clearly mentioned that Mahaprabhu established Krishna as the Supreme Personality of Godhead amongst like Narayana and Vishnu and then there are different Rasas and highest is Madhurya Rasa. So, Mahaprabhu established that. But, in Adi Lila, again, we see that Mahaprabhu is saying that, aiśvarya-jñānete saba jagat miśrita aiśvarya-śithila-preme nāhi mora prīta [CC Ādi 3.16]. So, Mahaprabhu is saying, I do not like the devotion in awe and reverence much. Mahaprabhu said that he doesn’t like the devotional activities in awe and reverence.
+
+Devotee 2: Okay. Then?
+
+Devotee 1: So, but the devotees in ISKCON, 99% we are doing the service or the Vaidhi Sadhana Bhakti in awe and reverence.
+
+HH Bhanu Swami Maharaj: Okay. So?
+
+Devotee 1: So, shall we [Laughs] continue our service in awe and reverence? Or, how the Raganuga Bhakti will come? Will it come automatically? Or how it will happen?
+
+HH Bhanu Swami Maharaj: [Laughs] So, of course, it is clearly stated in Caitanya Caritamrta, if you want to achieve Krishna in Vrindavan, then you have to do Raganuga Bhakti. If you do Vaidhi Bhakti, you may choose Vishnu or Rama or whatever, then you realize those forms. If you worship Krishna with Vaidhi Bhakti and continue in the bhava and prema, you could realize Krishna in Dwaraka. Or you could attain Krishna in Aishwarya Goloka. So, at a certain point, a devotee has to have that Raganuga mood to attain Krishna in Vrindavan. So, at a certain point, the devotee has to have less dependence on rules and develop that mood of the people of Vrindavan. However, in the beginning, it is also practical to follow a lot of rules in Vaidhi Bhakti. People need discipline. They need rules. However, if you put too much emphasis on the rules, then we end up with going to Aishwarya Goloka or Dwaraka or Vaikuntha [Laughs]. At a certain point, we have to take up the inspiration to follow Raganuga. Hare Krishna.
+
+6.) I’m so sorry to interrupt you. My question is, if people are following ISKCON, then at a certain point, we have to change to Raganuga Bhakti. It means now we are following Vaidhi Bhakti and now we can follow the Raganuga Bhakti? ISKCON rules contain automatically Raganuga Bhakti because we are following Rupa Goswami?
+
+HH Bhanu Swami Maharaj: Well, in ISKCON and, we are actually a mixture because we are following Vaidhi in one sense, especially in Archana or Deity worship. But even then, it is not as strict as scripture gives [Laughs] Vaidhi Bhakti and other Sampradayas to it. So, the transition is not too difficult. So, if you don’t do Deity worship, it is much. And if you are not worshiping deities, of course that is even easier. So you just chant more Hare Krishna and think of Krishna more [Laughs]. So, we can compare our worship with that of, let’s say, Madhvacharya or Ramanuja and we will see it is quite less Vaidhi. But then we can also compare it to Vallabha and their worship because they are also, they are actually doing Raganuga not Vaidhi, they also do deity worship and we can compare our deity worship with theirs and we will see maybe theirs is a little more flexible than ours [Laughs]. But we put more emphasis upon Nama Sankirtana. So, therefore, there transition to Raganuga is much easier.
+
+Devotee 1: Maharaj, but this transition between from this to this should be done under the guidance of the spiritual master? I wake up one morning and say, from today I do Raganuga.
+
+HH Bhanu Swami Maharaj: Yes, it depends on what spiritual master you choose.
+
+Devotee 1: So, you have to refer to some authority. It’s not just you wake up in the morning and you switch.
+
+HH Bhanu Swami Maharaj: Yeah. Of course.
+
+Devotee 1: [Not audible].
+
+HH Bhanu Swami Maharaj: Take shelter of Sivarama Swami.
+
+Devotees: [Laugh].
+
+HH Bhanu Swami Maharaj: [Laughs].
+
+Devotee 2: Sivarama Swami. Take shelter, he is Raganuga very much [Laughs]?
+
+HH Bhanu Swami Maharaj: Kind of [Laughs].
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/2": { title: "SB 10.87.2 \u2013 Sukadeva\u2019s indirect refutation of Parik\u1e63it\u2019s impersonal inquiry !", video: "-iVqOot3_oI", article: `Srimad Bhagavatam 10.87.2 | HH Bhanu Swami Maharaj | ISKCON Japan | 1 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 2.
+
+ŚB 10.87.2
+
+śrī-śuka uvāca
+buddhīndriya-manaḥ-prāṇān
+janānām asṛjat prabhuḥ
+mātrārthaṁ ca bhavārthaṁ ca
+ātmane ’kalpanāya ca
+
+Synonyms
+
+śrī-śukaḥ uvāca — Śukadeva Gosvāmī said; buddhi — material intelligence; indriya — senses; manaḥ — mind; prāṇān — and vital air; janāṇām — of the living entities; asṛjat — sent forth; prabhuḥ — the Supreme Lord; mātra — of sense gratification; artham — for the sake; ca — and; bhava — of birth (and the activities that follow it); artham — for the sake; ca — and; ātmane — for the soul (and his attainment of happiness in his next life); akalpanāya — for his ultimate abandonment of material motives; ca — and.
+
+Translation
+
+Śukadeva Gosvamī said: The Supreme Lord manifested the material intelligence, senses, mind and vital air of the living entities so that they could indulge their desires for sense gratification, take repeated births to engage in fruitive activities, become elevated in future lives and ultimately attain liberation.
+
+Purport
+
+At the dawn of creation, when the conditioned living entities lay dormant within the transcendental body of Lord Viṣṇu, He initiated the process of creation by sending forth the coverings of intelligence, mind and so on for the living entities’ benefit. As stated here, Viṣṇu is the independent Lord (prabhu), and the living entities are His jana, dependents. Thus we should understand that the Lord creates the cosmos entirely for the living entities’ sake; compassion is His sole motive.
+
+By providing the living entities with gross and subtle bodies, the Supreme Lord enables them to pursue sense gratification and, in the human form, religiosity, economic development and liberation. In each body the conditioned soul utilizes his senses for enjoyment, and when he comes to the human form he must also discharge various duties assigned to him at the different stages of his life. If he faithfully discharges his duties, he earns more refined and extensive enjoyment in the future; if not, he is degraded. And when the soul eventually hankers to be freed from material life, the path of liberation is always available. Śrīla Viśvanātha Cakravartī comments that in this verse the repeated use of the word ca (“and”) indicates the importance of all of what the Lord provides — not only the path of liberation, but also the paths of gradual elevation through religious life and appropriate sense enjoyment.
+
+In all their endeavors the living entities depend on the Lord’s mercy for success. Without intelligence, senses, mind and vital air, the living entities cannot achieve anything — neither elevation to heaven, purification through knowledge, perfection of the eightfold meditational yoga, nor pure devotion through following the process of bhakti-yoga, beginning with hearing and chanting the names of God.
+
+How, then, if the Supreme arranges all these facilities for the conditioned souls’ welfare, can He be impersonal? Far from presenting the Absolute Truth as ultimately impersonal, the Upaniṣads speak at great length about His personal qualities. The Absolute described by the Upaniṣads is free from all inferior, material qualities, and yet He is omniscient, omnipotent, the master and controller of all, the universally worshipable Lord, He who awards the results of everyone’s work, and the reservoir of all eternity, knowledge and bliss. The Muṇḍaka Upaniṣad (1.1.9) states, yaḥ sarva-jñaḥ sa sarva-vid yasya jñāna-mayaṁ tapaḥ: “He who is all-knowing, from whom the potency of all knowledge comes — He is the wisest of all.” In the words of the Bṛhad-āraṇyaka Upaniṣad (4.4.22, 3.7.3, and 1.2.4), sarvasya vāśī sarvasyeśānaḥ: “He is the Lord and controller of everyone”; yaḥ pṛthivyāṁ tiṣṭhan pṛthivyā āntaraḥ: “He who resides within the earth and pervades it”; and so ’kāmayata bahu syām: “He desired, ‘I will become many.’” Similarly, the Aitareya Upaniṣad (3.11) states, sa aikṣata tat tejo ’sṛjata: “He glanced at His potency, who then manifested the creation,” while the Taittirīya Upaniṣad (2.1.1) declares, satyaṁ jñānam anantaṁ brahma: “The Supreme is unlimited truth and knowledge.”
+
+The phrase tat tvam asi, “You are that” (Chāndogya Upaniṣad 6.8.7), is often cited by impersonalists as a confirmation of the absolute identity of the finite jīva soul with his creator. Śaṅkarācārya and his followers elevate these words to the status of one of the few mahā-vākyas, key phrases they say express the essential purport of Vedānta. The leading thinkers of the standard Vaiṣṇava schools of Vedānta, however, vociferously disagree with this interpretation. Ācāryas Rāmānuja, Madhva, Baladeva Vidyābhūṣaṇa and others have offered numerous alternative explanations according to a systematic study of the Upaniṣads and other śrutis.
+
+The question Mahārāja Parīkṣit has submitted here — namely, “How can the Vedas directly refer to the Absolute Truth?” — has been answered as follows by Śukadeva Gosvāmī: “The Lord created intelligence and other elements for the sake of the conditioned living beings.” A skeptic may object that this answer is irrelevant. But Śukadeva Gosvāmī’s answer is not actually irrelevant, as Śrīla Viśvanātha Cakravartī explains. Answers to subtle questions must often be phrased indirectly. As Lord Kṛṣṇa Himself states in His instructions to Uddhava (Bhāg. 11.21.35), parokṣa-vādā ṛṣayaḥ parokṣaṁ mama ca priyam: “The Vedic seers and mantras deal in esoteric terms, and I also am pleased by such confidential descriptions.” In the present context, the impersonalists, on whose behalf Parīkṣit Mahārāja asked his question, cannot appreciate the direct answer, so instead Śrīla Śukadeva gives an indirect reply: “You say that Brahman is indescribable by words. But if the Supreme Lord had not created the intelligence, mind and senses, then sound and the other objects of perception would all be just as indescribable as your Brahman. You would have been blind and deaf since birth, and would know nothing about physical forms and sounds, what to speak of the Absolute. So, just as the merciful Lord has given us all faculties of perception for experiencing and describing to others the sensations of sight, sound and so forth, in the same way He may give someone the receptive capacity to realize Brahman. He may, if He chooses, create some extraordinary way for words to function — apart from their ordinary references to material substances, qualities, categories and actions — that will enable them to express the Supreme Truth. He is, after all, the almighty Lord (prabhu), and He can easily make the indescribable describable.”
+
+Lord Matsya assures King Satyavrata that the Absolute Truth can be known from the words of the Vedas:
+
+madīyaṁ mahimānaṁ ca
+paraṁ brahmeti śabditam
+vetsyasy anugrahītaṁ me
+sampraśnair vivṛtaṁ hṛdi
+
+“You will be thoroughly advised and favored by Me, and because of your inquiries, everything about My glories, which are known as paraṁ brahma, will be manifest within your heart. Thus you will know everything about Me.” (Bhāg. 8.24.38)
+
+The fortunate soul who has been graced by the Supreme Lord with divine inquisitiveness will ask questions about the nature of the Absolute, and by hearing the answers given by great sages, which are recorded in the Vedic literatures, he will come to understand the Lord as He is. Thus only by the special mercy of the Supreme Person does Brahman become śabditam, “literally denoted by words.” Otherwise, without the Lord’s exceptional grace, the words of the Vedas cannot reveal the Absolute Truth.
+
+Śrīla Viśvanātha Cakravartī suggests that the word buddhi in this verse spoken by Śukadeva Gosvāmī can indicate the mahat-tattva, from which evolve the various expansions of ether (such as sound), which are designated here as indriya. Mātrārtham, then, means “for the sake of using transcendental sound to describe Brahman,” since for that precise purpose the Supreme Lord inspired prakṛti to evolve ether and sound.
+
+A further understanding of the purpose of creation is spoken by the words bhavārtham and ātmane kalpanāya (if the reading kalpanāya instead of akalpanāya is taken). Bhavārtham means “for the good of the living entities.” Worship (kalpanam) of the Supreme Self (ātmane) is the means by which the living entities can fulfill the divine purpose for which they exist. Intelligence, mind and senses are meant to be used for worshiping the Supreme Lord, whether or not the living entity has yet brought them to the stage of transcendental purification.
+
+How both purified and unpurified devotees use their intelligence, mind and senses in worshiping the Lord is described in reference to the following quote from the Gopāla-tāpanī Upaniṣad (Pūrva 12):
+
+sat-puṇḍarīka-nayanaṁ
+meghābhaṁ vaidyutāmbaram
+dvi-bhujaṁ mauna-mudrāḍhyaṁ
+vana-mālinam īśvaram
+
+“The Supreme Lord, appearing in His two-armed form, had divine lotus eyes, a complexion the color of a cloud, and garments that resembled lightning. He wore a garland of forest flowers, and His beauty was enhanced by His pose of meditative silence.” The transcendental intelligence and senses of the Lord’s perfect devotees correctly perceive His purely spiritual beauty, and their realizations are echoed in the Gopāla-tāpanī-śruti’s comparison of Lord Kṛṣṇa’s eyes, body and clothing to a lotus, a cloud and lightning. On the other hand, devotees on the level of sādhana, who are in the process of becoming purified, have only barely realized the Supreme Lord’s boundless spiritual beauty. Nonetheless, by hearing scriptural passages such as this one from the Gopāla-tāpanī Upaniṣad, they engage in contemplating Him to the best of their fledgling ability. Although the neophyte devotees have not yet learned how to fully realize the Lord or meditate steadily on even the effulgence surrounding His body, still they take pleasure in presuming, “We are meditating on our Lord.” And the Supreme Lord, moved by the waves of His boundless mercy, Himself thinks, “These devotees are meditating on Me.” When their devotion matures, He draws them to His feet to engage in His intimate service. Thus it is concluded that the Vedas have access to the personal identity of the Supreme only by His mercy.
+
+HH Bhanu Swami Maharaj:
+
+So Parikshit asked the question how can the Vedas describe the Lord when the Lord has no qualities. And Sukadeva answers the Lord created the senses and the intelligence and the pranas and the jivas so that they can enjoy the material world and get liberation. So this answer does not even mention the Vedas, nor does it mention that supreme entity without any qualities [Laughs]. So then it looks like he’s not answering the question at all [Laughs]. So therefore, we have this long purport to explain why that is so [Laughs].
+
+So in this purport then, there is a quote from the 11th canto. In which Krishna instructs Uddhava. And there He says that the sages speak indirectly, and I also am pleased to speak it that way. So this is called paroksha-vada, indirect expression. So the direct meaning of the words are different from the actual meaning [Laughs]. In other words, the Supreme Lord and the sages and the scriptures sometimes speak mysteriously [Laughs]. And they often seem to speak in contradiction. For instance, Isopanishad said, the Lord is far, but He is near. He walks, but He does not walk [Laughs].
+
+So of course, yesterday we talked about direct meaning, abhidha, and indirect meaning, lakshana. So sometimes we have to take this lakshana [Laughs]. Sometimes this whole indirect expression may be for many, many verses even [Laughs]. For instance, Krishna writes a letter to the Gopis and sends it through Uddhava. And if we take the direct meaning of those words, then Krishna is saying, you should not be very disturbed, you should be like yogis, control your senses and understand that I am everywhere. And certainly such a letter or such a message will be very comforting to the yogis and impersonalists. And then they will say, ultimately the conclusion of everything is impersonal Brahman [Laughs].
+
+Later on, when Krishna met the Gopis in Kurukshetra, He gave a similar message. So therefore, this gives support to the yogis and impersonalists. However, if we see the whole Bhagavatam and we see the whole tenth canto or whatever, then we also understand that it’s all meant to glorify the personal form of Krishna.
+
+So the Gopis have no interest in meditating that Krishna is spread everywhere, He is all the material elements, etc. They are interested in serving Krishna directly and admiring His beautiful form [Laughs]. And thus, our Acharyas like Vishwanath and Jiva Goswami say, that’s not the real meaning of the message, the direct words, the abhidha. That’s not the real meaning because it contradicts the whole Bhagavatam [Laughs].
+
+So then the Acharyas take each word of the message and they give a different meaning [Laughs]. And so that meaning, the real deep meaning is that, you should meditate on me by understanding that my relationship with you and our pastimes are eternal. So when you feel separation, then you meditate on the eternal pastimes where we are united [Laughs]. So we see that these are an extended use of indirect expression. And the Acharyas do this because the whole section, if we take it literally, contradicts the meaning of Bhagavatam.
+
+Again, at the end of the Bhagavatam, Sukadeva Goswami, in the 12th canto, after concluding everything, says, Now you’ve heard everything. So now you can meditate on impersonal Brahman. So taking these words, very serious impersonalists say that this shows that higher than the personal form of God is that impersonal Brahman. So after listening to all the wonderful pastimes of Krishna in Vrindavan and Mathura and Dwaraka, you forget all that and you merge in Brahman [Laughs]. So that’s the direct meaning of the words [Laughs]. But it is contradicted by so many statements in Bhagavatam that says the devotees reject impersonal liberation as being insignificant [Laughs].
+
+So our Acharyas explain that this statement of Sukadeva should not be taken seriously. So why did he say it at all? He does it as a test. And also as a joke [Laughs]. So he wants to see if Pariksit is going to say, Oh, very nice or he’ll protest and say, This is useless [Laughs]. This conclusion is nonsense [Laughs]. So then we see in the next verses Pariksit responds, and he completely contradicts what is said in that [Laughs] by Sukadeva Goswami [Laughs]. So sometimes we cannot take the direct meaning of words. We have to see the total context. In this case, it is indirect expression, but it’s not we have to interpret the words differently. But we have to take the statement and understand the intention of Sukadeva in answering like this.
+
+So in the verse, Sukadeva Goswami says, the Lord creates the senses and the intelligence and the pranas of the living entities. I think he uses the word Prabhu here. So he is describing the Lord as Prabhu. Which means master. And the question of Pariksit is that this Supreme entity, whatever it is, anirdesya, He cannot be named or described at all [Laughs]. But here he gives a name to Him [Laughs]. And Pariksit says, that Supreme entity has no qualities. So therefore, if He has no qualities, how we can describe Him [Laughs]? But in this statement of Sukadeva, he says, the Lord is there. He has a name. He is the master. And what does He do? He creates senses and pranas for the living entities. So He has qualities, He is a controller, and He creates things.
+
+So of course, the Mayavadis say that Brahman has no qualities and no activities and no form. And therefore, doesn’t create anything. That’s an activity [Laughs]. Yeah, that Brahman does not create a material world, does not create senses for living entities, does not create bodies for living entities, doesn’t do anything. There is nothing except Brahman. So this statement directly contradicts the idea that Brahman has, cannot be named or described. He has no qualities, no activities, etc. So in other words, by this statement that the Lord creates all these things, He is directly contradicting that other statement.
+
+So the Lord creates, and what is His intention? So by saying intention, we know that the Lord thinks and He has certain goals, etc. So the Lord creates all these things so living entities can enjoy in the material world and ultimately they can get liberated from the material world. So the Lord is not impersonal, He has form, qualities, activities, and He has intentions, goals.
+
+So of course, we may ask, well Sukadeva is making this statement, but what’s the proof [Laughs]? So of course, the Mayavadis will quote Upanishads, tattvamasi [Laughs]. But for every statement that the impersonalists can quote, the Vaishnavas can also quote the opposite from the same Upanishads [Laughs]. So therefore, I heard in the purport, there’s a quote from Mundaka Upanishad, the Lord knows everything [Laughs]. He’s filled with knowledge. So in other words, it’s not that He’s completely inactive, He knows something [Laughs]. And then he quotes from Brhad-aranyaka Upanishad, the Lord controls everybody, those activities. Knows everything, and He controls everything. And there’s a famous quote from Aitareya Upanishad, the Lord glanced and He created [Laughs]. And from Taittiriya Upanishad, says the Lord is truth, knowledge, and bliss.
+
+So Brahman is being described here as truth, knowledge, and bliss. He’s designated. He’s not Anirdesya. He has [Laughs] qualities and whatever. So then, what Sukadeva Goswami is saying is that, no, that Supreme Brahman does have qualities, He can be described. And this is also stated in all the Upanishads. Of course, the same Upanishads can be quoted, so that this Brahman has no qualities, no form, no activities, also there in the same Upanishads [Laughs]. So there we see contradiction in the Upanishads [Laughs].
+
+Upanishads say Brahman has qualities, Brahman has no qualities. So a lot of the commentaries of the different Acharyas like Ramanuja and Madhva are to resolve this contradiction in favor of Brahman with qualities [Laughs]. To do that, often they may take the impersonal statements and interpret them. So if the Upanishads say Brahman has no qualities, He is nirguna, it actually means the Lord has no material qualities, that’s all [Laughs]. So that can be done to resolve the contradiction, but of course, there can be a protest against that also [Laughs].
+
+And the Mayavadis say, no, we have to take direct meaning [Laughs].But then the Mayavadis will do the same thing. They have to say, why, why it says that the Lord creates? How can that be? He glances, He creates [Laughs]. So then the Mayavadis will use lakshana and say these statements mean, they’re metaphorical, symbolic, they’re not absolute statements.
+
+So how do you resolve this? One is accusing the other of doing lakshna, the other is saying you’re using lakshna [Laughs]. So one way of seeing who is actually correct is to take the whole work and see the context of those statements. Just as we take the whole Bhagavatam and we understand God has qualities, it’s not that God has no qualities [Laughs].
+
+Caitanya Mahaprabhu takes a different approach. He says we should not interpret any statement, no lakshana. God impersonal and He’s also personal. He’s nirguna and He’s saguna, He’s both. But then the counter argument is, well, you’re just not resolving the contradiction at all [Laughs]. Because in normal experience, if something is black, it cannot be white. If it’s white, it cannot be black. So if you say it’s black and white, it doesn’t mean anything [Laughs].
+
+So Lord Caitanya’s answer is, there can be contradictions in the Lord because He has achintya-shakti. So the Lord is simultaneously impersonal Brahman and personal Bhagavan. So in that way, some statements are describing Brahman in the Upanishads, nirguna, etc., and other statements are describing Bhagavan who has form, qualities, and activities. So this is a method of giving meaning to the Upanishads with the minimum of interpretation or lakshana. This, of course, is supported by Bhagavatam Himself, because in the first canto, it says that the Lord is Bhagavan, Paramatma, and Brahman. They’re all one [Laughs].
+
+So in any case, though the scriptures talk about Brahman with no qualities, etc., it also speaks of Supreme Lord with qualities, with activities, with form. Because He is Bhagavan and Paramatma, He can express mercy. If it’s Brahman, there’s no mercy, because that’s the quality. He can’t have qualities. Brahman cannot have qualities [Laughs]. Out of His mercy, He creates a material world. He lets the jiva enjoy, because that’s what they want. He also makes arrangements so they can get liberated from material world. That’s His mercy [Laughs]. And to help them, then He gives them scriptures.
+
+So in the Vedas, He gives methods by which you can enjoy in the material world, karma yoga. He gives methods by which you can get out of the material world. That is jnana yoga, astanga yoga, and bhakti yoga. So the Vedas are also the mercy of the Lord. And though they are sound, this sound is mercy of the Lord. So therefore, this sound can’t describe the Lord [Laughs]. Okay.
+
+Hare Krishna!
+
+Q & A :
+
+1.) So the question is, like we mentioned here in the class that, Supreme Lord created the material world so that the jiva can enjoy. But if the Supreme Lord does like this so that we can enjoy, then why will jiva think of coming out of it?
+
+So Supreme Lord is like a tolerant parent. And of course, a small child doesn’t really understand goals and whatever in life, he just likes to play around. And he doesn’t like to force the child. So of course, the children may resist if the parents say, you have to go to school, you have to learn this. They say, no, no, we don’t want to learn this and you force them, force them, then they hate it more. They don’t want to do it [Laughs]. So the Lord waits and waits until the Jjivas are mature enough that they will say, okay, I’ve had enough of this play. Now I got to be a little serious [Laughs].
+
+2.) Maharaj the jiva in material world is anadi bahirmukha then how can we understand that Krishna created?
+
+HH Bhanu Swami Maharaj: If He created the material world?
+
+Devotee: The jiva is anadi bahirmukha right?
+
+HH Bhanu Swami Maharaj: Okay.
+
+Devotee: So how can we say that Lord created this for us because it’s always there.
+
+HH Bhanu Swami Maharaj: Do you understand the question?
+
+Devotee: No, sorry.
+
+HH Bhanu Swami Maharaj: If the Lord has no beginning in the material world, how we can say the Lord creates the material world [Laughs]? So jiva is eternal and prakriti is eternal. And karma has no beginning but it can have an end. So it’s not eternal in the same sense. So the jivas and prakriti are nitya, but karma is anadi, no beginning. So when we say the Lord creates the material world, the material world is made out of prakriti, which is eternal, but He takes that eternal and starts transforming it into elements and then into universes. And Lord does not create jivas when He creates the material world. They’re already there. He sticks them into the material world. So the universes and the bodies of the living entities are not eternal, but prakriti is eternal. In the same way that pots are non-eternal, they get broken, but earth is eternal. Well, relatively eternal [Laughs]. So, but at a certain point, then the Lord destroys the material world and merges back into prakriti. That’s how prakriti remains. The jivas also, their bodies are destroyed, but the jivas are not destroyed. So though the bodies of the jivas are destroyed, their karmas are not destroyed. And then, after some time, the Lord recreates the material worlds, puts the jivas back in. But He does not put the jivas in randomly and just assign new bodies to them. He does it according to their previous karmas. So jivas are eternal, material worlds are created and destroyed. Bodies are created and destroyed. And even though the worlds are created and destroyed, the karmas continue. However, if you perform bhakti, you destroy all the karma. When you perform bhakti, you perform bhakti, you destroy the karma. Or by jnana or yoga, you can also destroy the karma. But if you don’t do those three processes, karma will continue. Once it’s destroyed completely, that’s finished. So the karma has no beginning, but can have an end.
+
+3.) I have one question like you mentioned like the Vedas and the sages, they don’t talk directly, it‘s indirect and Krishna also like that. So if the spiritual world or these Vedas, they have this tendency to talk indirectly, that also comes in us. We say the communication should be straight and simple but if it is made like this, then we cannot have very clear communications between the jivas also.
+
+So when Krishna is saying this to Uddhava, He is referring to His speech and sages’ speech, which is about spiritual things, not material things [Laughs]. And of course, it doesn’t mean that it’s always indirect [Laughs], sometimes. So therefore, one has to carefully decide what parts are indirect and which are direct. So main method is if it contradicts the main context. So what is the purpose of hiding the meaning? And the answer is that, some things are for the devotees and not for others. So to do that, then we have indirect meaning [Laughs]. Krishna says that this knowledge is the greatest secret, rahasya [Laughs]. So devotees can understand, others cannot understand. And even in devotional service, a lot of it is direct. There are some things, higher things are a little bit indirect. And thus, in Bhagavatam, Radha is not mentioned directly, but if we look closely, then we have the inference there also, indirect. So this is a principle for mainly scriptural things. And if we were to speak every day in indirect language, nobody is going to understand anything [Laughs]. However, even in the material world, we don’t always say things directly. So of course, some of this is custom. And people, rather than speak directly, they’ll do it a little bit indirectly [Laughs]. And that may be different in different countries. Some countries, they speak more directly. In other words, other countries speak indirectly [Laughs]. So it depends on the country how much direct [Laughs] and how much indirect you’re going to use [Laughs].
+
+Devotee: Maharaj but can we say that this also creates rasa, for example, when Radha and Krishna speaks in front of the Gopis or in front of the parents, only Radha and Krishna can understand. And in the material world, we can see this is also used in drama and in performance, in films. So this creates the feeling of, I have special understanding with this person. Like if you have some very close relationship with some friend, you can call him any name, he will not be offended.
+
+HH Bhanu Swami Maharaj: So material rasa and spiritual rasa both depend a lot on indirect expression. So, for instance, we’ll have Shakespeare, he has dramas like Romeo Juliet. So simply you can say, I love you or I hate you. That’s it [Laughs]. But they don’t say that directly, they express it through some poetic language [Laughs]. Or in terms of Radha and Krishna’s spiritual rasa, then Krishna will start describing a lotus and a moon or something like that. He doesn’t talk about Himself, He doesn’t know the lotus is blossoming [Laughs] or the moon is getting full. So they speak indirectly in metaphors and whatever. So the whole section in Ujjwala Nilamani, Rupa Goswami where he shows how words are used in rasa. This is also one reason why he says that animals and plants cannot have rasa with Krishna, because they cannot communicate the subtleties using language.
+
+Okay. Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaja ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/20": { title: "SB_10.87.20 \u2013 Jiva : Part & Parcel of the Lord \u2013 A deeper spiritual insight !", video: "1ZNUtK-STIs", article: `Srimad Bhagavatam 10.87.20 | HH Bhanu Swami Maharaj | ISKCON Japan | 10 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī 
+gopījana-vallabha giri-vara-dhārī 
+yaśodā-nandana vraja-jana-rañjana 
+yamunā-tīra-vana-cārī 
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare 
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare 
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 20.
+
+ŚB 10.87.20
+
+स्वकृतपुरेष्वमीष्वबहिरन्तरसंवरणं
+तव पुरुषं वदन्त्यखिलशक्तिधृतोंऽशकृतम् ।
+इति नृगतिं विविच्य कवयो निगमावपनं
+भवत उपासतेऽङ्‍‍घ्रिमभवं भुवि विश्वसिता: ॥ २० ॥
+
+sva-kṛta-pureṣv amīṣv abahir-antara-saṁvaraṇaṁ
+tava puruṣaṁ vadanty akhila-śakti-dhṛto ’ṁśa-kṛtam
+iti nṛ-gatiṁ vivicya kavayo nigamāvapanaṁ
+bhavata upāsate ’ṅghrim abhavam bhuvi viśvasitāḥ
+
+Synonyms
+
+sva — by himself; kṛta — created; pureṣu — in the bodies; amīṣu — these; abahiḥ — not externally; antara — or internally; saṁvaraṇam — whose factual envelopment; tava — Your; puruṣam — living entity; vadanti — (the Vedas) say; akhila — of all; śakti — energies; dhṛtaḥ — of the possessor; aṁśa — as the expansion; kṛtam — manifested; iti — in this manner; nṛ — of the living entity; gatim — the status; vivicya — ascertaining; kavayaḥ — learned sages; nigama — of the Vedas; āvapanam — the field in which all offerings are sown; bhavataḥ — Your; upāsate — they worship; aṅghrim — the feet; abhavam — which cause the cessation of material existence; bhuvi — on the earth; viśvasitāḥ — having developed faith.
+
+Translation
+
+The individual living entity, while inhabiting the material bodies he has created for himself by his karma, actually remains uncovered by either gross or subtle matter. This is so because, as the Vedas describe, he is part and parcel of You, the possessor of all potencies. Having determined this to be the status of the living entity, learned sages become imbued with faith and worship Your lotus feet, to which all Vedic sacrifices in this world are offered, and which are the source of liberation.
+
+Purport
+
+Not only does the Supreme Lord remain totally uncontaminated when He resides within the material bodies of the conditioned souls, but even the infinitesimal jīva souls are never directly touched by the coverings of ignorance and lust they acquire while passing through repeated cycles of birth and death. Thus the Taittirīya Upaniṣad (3.10.5) proclaims, sa yaś cāyaṁ puruṣe yaś cāsāv āditye sa ekaḥ: “The soul of the embodied living being is one with Him who stands within the sun.” Similarly, the Chāndogya Upaniṣad (6.8.7) teaches, tat tvam asi: “You are nondifferent from that Supreme Truth.”
+
+In this prayer, the personified Vedas refer to the finite enjoyer of material bodies (the jīva soul) as an expansion of the transcendental reservoir of all potencies, the Supreme Lord. The term aṁśa-kṛtam, “made as His portion,” must be properly understood, however, in this context. The jīva is not created at any time, nor is he the same kind of expansion of the Lord as the omnipotent viṣṇu-tattva expansions. The Supreme Soul is the proper object of all worship, and the subordinate jīva soul is meant to be His worshiper. The Supreme Lord enacts His pastimes by showing Himself in innumerable aspects of His personality, whereas the jīva is forced to change bodies whenever his accumulated karmic reactions so dictate. According to Śrī Nārada Pañcarātra:
+
+yat taṭa-sthaṁ tu cid-rūpaṁ
+sva-saṁvedyād vinirgatam
+rañjitaṁ guṇa-rāgeṇa
+sa jīva iti kathyate
+
+“The marginal potency, who is spiritual by nature, who emanates from the self-cognizant saṁvit energy, and who becomes tainted by his attachment to the modes of material nature, is called the jīva.”
+
+Although the jīva soul is also an expansion of Lord Kṛṣṇa, he is distinguished from Kṛṣṇa’s independent Viṣṇu expansions by his constitutional position on the margin between spirit and matter. As the Mahāvarāha Purāṇa explains,
+
+svāṁśaś cātha vibhinnāṁśa
+iti dvidhā śa iṣyate
+aṁśino yat tu sāmarthyaṁ
+yat-svarūpaṁ yathā sthitiḥ
+
+tad eva nāṇu-mātro ’pi
+bhedaṁ svāṁśāṁśinoḥ kvacit
+vibhinnāṁśo ’lpa-śaktiḥ syāt
+kiñcit sāmarthya-mātra-yuk
+
+“The Supreme Lord is known in two ways: in terms of His plenary expansions and His separated expansions. Between the plenary expansions and Their source of expansion there is never any essential difference in terms of either Their capabilities, forms or situations. The separated expansions, on the other hand, possess only minute potency, being endowed only to a small extent with the Lord’s powers.”
+
+The conditioned soul in this world appears as if covered by matter, internally as well as externally. Externally, gross matter surrounds him in the forms of his body and environment, while internally desire and aversion impinge upon his consciousness. But from the transcendental perspective of realized sages, both kinds of material covering are insubstantial. By logically eliminating all material identities, which are misconceptions based on the soul’s gross and subtle coverings, a thoughtful person can determine that the soul is nothing material. Rather, he is a pure spark of divine spirit, a servant of the Supreme Godhead. Understanding this, one should worship the Supreme Lord’s lotus feet; such worship is the fully bloomed flower of the tree of Vedic rituals. One’s realization of the splendor of the Lord’s lotus feet, gradually nourished by the offering of Vedic sacrifices, automatically bears the fruits of liberation from material existence and irrevocable faith in the Lord’s mercy. One can accomplish all this while still living in the material world. As Lord Kṛṣṇa states in the Gopāla-tāpanī Upaniṣad (Uttara 47):
+
+mathurā-maṇḍale yas tu
+jambūdvīpe sthito ’tha vā
+yo ’rcayet pratimāṁ prati
+sa me priyataro bhuvi
+
+“One who worships Me in My Deity form while living in the district of Mathurā or, indeed, anywhere in Jambūdvīpa, becomes most dear to Me in this world.”
+
+Śrīla Śrīdhara Svāmī prays:
+
+tvad-aṁśasya mameśāna
+tvan-māyā-kṛta-bandhanam
+tvad-aṅghri-sevām ādiśya
+parānanda nivartaya
+
+“My Lord, please free me, Your partial expansion, from the bondage created by Your Māyā. Please do this, O abode of supreme bliss, by directing me to the service of Your feet.”
+
+HH Bhanu Swami Maharaj:
+
+So in this verse, it is stating that the jivas are amsa or portions of the Lord. Amsa of the Lord, portion of the Lord. Prabhupada often translates this as part and parcel [Laughs]. But when we use the word part, or Amsa literally, that’s not quite the meaning. So we have a cake, and then we take part of the cake [Laughs] and cut off a piece [Laughs]. It’s not like that [Laughs]. So we have Krishna, and we cut off a finger [Laughs]. That’s a part. The Jiva is like a finger of the Lord and he’s cut off [Laughs]. Of course, one reason is the Lord is complete and eternally in His form and you cannot take a part of that away.
+
+So in the scriptures and philosophy, the word Amsa means dependent. And the opposite word is Amsi. Just as we have the word Avatar and Avatari. So Krishna is Avatari, He is the source of all the Avatars. But not source in the sense He creates them because they are all eternal. However, when we say the Lord is Amsi and Jiva is the Amsa, the Jiva is dependent but not like Avatars.
+
+So the Avatar is non-different from the Lord. But the Jiva is different from the Lord. And how is he different? So in the purport there, there’s a quote from the I think Varaha Purana. And there it says that the Jiva has alpa shakti, he has little power. So he has something of the Lord’s power but not the same. The Avatars may show less powers and qualities than Krishna but they still have the powers. But the Jivas don’t have that [Laughs] power same as the Lord ever so [Laughs]. So they are dependent on the Lord in several ways.
+
+So Lord has all power, Jivas have little power. So automatically the one with less power is dependent on the one with more power. It’s just like the king has all the power and the citizens have little power so they are dependent on the king. So we often describe the Lord as Isha or Ishwara which means the controller [Laughs]. So all Jivas by their very nature are dependent on the Lord. So they are called Amsa. But we have Amsa and Amsi, the same word is there. So therefore they do have similarity.
+
+So what is the similarity? That similarity is they are both conscious. They both have a sense of I, identifying themselves. So therefore the Jiva can say I know something, I’m aware of something. And the Jiva can say I do something. And the Jiva can say I experience suffering or happiness. So in that sense there is similarity with the Lord. The Lord is a knower, He is an experiencer, He is a doer. But he is a little knower [Laughs], a little doer, a little experiencer [Laughs].
+
+Another difference is the Lord, even though He has many forms and avatars, He’s one person. And the Jivas are all infinite in number with individual consciousnesses. So one supreme Lord, infinite number of Jivas. So the nature of the Jiva is to be dependent on the Lord. So that’s their eternal natural position. So therefore in Caitanya Caritamrta it says, Nitya Krishna Das [Laughs]. Das means dependent on the Lord. It doesn’t mean eternally they have Dasya rasa [Laughs]. And the reason we don’t say that is because many of the Jivas, not all, but many, don’t realize any rasa at all. They are in the material world, so they are ignorant. So whether they realize they are servant of the Lord or not, they are all dependent on the Lord [Laughs].
+
+So the Vedas here are saying that the Jivas are dependent on the Lord. So a person who reads the Vedas whi knows, okay, we are dependent on the Lord, they can come to that conclusion. So the natural conclusion is, if we are actually dependent on the Lord, then we should worship the Lord [Laughs]. So this is the basis of these facts in the Vedic literature. And these are the basis for performing bhakti and attaining prema.
+
+So what is the point of all of this philosophical discussion? So the reason this is emphasized is because other people do not accept the Jiva as an amsa of the Lord. So they may say, the Jiva does not exist, it’s illusory, this is Mayavadi philosophy.p So if you do bhakti, it’s actually illusory [Laughs]. And of course the other conclusion is that Jiva does not exist, the Jiva actually is Brahman. We are not the servant of the Lord, we are the Lord [Laughs]. So this is the conclusion of Mayavadi philosophy. And it is quite common in India [Laughs]. And it has got a strong philosophical base among some scholars [Laughs] and other people.
+
+And if you accept that, then this question of Parikshit that how can the Vedas express something which has no qualities makes sense. That question is valid. So therefore in this verse, the Vedas themselves are saying the Jiva is an amsa of the Lord, eternally [Laughs]. And based on that, then the process of bhakti is also a valid process. So that understanding is necessary in order to perform bhakti. And therefore even though we are performing bhakti, which is kind of non-intellectual and emotional, still we have to study scripture [Laughs]. And of course this is one reason why the impersonalists will criticize the Vaishnavas.
+
+So we see in Varanasi, the Mayavadis were criticizing Lord Caitanya. He was a sannyasi. He was supposed to be a Mayavadi. But you are not studying Vedanta. You are dancing and singing all the time [Laughs]. But then when He spoke to them, then He gave the conclusion of the Vedas [Laughs]. And the Mayavadi philosophy actually is a misinterpretation. So once the devotee has that clear understanding, then he can do his bhakti. He doesn’t depend on Vedanta and whatever. So one of the essential methods in Jnana Yoga is to study Upanishads and the Vedanta Sutra. And the conclusion is you meditate, I am not the body. I am Brahman. That’s your meditation [Laughs].
+
+But the Vaishnavas, once they understand I am eternal servant of Krishna, worship Krishna, then they just worship Krishna [Laughs]. And by worshipping Krishna and chanting His name, they become very joyful [Laughs]. So therefore they sing and dance [Laughs]. So there is study there, but of course we do give prominence to the sadhana of bhakti and experience of bhakti. So because we do need that knowledge, we have all of this literature. So Lord Caitanya did not write things. He just did kirtan [Laughs]. But then He ordered the Goswamis to write things. So therefore He indicated, yes, kirtan very nice, but we also need some philosophical basis.
+
+So the Goswamis were very diligent. They were very serious about following this order. So that’s why we have so many works written by the Goswamis. But since the basic tenets, you know, we are the servant of God, eternal, etc. were already established by previous Acharyas, they don’t have to argue so much and try to defeat mayavadis. So more than getting into complicated arguments to defeat mayavadi, they simply confirm it [Laughs]. So therefore our study of philosophy is a little simpler than other Sampradayas [Laughs]. And thus our Sampradaya really didn’t even have a commentary on the Brahma Sutras until many hundreds of years later.
+
+We find that other Sampradayas like Madhva and Ramanuja, that was the basis of their whole [Laughs] movement, write a commentary on the Brahma Sutras and defeat Shankaracharya [Laughs]. So the subject of Brahma Sutras is athāto brahma jijñāsā, inquire about Brahman. So then our Acharyas say, okay, Brahman means Krishna. And the Srimad Bhagavatam is enlarging that conclusion. Krishna is the param Brahma [Laughs]. Krishna is the final conclusion of Brahma Sutras. And that’s the conclusion, that’s the whole subject of Bhagavatam. So in other words, Bhagavatam is an expansion of the conclusion of Vedanta. So therefore they concentrated on explaining Bhagavatam rather than Vedanta Sutra [Laughs].
+
+In this verse we find there is a statement here that the Jiva is uncovered, or not covered by, internally and externally by anything. But then in the same sense, he is in his body’s [Laughs] sva-kṛta-pureṣa, he is in bodies created by his karma [Laughs]. And we usually say the Jiva is covered by ignorance. And we also say the Jiva is covered by his gross and subtle bodies. So in spite of having his gross and subtle bodies of ignorance, here it says, he is not covered [Laughs]. What does that mean?
+
+How can the Jiva be covered and uncovered at the same time [Laughs]? But we’ll see the same type of contradiction is expressed in the 11th canto. So there it says, to speak of the covered Jiva, uncovered Jiva, to speak of conditioning and liberation is actually illusion [Laughs]. But then we speak of the Nitya-baddha Jiva and the Mukta Jiva [Laughs]. How is it possible [Laughs]? So what this statement means is not that we are in the material world, it’s not that it’s an illusion that we are stuck in the material world, but rather that the essential nature of the Jiva never changes. So you can put the Jiva in a plant body or an animal body or a human body, devata body, but actually the Jiva is a Jiva and he doesn’t change. And he still has his qualities of self-identity and knowing and experiencing. At the same time, we also speak of the Jiva as covered because according to the body and whatever, subtle and gross bodies, then being a doer, being conscious, etc., is manifested less or more [Laughs], and therefore we say covered [Laughs].
+
+So he is covered in one sense because to various degrees he got restriction on his being a doer, experiencer, etc., he is a plant or a bacteria, limited [Laughs]. So of course we can say the bodies are the external covering. And they have nothing to do with the Jiva at all. So then we have the internal covering, that is, ignorance.
+
+So we say the Jiva, because he has ignorance and he stays in the material world, so in one sense he is covered [Laughs] by ignorance. But that’s not the eternal nature of the Jiva. The knowledge can take away the ignorance. So it’s not an eternal covering of the Jiva, restriction. So in that sense they’re not real coverings [Laughs]. So in any case, we do have to realize the nature of Jiva in order to worship the Lord properly, as stated in this verse. With that knowledge, then we can also worship with more determination and faith.
+
+Ok, Hare Krishna.
+
+Q & A :
+
+1.) Anyway without realization, ok, atleast we can logically understand this point. But if we realize, oh, that it’s true. If I realize that eternally I’m never covered. I realize, I can realize. But until I realize, I cannot [Laughs]. Just believing.
+
+So we have realization is different from mere knowledge. But knowledge itself is also necessary in order to realize. So if we don’t have the knowledge, I’m not the body and I’m the soul, then how can you realize you’re the soul [Laughs]? So of course then we can say, well, that knowledge is based on intelligence. Intelligence is just part of your material function.
+
+So how can material knowledge give spiritual realization? And that comes back to the essential question of Parikshit. How can knowledge in scripture, which is material, give you spiritual realization of [Laughs] something non-material? So then the answer is, the knowledge in scripture is not material, it’s spiritual [Laughs].
+
+So when Bhagavad Gita says, you’re not the body, you’re the atma, and the atma goes from body to body, we think maybe it’s material, but actually these words are Krishna’s, so it’s spiritual [Laughs]. So that knowledge even if it is using our intelligence to accept it, is beneficial for us spiritually.
+
+2.) Maharaj what is the fault of Jiva if he don’t get knowledge?
+
+HH Bhanu Swami Maharaj: Ok, we don’t get spiritual knowledge, then we stay in the material world [Laughs].
+
+Devotee: But there is, because he’s eternal, he’s going to live in the material world, that is already designed like that, so on Jiva’s part, it’s not his faut right?
+
+HH Bhanu Swami Maharaj: It’s self created karma. That’s the first word here, svakṛta-pureṣu. He’s stuck in bodies, which are created by himself [Laughs]. We create our own bodies because our bodies come from karma. We create our own bodies because our bodies come from karma. And what is karmas? We decide to do actions. Those actions give us results as bodies. So we create the bodies by doing actions. So we decide to do the actions. Krishna doesn’t make us do the actions [Laughs]. We decide [Laughs]. So we do the actions, we create our karma, we get our bodies by ourselves, not by Krishna making us get bodies.
+
+Devotee: But Jīva desires, Jīva chooses, then Krishna gives.
+
+HH Bhanu Swami Maharaj: Yeah, well, He creates the law by which you get the results [Laughs].
+
+Devotee: Just the system?
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: Jīva not only desires, Jīva will, Jīva has a will, own will.
+
+HH Bhanu Swami Maharaj: Yeah, he decides.
+
+Devotee: Then already system is there.
+
+HH Bhanu Swami Maharaj: According to your actions you get results, that’s the karma involved. And that’s inbuilt into prakrti itself, into the material world. It’s part of material world.
+
+Devotee: So Krishna is not involved?
+
+HH Bhanu Swami Maharaj: So it’s like He’s indirectly involved [Laughs] because prakrti is also eternal. The principle of karma is eternal, except for the material world. The law of karma gives a reasonable and just progression of bodies [Laughs]. If we don’t have that law, then one body, one time you’re a plant, then you’re an animal, then you’re a devata, then you go to hell [Laughs], it would be haphazard. It’s like a judge, and the criminal comes before him as a thief, he gives him one punishment, puts him in jail. Another one with the same crime, but he rewards him, he gives him some money. Another one comes, he makes him the king. So then we say, well, why is the judge [Laughs]? Same crime, he’s giving different people different results. And they would criticize.
+
+3.) Maharaj this progression of Jīva is mentioned in Vedic scripture?
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: Progression of Jīva is mentioned?
+
+HH Bhanu Swami Maharaj: Which bodies they get according to karma?
+
+Devotee: Yeah, yeah.
+
+HH Bhanu Swami Maharaj: Of course, in Bhagavad Gita it says you do sattvic activities, you go upward, you do rajasic activities, you stay as human, you do tamasic activities, you go downwards to hellish existence or animals. And you do sinful activities, you suffer, you do punyas, you get enjoyment. And in other words, like Garuda Purana, then it gives you, you do this sinful activity, you get this suffering, you do that sinful activity, you get that suffering.
+
+Devotee: Maharaj you are mentioning about other than human beings, how they progress?
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: Other than human beings, how that progression happens?
+
+HH Bhanu Swami Maharaj: Yeah, more and more sinful activity in tamoguna, animal, plant [Laughs].
+
+Devotee: Somebody is already in the animal.
+
+HH Bhanu Swami Maharaj: Oh yeah, how do they get out?
+
+Devotee: How do they progress?
+
+HH Bhanu Swami Maharaj: They don’t create karma, but they get the effects of previous karma as a human being, so therefore gradually they could elevate through different species due to their previous karmas as a human being. And then finally they come to human being, when they’re human being, then they start making more karmas.
+
+Devotee: That’s already fixed, like, you know, which animal, he will progress?
+
+HH Bhanu Swami Maharaj: Yeah, so you’re a human being, you do all sinful activities, so you get five lives as a dog, and three lives as a cow, then you become a human being, something [Laughs] like that [Laughs].
+
+Devotee: Is it already fixed, which animal, which type of species is fixed?
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: Like from the fish, become…
+
+HH Bhanu Swami Maharaj: Yeah, higher, higher, higher, gradually you get [Laughs]. But if you balance out your sinful activities with punyas, then you may get some lesser sinful results, get promoted quicker [Laughs]. By punyas.
+
+Devotee: By punya that means counter-react?
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: Not by punya come good results, by sinful activities, then suffering.
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: Both coming, right?
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: Not counter-react, right?
+
+HH Bhanu Swami Maharaj: Well, sometimes you get a choice [Laughs]. Let me suffer my bad ones first, then get my punyas [Laughs] later [Laughs].
+
+Devotee: Like Nrga.
+
+HH Bhanu Swami Maharaj: Yeah, Nrga [Laughs]. So Yamaraja may give you a choice also [Laughs]. And we see that people do sinful activities, then they do punyas in the form of atonements, so then they get less sinful reaction.
+
+4.) What about relationship like ancestors karma? We get influenced by ancestors’ karma? Ancestors?
+
+HH Bhanu Swami Maharaj: Ancestors. We influence by them?
+
+Devotee 1: Will we get the karma done by our ancestors, my father and my grandfather?
+
+Devotee 2: Like Buddhists also, Buddhists also say that.
+
+HH Bhanu Swami Maharaj: Their sinful activities affect you?
+
+Devotee 2: Yeah, yeah, yeah.
+
+HH Bhanu Swami Maharaj: If they do a sinful activity, you have to suffer. Is that right?
+
+Devotee 2: Yeah. That’s the truth or not?
+
+HH Bhanu Swami Maharaj: [Laughs] Well, generally, we bear the result of our activities. So influence of ancestors or people you’re attached to, we can say, is not really karma, but they can influence. So therefore we may get certain qualities and impressions in our mind, which are due to our attachment to [Laughs] certain people, etc. And that can impel us to do similar type activities [Laughs]. And then we get similar karma [Laughs].
+
+5.) Maharaj for a devotee, like sadhana bhakti, we are chanting and following rules. So in which case, I can become a dog again. If my past karma is there, even if I chant in this life, in next life I can become a dog?
+
+So generally not, because bhakti destroys all karma. So the dog-eater, the one who kills the dog, he chants Hare Krishna, he’s better than a brahmana [Laughs]. So the only exception can be if a person becomes a very gross aparadhi [Laughs]. And then he doesn’t get effects of bhakti [Laughs].
+
+6.) You explained about karma has rules. According to certain rules, we get a body, we raise up, gradual process that is. But on one hand, bhakti is said that sometimes by chance we get mercy and we get a chance to do bhakti. But for example, I have a pet and she is a dog. And she sometimes smells the prasada flower or she sometimes eats prasada. In that case, how? Does she do previously bhakti that’s why she is continuing or does it happen by chance? What is her mechanism of starting bhakti?
+
+So, that accidental bhakti means accidental, there was no particular cause. And of course, in the case of devotees, then the dog gets the mercy of a devotee to smell the flower or eat the prasadam [Laughs]. But then we could say, well, what would determine that they get that, even accidental mercy? So, in some cases, they may have also done some accidental bhakti [Laughs] in previous lives [Laughs]. However, they would have to start from zero at a certain point [Laughs]. So, therefore, at a certain point there was nothing and then suddenly a devotee decided to be merciful and give prasadam [Laughs].
+
+7.) So Maharaj instead of doing Harinama in the city better to do Harinama in the forests and other places [Not clear]. To deliver these souls in the lower species of life. Human is actually human. Why we do Harinama in the city?
+
+[Laughs] Why in the city? We should do it in the country to benefit all the animals. Well, of course, if you do it in the forest, then you get less human beings getting mercy and more animals and plants. If you do it in the city, you get more human beings getting mercy. But there are animals in the city also. There’s birds, there’s cats, and there’s dogs. And, of course, we have plants and we have insects [Laughs] and whatever. So, wherever you go, city or, you’ve got all sorts of entities other than human beings who get mercy. However, usually we concentrate on human beings because it’s easier for them to develop faith and start the process of bhakti seriously.
+
+8.) How to cut off the attachment of the ancestors or whatever?
+
+Oh, well, of course, mainly we’re not attached to ancestors. We’re attracted to people [Laughs] in the present world [Laughs]. So, the main method of becoming detached is to become attached to Krishna. So, the more you do bhakti and become attached to Krishna, naturally you become detached from everything in the material world.
+
+Devotee: Thank you very much. Hare Krishna.
+
+9.) Hare Krishna Maharaj. How one gets human form of life? Have we traveled all the 84 lakh species?
+
+HH Bhanu Swami Maharaj: So, you may attempt to be a human being if you do a minimum of sinful activities [Laughs]. So, if you’re situated in rajoguna, rajoguna and sattva, then you’re likely to get a human birth. If you do tamasic activities, you’re likely to be an animal or a plant. If you do bhakti, of course, then you can be guaranteed to get a human body
+
+Devotee: Means more favourable body we can get by bhakti?
+
+HH Bhanu Swami Maharaj: Yeah, more favourable for bhakti [Laughs]. Through bhakti you get a more favourable bhakti body.
+
+Devotee: More favourable for me, the body everything?
+
+HH Bhanu Swami Maharaj: Yeah, yeah.
+
+Ok, Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/3": { title: "SB_10.87.3 \u2013 Srimad Bhagavatam, the final truth of all Vedic sources !", video: "n5hlF_stY2U", article: `Srimad Bhagavatam 10.87.3 | HH Bhanu Swami Maharaj | ISKCON Japan | 2 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 3.
+
+ŚB 10.87.3
+
+saiṣā hy upaniṣad brāhmī
+pūrveśāṁ pūrva-jair dhṛtā
+śraddhayā dhārayed yas tāṁ
+kṣemaṁ gacched akiñcanaḥ
+
+Synonyms
+
+sā eṣā — this same; hi — indeed; upaniṣat — Upaniṣad, confidential spiritual doctrine; brāhmī — related to the Absolute Truth; pūrveṣām — of our predecessors (such as Nārada); pūrva-jaiḥ — by the predecessors (such as Sanaka); dhṛta — meditated upon; śraddhayā — with faith; dhārayet — meditates; yaḥ — whoever; tām — upon it; kṣemam — ultimate success; gacchet — will attain; akiñcanaḥ — free from material connection.
+
+Translation
+
+Those who came before even our ancient predecessors meditated upon this same confidential knowledge of the Absolute Truth. Indeed, anyone who faithfully concentrates on this knowledge will become free from material attachments and attain the final goal of life.
+
+Purport
+
+This confidential knowledge concerning the Absolute Truth should not be doubted, since it has been passed down through authoritative lines of learned sages from time immemorial. One who cultivates the science of the Supreme with reverence, avoiding the distractions of fruitive rituals and mental speculation, will learn to give up the false designations of material body and mundane society, and thus he will become eligible for perfection.
+
+In the opinion of Śrīla Viśvanātha Cakravartī, the first two verses of this chapter can be considered an Upaniṣad on the topic of Brahman. Śukadeva Gosvāmī here disclaims authorship on the grounds that this Upaniṣad was spoken previously by Nārada Muni, who himself heard it from Sanaka Kumāra.
+
+HH Bhanu Swami Maharaj:
+
+So, the topic here is Upanishad Brahmi. And Brahmi means concerning Brahman. And Upanishad, of course, refers to these texts, Vedic texts, concerning, which are in jnana-kanda of the Vedas. So the Vedas have different parts. And we often hear about jnana-kanda, karma-kanda, upasana-kanda. So, that karma-kanda has two parts. There’s a collection of verses called brahmanas. And there’s another collection of verses called aranyakas. And both of these collections deal with rules for sacrifice to attain swargaloka. And both of them are called karma-kanda.
+
+Based on these texts, one philosopher, Jaimini produced this karma-mimamsa philosophy. And in this philosophy, the ultimate goal is swargaloka. And by and large, it’s atheistic. Nothing about the Supreme Lord [Laughs]. Based upon these texts, then we have, what we call karma yoga. Besides this part of the Vedas, which Krishna calls flowery words [Laughs], we have the jnana-kanda, which is Upanishads. And some of the principal Upanishads there largely deal with the topic of Brahman. And the goal is liberation. Many of these texts can be taken impersonally. But we can also interpret these texts as Vaishnava texts. So, in other words, these Upanishads present both Brahman and Vishnu.
+
+And besides these texts, then we have another section called upasana-kanda. This consists with all of the famous verses praising devatas and praising Vishnu. So, when we use the word Upanishad, generally we think of topics about Brahman [Laughs]. Based on some of these Upanishads, Shankaracharya has made his Mayavada philosophy [Laughs]. And based on these Upanishads, Vedavyasa wrote Brahma Sutras to explain those Upanishads. Many these Upanishads speak, we can say, parokshavada, indirect [Laughs].
+
+So, the Brahma Sutras is there to explain them. Unfortunately, the Brahma Sutras are very short statements. And therefore, they can be subject to many different interpretations [Laughs]. So, Shankaracharya uses Brahma Sutras to present Mayavada philosophy. When we use the word Vedanta, it usually refers to Upanishads and Brahma Sutras. And the topic is Brahman and the goal is liberation. However, Acharyas like Ramanujacharya and Madhvacharya have taken Upanishads and Vedanta Sutras, and they show that, it’s not Mayavada, it is all about Vishnu.
+
+So, we see there is controversy about the meaning of Upanishads and Brahma Sutras. So, Vedavyasa wrote the Puranas and Mahabharata to clarify the meaning. So, in Mahabharata, we have the condensed meaning in Bhagavad Gita. So because Bhagavad Gita is a summary of Vedanta, the Acharyas make commentary on Bhagavad Gita. And as we learn from Bhagavatam, Bhagavatam is the summary of all the Puranas, and the Bhagavad Gita, and the Brahma Sutras, and the Vedas, and the Upanishads [Laughs]. So, by reading Bhagavatam and studying Bhagavatam, we can get the actual meaning of Upanishads and Brahma Sutras.
+
+So, if we study Bhagavatam, we’re getting to the conclusion. So, this is Vedanta [Laughs]. Vedanta means the conclusion of the Vedas. So, some people come to us and say, Oh, why study Bhagavatam? You should study Vedanta. So, what they actually mean is, you should study Shankaracharya’s commentaries on Brahma Sutras and Upanishads [Laughs] and become a Mayavadi [Laughs]. But, if we want the real meaning of Vedanta, that is, Brahma Sutras and Upanishads, we just study Srimad Bhagavatam.
+
+So, Bhagavatam explains about Brahman. And, of course, that is the topic of Vedanta Sutra. And, that is the topic of the Upanishads. The first verse of the Brahma Sutras is athāto brahma jijñāsā, inquire about Brahman. So, the Brahma Sutras are about Brahman, and they are commentary on the Upanishads, which are about Brahman. So, one should inquire about Brahman.
+
+So, the next question is, what is that Brahman? So, then, the next sutra is janmādyasya yataḥ [SB 1.1.1]. Brahman means that from which everything arises. In other words, Brahman is the supreme cause of everything. Now, of course, if we take the previous verse, what do we have here? It’s talking about the Lord creating everything. So, in other words, it indicates that the Lord creates something. The previous verse of Sukadeva says, the Lord created the intelligence, senses, mind, pranas, etc [Laughs]. And Vedanta Sutra says, Brahman creates everything. So, therefore, that Brahman does activities. And there’s not one, there’s Brahman creating other things [Laughs]. Of course, Shankara’s philosophy is, there is no anything else, there’s only Brahman and nothing else.
+
+So, Brahman does not create anything. But this verse here says, the Lord created senses, intelligence, etc. And the Brahma Sutra says that this Brahman created everything [Laughs]. If everything is illusion, and we say that Supreme Brahman created illusion, what does that mean? He created nothing [Laughs]. And this verse, verse 2 here, says the Lord created senses. It doesn’t say, the Lord created illusory senses [Laughs]. So, ultimately, of course, from all of this, we conclude that this Brahman is not devoid of qualities.
+
+So, therefore, the Vedas can describe that Brahman. And, when the scriptures describe Brahman, they are describing spiritual qualities. So, we see that some sages, not just Shankaracharya, 2000 years ago or whatever, even before that, there were impersonalist sages. So, there’s always been some people who prefer impersonal Brahman, and some people prefer worshipping Vishnu or Krishna. And just as different religions will argue, Christians will say, this is God, and the Muslims will say, no, God is something else [Laughs]à.
+
+And in India some people say Shiva is supreme. Others will say Durga is supreme. So, similarly, the great sages, they don’t argue about the devatas, but they do say Brahman is supreme or Vishnu is supreme. So, that’s the main argument among the people of India, the sages [Laughs]. And, both opinions are based on scripture, Vedanta Sutra, Upanishads [Laughs]. And, as I mentioned yesterday, the solution is that the Supreme is both. He is Brahman, He is Paramatma, He is Bhagavan. So, the Lord is both.
+
+The whole question is, which is better [Laughs]? And, if we objectively look at it, then we understand that Bhagavan is superior. Why? Because the individual jiva can experience greater bliss. And, the whole question in this chapter is, who is that, what is that Brahman? And, then the answer is that Brahman is that Supreme Lord who has form, qualities, and activities [Laughs]. So, that conclusion, and, of course, that debate has been going on and many sages have discussed this in the past. And in verse 3, it’s talking about how the sages in the past, previous, previous sages, are all talking about this. With great faith, they’ve meditated on this topic [Laughs]. And, if we get the truth and we meditate on that, then we get all success.
+
+Okay. Hare Krishna!
+
+Q & A :
+
+1.) We see in Varanasi, Rishikesh that Lord Shiva is devotee, mostly impersonalist like mayavadis. We also call Lord Shiva, he’s the greatest Vaishnava. So, he also leads people to the Krishna bhakti. So, how to, can you more elaborate this, explain more about Shiva tattva, like how it is?
+
+HH Bhanu Swami Maharaj: We have some people who worship Shiva who are mayavadis. But, we have some mayavadis, or impersonalists at least, who worship Vishnu [Laughs]. I believe that in kumbha mela, mainly they’re impersonalist yogis, there’s a whole group of Vishnu [Laughs] worshippers, whole group of Shiva worshippers [Laughs], they’re all impersonalists [Laughs].
+
+Devotee: That’s personalists?
+
+HH Bhanu Swami Maharaj: Impersonalists. So, in mayavada philosophy, they say that, okay form is illusion etc but in this material world as a sadhana you can worship forms. So we can worship Suryadev and Ganesh and Shiva and Durga and Vishnu. And through that, we become purified to some degree. And when we’re purified we can concentrate our mind, we give up that worship and just concentrate on Brahman. There are other people who worship Shiva as supreme without impersonalism. So just as we worship Krishna or Vishnu or Rama, they worship Shiva and they say we will attain Shiva [Laughs]. So in the Bhrhad Bhagavatamrta, Sanatana Goswami describes that Gopakumar goes to Shivaloka. This is beyond the material world. So Shiva is there with Parvati and Ganesh is there and so many other devotees are there who attained that by worshiping Shiva. So we can say that not all Shiva worshipers are impersonalists, some may be, some may be worshiping personal Shiva [Laughs]. In ancient times there were philosophers who were supporting worship of Shiva. And in South India there is a whole group called Shaiva siddhanta, whole group dedicated to Shiva worship.
+
+2.) In the last, in the class you explained about bliss of the jiva. That’s why that is like Bhagavan is supreme. So could you please explain more about bliss for the jivas?
+
+HH Bhanu Swami Maharaj: The bliss for the jivas?
+
+Devotee: Yes, yes. So why that is bringing us to the conclusion that Bhagavan is the top?
+
+HH Bhanu Swami Maharaj: Okay. So we describe the jiva as a particle of consciousness. So conscious means that jiva is aware of things around him. He can, he’s also aware of himself. So based on that then he is described as being a knower, jnatha, he knows things by his nature.
+
+Devotee: By nature?
+
+HH Bhanu Swami Maharaj: By his nature, knows things. If he doesn’t do anything, he’s not even conscious [Laughs]. So not only he is a knower, conscious of objects, he’s also an experiencer, he is a bokta or enjoyer. So by his nature the jiva observes things and then he feels things. And some of the feelings are not nice, so these are the things we don’t like [Laughs]. And those which give pleasure to us, this we call bliss [Laughs]. So the jiva by nature has a capacity to experience bliss. Unfortunately the jiva can also choose to get his bliss independently of the Lord. Of course, this is also impossible.
+
+Devotee: What is impossible?
+
+HH Bhanu Swami Maharaj: To get the bliss independent of the Lord. The source of bliss is Supreme Lord [Laughs]. But to experience the bliss in the Supreme Lord, you have to be the servant of the Lord. So some jivas believe I can have that bliss by not being the servant of the Lord independently. So to give jivas who believe that some idea about happiness we end up in the material world with material bodies as described in verse 2, where the Lord creates your senses and your intelligence and your mind and your pranas [Laughs] and your material body, so you can get a false sense of enjoyment. But it’s all based on illusion, we identify with a body, material body interacts with other material things and then that’s called happiness. But the jiva who’s a spiritual conscious particle is completely different from all of that matter, so it’s impossible to get happiness from it. So the jiva can fulfill his desire for happiness by surrendering to the Lord. We know that the Lord has His internal energy, part of the internal energy is hladini shakti. So by performing bhakti, the jiva gets a portion of that hladini shakti.
+
+Devotee: Originally we are not having the hladini shakti?
+
+HH Bhanu Swami Maharaj: No. So at the stage of bhava, that hladini shakti begins to manifest and in prema it becomes full. So in this way, the jiva can experience bliss.
+
+3.) Hare Krishna Maharaj. Thank you for your very comprehensive class on these three topics and vedic literatures. I want to, I have a couple of questions and the first one is the relationship between the Brahma Sutras and Srimad Bhagavatam. So my first question is, we see that Baladeva Vidyabhushan, he was in a jaipur court and he had written a commentary on, was it Brahma Sutras or Srimad Bhagavatam. Maharaj that’s my first question. Baladeva Vidyabhushan wrote a commentary that is Govinda bhashya.
+
+HH Bhanu Swami Maharaj: Yeah. That’s, that’s Brahma Sutra.
+
+Devotee: Brahma Sutra. Okay. So my next question is, so we see that Vyasadeva was morose and Narada Muni inspired him to write Srrimad Bhagavatam. But we didn’t see that form of Srimad Bhagavatam, rather what we see is a natural commentary what we heard from your divine grace and other devotees. So is that the main Srimad Bhagavatam was not recorded or we are getting only from Sukadeva Goswami? What we are reading as Srila Prabhupada’s commentary now. So this Srimad Bhagavatam is mainly from Sukadeva Goswami as a natural commentary or it was written by Vyasadeva mainly? Or it came from based on the commentary on Brahma Sutra. I mean that Sukadeva Goswami, he commented on Brahma Sutra. So what was the basis? I mean Vyasadeva, did he write Srimad Bhagavatam as such or Sukadeva Goswami, he commented on Brahma Sutra and that becomes Srimad Bhagavatam?
+
+HH Bhanu Swami Maharaj: So Vyasadeva wrote 18 Puranas. But he was dissatisfied, so Narada Muni came and told him, well, you have to write the conclusion directly. So he revised the Bhagavatam which he had written to show that everyone should worship Krishna. And then he taught that to Sukadeva Goswami. So Sukadeva was an impersonalist but when he heard Bhagavatam, he became personalist [Laughs]. Not only that, he began to relish the Bhagavatam even more than Vyasadeva. And then Sukadeva recited that Bhagavatam which he got from Vyasadeva to Parikshit. So this is the version we have. And that work that Vyasadeva revised, the Bhagavatam to show Krishna is the final conclusion of everything, this is considered to be the natural commentary on Brahma Sutras. So it’s called the natural commentary because Vyasa wrote the Brahma Sutras and Vyasa also wrote Bhagavatam.
+
+4.) Thank you Maharaj. Maharaj my next question is we see that Shankaracharya he actually he had a purpose because at that time sunyavada was prominent and he could not preach something, you know very Krishna conscious thing. So he he took a different path like he took a path that is better than sunyavada that is mayavada. So can we essentially, can we condemn Shankaracharya because Mahaprabhu also said māyāvādi-bhāṣya śunile haya sarva nāśa [Cc. Madhya 6.169] but it has a purpose. So can we condemn that as such like that is not good because it also had a purpose like from sunyavada it becomes to mayavada, a little bit upgrade in that situation. So what should be our view on Shankaracharya’s philosophy?
+
+HH Bhanu Swami Maharaj: It is similar to Buddhism. Buddha is incarnation of the Lord. So he’s incarnation of the Lord, he presents sunyavada, void philosophy, rejecting the Vedas. So why would a avatar of the Lord reject the Vedas? Vedas have been corrupted and too much karma-kanda [Laughs]. So to stop the animal sacrifices, avatar of the Lord rejected the Vedas, so it’s a temporary solution [Laughs]. At one point Buddhism spread all over India. So Shankaracharya appeared and he presented a type of Buddhist philosophy but based on Upanishads accepting Vedas. So Shankaracharya is considered to be avatar of Shiva. And as an avatar, he restored the Vedas.
+
+Devotee: Restored?
+
+HH Bhanu Swami Maharaj: He got the Vedas to be accepted again and people rejected Buddhist philosophy [Laughs]. So therefore, his presentation of sunyavada philosophy under the Vedas was temporary remedy [Laughs]. Once the Vedas are accepted, then the Vaishnava Acharyas defeated Shankaracharya and we got real meaning of the Vedas. So, Buddha and Shankaracharya were doing actions for temporary solution [Laughs].
+
+Devotee: Thank you Maharaj. Hare Krishna.
+
+HH Bhanu Swami Maharaj: Okay. Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/10/87/4-13": { title: "SB_10.87.4~13 \u2013 The repeated question of great sages & the extensive commentaries of acharyas !", video: "18gK6TiG6VI", article: `Srimad Bhagavatam 10.87.4-13 | HH Bhanu Swami Maharaj | ISKCON Japan | 3 May 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 10 Chapter 87 Verse 4.
+
+ŚB 10.87.4
+
+atra te varṇayiṣyāmi
+gāthāṁ nārāyaṇānvitām
+nāradasya ca saṁvādam
+ṛṣer nārāyaṇasya ca
+
+Synonyms
+
+atra — in this connection; te — to you; varṇayiṣyāmi — I will relate; gāthām — an account; nārāyaṇa-anvitām — concerning the Supreme Lord, Nārāyaṇa; nāradasya — of Nārada; ca — and; saṁvādam — the conversation; ṛṣeḥ nārāyaṇasya — of Śrī Nārāyaṇa Ṛṣi; ca — and.
+
+Translation
+
+In this connection I will relate to you a narration concerning the Supreme Lord Nārāyaṇa. It is about a conversation that once occurred between Śrī Nārāyaṇa Ṛṣi and Nārada Muni.
+
+Purport
+
+Lord Nārāyaṇa is connected in two ways with the following narration: as its speaker and as the subject it describes.
+
+Text 5
+
+Translation
+
+Once, while traveling among the various planets of the universe, the Lord’s beloved devotee Nārada went to visit the primeval sage Nārāyaṇa at His āśrama.
+
+Text 6
+
+Translation
+
+From the very beginning of Brahmā’s day Lord Nārāyaṇa Ṛṣi has been undergoing austere penances in this land of Bhārata while perfectly performing religious duties and exemplifying spiritual knowledge and self-control — all for the benefit of human beings in both this world and the next.
+
+Text 7
+
+Translation
+
+There Nārada approached Lord Nārāyaṇa Ṛṣi, who was sitting amidst sages of the village of Kalāpa. After bowing down to the Lord, O hero of the Kurus, Nārada asked Him the very same question you have asked me.
+
+Text 8
+
+Translation
+
+As the sages listened, Lord Nārāyaṇa Ṛṣi related to Nārada an ancient discussion about the Absolute Truth that took place among the residents of Janaloka.
+
+Text 9
+
+Translation
+
+The Personality of Godhead said: O son of self-born Brahmā, once long ago on Janaloka, wise sages who resided there performed a great sacrifice to the Absolute Truth by vibrating transcendental sounds. These sages, mental sons of Brahmā, were all perfect celibates.
+
+Purport
+
+Śrīla Śrīdhara Svāmī explains that the word satram here refers to a Vedic sacrifice in which all the participants are equally qualified to serve as priests. In this instance, each of the sages present in Janaloka could speak equally well on the topic of Brahman.
+
+Text 10
+
+Translation
+
+At that time you happened to be visiting the Lord on Śvetadvīpa — that Supreme Lord in whom the Vedas lie down to rest during the period of universal annihilation. A lively discussion arose among the sages on Janaloka as to the nature of the Supreme Absolute Truth. Indeed, the same question arose then that you are asking Me now.
+
+Text 11
+
+Translation
+
+Although these sages were all equally qualified in terms of Vedic study and austerity, and although they all saw friends, enemies and neutral parties equally, they chose one of their number to be the speaker, and the rest became eager listeners.
+
+Text 12-13
+
+Translation
+
+Śrī Sanandana replied: After the Supreme Lord withdrew the universe He had previously created, He lay for some time as if asleep, and all His energies rested dormant within Him. When the time came for the next creation, the personified Vedas awakened Him by chanting His glories, just as the poets serving a king approach him at dawn and awaken him by reciting his heroic deeds.
+
+Purport
+
+At the time of creation, the Vedas are the first emanation from the breathing of Lord Mahā-Viṣṇu, and in personified form they serve Him by waking Him from His mystic sleep. This statement made by Sanandana implies that Sanaka and the other sages had asked him the same question that Nārada had asked Nārāyaṇa Ṛṣi and Mahārāja Parīkṣit had asked Śukadeva Gosvāmī. Sanandana refers the question back to the example of the personified Vedas themselves in their address to Lord Mahā-Viṣṇu. Even though the Vedas knew that the Lord, being omniscient, does not need to be informed of His glories, they enthusiastically took this opportunity to praise Him.
+
+HH Bhanu Swami Maharaj:
+
+So Parikshit asks a question to Sukadeva Goswami. And then Sukadeva Goswami relates how Nara Narayana Rishi was speaking to Narada. So Narada asks the same question to Narayana Rishi. So Narayana Rishi then said, will the residents of Janaloka ask the same question? And Sanandana then replied, well, the answer will be found in the prayers of the personified Vedas. So, this question is very important because we see that it was discussed so many times. And we see that very great sages are inquiring, Narada is inquiring, the people in Janaloka are inquiring, etc. So, it’s a, we say also it’s not just an important question, it’s a common question.
+
+And the essential question that is asked is, How can anything, including the Vedas, describe a Supreme Lord who is spiritual? And first of all, who is that Supreme? Is it impersonal with no qualities at all, or is it Bhagavan who has qualities which are spiritual? And if it is Brahman with no qualities at all, then of course it becomes more difficult to describe, even if you have spiritual words [Laughs], because Brahman has no qualities, even spiritual qualities [Laughs]. And even if we accept the form of God with qualities and activities, etc. How is it possible that words from the material world can describe spiritual qualities? So, this of course is an important question.
+
+Is God impersonal or personal? And how can even spiritual qualities be discussed using material words? And these questions are discussed by great sages. And the answers themselves, if we look closely, will also be found in the scriptures themselves. However, as was explained in the previous purport, sometimes the Vedas do not speak directly. And therefore, we have to look for the answer very carefully. And in the original answer of Sukadeva Goswami, his answer was, well, the Supreme Lord creates the intelligence and the pranas, etc.
+
+Sukadeva Goswami said the Lord has created the intelligence, pranas, etc. so that the living entities can enjoy in this material world. And this also doesn’t sound like an answer to the question [Laughs]. So here, when the personified Vedas speak also, we’ll find many things discussed and we’ll have to say, well, how is this related to the answer as well [Laughs]? However, we do find the answer in these prayers of the personified Vedas. Of course, because the personified Vedas are speaking, that is, Vedas are speaking, they are often referring to the Vedas themselves.
+
+So the prayers are enlarging upon certain statements of the Vedas. So these prayers are a little bit, we can say, complicated. One is because they are referring to statements in the Upanishads. And we will find that of all the different sections of the Bhagavatam, the Acharyas write very extensive commentaries on each of these verses. Of course, we can say that in two other places, we’ll find that the Acharyas write extensive commentaries. One is the prayers of Brahma after he stole the calves.
+
+Devotee: Can you say it again?
+
+HH Bhanu Swami Maharaj: When Brahma stole the calves, after he stole the claves, then he offers some prayers to Krishna. So all the Acharyas write extensive commentaries on these prayers of the Lord Brahma. Of course, Brahma is describing Krishna. The other place that has extensive commentaries is the five chapters on the Rasa-lila [Laughs]. So the prayers of the personified Vedas and the prayers of Brahma are, we can say, quite philosophical. Therefore, there is lots of commentary on them. They are long and complicated because the verses themselves are complicated [Laughs]. For instance, in verse 14, where the Vedas begin to speak, then there’s like three pages of commentary on that one [Laughs]. And then the next verse also three pages of commentary [Laughs].
+
+So what this also indicates is that, even though ultimately the goal is rasa in the Bhagavatam and thus we have extensive commentaries on rasa, we do also have to have, in order to appreciate rasa, we have to have the correct philosophical idea. So many devotees following Lord Caitanya, they will say, well, let us discuss the Rasa-lila and all these pastimes of Krishna and Radha, etc. Why do we need philosophy? We see that there are many commentators on Bhagavatam. But there’s more commentaries on tenth canto of Bhagavatam. There’s even more commentaries on the five chapters of the Rasa-lila [Laughs].
+
+So nothing wrong with that, because Rasa-lila is the highest expression of rasa [Laughs]. But then we have to question, why do we have the rest of the Bhagavatam? Why not just have five chapters of Bhagavatam? Rasa-lila, that’s the highest thing, we don’t need anything else. However, we have not only tenth canto, we have twelve cantos of Bhagavatam [Laughs]. And besides discussing about Krishna, this all talks about creation and sub-creation, etc., all these different topics.
+
+So though, topics of Krishna and rasa are the highest thing and most important, our Acharyas also say that, all these other topics are also important. They’re important because it gives us a basis by which we can understand rasa properly. So normal human beings are not qualified to appreciate rasa, spiritual rasa. However, if we can understand the position of Krishna, position of Bhagavan, etc., nature of material world, then we can at least have some qualification for understanding rasa.
+
+So in one place there is, I think it’s the second canto, there is a description of Vishnu. I think it’s Paramatma form actually [Laughs]. So Prabhupada explains, actually we don’t just look at the face of Vishnu, we start with the feet and then we go up [Laughs] gradually and finally we see the face [Laughs]. So similarly, we go through the Bhagavatam, all the different cantos, then we come to the tenth canto.
+
+So in other words, all this other information in the Bhagavatam is supporting our understanding of rasa. So though Lord Caitanya is emphasizing chant the holy name and appreciate Radha Krishna, at the same time, He also refers to scripture. So Caitanya Mahaprabhu Himself always gave reference to scripture, even though He’s talking about spontaneous love, prema, etc., He’s also saying that we have to support this with scripture.
+
+Among Lord Caitanya’s followers, Rupa, Sanatana and Jiva are very famous. So they’re famous because they wrote commentaries. So in other words, Lord Caitanya’s movement is based upon understanding of scripture. Rupa Goswami, when he discusses raganuga bhakti, then he says we should not think that, you know, raganuga is spontaneous, that we ignore scripture [Laughs]. We don’t ignore scripture. So he explains that in order to begin rasa, or raganuga bhakti, we need a taste for it, a greed for it. We need a great desire for raganuga bhakti in order to practice it. We only get that great desire by hearing Bhagavatam and the pastimes of Krishna [Laughs]. After we practice raganuga bhakti, we have to understand proper method. So that method is also described in scripture.
+
+So therefore, even in raganuga bhakti, which is quite spontaneous, we also rely on scripture. And if we follow vaidhi bhakti, of course, we rely more on scripture [Laughs]. So even if we’re worshipping Krishna and appreciating rasa, but we’re following vaidhi bhakti, then very necessarily we must understand scripture. So similarly, we see that Srila Prabhupada, though he began the movement by inspiring people to chant Hare Krishna, he was always lecturing on Bhagavad Gita and Bhagavatam.
+
+So in the beginning, he was chanting in the park, and everyone was dancing and very enthusiastic [Laughs]. And then they would have, Prabhupada would be speaking, I think it was in Matchless Gifts, a little shop, and he would give lectures there [Laughs]. But the people that were listening, it was very difficult for them to understand anything [Laughs]. But Srila Prabhupada never gave up. He continued to lecture. And meanwhile, he was typing on his typewriter the commentaries on Bhagavatam and commentary on Bhagavad Gita [Laughs]. So it was a very enthusiastic plea, following the example of the previous Acharyas. And that is to give a very strong foundation of scripture for all of our practice of bhakti yoga.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Maharaj, but we also say that if you chant name properly, the name will reveal everything. So there we don’t say that you chant and say, we just say the name will reveal. So why is it like that?
+
+So, of course, we find the most prominent teaching of Lord Caitanya is chant the holy name, harer nāma harer nāmaiva kevalam [Cc. Ādi 17.21], only the holy name, nothing else [Laughs]. That is statement, Lord Caitanya states like that to emphasize that this is the most important activity. But we see that Lord Caitanya Himself and His followers did other aspects of bhakti, hearing, remembering, deity worship, sadhu sanga [Laughs], they also follow these things [Laughs]. So, Harinama is the main activity and all these other parts of bhakti are supporting it. So, we often, not only us, but scripture itself often emphasizes sadhu sanga. And, of course, necessity of Guru. So then, how does that fit in with only chant the holy name [Laughs]? So, we can look at the example of Caitanya Mahaprabhu. He was daily chanting the holy name. But, when he was in Puri, then he would also be listening to Bhagavatam from the devotees [Laughs]. So, he was having sadhu sanga, he was doing sravana. So, what is the relation between sadhu sanga, sravana and kirtan? So, as I said, the sadhu sanga and the sravana support the kirtan. So, how do they support? Is kirtan independent or is it dependent on other things? So, ultimately, chanting the Lord’s name is the most powerful aspect of bhakti. And, even if you chant accidentally or with no faith, you still get results. We get results in the form of destruction of karma. But the goal of the devotee is prema. So, I explained last night is, if you do pure bhakti, chant purely, you get prema. And, if you do some mixed bhakti or sattva-guna bhakti or whatever [Laughs], you don’t get prema. You get something, but you don’t get prema. By this impure chanting, you can get liberation, salokya, sarupya. So, you can get a spiritual body in Vaikuntha, you can live in Vaikuntha, and you may get santa-rati [Laughs]. So, in other words, how to chant purely? So, to chant purely, we have to know what the impurities are, what aparadhas are [Laughs]. So, Bhaktivinoda Thakur classified these anarthas into two groups. One is ignorance. The other is material desires. So, ignorance consists of, if we’re ignorant and we chant, it’s an impurity. So, what is ignorance? We’re ignorant of difference between Krishna and jivas. We’re ignorant of the nature of the name. Of course, it’s not different from Krishna. If we’re ignorant, we don’t think like that. We may also not appreciate that Krishna has form qualities and activities which are spiritual. So, if we chant but we have this type of ignorance of these different things, we don’t get prema [Laughs]. Then how do we get that, how do we negate all of these ignorances? Scripture [Laughs]. And where is the scripture from? Devotees [Laughs]. So, through sravana and sadhu sanga, then we can come to pure bhakti and pure chanting. Then we get prema.
+
+2.) Hare Krishna. Now, His Holiness explained about how to do offenseless chanting, how to know about the pure chanting. So, you tell, we should be aware of the don’ts, but what are the do’s we should follow? Can you please elaborate on that?
+
+So, of course, knowledge consists of both things, what you shouldn’t do and what you should do [Laughs]. So, through knowledge, we get both aspects. So, the positive things we should do, of course, are different engagements in bhakti. These are explained in Nectar of Devotion. And we should perform these angas of bhakti with pure bhakti, with devotion.
+
+Devotee 1: Without? We should practice this without?
+
+HH Bhanu Swami Maharaj: We should practice with devotion [Laughs]. So, the most important verse of Nectar of Devotion is that definition of pure bhakti. This is how we practice [Laughs]. So, in that definition, it defines uttama bhakti or pure bhakti as cultivation of a relationship with Krishna, with affection. And even there, then he also gets the negative, without material desire, without desire for liberation [Laughs]. So, in this way, both things are presented, what you shouldn’t do and what you should do [Laughs]. And the Bhagavatam gives us examples of what to do and what the result is. So, Bhagavatam presents the ideal bhakti or prema. And how is that shown? In the great devotees [Laughs]. So, we have descriptions of all the devotees in Vrindavan. So, these are the positive examples that we should try to attain through raganuga bhakti [Laughs]. But we have other examples, like we have Devahuti or we have Kuntidevi, then their prayers or whatever. We have example of Narada Muni, many other examples, Prahlada etc., in the Bhagavatam, which are given as nice examples of positive bhakti.
+
+Devotee 1: What is negative bhakti?
+
+HH Bhanu Swami Maharaj: All negative things which I mean, things you shouldn’t do.
+
+Devotee 1: Okay.
+
+HH Bhanu Swami Maharaj: In the Nectar of Devotion, among the 64 angas of bhakti, which are mainly positive, there are 10 negatives [Laughs]. So one of that is don’t get too many disciples. Don’t study too many scriptures [Laughs]. Don’t disrespect the devatas [Laughs]. And don’t tolerate offenses against devotees [Laughs], so these are some of the don’ts [Laughs]. Don’t disturb other living entities [Laughs]. Don’t be overcome with lamentation [Laughs]. Don’t commit aparadhas [Laughs].
+
+Devotee 2: Maharaj, how can we become introspective because it’s very easy to see the fault in other people. How we can see the fault in ourself and therefore correct ourself in devotional service so we can understand we are going the right direction.
+
+HH Bhanu Swami Maharaj: Ultimately, this is included in the definition of bhakti. So the essential definition is we’re cultivating a loving relationship with Krishna, which is not anything external, it’s internal. And it should be free of material desires. Which implies that when we cultivate bhakti and our relationship with Krishna, we are also aware that it has to be devoid of self-interest, pride, all these different things, which are aspects of material desire. In other words, abhilāṣitā-śūnyaṁ [Laughs] has to be devoid of all other desires. So, that’s the main definition of bhakti. Then we have a sub-definition of sadhana bhakti. So that definition is, we engage the mind and senses, which is like external [Laughs], meaning external. So many devotees will emphasize the external and forget about the first definition [Laughs]. But the first definition is the most important one [Laughs]. We cannot separate that. Of course, to help the devotee, then we do have sadhu sangha. So if we’re unaware of our anarthas, then other devotees can also help us understand them. If our anarthas are too strong, then of course, we don’t listen to anybody [Laughs]. And that is why Bhagavatam says, qualification for bhakti, for beginning bhakti, is not too much material attachment. If we have too much material attachment, that means too many anarthas, and then it’s difficult to even progress in bhakti.
+
+3.) How to associate with misra bhaktas, those devotees who are doing misra bhakti?
+
+Misra bhakti or contaminated bhakti [Laughs]? So when we talk about sadhu sangha, association of devotees, we’re talking about devotees practicing pure bhakti. Devotees practicing mixed bhakti, impure bhakti, etc., they are called kanishthas. So we do not associate with them as equals. All we can do is give them instructions so then they can raise up to the proper level.
+
+Devotee: We should not have too much material desires, but then which material desires are okay to have?
+
+HH Bhanu Swami Maharaj: You can have any material desire, but not too much.
+
+Devotee: Not too much means what? Something is okay?
+
+HH Bhanu Swami Maharaj: If it creates anarthas and they are difficult to remove, or you don’t want to remove the anarthas. That’s too much attachment. We have the last offense to the holy name. After understanding everything, you don’t want to give up material desires [Laughs]. At least you should desire to give them up. Even if you can’t, you desire to give them up. If you don’t even desire to give them up, you’ll never give them up [Laughs].
+
+4.) In vaidhi bhakti we have several rules and need to be followed right, in temple or everywhere. How to balance them? How much rules should we follow?
+
+Well, we have standard rules that everybody in ISKCON follow. So those are the rules we follow.
+
+Devotee 1: Raganuga bhakti also we have rules? Raganuga bhakti also we have these all rules right, worship rules and everything. And sometimes devotees say like if you follow rules and all, then devotees say like, oh you should do raganuga bhakti, all these rules are okay if you break some rules.
+
+HH Bhanu Swami Maharaj: Well, as I mentioned raganuga also follows scripture. So raganuga bhakti means, okay, we don’t have to follow rules, so we don’t have to follow any regulative principles. We don’t have to chant Hare Krishna whatever. That doesn’t mean that [Laughs]. It means that ultimately through raganuga, we naturally follow everything, so we don’t worry about that and we’re going higher [Laughs]. And then rather than chant 16 rounds, then we are spontaneously chanting much more rounds [Laughs]. So actually it is said in Nectar of Devotion that, externally we follow the example of great devotees like Rupa Goswami [Laughs]. So, however he acted, however he served, that’s a good example to follow externally.
+
+Devotee 2: Maharaj, as you said philosophical idea about Rasa-lila. So as per my knowledge, I have heard this philosophical word while describing about the universe or different lokas or Vishnu tattva but what are those philosophical ideas in Rasa-lila? Can you please share some of them [Not clear]?
+
+HH Bhanu Swami Maharaj: The most important point is that we read Rasa-lila and then we will take Krishna and the Gopis as material living entities. And so when we read about the activities of Radha and Krishna or Radha and Krishna and the Gopis, then we will think, oh it’s very nice, we can do all of these activities in the same way [Laughs]. And we even have groups that do that. They dress up like Radha and Krishna and so many other things and they have lilas [Laughs]. So our philosophical understanding is that, this level of Radha Krishna is the highest activity in the spiritual world. It has got nothing to do with material desires. So we cannot bring those down to a material level. Nor can we, if we are still influenced by material energy, think that we are on that level, spiritual.
+
+Okay. Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/sb/10/9": { title: "10th Canto \u2013 Chapter 9", article: `Text 9
 
 Text 13~14
@@ -42835,6 +46476,892 @@ To realize Ātmā is even more difficult, because you would have to do jñāna o
 The forms that appear in Vṛndāvan, Mathura and Dwāraka, they only appear once. 
 
 Devotees: Grantharāj śrīmad Bhāgavatam ki jai!!! HH Bhānu Swāmī Mahārāj ki jai!!! HDG AC Bhakti Vedānta Swāmi śrīla Prabhupāda ki jai!!!` },
+  "/sb/11/12": { title: "Srimad Bhagavatam 11.12 : Beyond Renunciation and Knowledge", article: `SB 11.12.1~2 – Significance of Sadhu Sanga in all Angas of bhakti & boundaries for Angas of bhakti !
+
+SB 11.12.3~6 – Lord’s mercy flow via devotees & the main function of devotee is giving Knowledge !
+
+SB 11.12.7-Prioritizing Bhakti over Varnashrama & prioritizing chanting holy name over other angas!
+
+SB 11.12.8 – Natural choice of Bhagavatam study – developing attraction for Krsna & Vrajavasis !
+
+SB 11.12.9 – Bhakti is prevalent in Kali yuga & one should be careful in adapting secondary processes!
+
+SB 11.12.10-Madhurya rasa-highly glorified by stalwarts, has most intense prema & rarest to achieve!` },
+  "/sb/11/12/1-2": { title: "SB 11.12.1~2 \u2013 Significance of Sadhu Sanga in all Angas of bhakti & boundaries for Angas of bhakti !", video: "SpzjMO5DIss", article: `Srimad Bhagavatam – 11.12.1~2 | HH Bhanu Swami Maharaj | ISKCON Chennai | 3 June 2021
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Om Namo Bhagavate Vāsudevāya
+Om Namo Bhagavate Vāsudevāya
+Om Namo Bhagavate Vāsudevāya
+
+nama om vishnu-padaya krishna-preshthaya bhu-tale
+srimate bhaktivedanta-svamin iti namine
+namas te sarasvate deve gaura-vani-pracharine
+nirvisesha-sunyavadi-pashchatya-desha-tarine
+
+jaya sri-krishna-caitanya
+prabhu nityananda
+sri-advaita gadadhara
+srivasadi-gaura-bhakta-vrinda
+
+Hare Krishna Hare Krishna Krishna Krishna Hare Hare
+Hare Rama Hare Rama Rama Rama Hare Hare
+
+ŚB 11.12.1-2
+
+श्रीभगवानुवाच
+न रोधयति मां योगो न साङ्ख्यं धर्म एव च ।
+न स्वाध्यायस्तपस्त्यागो नेष्टापूर्तं न दक्षिणा ॥ १ ॥
+
+व्रतानि यज्ञश्छन्दांसि तीर्थानि नियमा यमा: ।
+यथावरुन्धे सत्सङ्ग: सर्वसङ्गापहो हि माम् ॥ २ ॥
+
+śrī-bhagavān uvāca
+
+na rodhayati māṁ yogo
+na sāṅkhyaṁ dharma eva ca
+na svādhyāyas tapas tyāgo
+neṣṭā-pūrtaṁ na dakṣiṇā
+
+vratāni yajñaś chandāṁsi
+tīrthāni niyamā yamāḥ
+yathāvarundhe sat-saṅgaḥ
+sarva-saṅgāpaho hi mām
+
+Synonyms
+
+śrī-bhagavān uvāca — the Supreme Personality of Godhead said; na rodhayati — does not control; mām — Me; yogaḥ — the aṣṭāṅga-yoga system; na — neither; sāṅkhyam — the analytic study of the material elements; dharmaḥ — ordinary piety such as nonviolence; eva — indeed; ca — also; na — neither; svādhyāyaḥ — chanting the Vedas; tapaḥ — penances; tyāgaḥ — the renounced order of life; na — nor; iṣṭā-pūrtam — the performance of sacrifice and public welfare activities such as digging wells or planting trees; na — neither; dakṣiṇā — charity; vratāni — taking vows such as fasting completely on Ekādaśī; yajñaḥ — worship of the demigods; chandāṁsi — chanting confidential mantras; tīrthāni — going to holy places of pilgrimage; niyamāḥ — following major instructions for spiritual discipline; yamāḥ — and also minor regulations; yathā — as; avarundhe — brings under control; sat-saṅgaḥ — association with My devotees; sarva — all; saṅga — material association; apahaḥ — removing; hi — certainly; mām — Me.
+
+Translation
+
+The Supreme Personality of Godhead said: My dear Uddhava, by associating with My pure devotees one can destroy one’s attachment for all objects of material sense gratification. Such purifying association brings Me under the control of My devotee. One may perform the aṣṭāṅga-yoga system, engage in philosophical analysis of the elements of material nature, practice nonviolence and other ordinary principles of piety, chant the Vedas, perform penances, take to the renounced order of life, execute sacrificial performances and dig wells, plant trees and perform other public welfare activities, give in charity, carry out severe vows, worship the demigods, chant confidential mantras, visit holy places or accept major and minor disciplinary injunctions, but even by performing such activities one does not bring Me under his control.
+
+Purport
+
+The commentary of Śrīla Jīva Gosvāmī on these two verses can be summarized as follows. One may serve the devotees of the Lord by assisting them or by having their personal association. Association with pure devotees is sufficient for self-realization because one can learn everything about spiritual advancement from such devotees. With perfect knowledge one can achieve all that one desires, for the process of devotional service immediately brings the blessings of the Supreme Personality of Godhead. Pure devotional service is transcendental to the modes of nature, and therefore it appears mysterious to the souls conditioned by those modes.
+
+In the previous chapter Lord Kṛṣṇa stated, haviṣāgnau yajeta mām: “One may worship Me in fire by offering oblations of ghee.” (Bhāg. 11.11.43) Also, in verse 38 of the previous chapter it was mentioned that one should construct parks, recreational places, orchards, vegetable gardens, and so on. These serve to attract people to the temples of Kṛṣṇa, where they may directly engage in chanting the holy name of the Lord. Such construction projects may be understood as pūrtam, or public welfare activities. Although Lord Kṛṣṇa mentions in these two verses that association with His pure devotees is far more powerful than processes such as yoga, philosophical speculation, sacrifices and public welfare activities, these secondary activities also please Lord Kṛṣṇa, but to a lesser extent. Specifically, they please the Lord when performed by devotees rather than by ordinary materialistic persons. Therefore the comparative term yathā (“according to proportion”) is used. In other words, such practices as sacrifice, austerity and philosophical study may help one become fit for rendering devotional service, and when such activities are performed by devotees aspiring for spiritual advancement, they become somewhat pleasing to the Lord.
+
+One may study the example of vratāni, or vows. The injunction that one should fast on Ekādaśī is a permanent vow for all Vaiṣṇavas, and one should not conclude from these verses that one may neglect the Ekādaśī vow. The superiority of sat-saṅga, or association with pure devotees, in awarding the fruit of love of Godhead does not mean that one should give up other processes or that these secondary processes are not permanent factors in bhakti-yoga. There are many Vedic injunctions instructing one to execute the agnihotra sacrifice, and the modern-day followers of Caitanya Mahāprabhu also occasionally execute fire sacrifices. Such sacrifice is recommended by the Lord Himself in the previous chapter, and therefore it should not be given up by the devotees of the Lord. By performing Vedic ritualistic and purificatory processes, one is gradually elevated to the platform of devotional service, whereupon one is able to directly worship the Absolute Truth. One Vedic injunction states, “The result awarded for fasting continuously for one month on six different occasions can easily be achieved simply by accepting a handful of rice offered to Lord Viṣṇu. This facility is especially offered in the Kali-yuga.” Nevertheless, regulated fasting on Ekādaśī is not an impediment to spiritual advancement. Rather, it is a perpetual aspect of devotional service and can be considered an auxiliary principle supporting the main principle of worshiping Lord Kṛṣṇa and His devotees. Because such secondary principles help one become fit for executing the primary processes of devotional service, they are also greatly beneficial. Therefore, such secondary principles are widely mentioned throughout Vedic literature. It may be concluded that such secondary principles are essential for advancement in Kṛṣṇa consciousness, and therefore one should never give up the principle of vrata, the execution of prescribed vows.
+
+In the previous chapter Śrīla Śrīdhara Svāmī mentioned that the words ājñāyaivaṁ guṇān doṣān (Bhāg. 11.11.32) indicate that a devotee should select Vedic principles that do not conflict with his service to the Lord. Many of the elaborate Vedic ceremonies and complicated procedures for fasting, demigod worship and yoga practice cause great disturbance to the supreme process of śravaṇaṁ kīrtanaṁ viṣṇoḥ, hearing and chanting about the Lord; therefore they are rejected by the Vaiṣṇavas. However, the processes helpful to devotional service should be accepted. The example can be given of Mahārāja Yudhiṣṭhira, who was instructed by the dying Bhīṣmadeva. In Śrīmad-Bhāgavatam (1.9.27) Bhīṣma instructs King Yudhiṣṭhira in dāna-dharma, or public acts of charity, rāja-dharma, or the duties of a king, mokṣa-dharma, or duties for salvation, strī-dharma, or duties for women, and ultimately bhāgavata-dharma, or pure devotional service to the Lord. Bhīṣma did not limit his discussion to bhāgavata-dharma, because Lord Kṛṣṇa gave Mahārāja Yudhiṣṭhira the devotional service of acting as a king, and to execute his service Yudhiṣṭhira Mahārāja required extensive knowledge of civic affairs. However, one who is not rendering such prescribed devotional service in society should not unnecessarily involve himself in the material world, even by practice of Vedic rituals. Nothing should distract him from the ultimate goal of satisfying Lord Kṛṣṇa.
+
+The principle of not giving up prescribed vows may be further illustrated by the example of Mahārāja Ambarīṣa. In the Ninth Canto of Śrīmad-Bhāgavatam we find that although Mahārāja Ambarīṣa performed elaborate Vedic sacrifices, his goal was always the satisfaction of the Lord. The citizens in his kingdom did not desire to go to heaven, because they were always hearing about the glories of Vaikuṇṭha. Ambarīṣa Mahārāja, along with his queen, observed the vow of Ekādaśī and Dvādaśī for one year. Since Ambarīṣa Mahārāja is considered to be a great jewel among Vaiṣṇavas, and since his behavior was always exemplary, it is definitely concluded that such vows as fasting on Ekādaśī are imperative for Vaiṣṇavas. It is further stated in Vedic literature, “If due to negligence a Vaiṣṇava does not fast on Ekādaśī, then his worship of Lord Viṣṇu is useless, and he will go to hell.” The members of the International Society for Krishna Consciousness fast from grains and beans on Ekādaśī, and this vow should always be observed by all of its members.
+
+If one falsely thinks that one may obtain the association of Lord Kṛṣṇa merely by great austerities, brilliant studies in Sanskrit literature, magnanimous acts of charity, etc., one’s Kṛṣṇa consciousness will be distorted and weakened. One should remember the example of Lord Caitanya, who practiced Kṛṣṇa consciousness by constantly hearing and chanting about Lord Kṛṣṇa. If by fasting, study, austerity or sacrifice one becomes more fit to participate in the saṅkīrtana movement of Lord Caitanya, then such activities are also pleasing to Lord Kṛṣṇa. But the Lord clearly explains here that such activities can never become central in the practice of bhakti-yoga. They must remain in an auxiliary relationship to the supreme process of sat-saṅga, or association with pure devotees who hear and chant the glories of the Lord. Śrīla Madhvācārya has quoted from Vedic literature that if one offends the Lord’s devotees and does not learn to associate with them, Lord Viṣṇu personally places barriers in the path of such a person so that he may not enter into the Lord’s company.
+
+HH Bhanu Swami Maharaj:
+
+So, this is just one example of many types of verses in Bhagavatam that state the superiority of Sadhu Sangha and devotional service in general. Though there’s a whole list of activities mentioned here, some of which were also mentioned in the previous chapters. Some of them are directly devotional service if we take portions of them, like vrata, for instance, vows. So, we have vrata of ekadashi which is one of the angas of Bhakti itself. But we shouldn’t distinguish it from the process of Bhakti itself. However, there are other vratas, which are not mentioned in the devotional literature. So, there’s a famous one called the Chandrayana vrata in which you gradually decrease your food according to the phases of the moon. So, that is not a directly part of devotional service.
+
+So, why ekadashi is directly devotional service and other fasts are not? The ekadashi fast is a fast for pleasing Vishnu or Krishna. Now, we fast on that day for nobody else except Vishnu. So, it is only for Vishnu. Other fasts, of course, are for other purposes. So, therefore, that type of Vrata is not one which is secondary, it’s actually a primary anga of Bhakti. And in fact, it’s mentioned at the very beginning as the door to Bhakti.
+
+So, there are 64 Angas of Bhakti and the first 20 are called the door to Bhakti. And the first 10 are the things you should do and the second 10 are the things you should not do. So, of course, among those, the most important is to approach a Guru and to take siksha and diksha from Guru, to follow and respect the Guru, to ask questions from Guru, these are very important. But among those first 10 Angas of Bhakti, we have following vratas like ekadashi. So, therefore, because it is in honour of Vishnu, it is direct devotional service.
+
+Other [Not clear] things listed here such as Sankhya, not necessarily Bhakti at all. So, of course, we have the Sankhya of the Kapila, in the Bhagavatam, that involves Bhakti, Yoga, Karma, Jnana, etc. so, there is Bhakti there. But then there is another Sankhya of the atheistic Kapila, which has no relationship with God at all, so that we never touch. Again, Yoga in general it means Ashtanga Yoga of Patanjali and though he admits there is Paramatma to some degree, still the general goal is liberation. So, therefore, we don’t consider this as part of devotional service. Yet we can use portions of it to help calm the mind or have good health, etc. But these are always secondary practices to the main practice of Bhakti.
+
+So, similarly, we have here Tyaga or renunciation. So, of course, that can mean Sannyasa. And Vairagya in general, detachment. So, Rupa Goswami mentions that this Vairagya and Jnana, they are not Angas of Bhakti. And he says, In the beginning, they are a little favourable. But they tend to make the heart hard, dry. If the heart is dry, Bhakti will not grow. Yeah, obviously to advance in devotional service we have to have some sort of detachment. So therefore, among the first ten Angas of bhakti, also one of the items is to not be too attached to material things and offer everything to Krishna, so that’s our form of [Not clear].
+
+Another one is charitable activities. And, of course, in the Karma scriptures, we have things like digging well, giving education, etc. so these are considered to be Punyas. So, definitely, they are not devotional services. However, we can do welfare activities or charities, which are for the temple, then it becomes part of bhakti. So we can dig wells and plant trees for the garden of Krishna. So, that is related to Krishna, so therefore, that’s pleasing to Krishna, it is bhakti. But, if we simply do some welfare activities for society, it’s not considered bhakti.
+
+However, we can also consider it as, let’s say, indirect bhakti in a sense because it’s also in the Karma scriptures, Karma scriptures are approved by the Lord, we’re following the Lords’ orders, so, in that sense, it gets related, indirectly related to bhakti. So such activities may help purify a person. And when he’s pure, then he can be steadier in devotional service. So, these activities may have favourable influence on bhakti. But, it can also have a dangerous effect. We may get too attached to all of these charitable activities and then we neglect the bhakti. So, therefore, these activities can be done but they have to be done along with the main principles, activities of bhakti. Similarly, we have tirthas, visiting tirthas, or doing service to tirthas. So, there are many types of tirthas, but, if they are Vaishnava tirthas, places related to Vishnu or Krishna, then fine, it’s part of Bhakti also.
+
+So, one of the 64 angas of Bhakti, after the first 20, we have 44. One of them is to engage the feet by walking to the temple. Or doing Parikrama around the temple. And of course, we can say to go on pilgrimage to a temple. So, this is a part of bhakti itself. But On the other hand, simply to go to all the famous tirthas mentioned in the scriptures like Varanasi, etc. so this is not direct bhakti. 
+
+So, then we have, here it mentions, worship of Devatas. Generally, we don’t worship Devatas, we worship forms of the Lord. But, we can worship the Devatas, understanding they are the servants of the Lord. And worship of the Vaishnava or the devotee is part of bhakti. However, again, we may fall into difficulty if we worship those Devatas trying to get material benefits from them. So, in this way, we have many items here and the idea here is, that the important element is Sat-sanga, or association with devotees. So, one cannot attain the Lord as much by all these other activities as one can attain the Lord by associating with devotees.
+
+So, as the purport says, we are not recommending to reject everything, all these other things but, if they are done, they are done secondarily. And with proper consciousness. So, that proper consciousness means that we understand that the main angas of bhakti are the principal means of our advancement. Other activities may assist us to make our mind steady or to give us good health. Or, we may do the activities simply because we should follow the orders of the Lord. And by following these different principles, we set an example for people who don’t have faith in bhakti. Therefore, we have to take all these other things praised in scripture and understand which are the best items.
+
+Now here it says, association with devotees is the best. You can destroy your material attachment and you can attain the Lord. And the other things, if done very independently from bhakti then, not valuable at all. If they are somehow related to bhakti and favourable to bhakti, yes, we can do them. But, we make the main elements of bhakti, including this association with devotees, as the principal element. So, among the Angas of bhakti, here the Sadhu Sanga is emphasized. And other places in Bhagavatam also we will find this association with the devotees is emphasized. In talking to Ramananda Raya, Lord Caitanya rejected following Varanashrama, following this, following that [Laughs]. And then, Ramananda quoted a verse from Bhagavatam talking about associating with devotees, hearing topics of Krishna from them and the Lord Caitanya said, ‘that’s very good’.
+
+So, by rejecting all these other things, that doesn’t mean Lord Caitanya rejected Varanashrama but, at the same time, we have to put that in the perspective of devotional service, association of devotees, hearing about Krishna.
+
+So, in various places, various angas of bhakti will be emphasized. So, here Sadhu Sanga is emphasized, other places, hearing topics of Krishna is emphasized. And in other places, chanting the holy name is emphasized. So, of course, Lord Caitanya says chanting the holy name is Yuga dharma, so that’s the most important. But, Sadhu Sanga and Sravanam go along with that Harinama Kirtan. So, in this way, there is no contradiction when these different elements of bhakti are emphasized.
+
+Hare Krishna.
+
+Q & A:
+
+1.) Maharaj, you mentioned about visiting holy places like Varanasi is not so beneficial. However, devotees visit certain places or temples, which is not necessarily Vishnu temples, that have been visited by Lord Caitanya. In that spirit, Maharaj, so how to understand this?
+
+When Lord Caitanya visited these temples, like Shiva temples, then he visited them understanding that Shiva is the devotee of Vishnu. But there is no offense going to the temple with that mood. At the same time, generally the devotee would like to see the form of Krishna. So that is why, though Lord Caitanya went throughout South India, he came back to Puri and he stayed there for many years looking at Jagannath. So yes, we can go to all these different Tirthas to see the different forms and see the Devatas to understand they are devotees of the Lord. But nevertheless, the main activity if you want to go to temples is to go to the Krishna temples. Or we can go to these temples and understand the pastimes of Caitanya Mahaprabhu.
+
+2.) Hare Krishna Maharaj. The next thing is, when we are practicing pure bhakti in ISKCON, we are also doing fire sacrifices during Diksha and some other festivals and ceremonies. Whereas we find in Srimad Bhagavatam 7.14.17 wherein the translation goes like this: Enjoyer of all sacrifices is not worshipped by offerings to the fires as much as He is worshipped by offerings to the mouths of Brahmanas. So cross referring to this sloka, we are doing fire sacrifices in our temple during Diksha and other ceremonies. So how to understand this?
+
+Well, that’s the same principle mentioned here. The main element is actually associate with devotees, hear the topics of Krishna and chant the holy name. There are many sacrifices mentioned in the Vedic literature, most of them are part of karma. We see Yudhishthira doing horse sacrifice. And of course, other previous kings also did horse sacrifice. So, in this way we have all sorts of, we have Rajasuya sacrifice of Yudhishthira Maharaja, the king [Laughs]. And, in Treta yuga, sacrifice was the main worship of the Lord. So, sacrifice is not always for devatas. It can be Vaishnavas as well. But many of the sacrifices that are done are part of karma and they have meant worship of a lot of Devatas. And even there, there is worship of Vishnu. So, Yudhishthira did these sacrifices with the idea of worshipping Krishna. So, that’s the traditional sacrifice. Now, in our society, much less. In fact, if you look at Gaudiyas in general, no sacrifices, even they don’t have a [Not clear] sacrifice, no diksha sacrifice even.
+
+And the sacrifices that are usually done are the sacrifices associated with karma, that is samskaras like wedding sacrifice etc. which are not directly bhakti. So those are Vedic sacrifices. And if we are supposed to follow samskaras as householders, then we have to do those sacrifices. There are other sacrifices like the daily Agnihotra, supposed to be done by every twice born, but rarely done now, every day you have to do your Nitya Homa. Just as Dvija should do Sandhya Vandana, Gayatri Mantra, three times a day, he should also do a daily Homa. This is also we can say, a Vedic practice or Varanashramic practice. It may be done, but it’s not part of Bhakti. So some twice born Vaishnavas may do these things. And by doing so, they set an example for others in society. The Vaishnava, of course, can relate these to Krishna, because the Gayatri Mantra is ultimately Krishna or Vishnu. But in general, in the Gaudiyas, this is quite separate, all these things are quite separate from the process of bhakti.
+
+So the other way in which sacrifices enter into our activities is through Pancharatra. Particularly when we establish deities, then they also do some sacrifices. Even that is a little bit, we can say, unusual, only deities are not established every day, only sometimes. And in establishing deities, some Gaudiyas don’t even do sacrifices. When we were establishing some deities in Chittagong and Bangladesh, then some people said, why are you doing sacrifices? We’ve never seen sacrifices, we’ve never seen Gaudiyas doing sacrifices before [Laughs]. So the other sacrifices, of course, these Samskaras, and then outside of the Vaishnavas they get more Varnashramic, but we have the Pancharatrika Samskaras in deity installation. One could do such Pancharatrika sacrifices for the deity mentioned in Hari Bhakti Vilas, but people rarely do those. But then we find within ISKCON, people like sacrifices. So we have many sacrifices, including Sudarshana sacrifices [Laughs], Narasimha sacrifices, etc. So, these can be classed as Pancharatrika sacrifices, So they’re not part of Karma, they’re part of Bhakti.
+
+Then we do a sacrifice for initiation. This is also a little unusual. Definitely in Pancharatra, by Diksha, you can do sacrifices, but rarely done in the Gaudiya Sampradaya. So in the Gaudiya Math, Bhaktisiddhanta Saraswati Thakur did this fire sacrifice at second initiation. But this was a Vedic Upanayanam sacrifice to give the Brahma Gayatri Mantra to the male initiates, that’s all. So that was how fire sacrifice got into the Gaudiya Math, and only at that time, usually it was done.
+
+So Prabhupada introduced a fire sacrifice for first initiation. So of course, that’s become very popular as part of initiation, if you don’t do it, then it’s not real initiation, etc. but again, it’s secondary. And in doing the sacrifice, of course, we’re not worshipping Devatas, that’s not for material purposes, again it is only to please the Lord. But in doing all of these things, even if they are direct bhakti, or Pancharatra or Vedic, whatever, we have to chant the holy name.
+
+Devotee: Hari bol! That was an elaborate explanation Maharaj. Thank you so much.
+
+3.) So how and from where one can learn about associating with devotees? Because it seems to be a herculean task to find a pure devotee?
+
+Well, a pure devotee has a wide application or meaning. So in one sense, it could mean highest devotee, somebody in Prema, that is definitely very, very rare. A very broad definition is anyone who practices bhakti. And pure bhakti means what we practice in ISKCON or any of the followers of Lord Caitanya practice or any Vaishnava Sampradaya practicing, they are trying to please the Lord, they’re not trying to get material gain. So in that sense, we have pure devotees everywhere, all the members of ISKCON are pure devotees.
+
+4.) Jai, Jai. We see that Ambarisha Maharaj and his wife practice ekadashi fasting for one year while it’s being considered as an important Anga for bhakti. How to understand this? They actually practiced only for one year?
+
+Well, I don’t know whether it was fasting completely for one year, but at least they were fasting on ekadashi [Laughs]. So, of course, nothing unusual about that because we always fast on ekadashi [Laughs]. But some people in India following scripture will fast only once a month, that is maybe on the waxing phase, not on the waning phase [Laughs]. So instead of fasting twice a month, they fast once a month [Laughs]. And maybe others would only do it once every several months or once a year even [Laughs]. So at least to do it regularly for one year, twice a month is considered to be a bigger [Not clear].
+
+5.) We use knowledge for advancement in bhakti. So how Jnana makes the heart hard and unfavourable for bhakti?
+
+So when we say Jnana makes the heart dry up or hard, that is not the Bhagavat Jnana of Bhagavatam, it’s the Jnana of impersonalism. So to study Sankaracharya’s commentary or to study atheistic Kapila’s Sankhya, that would make the heart dry up. By studying those works then our goal becomes merging in Brahman with no form rather than serving the form of Krishna. That’s unfavourable to bhakti.
+
+6.) It is mentioned that if Vaishnavas don’t observe Ekadashi out of negligence, worship of Lord Vishnu is useless and they go to hell. So can you please elaborate a bit on this?
+
+This means if you forget to do it one time, you go to hell [Laughs]. So this is to emphasize the fact that we should do it in all cases. However, we also know that sometimes due to circumstances that may not be possible to do it or whatever, we may forget or some other reason, so we don’t have to take this statement literally in that case. But if we neglect to fast and we know we should fast, then of course that’s a problem [Laughs]. So in other words, as much as possible, we try to respect that rule of fasting on ekadashi. That was also Lord Caitanya’s instruction [Not clear].
+
+7.) Maharaj, while offering food items to Krishna, we offer what is part of this material world and we try to connect it with Krishna. So is this Swarupa Siddha or Sangha Siddha bhakti?
+
+So any part of archana, that’s part of Swarupa Siddha bhakti. So archana is included among the 64 Angas of bhakti.
+
+8.) Maharaj, we see that bhakti is considered to be in suddha sattva stage. In any aspects or parts of Varnashrama system, is there any bhakti yoga which is available in this standard, within Varnashrama?
+
+So in Varnashrama, there is worship of Vishnu. And we see that there is Panchopasana, worship of Surya and Durga and Shiva and Ganesha and also Vishnu. So though there is worship of Vishnu or Krishna in the Varnashrama system, many people will take that as Devata worship. And the goal is material benefits. Therefore, that worship of Vishnu is not Bhakti. Others may understand, yes, Vishnu is supreme, therefore, yes, we can say that is bhakti. But it is a small portion of their activity. So, they will worship five deities including Vishnu [Laughs]. So, Vishnu gets one-fifth of the worship, one-fifth of the time, one-fifth of the concentration [Laughs]. And still, even if they do understand that he is supreme and beyond material energy, still they have material desire. So, it may become bhakti but then it will be mixed bhakti.
+
+9.) Is it required to stay awake on the night of ekadashi? And if someone who is not feeling well, who is sick and if he is not able to fast on ekadashi day, is it considered an offense? For newcomers, should we insist for ekadashi fast?
+
+So, staying awake at night is mentioned in the scriptures like Hari Bhakti Vilas. But the most important part is the fasting part. And even that can be done to various degrees. You can eat nothing. You can take water. Or you can take non-grain foods. Or, as Sri Vaishnavas do, you can take grains which are broken, not whole [Laughs]. Second part was what?
+
+Devotee: The second part was, due to health reasons if someone is not able to fast?
+
+HH Bhanu Swami Maharaj : So, if young people, old people, unhealthy people, order of Guru, there are exceptions to the fast [Laughs].
+
+Devotee: And the third part of it is, how about newcomers? Should we insist or not?
+
+HH Bhanu Swami Maharaj : Well, it depends on their advancement. If they are already vegetarian and this and that, okay, we can add that as a vrata, but possibly not in the beginning [Laughs]. And most important is to chant the holy name, secondly, they give up meat [Laughs].
+
+Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/11/12/10": { title: "SB 11.12.10-Madhurya rasa-highly glorified by stalwarts, has most intense prema & rarest to achieve!", video: "FzndApGTh9I", article: `Srimad Bhagavatam 11.12.10 | HH Bhanu Swami Maharaj | ISKCON Chennai | 8 June 2021
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 11 Chapter 12 Verse 10.
+
+ŚB 11.12.10
+
+rāmeṇa sārdhaṁ mathurāṁ praṇīte
+śvāphalkinā mayy anurakta-cittāḥ
+vigāḍha-bhāvena na me viyoga-
+tīvrādhayo ’nyaṁ dadṛśuḥ sukhāya
+
+Synonyms
+
+rāmeṇa — with Balarāma; sārdham — with; mathurām — to the city of Mathurā; praṇīte — when brought; śvāphalkinā — by Akrūra; mayi — Myself; anurakta — constantly attached; cittāḥ — those whose consciousness was; vigāḍha — extremely deep; bhāvena — by love; na — not; me — than Me; viyoga — of separation; tīvra — intense; ādhayaḥ — who were experiencing mental distress, anxiety; anyam — other; dadṛśuḥ — they saw; sukhāya — that could make them happy.
+
+Translation
+
+The residents of Vṛndāvana, headed by the gopīs, were always completely attached to Me with deepest love. Therefore, when My uncle Akrūra brought My brother Balarāma and Me to the city of Mathurā, the residents of Vṛndāvana suffered extreme mental distress because of separation from Me and could not find any other source of happiness.
+
+Purport
+
+This verse especially describes the sentiments of the cowherd girls of Vṛndāvana, the gopīs, and Lord Kṛṣṇa here reveals the incomparable love they felt for Him. As explained in the Tenth Canto, Lord Kṛṣṇa’s uncle Akrūra, sent by Kaṁsa, came to Vṛndāvana and took Kṛṣṇa and Balarāma back to Mathurā for a wrestling event. The gopīs loved Lord Kṛṣṇa so much that in His absence their consciousness was completely absorbed in spiritual love. Thus their Kṛṣṇa consciousness is considered the highest perfectional stage of life. They were always expecting that Lord Kṛṣṇa would finish His business of killing demons and return to them, and therefore their anxiety was an extremely moving, heartrending display of love. Anyone desiring true happiness must take to the devotional service of the Lord in the spirit of the gopīs, giving up everything for the pleasure of the Supreme Lord.
+
+HH Bhanu Swami Maharaj:
+
+So, there has been discussion of the process of bhakti and how bhakti is more pleasing than other processes. Then we also know within bhakti, we have different rasas and of rasas, madhurya rasa is considered to be the highest. This of course, is the conclusion of Caitanya Mahaprabhu and people in the Gaudiya sampradaya. Other groups, then they don’t consider that madhurya rasa is the highest. And some people cannot appreciate it at all. In the material world, we have material rasa. And this is analyzed by Bharat Muni and other literaries. And in those, among the rasas, they don’t have 12 rasas. I think they have 9 rasas or something.
+
+So, of all the rasas, the greatest one is santa rasa. So, then among spiritualists, we find that many people take to dasya rasa. So, we find in Ramanuja’s and Madhva sampradaya, dasya is more prominent. So, then why do we glorify madhurya rasa? So, the answer is in the Bhagavatam. The Bhagavatam glorifies the Gopis. And here we have an example of the glorification of the Gopis’ love. He’s been talking about bhakti and then suddenly He mentions the Gopis. Why not mention the other people like Nanda and Yasoda and the Cowherd boys? But for Krishna, then His mind was most absorbed in the Gopis. And that was because the Gopis were most absorbed in Him. This indicates the very exalted nature of the love of the Gopis.
+
+So, we see in the Bhagavatam, ultimately the 10th canto becomes the main source of commentaries for our Acharyas. And then in the 10th canto, the chapters on Rasa-lila, they have the most commentary of all. And of course, we also know that over and over, we find reference to the love of the Gopis. And that is an example here. So not only in Bhagavatam. Of course, Bhagavatam we take it as our main text, but in other works also we find this becomes very prominent. So, the whole of the Brhad Bhagavatamrta, a work written by Sanatana Goswami is a glorification of madhurya rasa also. So, the question is asked, who gets the most mercy? So, Narada Muni goes throughout the universe, beyond the universe, and asks this question to various devotees. And then finally he understands that the Gopis are the highest devotees, they get the most mercy. Narada Muni of course, isn’t in madhurya rasa, he’s in dasya rasa.
+
+And then in the second story of Brhad Bhagavatamrta, then we see that Gopa Kumar is striving to meet Krishna. After travelling through material world and the upper world, Swarga loka, Brahma loka, Shiva loka, Vaikuntha etc, finally he comes to Goloka. And there again he understands that the love of the Gopis is the highest. But Gopa kumar himself was only in sakhya rasa, he still glorifies the Gopis. So, the madhurya rasa becomes the subject of Brhad Bhagavatamrta because this is so to speak the essence of the Bhagavatam.
+
+So, of course, in the Bhagavatam we have many other stories and many other rasas. And all of this is presented because not everybody is going to take the madhurya rasa. So, therefore, various alternatives or choices are given to the aspiring devotees. But ultimately, then we find the madhurya rasa is the most glorified. So, what is so wonderful about madhurya rasa? So, in this rasa, the Prema becomes most intense. So, the goal of the devotee is Prema. But within Prema, there are various levels of intensity. So, these are discussed in the works of Rupa Goswami. So, they are briefly discussed in the Nectar of Devotion. So, one goes from Bhava to Prema. And Prema is more intense than Bhava. But higher than Prema is Sneha or affection. And higher than that is Pranaya, which is more familiar affection. And higher than that is Raga. Anuraga. And higher than that is Mahabhava.
+
+So, as we progress through these different stages, the feelings become more and more intense. This means that the attachment to Krishna, the willingness to give everything to Krishna becomes more and more intense. And corresponding to that, Krishna also, His love becomes more and more intense. So, in this way, we have madhurya rasa at the very top of intensity. Is at the very top. Within madhurya rasa itself, there are also various intensities. That is, different Gopis have different intensities of madhurya rasa. And at the very top, we have Radha and her group. They have the most intense madhurya rasa. And then, of course, the leader of the group, Radha has the most intense madhurya rasa.
+
+So, in this way, there are various intensities of devotion or Prema until we get to the highest personality or that is Radha. So, Caitanya Mahaprabhu comes to the world to bestow this type of love to the people of kali yuga. So, this is a little bit impossible to do because the people are the most disqualified. Of course, even if it’s not kali yuga, it is rare that people can experience and appreciate madhurya rasa and Radha’s love. Just as in the material world, the rarest objects are not available for everybody.
+
+A huge diamond of good quality is not available in the normal market. Nobody will even see such a diamond displayed in the market. And of course, even real diamonds of any sort are also there, but not everyone cannot just come and pick them up and look at them and whatever, behind you know, protection [Laughs]. So, most people don’t even settle for real jewels. They have imitation jewels [Laughs]. So, to appreciate and to attain madhurya rasa and understand Radha’s love, that’s very, very rare. But Caitanya Mahaprabhu is eager to give this to the people of kali yuga. So, He does this by distributing the Holy Name.
+
+So, the Holy Name is available to everyone in kali yuga. So, through Harinama, then people can attain the highest goal. Of course, we also have to worship Caitanya Mahaprabhu to do that. And we have to have knowledge. So, therefore, Caitanya Mahaprabhu recommends that we hear Srimad Bhagavatam. So, Caitanya Mahaprabhu gives us a method by which we can attain that very, very rare jewels. And so, the result for us is, we can also attain the most intense Prema.
+
+So, here it also mentions the separation. Which is called viyoga. So, this look appears to be suffering. This is actually part of Prema. People will ask why Krishna goes away and makes the people of Vrindavan and the Gopis suffer. So, actually, He goes away so they can experience Prema. So, within that separation, the Gopis will experience the highest bliss. But from the external point of view, it appears they are suffering.
+
+So, it is said that we cannot understand what is the nature of that bliss in separation. But nevertheless, that separation is also glorified in the Bhagavatam. In separation, the feelings of love become even more intense than in union. So, in that separation, the willingness to give everything to Krishna and the surrender to Krishna becomes very, very prominent. Therefore, we should not criticize Krishna for leaving Vrindavan and making everyone suffer. The suffering is only an appearance. And it creates some variety within their Prema.
+
+Okay. Hare Krishna!
+
+Q & A :
+
+1.) Maharaj, I was just wondering that, when you are talking about, if we worship Mahaprabhu to attain that stage of Prema. While I think the general understanding is that we seek the Krishna Prema, that being the highest goal. However, following Mahaprabhu and worshipping Him, He Himself is seeking Radha Prema. So, in that sense, are we seeking Radha Prema or is it Krishna Prema Maharaj? Or is it both the same thing?
+
+So, when we say Krishna Prema, it can mean Prema for Krishna. So, of course, Radha has Prema for Krishna also. So, we experience something like her Prema for Krishna.
+
+Devotee: What is the last word, Maharaj?
+
+HH Bhanu Swami Maharaj: We feel something like Radha’s Prema for Krishna. In other words, Radha has Krishna Prema [Laughs]. So that is one way of interpreting that word Krishna Prema. But of course, some devotees are more dedicated to Radha. Of course they give respect and they love both but they give more prominence to Radha. And they cultivate a relationship of service to her. And some devotees are in between. They’re equal [Laughs] equal, equal attraction for Krishna and Radha. But there is never exclusion, only Radha and not Krishna at all. That doesn’t exist. Or only Krishna and not Radha doesn’t exist either.
+
+2.) Hare Krishna Maharaj. Dandavat pranams. When the Gopis never felt Krishna as Bhagawan, they could express their love as in the madhurya rasa. But as a sadhaka, when we see Krishna as a Supreme Personality of Godhead, the question is how to come to that level to see Him not as Supreme Personality of Godhead and attain that madhurya rasa and how to remove this impediment of seeing Him as the Supreme Personality of Godhead?
+
+One can experience madhurya rasa even with seeing Him as Supreme Lord, in the case as the queens of Dwaraka. So by worshipping Krishna with an idea of madhurya rasa but with vaidhi bhakti then one can become like the queens of Dwaraka. Or if one is worshipping the Cowherd boy form of Krishna with vaidhi bhakti and madhurya rasa then one can attain Aishwarya Goloka and have madhurya rasa there. So by practicing Raganuga bhakti, then one attains Goloka and there, there is no feeling of Krishna as Supreme Lord and then one can experience madhurya rasa there.
+
+3.) In what mode should we approach worshipping Caitanya Mahaprabhu in the Deity form?
+
+So in our stage we are doing Archana through vaidhi bhakti. And this is predominated by dasya rasa.
+
+4.) This is specifically the question of the rasa between Krishna and the Gopis in Krishna’s Prakat and Aprakat lila. So in the Prakat pastimes Gopis were thinking of Krishna as their lover and in the Aprakat pastimes they attained Him, as in Gopis attained Krishna as eternal consorts, as husband. So in this connection Srila Jiva Goswami in his commentary Laghu Vaishnava Tosani says that the Gopis could not distinguish Prakat and Aprakat pastimes because of the non-difference with the pastimes of the Prakat manifestations. So the question Maharaj is, the Bhava towards Krishna of Gopis, it seems it was different in these. How the Gopis could not find any difference between these Prakat and Aprakat Leelas?
+
+So their identity of Aprakat and Aprakat pastimes is that they were identical. They could see no difference. So just as they are experiencing now, then they would experience Krishna there also. So though sometimes Jiva Goswami argues for the Aprakat pastime being eternal and therefore there is a married form of Krishna and the Gopis, at the same time Vishwanath interprets the whole idea of this Aprakat is that even the Parakiya rasa is also eternal. So in other words, they have two forms [Laughs], they have Svakiya and Parakiya.
+
+5.) If a devotee sincerely chants the Hare Krishna Mahamantra without offenses, simultaneously worshipping Radha Krishna, Caitanya Mahaprabhu and reads Bhagavatam, how many births he will take to go back to Godhead and can he go in one lifetime or does it depend on devotee‘s devotion on a case to case basis?
+
+So we find both examples in the Bhagavatam.
+
+Devotee: Sorry Maharaj, there was an interruption. Sorry Maharaj.
+
+HH Bhanu Swami Maharaj: We find examples of both in the Bhagavatam. Some attain the Lord after giving up this body. An example is Ajamila. Then we have examples of others that attain the Lord after several lifetimes. An example is Bharata Maharaj. So it depends upon the performance of the devotee and the mercy of the Lord.
+
+6.) How much do the associates of Lord Caitanya and Nityananda exhibit different levels of Prema?
+
+So, many of those associates are Nitya Siddhas. And therefore, their Prema will be according to their particular relationship with the Lord. So, Gadadhara Pandit is none other than Radha, so she has Mahabhava [Laughs]. Others were in dasya, others were in sakhya, others were in vatsalya. So therefore they would have various degrees of Sneha, Pranaya, Raga, Anuraga etc.
+
+7.) We see in Vrindavan that the inhabitants of Vrindavan are more attached to Radharani than to anybody else, even Krishna. So can you please kindly elaborate on this?
+
+Well, I explained that, some are more attached to Radha, some are more attached to Krishna, some are attached to both equally.
+
+8.) Hare Krishna Maharaj, one who worships Krishna and one who remembers Krishna at the time of death, are they reaching Godhead? What is their destination? Hare Krishna.
+
+It will depend on how advanced they are. If they are kanishtha bhakta and they remember the Lord, their remembrance is not very intense. If they are in Prema and they remember the Lord, fine, then they go to Krishna. So if they have not attained Prema, they may have to take another birth.
+
+9.) Maharaj, in the context of Vipralambha, gives highest bliss. If a devotee is in separation and as a result is experiencing highest bliss, is it proper to understand that there is another devotee who is actually being with Krishna is experiencing a lesser bliss comparatively?
+
+Well, if we assume that the person who is experiencing Vipralambha is in Prema, then fine, then it is very intense. So, with all the rasas, there may be separation and there is separation. We don’t call Vipralambha, that is considered for madhurya rasa, but in others we call it Viyoga. Yasoda and Nanda experience this separation when Krishna went Mathura. The Cowherd boys also did. And even when Krishna doesn’t go to Vrindavan, there is also separation. When Krishna goes to the fields in the morning, then Nanda and Yasoda are separated from Krishna. So it is in the pastimes, there’s always separation and union in all rasas.
+
+10.) Maharaj, with respect to studying the scriptures, this question from Kalanidhi Prabhu, sometimes time constrains us to choose between an extensive study and other than a study which is more scrutinizing because of time constraints. So if you could kindly guide us Maharaj on this.
+
+It will depend on what is useful for one’s own advancement. And different people have different needs.
+
+11.) Hare Krishna Maharaj, Narada Muni is in dasya bhava, who in turn instructed Vyasadev. So how can Srimad Bhagavatam give madhurya rasa when Guru is in dasya mood?
+
+So though Narada Muni is in dasya rasa, that does not exclude him from inspiring or explaining madhurya rasa. And the same goes for Vyasadev himself. But if we see that, it was Sukadeva who actually relished that madhurya rasa the most. So a person of any rasa can appreciate that madhurya rasa, but then again to relish it, then one has to be of a certain qualification.
+
+12.) Maharaj, after initiation, suppose the disciple fails to follow the regulative principles inspite of trying to correct himself or herself many times, and not able to follow the order of Guru. In that case, can the Guru reject his disciple? That is part A. Part B is, if Guru accepts the karma, does he accept the karma? If he accepts, then if the disciple rejects the Guru, will the karma dissolve and the karma connection broken? Will it be broken and will the disciple has to be born again to deliver? Or is the Guru has to be born again to deliver his disciple in future births?
+
+So the Guru may reject disciple if he finds he is hopeless and if he becomes an aparadhi. Once that connection is broken, then he doesn’t suffer anything. Of course, the process of bhakti will destroy all suffering also.
+
+13.) To attain spirituality and leave our housely relationship, is it acceptable? Do we have any responsibility for our parents or it is okay to walk on the path of God? Aren’t we accountable to pain of our parents? Please guide me, Maharaj.
+
+Within reasonable limits, we have a responsibility to parents and family etc. So, we have to fulfill those responsibilities. We should not use bhakti as an excuse to avoid those responsibilities. At the same time, we have to see what is favourable for our devotional development.
+
+14.) Hare Krishna pranams, dandavat pranams Maharaj. So, if one does not come to Prema bhava he or she cannot go back home, back to Godhead? So, until Prema, he has to take birth again and again?
+
+So, the devotee simply prays that birth after birth, may I serve the Lord somehow or other. And he doesn’t worry about how many births he is taking.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada ki jai!!! Nitai Gaura premanande Hari Haribol!!!` },
+  "/sb/11/12/3-6": { title: "SB 11.12.3~6 \u2013 Lord\u2019s mercy flow via devotees & the main function of devotee is giving Knowledge !", video: "gKPwVpyHWBM", article: `Srimad Bhagavatam – 11.12.3-6 | HH Bhanu Swami Maharaj | ISKCON Chennai | 4 June 2021
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 11 Chapter 12 Verse 3.
+
+ŚB 11.12.3-6
+
+सत्सङ्गेन हि दैतेया यातुधाना मृगा: खगा: ।
+गन्धर्वाप्सरसो नागा: सिद्धाश्चारणगुह्यका: ॥ ३ ॥
+
+विद्याधरा मनुष्येषु वैश्या: शूद्रा: स्त्रियोऽन्त्यजा: ।
+रजस्तम:प्रकृतयस्तस्मिंस्तस्मिन् युगे युगे ॥ ४ ॥
+
+बहवो मत्पदं प्राप्तास्त्वाष्ट्रकायाधवादय: ।
+वृषपर्वा बलिर्बाणो मयश्चाथ विभीषण: ॥ ५ ॥
+
+सुग्रीवो हनुमानृक्षो गजो गृध्रो वणिक्पथ: ।
+व्याध: कुब्जा व्रजे गोप्यो यज्ञपत्न्‍यस्तथापरे ॥ ६ ॥
+
+sat-saṅgena hi daiteyā
+yātudhānā mṛgāḥ khagāḥ
+gandharvāpsaraso nāgāḥ
+siddhāś cāraṇa-guhyakāḥ
+
+vidyādharā manuṣyeṣu
+vaiśyāḥ śūdrāḥ striyo ’ntya-jāḥ
+rajas-tamaḥ-prakṛtayas
+tasmiṁs tasmin yuge yuge
+
+bahavo mat-padaṁ prāptās
+vāṣṭra-kāyādhavādayaḥ
+vṛṣaparvā balir bāṇo
+mayaś cātha vibhīṣaṇaḥ
+
+sugrīvo hanumān ṛkṣo
+gajo gṛdhro vaṇikpathaḥ
+vyādhaḥ kubjā vraje gopyo
+yajña-patnyas tathāpare
+
+Synonyms
+
+sat–saṅgena — by association with My devotees; hi — certainly; daiteyāḥ — the sons of Diti; yātudhānāḥ — demons; mṛgāḥ — animals; khagāḥ — birds; gandharva — Gandharvas; apsarasaḥ — the society girls of heaven; nāgāḥ — snakes; siddhāḥ — residents of Siddhaloka; cāraṇa — the Cāraṇas; guhyakāḥ — the Guhyakas; vidyādharāḥ — the residents of Vidyādharaloka; manuṣyeṣu — among the human beings; vaiśyāḥ — mercantile men; śūdrāḥ — laborers; striyaḥ — women; antya–jāḥ — uncivilized men; rajaḥ–tamaḥ–prakṛtayaḥ — those bound in the modes of passion and ignorance; tasmin tasmin — in each and every; yuge yuge — age; bahavaḥ — many living entities; mat — My; padam — abode; prāptāḥ — achieved; tvāṣṭra — Vṛtrāsura; kāyādhava — Prahlāda Mahārāja; ādayaḥ — and others like them; vṛṣaparvā — named Vṛṣaparvā; baliḥ — Bali Mahārāja; bāṇaḥ — Bāṇāsura; mayaḥ — the demon Maya; ca — also; atha — thus; vibhīṣaṇaḥ — Vibhīṣaṇa, the brother of Rāvaṇa; sugrīvaḥ — the monkey king Sugrīva; hanumān — the great devotee Hanumān; ṛkṣaḥ — Jāmbavān; gajaḥ — the devotee-elephant Gajendra; gṛdhraḥ — Jaṭāyu the vulture; vaṇikpathaḥ — the merchant Tulādhāra; vyādhaḥ — Dharma-vyādha; kubjā — the former prostitute Kubjā, saved by Lord Kṛṣṇa; vraje — in Vṛndāvana; gopyaḥ — the gopīs; yajña–patnyaḥ — the wives of the brāhmaṇas performing sacrifice; tathā — similarly; apare — others.
+
+Translation
+
+In every yuga many living entities entangled in the modes of passion and ignorance gained the association of My devotees. Thus, such living entities as the Daityas, Rākṣasas, birds, beasts, Gandharvas, Apsarās, Nāgas, Siddhas, Cāraṇas, Guhyakas and Vidyādharas, as well as such lower-class human beings as the vaiśyas, śūdras, women and others, were able to achieve My supreme abode. Vṛtrāsura, Prahlāda Mahārāja and others like them also achieved My abode by association with My devotees, as did personalities such as Vṛṣaparvā, Bali Mahārāja, Bāṇāsura, Maya, Vibhīṣaṇa, Sugrīva, Hanumān, Jāmbavān, Gajendra, Jaṭāyu, Tulādhāra, Dharma-vyādha, Kubjā, the gopīs in Vṛndāvana and the wives of the brāhmaṇas who were performing sacrifice.
+
+Purport
+
+The Lord has mentioned devotees such as the gopīs in Vṛndāvana and also demons like Bāṇāsura to illustrate how He comes under the control of those who surrender to Him. It is understood that devotees like the gopīs and others mentioned here obtained pure love of Kṛṣṇa, whereas the demons generally obtained only salvation. Many demons were purified by association with devotees and came to accept devotional service to the Lord as the most important among the various activities in their lives, but the exalted devotees like Prahlāda and Bali Mahārāja know nothing except devotional service, which they accept as their very life. Still, the reformed demons are also mentioned so that readers of Śrīmad-Bhāgavatam will understand the enormous benefits one may achieve by associating with devotees of the Lord.
+
+The demon Vṛtrāsura was the pious King Citraketu in his previous life, during which he associated with Śrī Nārada Muni, Śrī Aṅgirā Muni and Lord Saṅkarṣaṇa. Prahlāda Mahārāja, being the son of Hiraṇyakaśipu, is considered a Daitya, or demon. Yet while still in the womb of his mother, Kayādhū, he associated with Nārada Muni by sound vibration. The demon Vṛṣaparvā was abandoned by his mother at birth, but he was raised by a muni and became a devotee of Lord Viṣṇu. Bali Mahārāja associated with his grandfather Prahlāda and also with Lord Vāmanadeva. Bali Mahārāja’s son, Bāṇāsura, was saved by association with his father and Lord Śiva. He also associated with Lord Kṛṣṇa personally when the Lord cut off all but two of his one thousand arms, which had been awarded as a benediction by Lord Śiva. Understanding the glories of Lord Kṛṣṇa, Bāṇāsura also became a great devotee. The demon Maya Dānava constructed an assembly house for the Pāṇḍavas and also associated with Lord Kṛṣṇa Himself, eventually achieving the shelter of the Lord. Vibhīṣaṇa was a pious-natured demon, the brother of Rāvaṇa, and he associated with Hanumān and Rāmacandra.
+
+Sugrīva, Hanumān, Jāmbavān and Gajendra are examples of animals who achieved the mercy of the Lord. Jāmbavān, or Ṛkṣarāja, was a member of a race of bears. He personally associated with Lord Kṛṣṇa, fighting with Him over the Syamantaka jewel. The elephant Gajendra in a previous life had association with devotees, and at the end of his life as Gajendra he was personally saved by the Lord. Jaṭāyu, the bird who at the cost of his own life assisted Lord Rāmacandra, associated with Śrī Garuḍa and Mahārāja Daśaratha as well as other devotees in rāma-līlā. He also personally met with Sītā and Lord Rāma. According to Śrīla Jīva Gosvāmī, the association that the Gandharvas, Apsarās, Nāgas, Siddhas, Cāraṇas, Guhyakas and Vidyādharas had with the devotees is not very prominent and does not need to be mentioned. Vaṇikpatha is a vaiśya, and his story is mentioned in the Mahābhārata in connection with the pride of Jājali Muni.
+
+The importance of association with devotees is illustrated in the story of Dharma-vyādha, the nonviolent hunter, as described in the Varāha Purāṇa. In a previous life he somehow became a brahma-rākṣasa, or brāhmaṇa ghost, but was eventually saved. In a previous Kali-yuga he had the association of a Vaiṣṇava king named Vāsu. The lady Kubjā associated directly with Lord Kṛṣṇa, and in her previous birth she had associated with Śrī Nārada Muni. The gopīs of Vṛndāvana rendered service to saintly persons in their previous births. Having had ample association with devotees, they became gopīs in Vṛndāvana in their next lives and associated with the eternally liberated gopīs who had descended there. They also had association with Tulasī-devī, or Vṛndādevī. The wives of the brāhmaṇas performing sacrifice had association with women sent by Lord Kṛṣṇa to sell flower garlands and betel nuts and heard about the Lord from them.
+
+HH Bhanu Swami Maharaj:
+
+So, here we have a whole list of different types of persons, and even animals, who got the mercy of devotees. The previous verse had indicated that among all activities, the process of Sadhu Sangha is the best process. So, it is that through that association, that one gets to perform pure Bhakti, and by that one brings the Lord under control. So, one cannot attain Bhakti and attain Prema without the mercy of devotees. So, all of these personalities mentioned like Vidyadharas, Siddhas, etc. If they were to perform Bhakti, they must have done so by association with devotees. So, therefore, the devotees approach and give mercy to everybody.
+
+So, of course, we have the devotees giving mercy on earth. But then they also give mercy above the earth, in the Bhuvar loka. And then in Svargaloka, and all of these different personalities mentioned here, like the Siddhas, the Caranas, the Nagas, the Apsaras, the Gandharvas, the Vidyadharas, etc. So, they are from the Bhuvarloka and Svargaloka. And, of course, I’ve not mentioned, but even above that, we get Mahaloka, Janaloka, Tapaloka, Brahmaloka. So, those personalities also by association devotees got Bhakti. And then the demon also attained Bhakti. So, we have persons like Vritrasura or Banasura. And then we have other ones who are like Prahlad and Bali, who are demon family, but they were actually very great devotees. At the present moment, they are living in hellish planets. And besides that, then we have other ones who took animal birth, they got the mercy of [Not clear] also. So, we have Gajendra, the elephant, Jatayu, the bird. And Hanuman, a monkey. So, they all got associated with devotees and got the mercy of Bhagavan.
+
+So, why is this Sadhu Sangam so much emphasized? The Lord can give mercy directly. Sometimes He does that. He kills demons, [Not clear]. Or to devotees, He may also give mercy. He gave mercy to the woman who was selling fruit in Vrindavan. He gave mercy to the wives of the brahmanas. However, the Lord does not always give His presence. So, how does the Lord give mercy when He’s not present all the time? Of course, He can act within the heart. That is true. But most people are very covered over. So, even if the Lord acts within their heart, the Jivas are so much ignorant that they can’t appreciate the activities. So, therefore, the Lord acts through the devotees. And it’s the devotees who give out mercy.
+
+Actually, the devotees are only the medium for Lord’s mercy. Just as copper wire is the medium for electricity. So, therefore, the devotees are good conductors of the Lord’s mercy.
+
+So, this is the usual way in which the Lord gives mercy. If we don’t have the devotee, don’t have the conductor, then we cannot get the mercy. So, this is, the devotee is there for emphasizing praise because this is the way in which we get mercy and begin [Not audible].
+
+So, there are many ways in which the devotee gives mercy. For instance, in Caitanya Caritamrta, Caitanya Mahaprabhu says, the foot dust, the foot water or the prasadam of the devotee that’s the, you get mercy. So, anything related to the devotee can give mercy. But there is also some more important way. And that is that the devotee gives knowledge. So, this knowledge is different from the Jnana that we condemn. So, we condemn the Jnana of impersonalism. But that knowledge which relates to the Supreme Lord and bhakti, that is very wonderful part of bhakti. So, one of the main ways in which the devotee gives mercy is by giving knowledge. So, that is we can say the main function of the devotee. But that knowledge also has to be qualified. It is not merely book knowledge. So, therefore, the devotee has to learn the scripture but he also has to have devotion. And in that combination then the knowledge becomes proper.
+
+So, it is said that the scripture is like milk. And if we drink milk it is very nourishing. So, if we hear the scriptures it nourishes our spiritual life. But if the person not a devotee preaches the scripture it is not the same milk anymore. It is like milk mixed with snake poison. So, if you hear that then one will not get good effect, one gets poison. So, therefore, the scripture [Not clear] pure and nourishing but it comes out of the wrong mouth it has opposite effect. Instead of nourishing bhakti it destroys bhakti. So, in this way the deliverance of knowledge is very very important. It must be delivered but it has to be delivered by the proper person. And then it will have its proper effect.
+
+So, that is why Srila Prabhupada often condemned the professional reciter. Bhagavatam is sweet and nourishing like milk. But when we hear from a non devotee who speaks only because it gets paid, then it is like poison. So, we may wonder how is it possible he speaks so nicely it is so interesting all about Krishna lila. But the result is by continually hearing all those pastimes from him one will not really develop anything. Therefore, we have to hear from the proper soul. And for that reason we also emphasize we have to come in proper parampara. So, in this way our knowledge comes from another authorized devotee, got from an another from another authorized devotee, got from an another authorized devotee. And just to make sure that the knowledge was fixed properly they often wrote explanations or commentaries. And so by this means we are guaranteed to get the correct knowledge.
+
+And for this reason Bhaktisiddhanta Saraswati [Not clear] how the teaching. And for him it was more important than a Diksha Parampara. The Diksha Parampara merely traces where you are a Diksha [Not clear]. So Bhaktisiddhanta Saraswati Thakur put more emphasis on the Siksha. And of course we find that that is natural. We spend a considerable amount of time hearing Srimad Bhagavatam. We spend a lot of time studying Bhagavatam. So this is Siksha. This is teachings. And it’s with those teachings that we can advance in devotion. So all of this means that the devotee is very important in delivering the proper knowledge. Some devotees have a little knowledge. Some have more knowledge. And some have deep knowledge. So if that knowledge is supported with devotion then that becomes very powerful. So even if it is a little, it is beneficial. So in that sense we honor all the devotees. Nevertheless we also distinguish the devotees. This is mentioned in the Nectar of Instruction.
+
+So we give respect to all the devotees. But we give more respect to the serious devotees. And we give more respect to the very advanced devotees. So how do we give more respect to the advanced devotees? We listen and we follow his instruction. So that advanced devotee is the source of our knowledge by which we practice Bhakti. So that is the process by which we can advance.
+
+In all cases all these different personalities sighted here from our other they got the mercy of devotees and through that they were able to advance in Bhakti. Hare Krishna.
+
+Q & A:
+
+1.) Usually the sinners become ghosts but here it was the brahmana who was offended but became a Brahma Rakshasa. Why did he become a ghost Maharaj? This is about in the Adi-Varaha Purana in previous Kali-yuga the brahmana was killed by a king named Vasu.
+
+So not only anybody who commits offense against a brahmana may get this [Laughs] Brahma Rakshasa body. Sinful affect is one thing but apparadha is worse. Worse than offending a brahmana as offending a Vaishnava. But in any case one can get a low body by sin or offense. But in any case that can be counteracted by mercy of devotees.
+
+2.) Maharaj this Dharma-vyādha who is mentioned in this verse is he the same person who is referred in the Vedas as a butcher?
+
+Yeah, Probably not [Not clear]. Probably another person.
+
+3.) You mentioned about the Diksha Mantras. Are these Mantras required for a devotee who is worshipping deities at home even if those deities are not installed?
+
+If we are to follow Pancharatra then yes you have to take Diksha to worship your deities. If you don’t want to follow Pancharatra then of course you can do anything [Laughs].
+
+4.) Maharaj, out of the four Sampradayas which are specifically focusing on Siksha and which are based on Diksha.
+
+Other Sampradayas and even other Gaudiyas give prominence to the Diksha line. So of course our Sampradaya is a little unique because more than emphasizing Diksha and Deity worship we emphasize Harinama. And Harinam does not depend on Diksha. So therefore there is somewhat less emphasis in that sense on Diksha. Nevertheless, even in our Sampradaya there is some emphasis, Caitanya Mahaprabhu took Diksha and all his associates took Diksha and then they established different Diksha lines. One reason of course may be to set an example so that for others that we don’t give up that process. Many of these lines were also hereditary, family lines. But this also is not unusual. You find similar lines in the Sri Sampradaya. Many of them are family lines. And in Vallabha Sampradaya similarly, if not all are family lines. However, that also is a little dangerous. It doesn’t really guarantee that the person who is giving you Diksha has spiritual advancement. He may be the 8th generation after some great devotee but that doesn’t mean he is a great devotee. So therefore, Bhakti Siddhanath Saraswati was not so satisfied with such. And so he traced our lineage by Siksha.
+
+5.) Can we progress by following the instructions of the Guru or there has to be a personal relation also? Is it important?
+
+Well, if we are going to follow his instructions we must have some relationship and obedience. Otherwise we wouldn’t follow his instructions.
+
+6.) We see that Kamsa and Ravana killed many Brahmanas. While the Lord is known to protect Brahmanas how to understand this? Because here it appears that the Lord has not protected the Brahmanas during those killings. 
+
+Well, the Lord comes when there is such problems. So he came because Kamsa was creating problems. He came when Ravana was creating problems. In all cases he comes though some of those disturbances may take place before he actually kills the demon.
+
+7.) Maharaj, in Kali Yuga people are Manda, less intelligent. So how they will be interested to receive this knowledge about the Lord in such a condition?
+
+So the answer is Harer Nama Harer Nama eva kevalam. So the Lord Caitanya’s first strategy is everybody hear the name and chant the name. When they get faith then we can give some teachings.
+
+8.) When Shishupala was killed by Krishna it is said that the soul merged in Krishna’s body. Does it mean Shishupala attained Svayuja Mukti?
+
+No He actually got Sarupya He got a form because he was previously Jaya and Vijaya so he went to Vaikuntha with that.
+
+9.) Maharaj if a sadhaka devotee doesn’t have the opportunity to directly do personal service to devotees, temple or preaching. Just hearing and preaching to vaishnavas alone will help one advance to the level of prema?
+
+Yes we see in the case of Prahlada, he got Narada Muni’s association in the womb [Laughs], he only heard from him, that’s it.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/11/12/7": { title: "SB 11.12.7-Prioritizing Bhakti over Varnashrama & prioritizing chanting holy name over other angas!", video: "d1WPXlCjxe0", article: `Srimad Bhagavatam – 11.12.7 | HH Bhanu Swami Maharaj | ISKCON Chennai | 5 June 2021
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Om Namo Bhagavate Vāsudevāya
+Om Namo Bhagavate Vāsudevāya
+Om Namo Bhagavate Vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 11 Chapter 12 Verse 7.
+
+ŚB 11.12.7
+
+ते नाधीतश्रुतिगणा नोपासितमहत्तमा: ।
+अव्रतातप्ततपस: मत्सङ्गान्मामुपागता: ॥ ७ ॥
+
+te nādhīta-śruti-gaṇā
+nopāsita-mahattamāḥ
+avratātapta-tapasaḥ
+mat-saṅgān mām upāgatāḥ
+
+Synonyms
+
+te — they; na — not; adhīta — having studied; śruti–gaṇāḥ — the Vedic literatures; na — not; upāsita — having worshiped; mahat–tamaḥ — great saints; avrata — without vows; atapta — not having undergone; tapasaḥ — austerities; mat–saṅgāt — simply by association with Me and My devotees; mām — Me; upāgatāḥ — they achieved.
+
+Translation
+
+The persons I have mentioned did not undergo serious studies of the Vedic literature, nor did they worship great saintly persons, nor did they execute severe vows or austerities. Simply by association with Me and My devotees, they achieved Me.
+
+Purport
+
+Study of the Vedic literature, worship of those who teach the śruti-mantras, acceptance of vows and austerities, etc., as mentioned previously, are helpful processes that please the Supreme Personality of Godhead. In this verse, however, the Lord again explains that all such processes are secondary to the essential process of associating with the Supreme Personality of Godhead and His pure devotees. By other processes one may gain the association of the Lord and His devotees, which will actually give the perfection of life. The word mat-saṅgāt can also be read as sat-saṅgāt, with the same meaning. In the reading mat-saṅgāt (“from association with Me”), mat is also understood to indicate “those who are Mine,” or the devotees. Śrīla Śrīdhara Svāmī mentions that a pure devotee can advance in Kṛṣṇa consciousness by his own association, since simply by associating with his own activities and consciousness, he associates with the Lord.
+
+HH Bhanu Swami Maharaj:
+
+So, the previous verse gave a lot of examples of different persons who attained the Lord by association, some were even demons. And the important point as mentioned in this verse is that they attained it by their association, not by studying the Vedas, etc. Okay, so, in this way, the association of devotees and the mercy of the Lord are considered to be higher than anything else. So, these persons did not study the Vedas, and still they attained the Lord. So, why was that? It’s because of association with the devotees of the Supreme Lord. However, in that statement, we shouldn’t think that therefore everything else is rejected, as mentioned previously like studying the Vedas, or doing austerities, or whatever. They may be helpful in advancing, and therefore the devotees can practice other things that are mentioned previously. Nevertheless, if they don’t worship the Lord and respect the devotees and associate with the devotees, they cannot advance. Therefore, it’s a matter of what is most important.
+
+So, here the statement of rejection of other things does not mean they are completely rejected. It merely means that the most important element is mercy of Krishna and mercy of devotees. And if we do the other things, if we don’t do this, it is difficult. In the list of things mentioned previously, some of the things are more favorable, some things are less favorable. So, tapas or austerity has some favorability, at the same time as I mentioned previously, not too good to concentrate on that. It tends to dry up the heart. The process of bhakti melts the heart. So, therefore, by all the austerity and vairagya etc., we tend to go in the opposite direction. So therefore, they may be helpful to somebody who [Not clear] austerity, but we have to be careful that we do the bhakti in a certain way that it is not obstructed.
+
+So, austerity and many of these items mentioned are part of the varnashrama system. If they are done in one way, they become unfavorable. If they are done in another way, okay, they are okay. But even though we do them favorably, we should not over stress that. The main process is the process of bhakti. That means to worship the Lord and respect the devotees. So, another way of stating this is that bhakti can take different forms, bhakti can be the main element. In one sense it is called Pradhani-bhuta bhakti. Pradhani means main element. So, we do bhakti and we do other things secondarily. We concentrate and spend more time on bhakti. We spend less time on other things.
+
+And then the other type of bhakti is Gauna vrtti bhakti, which means the bhakti is secondary. So that means that we do something else like varnashrama and we do a little bit of bhakti only. We are very enthusiastic in following the principles of varnashrama. And we spend most of our time trying to perfect all those things by following the rules. And we do a little bit of bhakti. So, of the two, the first is much better. So, that’s a more advanced stage. So, at that stage, we give most prominence to bhakti and everything else is secondary. And if we do bhakti but it is secondary and other something else is prominent, that means our goal is much different, we’re not really headed. Our goal is not prema, our goal is whatever we’re doing prominently, like varnashrama. For people without strong faith, yes, they can do this secondary bhakti and it is beneficial for them. It is much better than doing all varnashrama and no bhakti. In fact, Bhagavatam describes that if there’s no bhakti and we’re just doing the varnashrama, it is useless. So, therefore, if we do have faith, then bhakti is most prominent.
+
+As one advances, then one becomes less interested in doing all these other things. And if one is qualified, then one can give up everything and only do bhakti. However, that is considered to be an advanced stage. Baladeva Vidyabhushan calls this the nirapeksha devotee. And in Lord Caitanya’s movement, these were the babajis. The Babaji had no ashram and no varna. He gave up any sign of being a brahmana, vaisya, kshatriya or a sudra and he didn’t even act like a sannyasi. He didn’t hold the danda, he didn’t wear orange cloth. So, he’s completely beyond all varnas and all ashramas. So, this, of course, was not too prominent. And, of course, the reason is that you have to be qualified for just doing bhakti all the time. Of course, it is also, we say, that following varnashrama is closely associated with being [Not clear].
+
+So, a grhastha ashram is in all of the different varnas, sudra, vaisya, kshatriya and brahmana. So, most of the population will be grhastha. So, upper caste, vaisya, kshatriya, brahmanas are allowed to be brahmachari, but it’s not for life, it’s only for short time. And, vanaprastha is after 50 years old. So, therefore, the majority of the people will be grhastha. So, the grhasthas are obliged to follow the varnashrama system. However, if they have faith, they’re also qualified to do bhakti. So, they follow their varnashrama duties, plus they perform bhakti. But, as I said, they should give prominence to the bhakti. The more attachment they have for the varnashrama system, the less pure is their bhakti.
+
+So, as I said, this is the process for the majority of the people. So, they follow the varnashrama, but it is secondary and bhakti is secondary. So, in that position, of course, they can also do mixed bhakti. As a grhastha, they could worship Krishna and everything, but they may have some attachment to getting some material benefits from their worship. So, that is why we always emphasize pure bhakti. That means that while we’re practicing as a grhastha, and we’re worshiping the Lord, we should not ask for material benefits. This does not mean we have no desires. We are not really pure. But, when we’re practicing bhakti and worshiping the Lord, we’re not requesting material benefits from Him. So, we call this process bhakti.
+
+So, the person does sadhana bhakti as the main process, along with that he carries out varnashrama because he is a grhastha. But the point is that the emphasis is always upon this process of bhakti mainly. So, bhakti means we worship the Lord. But we do that through different engagement of the senses. So, the definition of sadhana bhakti is to engage the senses so that we can attain bhava and perceive the Lord.
+
+So, we engage the eye in seeing the deity. We engage the tongue in tasting prasadam. We engage the ear in hearing about Krishna. We engage our various senses and our whole body in serving the Lord in the temple. And, of course, we engage the mind also. We think of the form and the activities of the Lord. We engage the voice in chanting the Lord’s name. So, we can do all of these different activities of bhakti. And, these are more prominent than all the activities we would do of varnashrama system. But, even in these activities, we give prominence to some of them more than others. So, we give most prominence to chanting the name of Krishna. We can do the other types of bhakti, but we should have to do chanting of Krishna’s name. So, though it is possible to advance by all of these processes, Caitanya Mahaprabhu has taught us to take shelter mainly of the name.
+
+So, just as we give more prominence to bhakti rather than varnashrama, or jnana, or yoga, so we also give more prominence to the name of Krishna over the other processes of bhakti. So, why do we do that? By chanting the name of Krishna, this is the easiest process of associating with Krishna and getting His mercy. And, in chanting the name, we do sankirtan, we associate with the devotees. So, this process of chanting the Lord’s name brings about associating with the devotees and association of Krishna. So, this is the most powerful process by which we can advance in devotional service.
+
+As I said, usually the grhasthas will also practice the rules of varnashrama. However, in the modern world, you find people have difficulty doing everything. So, practicing varnashrama is also difficult. Practicing bhakti is also difficult. Why? Because of time constraints. They have to support their family and their bodies. So, they spend so much time on that, it’s difficult to do anything. So, if there is a choice, ultimately, we do bhakti. And, if there is a choice in bhakti, we don’t have any time at all, at least we chant the name. So, therefore, we have to use our intelligence also in performing our bhakti. Hare Krishna.
+
+Q & A:
+
+1.) The present Krishna conscious movement is also based on the authority of Srila Rupa Goswami. We are generally known as Rupanugas or followers in the footsteps of Rupa Goswami. So, now the question is, is it okay for an ISKCON devotee to follow some other manjari or do their sadhana, Maharaj?
+
+Well, that’s part of Raganuga bhakti. Of course, Raganuga could be also vatsalya rasa or sakhya rasa or even dasya rasa. But, of course, we see that the Goswamis basically were in the Manjari bhava or Madhurya rasa. So, definitely it is an accepted process. And that is described in the first section of the Nectar of Devotion. And, by doing that, Rupa Goswami says, it’s the quickest way of advancing.
+
+However, it also has a few dangers. The danger may be, one danger is that we think of Raganuga then we may think of not following any rules. So, then we become lax in our basic principles. And the other is, if we get prematurely involved in Madhurya rasa and the pastimes of Krishna and gopis, then we may impose upon those pastimes, material conception. So, therefore, to prevent that, we have to approach that process very carefully. So, as I say, it can be done. It has to be done cautiously at the proper time.
+
+2.) Do Babajis also come under the class of devotees referred by Srila Sridhara Swami, because in the purport there is a reference? 
+
+No, he doesn’t mention Babajis at all, but anyway, devotee means any type of devotee. But are you referring here to the idea that he says I can advance by his own association? Is that what you mean?
+
+Devotee : Exactly Maharaj.
+
+HH Bhanu Swami Maharaj : So, I don’t know, Sridhara Swami doesn’t know Babajis at this time because he came before Lord Caitanya and the Babaji movement only started after Lord Caitanya. So, he couldn’t be referring to those Babajis [Laughs].
+
+3.) Maharaj, we see that bhakti alone is sufficient to attain the Supreme Lord. Being the case, why the Lord has given us karma, jnana and other yogas?
+
+For those not qualified for bhakti, then they have to follow karma yoga, jnana yoga or astanga yoga. And those who are following bhakti yoga, if they have some material attachment to family, then they should also atleast karma yoga. So, they have a function, but it is always secondary. For the devotees it is bhakti. It may be primary for people who are very materially attached.
+
+4.) Maharaj, we see that the highest emphasis is being given to devotees’ association among all other angas. Can we first consider that, is it over and above sravanam?
+
+Well, we cannot have sravanam unless we associate with the devotee. Who do we hear from? So, devotee association means we hear from devotees, it is called sravanam also. Of course, you can associate by taking the foot dust or the foot water, that’s also there. But I also explained that the main function of devotee association is to give knowledge, that takes place. When we talk about sanga, it means also sravanam.
+
+5.) Maharaj, can we say that sravanam without devotees association is poisonous? And chanting without faith, if injected by devotees, is also not beneficial?
+
+Well, as I mentioned the other day, if we hear from a non-devotee, a katha or Bhagavatam they become poisonous. So, whether we hear the name or we hear Krishna katha, sravanam or kirtanam, and it comes from the wrong person, then it doesn’t have any spiritual meaning.
+
+6.) Maharaj, by practicing varnashrama along with bhakti, bhakti being permanent and varnashrama being secondary, can we attain prema in the same birth? Or in the subsequent birth should we elevate ourselves to the level of a sannyasi or a babaji to attain prema?
+
+If one has attachment to the varnashrama system, then this is an obstacle. If you practice without attachment at all, only to set an example for others, then that’s equivalent of renouncing the same thing. So, both of those things, completely giving it up or doing it without any attachment, this can lead to prema.
+
+7.) Maharaj, next question is with reference to your comment in the purport. The statement goes like this in the purport. “By other processes, one may gain the association of the Lord and His devotees, which will actually give the perfection of life.” So, the question is, even after coming into the association of devotees, we find that a person is not able to take full advantage of such devotee association. So, does it mean that one has to do some other process to gain sufficient faith in that devotee association?
+
+Well, if we think of the different activities of bhakti, they all involve devotees. Archana, then it is the devotees doing the archana. Of course, we could just do some isolated thing like bowing down and doing dandavats in front of the deity by ourselves. There would be no devotee. But even to do that, we have to learn it from somebody. Somebody told us to do it. Somebody inspired us to do it. So, even though we may do some isolated activity of bhakti and there doesn’t seem to be any influence of devotees, actually, mercy of devotees was there previously to cause us to do it. Therefore, we have some association that caused us to do that type of activity.
+
+But of course, more important than that type of activity is to hear from the devotees. That will take place when we have real faith. As long as we don’t have that faith, then we will not hear from them. So the Kanishta Adhikari in the Bhagavatam is one who worships deity, but he doesn’t associate with the devotees. Due to the mercy of devotees, he has come to bhakti. That is good. Still, he does not have proper knowledge and therefore his worship may be not so pure. If he associates with devotees, then his faith increases and then eventually he can hear from the devotees. Then he can worship the deity purely. In other words, he becomes a Madhyama Adhikari.
+
+8.) Maharaj, when a devotee practices Sadhana Bhakti, eventually will he be able to attain Prema just with sadhana bhakti?
+
+If he performs sadhana properly, it will lead to bhava, and bhava will lead to prema.
+
+9.) Can we say that it is not necessary to directly practice Raganuga?
+
+Raganuga is a Sadhana Bhakti. Vaidhi Bhakti is also Sadhana Bhakti. So you have a choice of either and then by either you get bhava and you get prema.
+
+10.) Maharaj, when a devotee can assume that he is qualified for Raganuga Bhakti, at what stage?
+
+It is not defined in terms of stage, like Anartha nivritti or Nistha, etc. It is defined in terms of eagerness to develop the mood. So by previous birth, perhaps, and mercy of devotees, one may develop that in sraddha itself, before one even does. However, in most cases we see that, and as I said, one has to be careful, especially in the modern age, that we don’t prematurely practice. So we should become steady in the basic principles and the basic practices of bhakti. And then gradually we can cultivate that attraction.
+
+11.) Maharaj, if one’s wife or a husband is a devotee, can that be considered as a sadhu-sanga for the other partner?
+
+Yes, of course. If they are associating with each other, one is a devotee, fine. And if they give some instruction, even better.
+
+12.) Maharaj, can you please elaborate on that? What is the type of diksha system which is followed in ISKCON?
+
+Ultimately, diksha means to get the deity mantras to worship the deity. This is what we call second initiation. However, we have two ceremonies in which in the first ceremony we do not get the mantras. So the aspect of diksha in the first ceremony we can say is to get a name like Krishna Das or Gaura Das. So we can say it is diksha part one. And the second is [Not clear]. But scripturally, if you don’t get the mantra then that would not be considered diksha. In other words, some guru can go out giving names to everybody but he doesn’t give any mantra then that would not be considered diksha. On the other hand, if he gave out mantras without the name, still it would be considered diksha. And with that mantra, one becomes a follower of Pancharatra viddhi. So that’s why we say if you are first initiated you can’t worship the Lord.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/11/12/8": { title: "SB 11.12.8 \u2013 Natural choice of Bhagavatam study \u2013 developing attraction for Krsna & Vrajavasis !", video: "nnCMd8aF97s", article: `Srimad Bhagavatam – 11.12.8 | HH Bhanu Swami Maharaj | ISKCON Chennai | 6 June 2021
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Om Namo Bhagavate Vāsudevāya
+Om Namo Bhagavate Vāsudevāya
+Om Namo Bhagavate Vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 11 Chapter 12 Verse 8.
+
+ŚB 11.12.8
+
+केवलेन हि भावेन गोप्यो गावो नगा मृगा: ।
+येऽन्ये मूढधियो नागा: सिद्धा मामीयुरञ्जसा ॥ ८ ॥
+
+kevalena hi bhāvena
+gopyo gāvo nagā mṛgāḥ
+ye ’nye mūḍha-dhiyo nāgāḥ
+siddhā mām īyur añjasā
+
+Synonyms
+
+kevalena — by unalloyed; hi — indeed; bhāvena — by love; gopyaḥ — the gopīs; gāvaḥ — the Vṛndāvana cows; nagāḥ — the unmoving creatures of Vṛndāvana such as the twin arjuna trees; mṛgāḥ — other animals; ye — those; anye — others; mūḍha-dhiyaḥ — with stunted intelligence; nāgāḥ — Vṛndāvana snakes such as Kāliya; siddhāḥ — achieving the perfection of life; mām — to Me; īyuḥ — they went; añjasā — quite easily.
+
+Translation
+
+The inhabitants of Vṛndāvana, including the gopīs, cows, unmoving creatures such as the twin arjuna trees, animals, living entities with stunted consciousness such as bushes and thickets, and snakes such as Kāliya, all achieved the perfection of life by unalloyed love for Me and thus very easily achieved Me.
+
+Purport
+
+Although innumerable living entities achieved liberation by association with the Lord and His devotees, many such personalities also executed other processes such as austerity, charity, philosophical speculation, and so on. As we have already explained, such procedures are secondary. But the inhabitants of Vṛndāvana such as the gopīs did not know anything except Lord Kṛṣṇa, and their whole purpose in life was simply to love Lord Kṛṣṇa, as indicated here by the words kevalena hi bhāvena. Even the trees, bushes and hills such as Govardhana loved Lord Kṛṣṇa. As the Lord explains to His brother, Śrī Baladeva, in the Tenth Canto of Śrīmad-Bhāgavatam (10.15.5):
+
+aho amī deva-varāmarārcitaṁ
+pādāmbujaṁ te sumanaḥ-phalārhaṇam
+namanty upādāya śikhābhir ātmanas
+tamo-’pahatyai taru-janma yat-kṛtam
+
+“My dear brother Baladeva, just see how these trees are bowing down with their branches and offering obeisances to Your lotus feet, which are worshipable even by the demigods. Indeed, My dear brother, You are the Supreme God, and thus these trees have produced fruits and flowers as an offering to You. Although a living entity takes birth as a tree due to the mode of ignorance, certainly by such a birth in Vṛndāvana these trees are destroying all darkness in their lives by serving Your lotus feet.”
+
+Although many living entities achieved the mercy of Lord Kṛṣṇa by associating with the Lord and His devotees in various ways, those who take Lord Kṛṣṇa as everything are situated in the highest process of spiritual realization. Therefore the Lord has not bothered to mention in this verse those who achieved perfection through mixed processes, but rather glorifies the unalloyed devotees of Vṛndāvana, headed by the gopīs, who knew nothing but Lord Kṛṣṇa. The residents of Vṛndāvana were so satisfied in their relationships with Lord Kṛṣṇa that they did not pollute their loving service with mental speculation or fruitive desires. The gopīs served Lord Kṛṣṇa in the conjugal rasa, or relationship, whereas according to Śrīla Viśvanātha Cakravartī Ṭhākura the cows loved Lord Kṛṣṇa in vātsalya-rasa, or the love of parents for a child, because the cows were always supplying milk to child Kṛṣṇa. Unmoving objects like Govardhana Hill and other hills and mountains loved Lord Kṛṣṇa as a friend, and the ordinary animals, trees and bushes of Vṛndāvana loved Lord Kṛṣṇa in dāsya-rasa, or with love of a servant for his master. Snakes like Kāliya also developed this love in servitude, and after relishing their loving service to Lord Kṛṣṇa, all of them went back home, back to Godhead. According to Śrīla Viśvanātha Cakravartī Ṭhākura, all those inhabitants of Vṛndāvana should be considered eternally liberated souls, as expressed by the word siddhāḥ, which means “having achieved the perfection of life.”
+
+HH Bhanu Swami Maharaj:
+
+There was a big long list of persons who had achieved the Lord. And some were even animals like Hanuman and Garuda. But here we have another verse dedicated to the people of Vṛndāvana. So we have not only people, we have trees and bushes and snakes and cows.
+
+And this verse is to glorify a different type of bhakti. And that means its kevala, it is not just pure, but completely spontaneous. So that is the nature of Vṛndāvana. If one goes to Dwaraka, Kṛṣṇa is also there but the devotees serve in a slightly different way. We see that Vasudeva, Kṛṣṇa’s father, prays to Kṛṣṇa and then he thinks of him as the Supreme Lord. And Kṛṣṇa has to remind him, actually I’m your son also, so you should actually see me as your son, there’s nothing wrong with that. Of course, either case, seeing Kṛṣṇa as the Lord or as the son is all devotion. But when it’s mixed with the idea that Kṛṣṇa is the Supreme Lord, then the intensity of the bhāva decreases. So here, the bhāva in Vṛndāvana is unmixed with the idea that Kṛṣṇa is Supreme. And therefore it is more intense. And it is so intense that it not only gives advantage to the people, but even to the animals and the trees.
+
+Of course, we should also distinguish the humans from the animals and the plants. Generally, rasa is described in relation to human beings. Human beings can communicate.
+
+Of course, we can say that people can communicate with animals and dogs, etc., but it is limited. And therefore, our attachment to them is less than our attachment to human beings. So in the material world, we establish rasa with another human being. So the same takes place in the spiritual world. There is a relationship between Kṛṣṇa and the plants, Kṛṣṇa and the cows, etc., but we usually describe the rasa in relation to the human beings. In discussing the various rasas of Śānta to Madhurya in Nectar of Devotion, Rūpa Gosvāmī gives examples, and the examples are all people.
+
+The relationship between people creates a mature rasa. Neverthless this is spiritual rasa, so we cannot treat it like material rasa. We cannot say that the animals and plants are ignorant because of karma. We can say that about material trees and animals, but not about those in the spiritual world. Everything in the spiritual world is cit, full of consciousness. There is no ignorance in the spiritual world. Nevertheless, we see that there are trees and animals as well as human beings there. And the trees are limited in their action. The animals are limited in their relationship with the human beings. So we can say that this is Krishna’s arrangement for pastimes.
+
+So of all the entities, the human beings in the spiritual world they display rasa. But that rasa is different in different places. So in Vṛndāvana, that rasa is very intense and pure. And that intensity spreads to the animals and the plants. So the trees and the animals in Vaikuntha or in Dwaraka are also spiritual. But we see that there is a predominance of the powerful aspect of the Lord there. And therefore the relationships of Prema there are restrained by that feeling of reverence for the Lord. In Vṛndāvana, that restraint is not there even for the animals and the plants. And therefore even the animals and plants are considered to be worthy of worship. So Brahma prays, let me be a piece of grass in Vṛndāvana. Of course, generally we don’t aspire for that bhakti, we don’t aspire to be an object or a low entity. We aspire to serve Krishna with the spiritual body. In that way the rasa can fully develop. So therefore when we perform worship, we think of the personalities in Vṛndāvana, that is the cowherd boys, the gopis and parents etc.
+
+So there is a mixture of different rasas in the spiritual world. But the display of rasas is more variegated in Vṛndāvana. So in Vṛndāvana we have many people with Madhurya rasa, many with Vatsalya, many with Sakhya, many with Dasya and many with Santa. In Vaikuntha it is, majority is Dasya rasa. And Madhurya is confined to Lakshmi. In Dwaraka we have of course all the queens with Madhurya rasa. We have Vasudeva, Devaki and a few others with Vatsalya rasa. And we have some with Sakhya rasa but most again with Dasya rasa. So in Vṛndāvana we find a greater variety. And the variety of rasas is there but the intensity is greater. So the Vatsalya of Nanda and Yasoda is superior to that of Vasudeva and Devaki.
+
+The prema of the Gopis is superior to the prema of the queens in Dwaraka. So in this way the inhabitants of Vṛndāvana have the highest type of prema. So this is the actual message of the Srimad Bhagavatam.
+
+Krishna in his Vṛndāvana pastimes with the people of Vṛndāvana represents the highest possible goal. This will produce the highest bliss. And therefore this is the natural choice of our goal. Therefore the subject of the Bhagavatam is Krishna. And the pastimes of Krishna in Vṛndāvana are the central portion of Bhagavatam. So by hearing and studying Srimad Bhagavatam we can begin to develop attraction for Krishna and the inhabitants of Vṛndāvana. So to do that we practice sadhana.
+
+So in our particular Sampradaya, Gaudiya Sampradaya following Caitanya Mahaprabhu, we give prominence to the worship of Krishna. And the study of Srimad Bhagavatam. So by hearing the pastimes of Krishna in Bhagavatam we are more likely to develop attraction for Krishna. And in this way we get privilege of attaining the highest type of rasa. Out of humility of course the devotees will pray, let me be a blade of grass in Vṛndāvana. At the same time of course the devotees aspire to serve the Lord with a body and senses. So this will naturally develop, that spiritual form will naturally manifest with the development of bhakti. By performing our activities with our senses and mind in sadhana bhakti we begin to manifest spiritual senses in bhava bhakti. So when we attain prema then our spiritual form has naturally developed. And then we serve Krishna eternally in that form.
+
+So though we have all these various choices here, our Acharyas and Caitanya Mahaprabhu have pointed out Madhurya rasa as the highest. The prema of Dwaraka is more intense than the prema of Vaikuntha. But the prema in Vṛndāvana is more intense than that of Dwaraka. And then the prema of the Gopis is more intense than all the other premas in Vṛndāvana.
+
+And among all the Gopis the prema in Radha is the highest prema. So therefore we worship not just Krishna but Radha and Krishna. So that is of course the central theme of Bhagavatam and that’s represented in our temples, we have Radha and Krishna deities. It’s also represented in Nama Kirtan because we chant Hare Krishna. Hare refers to Radha and Krishna. So therefore in chanting the name we are actually invoking Radha and Krishna. So this helps us develop a relationship with Radha and Krishna. So therefore Madhurya rasa becomes prominent in the followers of Caitanya Mahaprabhu. Nevertheless we also see that not all the devotees are in Madhurya rasa in the Gaudiya Sampradaya. Some may be in Vatsalya or Sakhya or Dasya. In the spiritual world again we see there are various rasas in Vṛndāvana. So various people aspire for these various rasas and they can attain them. So therefore there is some choice in spite of the fact that we do emphasize Madhurya rasa in our Sampradaya. In any case we can reach full satisfaction by worshipping Krishna in Vṛndāvana because there is a wide variety of rasas.
+
+In the Nectar of Devotion in describing the trees and things like that Rupa Goswami says in general these things don’t really have rasa. It is like rasa but very dilute. A tree cannot express itself fully with Krishna. We see that Krishna is very clever and he jokes with his Gopis and this produces rasa. But Krishna cannot do that with animals or the trees. Generally they don’t speak our language. So therefore the relationship also is more distant because of that. So therefore that is called Upa rasa not rasa. But then again those who do have rasa will project rasa upon these objects. So the Gopis will project rasa upon the trees and the river. So they will say, ‘Oh the river is so devotional because it is offering its lotuses to Krishna’. The trees are offering their fruit to Krishna. The shrubs are weeping in ecstasy because the sap is flowing from their stems. So if a person is in ecstasy then he also sees everything else in terms of that ecstasy. So therefore the Gopis of Vṛndāvana will project rasa upon the cows and the deer and the birds and the plants, river. Certainly everything in Vṛndāvana is serving Krishna but it’s those Jīvas that have a human form there that have this developed rasa. And this is the aspiration of devotees.
+
+Hare Krishna.
+
+Q & A:
+
+1.) The residents of Vraja were so satisfied in their relationship with Lord Krishna that they did not pollute their loving service with the mental speculative or fruitive desires. The question is Guru Maharaj, the question is what they would have done in the present day context of pandemic where we have so many restrictions. How the Vrajavasis would have served the Lord?
+
+Now we have pandemic but in Krishna’s time they had Kamsa and Jarasandha and all these demons [Laughs]. But the people of Vṛndāvana were always thinking of Krishna so they didn’t care about these things. So the devotees in the material world if they surrender to Krishna they don’t mind the inconveniences of the material world. They derive bliss from thinking of Krishna so they don’t think about what’s happening to their material body.
+
+2.) Maharaj you mentioned about devotees praying to be even a plant or something like shrub in Vṛndāvana. Brahma is praying like that. Is that also considered Rāganuga-Bhakti? Because when you’re actually a shrub or a plant the degree of service to Krishna would be quite limited. So from that perspective how do we understand that Maharaj?
+
+Raganuga bhakti is defined as to follow after the inhabitants of Vrndavana in their particular mood. So we can say that grass is also a inhabitant. But I also mentioned that rasa does not fully develop there. So therefore the devotees choose residents of Vṛndāvana who have developed rasa and they try to follow after them.
+
+Devotee : Thank you Maharaj.
+
+3.) Quoting the text from purport that the Lord comes to propagate the message of kingdom of God either personally or His own incarnation. When such incarnations or sons of God are not making propaganda for going back to Godhead only within human society. Their work is also going on within all societies amongst demigods etc. Does it mean other than human beings Lord takes incarnations in animals, plants, trees etc. and deliver them as well and they become animals, trees and plants in the spiritual world?
+
+So the general principle is human birth gives the possibility of spiritual advancement. Therefore the human being should fear going down to a lower species. We have examples of the Lord delivering a tree or a rock or anything but in general it’s the human beings that reach the spiritual world. So animals and plants cannot do sadhana. They are fully dependent on mercy. The human being depends upon mercy of course but also on sadhana.
+
+So sadhana is the main way in which we advance. So generally it’s the human beings that practice.
+
+4.) Quoting from Laghu Vaishnava Toshani. Is that there are three types of Prema. Prema with predominance of longing like for the parents, like Yasoda and Nanda and the Gopis. And Prema with the predominance of familiarity for the Gopas. And Prema without discrimination like cows and all that. That Prema when it becomes intense even elsewhere produces a direct appearance of Krishna. How can the cows with their nature of less intelligence attain Prema for Krishna even if it is in a much lesser degree.
+
+Well as I said everything in the spiritual world is spiritual so therefore [Laughs] there is some relationship with Krishna there. And it’s all conscious as well. Nevertheless there is degrees of relationship. So in general those who have the human forms have a more intense relationship and the other forms do not. So therefore we generally describe Prema in relation to the human forms.
+
+Devotee : Thank you Maharaj.
+
+5.) This is with reference to the queens of Dwaraka that they were kidnapped by the thieves who were none other than Krishna as per Ashtavakra Muni’s curse. The queens ultimately went back to the heavenly planets or spiritual world as some of the queens were originally denizens of heaven. Similarly Manikriva and Nalakuvera also went back to heavenly planets only after having association of Krishna. Were they not qualified to go to the spiritual world?
+
+So they go back to Swargaloka because they have a term of office as Devata so they have to fulfill that. So the Lord appoints a Devata for a certain period of time. So even if you have Prema you still have to sit there and do your duties for that allotted period.
+
+Devotee : Thank you Maharaj.
+
+6.) Sometimes we hear that the paraphernalia such as Chakra of the Lord appear as devotees in the Lord’s earthly pastimes. Does it mean that they express their rasas differently in the spiritual and material worlds? For instance Tulasi Devi in the spiritual world appears as a plant in material world. The plants in Nidhivan and Seva Kunj Vrindavan are just plants or are they spiritual personalities?
+
+So in the spiritual world everything is spiritual they are not just plants because they are conscious. It’s not like a material body, a plant or an animal or a human being. But still, as a plant or an animal or whatever, their relationship with the Lord is quite limited. So it’s spiritual, it’s eternal, it’s got bliss in it, but it’s limited. Some personalities have two forms. So Tulsi Devi has the plant form and she also has the human form. And some objects also have a form like the chakra is a personality, it’s also a weapon. Some of the Shaktis in Vaikuntha have personal form as well.
+
+Devotee : Thank you Maharaj.
+
+7.) In all other universes, the structure and the appearances like the 14 planetary systems and other features are similar to this universe or does this structure differs from universe to universe?
+
+It’s not much described about this, but we do have a description that there are Brahmas in other universes and they may have a thousand heads [Laughs]. So that means the universe must be much bigger and much more complex. So that means the general structure is the same, but there may be some details which are different. Just like we have bananas, but then we have different types of bananas. Thank you Maharaj.
+
+8.) Dandavat pranam Maharaj. In Gaudiya Vaishnava Parampara, Radha Krishna is the primary deity, but in Mayapur, Panchatattva has been made the primary deity. On what basis?
+
+Oh, well actually Radha Krishna is the primary deity, but [Laughs] they came first [Laughs]. We also have the birthplace of Caitanya Mahaprabhu, so you get some more prominence there.
+
+9.) Can we say the devotees on the earthly planets are more fortunate as they can go to Bhauma Vrindavan or spiritual world, whereas the denizens of heaven even after associating with Krishna cannot go to spiritual world without completing their tenure in the heavenly planet?
+
+Yes, there are also other reasons why it’s more fortunate on earth. Krishna performs his pastimes on earth in Vrindavan [Laughs]. So people on earth get very, let’s say, personal association with the Lord. Another reason is that Swarga Loka is nice and peaceful and whatever, but there’s a danger of getting complacent and conditioned by Sattva guna. On earth we have a mixture of happiness and distress, so one is more likely to be reminded that living in a material world is not such a good goal.
+
+Devotees: Thank you Maharaj. Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaja ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/11/12/9": { title: "SB 11.12.9 \u2013 Bhakti is prevalent in Kali yuga & one should be careful in adapting secondary processes!", video: "vCSf4CoH3oc", article: `Srimad Bhagavatam 11.12.9 | HH Bhanu Swami Maharaj | ISKCON Chennai | 7 June 2021
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda
+Prabhupāda Jaya Prabhupāda
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 11 Chapter 12 Verse 9.
+
+ŚB 11.12.9
+
+yaṁ na yogena sāṅkhyena
+dāna-vrata-tapo-’dhvaraiḥ
+vyākhyā-svādhyāya-sannyāsaiḥ
+prāpnuyād yatnavān api
+
+Synonyms
+
+yam — whom; na — not; yogena — by the mystic yoga systems; sāṅkhyena — by philosophical speculation; dāna — by charity; vrata — vows; tapaḥ — austerities; adhvaraiḥ — or Vedic ritualistic sacrifices; vyākhyā — by explaining Vedic knowledge to others; svādhyāya — personal study of the Veda; sannyāsaiḥ — or by taking the renounced order of life; prāpnuyāt — can one obtain; yatna-vān — with great endeavor; api — even.
+
+Translation
+
+Even though one engages with great endeavor in the mystic yoga system, philosophical speculation, charity, vows, penances, ritualistic sacrifices, teaching of Vedic mantras to others, personal study of the Vedas, or the renounced order of life, still one cannot achieve Me.
+
+Purport
+
+Lord Kṛṣṇa here explains that it is very difficult to achieve His personal association, even for one who seriously endeavors to reach the Absolute Truth. The inhabitants of Vṛndāvana, such as the gopīs and cows, were always living with Lord Kṛṣṇa, and thus their association is called sat-saṅga. Anyone who is favorably living with the Supreme Personality of Godhead becomes sat, or eternal, and thus the association of such a person can immediately award others pure devotional service to the Lord. There is an austerity called cāndrāyaṇa, a fast in which one’s intake of food is diminished by one mouthful each day as the moon wanes and increased in the same way as the moon waxes. Similarly, there are painstaking ritualistic sacrifices and grueling studies of the Sanskrit Vedic mantras, which one may also teach to others. All these tedious activities cannot award the highest perfection of life unless one gets the causeless mercy of the pure devotees of the Lord. As stated in the First Canto of Śrīmad-Bhāgavatam (1.2.8):
+
+dharmaḥ sv-anuṣṭhitaḥ puṁsāṁ
+viṣvaksena-kathāsu yaḥ
+notpādayed yadi ratiṁ
+śrama eva hi kevalam
+
+“The occupational activities a man performs according to his own position are only so much useless labor if they do not provoke attraction for the message of the Personality of Godhead.”
+
+HH Bhanu Swami Maharaj:
+
+So, the topic now has been Bhakti or devotional service. And previously it was stated that all sorts of people have attained the Lord. And that was by the mercy of the Lord and the devotees. And previous to that, other processes were also mentioned. Some of those processes are from Karma Yoga or Jnana Yoga or Astanga Yoga. So, nevertheless it was pointed out that finally the main process is Bhakti. And the other processes though they may be performed are secondary to that.
+
+So, secondary in the sense that the main effort is put in Bhakti. And also that we do not become contaminated by the other desires that may appear by performing these other processes. So, if one performs Karmas, there is a possibility one will become attracted to material gain or Swarga-loka. And if one practices Jnana, then one will be attracted to impersonal liberation. So, in practicing these even as secondary processes, one has to be careful that these desires do not arise.
+
+Why would these other desires arise? And the reason is that Karma Yoga focuses on increasing your enjoyment and going to Swarga-loka. And Jnana Yoga concentrates on realizing impersonal Brahman. So, naturally if we do these processes, we may get influenced to also develop these goals. So, the devotee when he practices these other processes, make sure that the goal is Supreme Lord. Even though that is not the goal for other people who practice.
+
+So, on the other hand, if we omit Bhakti, then all these other processes are useless. So, therefore within Karma Yoga, there is worship of the Lord. There is some Bhakti there. And within Jnana, there is also worship of the Lord. However, usually that worship is for attaining material goals or liberation. So, we cannot equate it with pure Bhakti. So, a person who has graduated to the level of pure Bhakti, he will have less interest in Karma Yoga or Jnana Yoga or Astanga Yoga. The goal of these systems is something else. And even the Bhakti in these systems is contaminated. So, therefore the devotee concentrates on the process of pure Bhakti. So, if one cannot do pure Bhakti, then second best is mixed Bhakti. To do Bhakti is the main process. It is better than making it a secondary process. So, it can be the main process, but it may be mixed. That is, when we perform the Bhakti, we have desires for material enjoyment or desires for liberation. So, that also is not the best. The best is pure Bhakti.
+
+So, Bhagavatam is promoting pure Bhakti. And these other processes, if they are practiced, must be secondary. And if one performs them without any Bhakti, then this verse states, no result [Laughs]. One cannot achieve the Supreme Lord. So, therefore, all these different things, Yoga, Jnana, and charities, Karma Yoga, etc. sacrifices, study of the Vedas, etc, all will give no result of attaining the Lord. So, this means, if they are done independent of Bhakti, with no connection to it, then they are no use for attaining the Lord. So, why are they recommended at all in scriptures? So, they are recommended for people who do not have faith in pure Bhakti. So, in other words, they have some value, because they may lead to Bhakti, but nevertheless, there is no guarantee that you will achieve the Lord by doing these processes. Of course, it is confusing for us to have all these different processes praised in the scripture. And the reason is, of course, because if you are not qualified for Bhakti, then you have to do these other processes. Nevertheless, it is confusing. If people superficially read the scriptures, then they will see all the glorification of all the processes. And they may not know which one to do. Or they may try to mix them all together. So, this is particularly a problem in Kali Yuga. Bhagavatam mentions that in Kali Yuga, people are not very intelligent. They are very agitated for material enjoyment. They have very short lifespans. They like to argue with other people.
+
+So, therefore, they won’t be able to understand the conclusion of scriptures. They find all different processes, because they are less intelligent, they will not know which is. And even if they understand as a gradual process, they will not progress very much from one process, Karma Yoga, to Jnana Yoga, to Astanga Yoga, to Bhakti Yoga, because [Not clear] is very short. And because they are materially attached, they will be more attracted to doing the Karma Yoga process. And because they like to quarrel with each other, they will say, this is the best process, everything else is wrong.
+
+So, in the Srimad Bhagavatam itself, in the first canto, Narada Muni chastises Vyasadeva for causing this confusion in people. And he advised Vyasadeva to write the Bhagavatam to make things clear. So, the Bhagavatam concludes that don’t do anything except Bhakti. And if you have to do it, do it secondarily. This, of course, is assuming that people will develop faith in Bhakti. So, as I mentioned, the other processes are there for people that don’t have faith in Bhakti.
+
+So, how can everybody practice Bhakti in Kali Yuga? So, we can answer, well, the preachers go out and preach, and therefore, this way they can make everybody develop faith and qualify. Nevertheless, we also say, don’t preach to the faithless people.So, therefore, direct preaching also is limited. But then we also see that Bhagavatam is for all the people of Kali Yuga. And Caitanya Mahaprabhu also is for all the people of Kali Yuga.
+
+So, Caitanya Mahaprabhu desired to give the process of bhakti to all the people of Kali Yuga. In spite of the fact that nobody is qualified. So, at the end of the Bhagavatam, it says there that Kali Yuga is the ocean of faults. So, you are not going to find qualified people for Bhakti in Kali Yuga. But the Nama Sankirtana has become the Yuga dharma, the process for people. So, this counteracts all of the faults of Kali Yuga. Through Nama Sankirtana, people can develop qualification and then progress quickly on the process of Bhakti. So, in this way, Bhakti becomes the prevalent process of Kali Yuga, not just for a few people.
+
+So, the, of course, the other processes of Kali Yuga also are more difficult. Because people are unintelligent, disturbed by sense gratification, have short lifespans, etc, they are unqualified for Jnana and for Yoga. So, what about Karma Yoga? Can they practice Karma Yoga in Kali Yuga? It looks possible because this is for the people in the lower gunas.
+
+People who practice Jnana and Yoga should be in sattvaguna. And the people in Kali Yuga are mainly in tamoguna. So, for the tamoguna and rajoguna people there is Karma Yoga. So, definitely this is more applicable for Kali Yuga than Jnana and Yoga. However, the Karma Yoga system also is quite complex. In its complete form, it requires a whole society ruled by a qualified king. In its complete form, it requires a whole society ruled by a qualified king. And in the last chapters of the Bhagavatam, it is described how in Kali Yuga, the line of kings from Svayambhuva Manu disintegrates. So, we are left without a king for the rest of Kali Yuga.
+
+As described that, after Kali Yuga when Satya appears then the descendant of Manu will again manifest himself and establish the system with the king. So, therefore, it’s difficult to practice the Karma Yoga and Varnashram as described in the scriptures. We find 1000 years ago, may be little bit difficult to perform Karma Yoga, 500 years ago more difficult and now in the modern world, even more difficult. Not only no king but then the Muslims invaded and the British came. And both rulers, rulerships they didn’t understand the principles of Varnashram. So, naturally the population in general also lost their understanding in the system.
+
+So therefore it’s a little difficult to reestablish that system. Nevertheless we can utilize some of the items of that system. It is difficult to operate with varnas in Kali Yuga. The whole society is much different now. But individually people can follow the principles, some of the principles of the varnashram system. So there are rules of conduct for people in different varnas. And some of these rules apply to all of the varnas. So at least we follow the common principles. And in this way we avoid the major sinful activities. And as we advance in Bhakti then we are able to follow even the rules of the brahmana.
+
+So following these rules sets a little bit of a guideline for our control of our senses. And in this sense then, the rules of the varnashram are helpful for advancement in Bhakti. If we don’t have any rules it is very difficult to control the senses. If we have a definite rule then we say oh this is right, this is wrong. So therefore we can control the senses. We may not be able to do it perfectly but at least we can try if we have that knowledge. So therefore, if we have knowledge of the rules of varnashram, what is right and what is wrong, this gives us a nice standard for ourself. So that is the value we can take from all of those rules in the varnashram system.
+
+So similarly, here we have a whole list of things that don’t give Bhakti and don’t make you achieve the Lord if they are done independently. But they have some valuable things in them also. So from any of these list of different systems here, if there is something that is favorable for our bhakti we can also use that. So therefore this list is not an absolute condemnation of these processes but just to show that if there is no Bhakti there, then they are useless.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Dandavat pranams Maharaj. How can occupational activities provoke attraction for the message of love of Godhead if one is not a brahmana?
+
+So, if people are in tamoguna, then they follow the rules of sudra. If they are a vaishya they follow the rules for people in rajas and tamas. If they are kshatriya, then they follow rules for people in rajoguna [Laughs]. So they follow rules of occupation and those occupations give them food and with food they can live. So if we don’t live we cannot even do Bhakti. So therefore, the rules of varna allow for maintenance of the body.
+
+Once we have the body then we can do the activities of Bhakti. So within that system then we have different types of activities besides occupational activities for the people. So they should all worship. So some may worship devatas, some may worship Vishnu etc. And among those worships of course, we will have worship of Krishna or Vishnu. So that’s not restricted to brahmanas, everybody can go to the temple and offer something. Of course, if we are chanting holy name everybody can chant the holy name also. And thus everybody whether they are sudra, vaishya, kshatriya or brahmana can perform Bhakti in some way. Of course, in that system it is not the main item, it is a secondary item. And therefore it is different from Bhakti itself, the main process.
+
+2.) Verse number 10 and 11, which is related to Krishna’s prakat and aprakat lilas. So verses means that previously Gopis could not see any means of happiness but now they see it. Separation no longer exists. Without me the nights dragged on forever but now it is not like that because there is no separation. Oh Uddhava, this is because they possess me eternally since they entered the aprakat manifestation of Vrindavan according to the message you gave them. So when Krishna meets the Gopis in Vraja after killing Dantavakra, it is prakat pastimes. So there is a mix of prakat and aprakat lilas. So if you could kindly elaborate on this Maharaj.
+
+HH Bhanu Swami Maharaj: There is mixture of?
+
+Devotee: Mixture of Krishna’s prakat and aprakat lilas because.
+
+HH Bhanu Swami Maharaj: When?
+
+Devotee: When Krishna comes back to Vraja after killing Dantavakra.
+
+HH Bhanu Swami Maharaj: Oh, well that is prakat lila. Later on He left and went back to Dwaraka and in one form He took all the residents to Aishwarya Goloka and in another form everybody disappeared in their aprakat lila in Vrindavan.
+
+3.) It’s regarding the 2nd verse of 1st canto, 1st chapter of Srimad Bhagavatam, dharmaḥ projjhita-kaitavo ‘tra [ŚB 1.1.2]. It is said that Karma Yoga, Jnana Yoga, Astanga Yoga are cheating religions and only Bhakti Yoga alone is a real religion as per Srimad Bhagavatam. However, one may argue that only in the purport it is mentioned that Bhakti is the correct process but it is not mentioned so in the original Sanskrit verse. How to counter this argument?
+
+HH Bhanu Swami Maharaj : In that particular verse?
+
+Devotee: Yes Maharaj.
+
+HH Bhanu Swami Maharaj: Oh, well, if we take the 1st verse. The 1st verse itself is dedicated to worshipping the Supreme Lord and nobody else. Of course that 1st verse is interpreted in many ways but it indicates that Krishna is Supreme and Radha Krishna are Supreme and the process of worship of Radha and Krishna is Supreme. And therefore, all the other processes that don’t lead to Krishna then they are called cheating.
+
+4.) Hare Krishna Maharaj. You said in Kali Yuga, Nama Sankirtana is the best method for achieving success. Caitanya Mahaprabhu says in Siksastaka prayer that Lord has invested all His potencies in His holy names. What are the potencies? Kindly explain.
+
+Whatever you can achieve by Karma Yoga you can get by chanting the holy name. Whatever you can get by Jnana Yoga like liberation you can also get by that. Whatever you can get by Astanga Yoga, including siddhis you can also get. And you can also get Prema from the name. So therefore, all results of all processes come.
+
+5.) Hare Krishna Maharaj, pranams. If someone chants 16 rounds of Hare Krishna Mahamantra and has faith in Krishna Consciousness but still maintains material attachments and does some offenses unknowingly, should they still follow religious principles like shraddha ceremony etc.?
+
+One can do all these ceremonies but with no attachment. In other words Bhakti Yoga fulfills everything so we really don’t have to do that. But then we do that just to satisfy our relatives.
+
+6.) Hare Krishna Maharaj, in the spiritual world the humans can become trees, animals, rivers etc. So vice versa can the trees also transform into humans in the spiritual world?
+
+Well, theoretically everything can become everything [Laughs]. So, the person in the spiritual world has this power that whatever he wants comes true. So the devotee can transform and become a tree or a bumblebee or a bird or a butterfly or whatever. But he does that only as a temporary service to the Lord and he returns to his other form, his original form. So, similarly the trees and whatever, have their form and by Krishna’s mercy or will they can also change but generally they don’t.
+
+7.) Can an institution with rules and regulations according to time, place and circumstances replace the Varnashram system in modern times in order to facilitate Bhakti yoga?
+
+Well, the institution can adopt many of the rules of the varnashram system.
+
+8.) Maharaj, as you said, it is difficult to establish a society based on varna and only a certain principle we can adapt. Then inside ISKCON, there are projects which is trying to establish like Gurukula projects, farm community or Daivi varnashram system. We’ll also struggle to establish this properly, since the entire society is not following the varna system. Also, ultimately, there is no king to govern all these systems.
+
+So, for, within the society then the difficulty comes with having the leader of a certain project who can act like a sub king or whatever and most people are not going to accept that. And he will have to establish which rules to follow. And that also becomes a matter of controversy. Some people want to follow this rule, some people want to follow that rule, some people don’t want to follow this rule or that rule. So, it becomes a little difficult for that reason. In other words, what standards do we set for the Gurukula? Do we exclude western education completely [Laughs]? Teach them only Sanskrit. Teach them Vedas [Laughs]. But then most people aren’t going to agree to that [Laughs]. They will not send their children [Laughs]. So, we have problems in instituting a system like that.
+
+9.) This is actually related to the offenses, 9th offense of the holy name. What happens to one who is committing sins on the strength of the holy name?
+
+So, one who committing sin on the strength of the holy name means that intentionally he is deceiving the devotees and acting like a devotee at the same time doing sinful activity. And then he will practice Bhakti to get rid of any sinful reaction. But we don’t find many devotees in that position where they are trying to get rid of the sinful reaction for their sins by doing the Bhakti [Laughs]. Rather they may do a sinful activity while they are doing Bhakti. So that is a little different. And of course if they do a sinful activity, Krishna says even you do sinful activity, you are still my devotee. Even if you do the sinful activity and you don’t repeat, then Krishna says you are still my devotee. But if it becomes continual, then of course, he will not be steady in Bhakti and eventually he will probably leave the devotional journey.
+
+10.) For the next generation of ISKCON devotees, what is best? To follow bhakti principles and adapt modern education, which means a mix of both? What is recommended for the future devotees of ISKCON? Whether they can continue to follow the Bhakti path and also adapt the western system of life?
+
+Well, there is always the choice of the parents, what they want their children to do. And some may choose a combined system. Some may choose a purely western approach. And some may approve a very Vedic approach. But of course, we have to see the results of these different things. And if you do a purely Vedic result, probably the child when he grows up, he will only be qualified to become an Archaka in a temple, that’s all [Laughs]. And he will have very little means of supporting himself if he becomes a grhastha. Of course, that’s what a brahmana was before. But in the modern world, the brahmana cannot survive like that. So, therefore, we see that even people who are raised like that, generally they go out and get a job later on [Laughs]. So, the only way that would work in the exclusively Vedic system is, if the society protected all those people and supported them all. That means we have to have a more independent organization that doesn’t associate with society and lives separately. But some people also don’t want to do that. Other persons of course, meaning grhasthas, they want to live in the world, the present world. So, therefore, then they may combine the two systems.
+
+11.) Maharaj, you mentioned that everybody, whether he or she is a brahmana or not, can go to the temple and worship the Lord. But in Jagannath Puri, still today the western devotees are not allowed. Even during Caitanya’s advent, a non-brahmana was not allowed inside the Puri temple. Why Caitanya Mahaprabhu did not change this practice?
+
+Well, it was not non-brahmanas. Other people went in also. It was just the outcastes who were not even sudras. They could not go in. For instance, the king is Prataparudra. So he can go in the temple [Laughs], he’s not a brahmana. So it was only restricted to people who were not even sudras. They could not go in.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupada ki jai!!! Nitai Gaura premanande Hari Haribol!!!` },
   "/sb/11/2": { title: "11th Canto \u2013 Chapter 2", article: `Text 40` },
   "/sb/11/2/40": { title: "SB_11.2.40 \u2013 Symptoms of bh\u0101v\u0101 & acharyas warns to avoid imitation, apar\u0101dhas & sins to attain it !", video: "uLGa3L4__eE", article: `Srimad Bhagavatam – 11.2.40 by HH Bhanu Swami Maharaj @ ISKCON Chennai on 19 Jan 2025
 
@@ -48237,6 +52764,168 @@ HH Bhanu Swami Maharaj: Well we found that in the beginning of the movement, the
 Sattvika bhava has many levels but they are all you have to have bhava first so it’s not something less.
 
 Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/2/3/25": { title: "SB_2.3.25 \u2013 Art of extracting the essence in spite of side tracking narratives !", video: "6vCpJIFEURM", article: `Srimad Bhagavatam – 2.3.25 | HH Bhanu Swami Maharaj | ISKCON Chennai | June 16, 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 2 Chapter 3 Verse 25.
+
+ŚB 2.3.25
+
+अथाभिधेह्यङ्ग मनोऽनुकूलं
+प्रभाषसे भागवतप्रधान: ।
+यदाह वैयासकिरात्मविद्या-
+विशारदो नृपतिं साधु पृष्ट: ॥ २५ ॥
+
+athābhidhehy aṅga mano-’nukūlaṁ
+prabhāṣase bhāgavata-pradhānaḥ
+yad āha vaiyāsakir ātma-vidyā-
+viśārado nṛpatiṁ sādhu pṛṣṭaḥ
+
+Synonyms
+
+atha — therefore; abhidhehi — please explain; aṅga — O Sūta Gosvāmī; manaḥ — mind; anukūlam — favorable to our mentality; prabhāṣase — you do speak; bhāgavata — the great devotee; pradhānaḥ — the chief; yat āha — what he spoke; vaiyāsakiḥ — Śukadeva Gosvāmī; ātma–vidyā — transcendental knowledge; viśāradaḥ — expert; nṛpatim — unto the King; sādhu — very good; pṛṣṭaḥ — being asked.
+
+Translation
+
+O Sūta Gosvāmī, your words are pleasing to our minds. Please therefore explain this to us as it was spoken by the great devotee Śukadeva Gosvāmī, who is very expert in transcendental knowledge, and who spoke to Mahārāja Parīkṣit upon being asked.
+
+Purport
+
+Knowledge explained by the previous ācārya like Śukadeva Gosvāmī and followed by the next like Sūta Gosvāmī is always powerful transcendental knowledge, and it is therefore penetrating and useful to all submissive students.
+
+HH Bhanu Swami Maharaj:
+
+So in this chapter even though it is not Sukadeva Goswami speaking but actually it’s just a kind of a bridge between conversations between Sukadeva and Maharaj Parikshit still we see it is all glorification of the Supreme Lord and the process of Bhakti. And though we see other topics have been discussed like the universal form ultimately these are all secondary. In the next chapter there will be a discussion of creation. Then again in the third canto there is a lot of discussion of creation again. Then in the fourth canto again the sub-creation of Lord Brahma. And in the fifth canto also creation of the different planetary systems and the Dwipas and Jambudwip and Mount Meru etc. So actually these are secondary topics in the Bhagavatam because the main topic is Bhakti and Krishna. And only when we get to the tenth canto do we have whole discussion in detail of Krishna. So we may get side tracked because of all these other topics.
+
+So there are ten topics in the Bhagavatam and one is about Krishna So we should not be distracted by all these other topics. And we can study all these different topics as long as they relate to the main topic. If we try to simply just study them separately then they actually have no meaning. So a description of all the creation and sub-creation of planetary systems and the systems set up by the Manus and the Varanashrama system and Jnana Yoga etc are all ultimately a glorification of the expertise and intelligence of Supreme Lord. So therefore we study these topics and show it as a glorification of Krishna. And not that we take individual verses or quotations from other sections and say we have to follow this. However, the Bhagavatam is a traditional text, it’s a Purana. And if you look at other Puranas like the Vishnu Purana, we will see it’s the same discussion discussion of creation, sub-creation and dynasties and the kings and whatever.
+
+So we have 18 Puranas all discussing these topics. But in each one the emphasis is slightly different. And we see in the Tamasic puranas there’s a great emphasis upon Shiva. And even some stories showing how Shiva is superior to Vishnu. And in the Brahma, the six Puranas in the mode of passion, Brahma is glorified. And then we have six puranas glorifying Vishnu.
+So they present similar subject matters but they glorify different deities. So the sattvic puranas they all glorify Vishnu. Of course Krishna is mentioned but then it’s Bhagavat Purana Srimad Bhagavatam that mainly glorifies Krishna. And in Bhagavatam Krishna is not just an avatar, He is the source of all avatars. So subject matter is the same but then we have a glorification of Lord Krishna. So because it’s a Purana it discusses all these other subjects as well. But as mentioned in Bhagavatam and also in Vishnu Purana after discussing all the different dynasties and whatever from Svayambhuva Manvantara all the way up to Vaivasvata Manvantara and then up to Rama and then to Krishna and whatever and dynasties in the future then ultimately all this is a waste of time [Laughs]. It’s all discussed in order to show it’s all temporary and all these kings disappeared. Of course it does have value also because it is the Manus and their descendants who have been empowered by the Lord to establish Dharma and Bhakti in the world, So in that sense its fine. But we see all these dynasties whatever, they continue but they are all under control of time. And the Yugas rotate and then the Manvantaras change and then the end of Brahma’s day everything gets destroyed [Laughs]. So this also is valuable in the sense that for common people it illustrates the temporary nature of this world. And of course most people are attached to the material world so this is a illustration of the futility of the material world.
+
+So this is also useful in spiritual life we should understand the temporary nature of the material world. But the purpose of doing that and rejecting it is to show that there is an alternative. In Bhagavatam that alternative is Krishna. For other people who don’t have faith then the alternative may be Brahman. So those who have true faith and have devotion then when they take the Bhagavatam they get the proper conclusion. So we should not be sidetracked by all the different topics whatever but see how they relate to the main topic that is Krishna.
+
+So in this chapter there was full glorification of Krishna and devotional service. A complete rejection of the material world. So in discussing all these other topics like creation of the material world etc. its all matter. It’s all created and it’s also destroyed. The example is often given in different places in Bhagavatam and other Puranas as well that the Lord creates everything and he destroys everything. So from a material point of view that may look not like a glorification but a type of cruelty he just destroys everything [Laughs]. But it’s a glorification because it shows that the Supreme Lord is eternal. He is beyond everything in the material world. And if we are attached to the material world then its just created and destroyed.
+
+So of course the Bhagavatam and other scriptures give us the proper knowledge by which we can overcome this creation and destruction. In spite of that we tend to pick up the wrong topics and emphasize the wrong things. And therefore in spite of the fact that of all the different Puranas and literatures Bhagavatam is the most direct still we can misinterpret. And therefore as mentioned in this verse we have to go to the devotees and ask them. And they are mentioning how Parikshit Maharaj went and asked Sukadeva Goswami. And so similarly these sages are asking Suta Goswami what did they say [Laughs].
+
+So we will see throughout the Bhagavatam that yes you can misinterpret but if we look closely then the message is very clear. So why do we get the wrong message sometimes at times. That is because we have our own desires. So we will try to fulfill them by finding some verse in Bhagavatam And of course Bhagavatam glorifies so many things. And we even see Shiva glorified as Bhagavan the creator and destroyer of the universe [Laughs]. And you will find [Not clear] Brahman glorified as the ultimate. So there was one person she went through the whole Bhagavatam ultimately the conclusion is Brahman [Laughs]. And of course you cannot take all sorts of verses if you want to and think that is the ultimate [Laughs]. So we have to take all these statements and sometimes we don’t take some of them as absolute.
+
+We have to be mature enough to see which are relative statements and which are final statements. The same goes for the whole of scriptures Vedas and Upanishads, Smritis and other Puranas. And because there is a problem in seeing which is the real statements there are always different philosophies. And thus we get different stages like Jaimini having Karma Mimamsa philosophy as the ultimate philosophy based on Vedas [Laughs]. Or if we go to the Upanishads, Vedanta Sutra then we have impersonal Brahman as taken as supreme by Shankaracharya. So even they are very intelligent people but still they have different conclusions from the same scriptures [Laughs]. So if it is possible for such great intelligent sages to come to the wrong conclusion what to speak of us [Laughs]. So in principle ultimately you can prove anything on scripture [Laughs]. But it may not be presenting the conclusion. So that is why we do need some guidance in reading and studying the scriptures. And even in studying Bhagavatam again we need that guidance.
+
+Of course Krishna told Uddhava I prefer indirect expression also, parokshavada. So though Bhagavatam is for the most part direct also some things are a little bit hidden. So if we don’t have an understanding of the proper conclusion then we will get the wrong meaning. So fortunate we have our Acharyas who give us proper explanation. And for the most part then there is no controversy. So that is why we emphasize the fact that we have to take the knowledge through the parampara.
+
+So the first canto was an introduction. Basically it answers the question how was Srimad Bhagavatam spoken. So to do that it gives the whole history of Narada Muni and Vedavyas etc and Parikshit and how he ruled the kingdom and all these different topics. And then ultimately it gets revealed by Sukadeva Goswami. So the rest of the Bhagavatam until 12th canto is more or less the words of Sukadeva Goswami speaking. And Parikshit listens and sometimes he asks questions. So it is through this that the whole Bhagavatam is revealed In this way the whole Bhagavatam is revealed. Ultimately the main topic is the 10th canto. But we see all before that Sukadeva Goswami speaking and Parikshit asking questions about it.
+
+So Sukadeva Goswami understood these topics are all important and Parikshit was asking questions all about this. So though it is secondary to direct description of Krishna still Sukadeva Goswami and Parikshit Maharaj consider it important.
+
+Now fortunately through these discussions not only we get these topics of creation, sub-creation and planetary systems but we also get a discussion of bhakti and glorification of the different forms of the lord. And through the description of the method of creation then we also understand the basic knowledge of sambandha. So therefore in these other cantos apart from the tenth canto we will get the knowledge of sambandha and abhideya. So these are also necessary for our progress in devotional service.
+
+Hare Krishna.
+
+Q & A :
+
+1.) This question is regarding the you see you are saying that that getting different meaning from the depends on the person, the person’s intention what intention he is reading the scriptures or what intention he is approving the scriptures. But same thing can happen in other scriptures. Even if someone reads Bhagavatam but if he has some desire he will get a different meaning. Similarly we have other scriptures also if we approach the same scriptures with a different meaning we also can get the same result. Then what makes different Bhagavatam and other scriptures, we get almost the same result?
+
+So speciality of bhagavatam is it points out that Krishna is Bhagavan, not only he is Bhagavan he is swayam Bhagavan. If we read other Puranas, then we will say yes Krishna is an avatar. But here Krishna is given a very special position. So that is made very clear in the first canto. And there Narada Muni instructs Vedavyasa to don’t make things unclear just mention everybody should worship Krishna [Laughs]. in spite of that people if they have their own ideas they can get so many other things out of Bhagavatam.
+
+Devotee : Sometimes someone might ask that you know if you want to know who is Bhagavan. In Bhagavatam it says Krishna is Bhagavan. In other puranas, if you read Shiva Purana, tamo guna purana, Shiva is Bhagavan. So that person after reading Shiva Purana he comes to Bhagavatam he might get a different idea different kind of knowledge. In that Purana Shiva is Bhagavan but here Krishna is Bhagavan. He will be confused that means Vyasadeva who is the compiler of all the scriptures he is the cause for the confusion of the readers.
+
+HH Bhanu Swami Maharaj : And for that reason Narada Muni said all of this is a waste of time, don’t write all these Puranas it just confuses people in Kali Yuga particularly. People are not intelligent so they don’t want to read too much so they read one scripture and they take that as absolute and they ignore everything else. And of course they are materially attached, so if they get some material results from that they don’t want to change. But in one sense VedVyasa in doing that was simply repeating what’s in the Vedas. So in the Vedas we have a whole section called Karmakanda and this is exactly this worshiping Devatas just to get some results [Laughs]. So he is merely presenting what’s already there in the Vedas he is not inventing something new when he does that. Narada Muni says this is too confusing for people in Kali Yuga. But even in Bhagavad Gita and in Bhagavatam we will get Karma Yoga, worship of Devatas, [Not clear] in 2nd canto there is a whole thing, all the different devatas you can worship for different results [Laughs].
+
+So it is presented because ultimately it is part of the Vedic literature. At the same time as much as possible it is clarified that these are not absolute types of worship. But if we are really attached to Devata worship we can just take a few verses from the second canto and say, I can worship Surya Deva or I can worship Ganesha or I can worship because it is in the Bhagavatam [Laughs]. And similarly in Bhagavad Gita you can just go to chapter 3 there it says worship the Devatas to get all your desires fulfilled, so I will follow chapter 3 and we will ignore chapter 9 [Laughs]. So we have to be careful how we read scripture.
+
+2.) Maharaj Vedas is very vast knowledge and many things are not present right now, many things are missing, only some portion of the vedas is available right now. But here Narada Muni he knows that the people of Kali Yuga, they have very short life and very unfortunate they don’t have time to read many things. The way all the Vedas, many portions of the vedas are hided similarly Karma–kanda, Jnana–kanda, it also could be hidden. But instead of not hiding, Vyasadeva revealed it to the public and because of that people are confused. So he could have done it okay anyway many Vedas are already hidden, similarly I can do this also it could help the people of Kali Yuga, simply by having one scripture, Srimad Bhagavatam. But he didn’t do that as it is in the Vedas he kept it but due to that people are confused.
+
+Of course Krishna says the sages and I also like Paroksha Vada [Laughs]. So though among all the different scriptures the Bhagavatam is the most direct still there will be an aspect of things that you can take and do your own thing if you want to [Laughs]. So in that sense Bhagavatam is like Mohini Avatar, if you want you can get all the material things out of it if you want the real essence then you can get that if you are a devotee. We will see repeatedly throughout the Bhagavatam everything gets rejected except the process of Bhakti and the name. In spite of that people still get the wrong message [Laughs]. Even devotees get the wrong message. So then they will think I have to do Varanashram and Varnashram, if I don’t do Varanashram I can’t perfect Bhakti. So that is so repeatedly rejected throughout the Bhagavatam. Yeah, people get that idea and they get stuck to it [Laughs].
+
+3.) Hare Krishna Maharaj as we see we approach scriptures for every reference and every standards or guides Maharaj but we see the speaker who gives Bhagavatam also gives gives the gives the lectures based on his understanding. That’s why we have lot of different conclusions like some emphasis on Varanashrama, some emphasis on Bhakti but we see Paramparait speaks about only Bhakti in this way we also conclude based on our understanding, also the speaker who understands based on his realization. So what to follow. Like Bhagavatam scriptures also gives us it’s like a Mohini Avatar it also gives us the understanding based on our desire and the speaker who speaks Bhagavatam he reads and he gets the realization based on his desire and when he gives the lecture it’s based on his realization. So what do we approach what is the right thing to approach ?
+
+When the speaker projects his own desires and meanings into the Bhagavatam then it becomes impure. So Prabhupada speaks to the transparent via media. So one who is following Lord Caitanya should be practicing pure bhakti. And therefore that should be the main point of his speaking [Laughs] and to introduce anything else then becomes impurity. So we have to be careful of that.
+
+4.) Maharaj, so though the people approach Bhagavatam for material desires. Won’t the reading of Bhagavatam itself purifies the reader and take them to pure devotional service? For example Dhruva Maharaj approached Lord for material desires but he has become a pure devotee. So similarly won’t it make a devotee, won’t it make a person get purified and take to pure devotional service? 
+
+So as said in the second canto you can, you should worship the lord whether you have all desires or no desires. And if you worship the lord and nobody else with all desires still that’s better than not worshipping him at all [Laughs]. But the hope there is that eventually by association with people practicing pure bhakti he will get elevated. So people can start bhakti with different motivations but if they get the association of devotees practicing pure bhakti then they can progress to pure bhakti.
+
+5.) We know Raganuga bhakti following the people who is in vraja but following who are in Gauralila also comes under Raganuga. For example Goswamis like Rupa Goswami and others. So does this come under Raganuga?
+
+So the strict definition of Raganuga is to follow after the inhabitants of Vrindavan. Now Caitanya Mahaprabhu is non-different from Krishna. But at the same time he is channa avatar. So to some degree the rasas become a little bit hidden. We do have of course people worshipping Lord Caitanya but we advise you can worship lord Caitanya but not independent of the worship of Krishna. So we never separate the two worships.
+
+6.) Hare Krishna Maharaj. We have Bhagavatam and Bhagavad gita given by Prabhupada. And we also got commentaries by Vishwantha Chakravarti Thakura, Baladeva Vidyabhusana and Jiva Gosvami’s sandarbhas. What is the uniqueness we find when we look at the commentaries of these Acharyas?
+
+HH Bhanu Swami Maharaj : Well the unique feature is their following their following after Caitanya Mahaprabhu. So therefore ultimately they are taking Radhakrishna as the highest goal. So we have commentaries in Bhagavatam from other Sampradayas. So they may not have the [Not clear] conclusions.
+
+Devotee : Like Maharaj I am asking when we look at the commentaries of these Acharyas like individually like Prabhupada and Vishwanath Chakravarth Thakura like just what are the uniqueness we find?
+
+HH Bhanu Swami Maharaj : Uniqueness of each one ?
+
+Devotee : Well every Acharya is an individual. So of course they are accepting the conclusions of Caitanya Mahaprabhu but they can express it in different ways according to their individual nature. And thus we have two commentaries in Bhagavad Gita one by Baladeva and one by Vishwanath written almost the same time but they are completely different. Conclusion is the same but commentary is very different.
+
+7.) Maharaj Guru has to make his disciples disciplined so what are the aspects that Guru has to look into his disciple to make him disciplined?
+
+So discipline is a rather broad term. There is discipline in Jnana Yoga and Ashtanga Yoga and Karma Yoga also. A lot of those disciplines are probably the same but the primary teaching of the followers of Lord Caitanya is the emphasis upon the practice of Bhakti Yoga and chanting the holy name. And all disciplines should be related to how effectively we can do that.
+
+8.) Maharaj, we understand that there are two natures permanent nature and temporary nature after repeated hearing also about the both natures our mind still is not able to concentrate on the permanent nature constantly, sometimes we will think that this material world is temporary but it is not established in Krishna consciousness constantly. Still we are listening everyday but all those things we are doing regulations, rules but it is not, as irrevocable fact it is not establishing it. So how to make our mind completely absorbing Krishna consciousness Maharaj in spite of all circumstances?
+
+So ulitmately the question is what is the method of controlling the mind and the senses? So the Bhagavatam answer is Bhakti yoga and chant the holy name [Laughs]. If we engage our senses and mind in Krishna then we can get rid of our attraction to material world.
+
+9.) Maharaj, after today’s class, I am just thinking that how, especially the Gaudiya Vaishnavas, how for us, I guess the safest scripture is Caitanya Charitamrita, where there is no distraction and all the teachings are so emphatically supported by different scriptures. Like scriptural references are also given there and I don’t see that there is any distraction in Chaitanya Caritamrita.
+
+So true, unlike Bhagavatam or Bhagavad Gita or other works, we don’t have elaborate discussions of Karma Yoga or Jnana Yoga or Astanga Yoga etc. But then Prabhupada also says that is the post graduate study [Laughs]. Of course, within that also we have a discussion in the very philosophical discussions. We will have a discussion of Sambandha, Abhideya and Prayojana also. But nevertheless, we see Prabhupada emphasized first we go through Bhagavad Gita and Bhagavatam. So one reason of course is that instead of simply distributing Caitanya Caritamrita to everybody, we go through these works because to get directly to Lord Caitanya, first we have to accept Lord Caitanya. And so then the people will ask the question, okay we have the whole Caitanya Caritamrita [Not clear] but who is Lord Caitanya? So if we go through Bhagavatam then we understand who is Lord Caitanya because it’s mentioned here [Laughs].
+
+10.) Maharaj, So we hear so emphatically again Caitanya Mahaprabhu and his followers talking about the process of pure devotional service. So Maharaj, is it the same for other Sampradayas also, other bona fide Sampradayas, do they also emphasize only on pure devotional service?
+
+Well, definitely the idea of pure bhakti is there. But we will see in some Sampradayas, they do put a lot of emphasis upon varnashramic rules. And then within bhakti of course they put a lot of emphasis upon archana.
+
+11.) Can we say that all the Vedic literatures establish the underlying consciousness as the ultimate reality, whereas modern science rejects this?
+
+Well [Laughs], Supreme Lord. So ultimately we have a spiritual conscious entity behind the whole of everything, including the material world, science has not come to that conclusion so far. Some serious scientists do accept consciousness. But they can’t really define consciousness. And to accept that consciousness has a spiritual form is beyond their imagination.
+
+12.) Can a sadhaka meditate on his Siddha body, aspiring for a particular position in the spiritual world? At what stage he can do that?
+
+So that is according to qualification. And who decides the qualification? Generally guru. That qualification is obtained through the guru.
+
+13.) Hare Krishna Maharaj, when a person is doing bhakti when will that bhakti mature? Will that bhakti mature because of the effort made by the devotee? Or will that bhakti mature when Lord interferes and takes some action? How can we understand this?
+
+Well, we know that the beginning of bhakti is because of mercy of guru and Krishna [Laughs]. We cannot separate the process of bhakti from mercy. Bhakti itself is the internal energy of Krishna. Mercy is also the internal energy of Krishna [Laughs]. So, yes, we should put our endeavor into it. But it is not only our endeavor, it is always mercy.
+
+14.) In Kali Yuga, the subject matter of Bhagavad Gita and Bhagavatam being transcendental can be understood only by intellectuals and above. How normal people can understand this subject?
+
+Ultimately, the principles presented in Bhagavatam and Bhagavad Gita are very simple. So, what is the main principle presented in Bhagavad Gita? Surrender to Krishna, give up all other dharmas. So, even a simple person can understand that. So, if he understands, accepts and follows, that’s fine.
+
+15.) The author of all Puranas is Vyasadeva. But what could be the intention of Vyasadeva for mentioning Lord Krishna as Supreme Lord in Bhagavatam and only as avatar in other Puranas?
+
+So, the purpose of Bhagavatam is to stop the confusion about worshipping other forms of the Lord or different Devatas. So, therefore, Krishna is glorified as the highest form.
+
+16.) Which relationship with Krishna is most highest? Vatsalya, Madhurya, Sakhya or Dasya? And what do you suggest for the young devotees?
+
+So, in one sense, there is no higher or lower. Whatever one achieves is the highest. Now, according to our philosophy, ultimately we say Madhurya rasa is the highest. If one is attracted to that, one can aspire for that. If one is attracted to other rasas, fine, one can aspire for that also.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/sb/2/3/9": { title: "SB_2.3.9 \u2013 Why to worship, whom to worship & How to worship? \u2013 From Grass roots to Graduation!", video: "pNVe2PZDtf0", article: `Srimad Bhagavatam – 2.3.9 | HH Bhanu Swami Maharaj | ISKCON Chennai | May 29, 2026 
 
 Om Namo Bhagavate Vāsudevāya
@@ -48387,6 +53076,17 @@ Devotee: How do we approach the material world? What should be our approach in l
 HH Bhanu Swami Maharaj: Oh. So, in approaching the material world as a devotee, because of our practice of bhakti, we show less and less attraction as we develop bhakti. So, as this particular purport is explaining, as a devotee, then, we show very little interest in these material things like kingdom. If the material attractions are so strong, then it is very difficult to practice bhakti. So, to begin bhakti, there is not too much material attraction, and when we do bhakti, it becomes less and less.
 
 Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/2/4": { title: "CHAPTER FOUR : The Process of Creation", article: `SB_2.4.1 – Getting mantra or following teachings – which form of Guru’s mercy helps to progress ?
+
+SB_2.4.2 – Practicing detachment detaches one from the practice of pure bhakti, Krsna & prema !
+
+SB 2.4.3~4 – Conviction in pure bhakti’s supremacy over all paths bestows one-pointed intelligence !
+
+SB 2.4.5 – Proper respect to Guru and Kṛṣṇa unveils the meaning of scripture !
+
+SB_2.4.6 – Importance of realizing Lord Krsna’s Supreme spiritual stature from phenomenal creation !
+
+SB 2.4.7 – Acintya-bhedābheda : The perfect, imperfects and the sweet indirect bond between them !` },
   "/sb/2/4/1": { title: "SB_2.4.1 \u2013 Getting mantra or following teachings \u2013 which form of Guru\u2019s mercy helps to progress ?", video: "9LPeq8bgmeo", article: `Srimad Bhagavatam 2.4.1 | HH Bhanu Swami Maharaj | ISKCON Chennai | 17 June 2026
 
 jaya rādhā-mādhava kuñja-vihārī
@@ -48822,12 +53522,854 @@ Well, as long as we have a body, we have to eat and we have to sleep. But instea
 Yeah, so externally we can do so many things as long as we are not overly attached to those things.
 
 Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/2/4/5": { title: "SB 2.4.5 \u2013 Proper respect to Guru and K\u1e5b\u1e63\u1e47a unveils the meaning of scripture !", video: "FZ5fgXFPBsU", article: `Srimad Bhagavatam 2.4.5 | HH Bhanu Swami Maharaj | ISKCON Chennai | 21 June 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 2 Chapter 4 Verse 5.
+
+ŚB 2.4.5
+
+राजोवाच
+समीचीनं वचो ब्रह्मन् सर्वज्ञस्य तवानघ ।
+तमो विशीर्यते मह्यं हरे: कथयत: कथाम् ॥ ५ ॥
+
+rājovāca
+samīcīnaṁ vaco brahman
+sarva-jñasya tavānagha
+tamo viśīryate mahyaṁ
+hareḥ kathayataḥ kathām
+
+Synonyms
+
+rājā uvāca — the King said; samīcīnam — perfectly right; vacaḥ — speeches; brahman — O learned brāhmaṇa; sarva-jñasya — one who knows all; tava — your; anagha — without any contamination; tamaḥ — the darkness of ignorance; viśīryate — gradually disappearing; mahyam — unto me; hareḥ — of the Lord; kathayataḥ — as you are speaking; kathām — topics.
+
+Translation
+
+Mahārāja Parīkṣit said: O learned brāhmaṇa, you know everything because you are without material contamination. Therefore whatever you have spoken to me appears perfectly right. Your speeches are gradually destroying the darkness of my ignorance, for you are narrating the topics of the Lord.
+
+Purport
+
+The practical experience of Mahārāja Parīkṣit is disclosed herein, revealing that transcendental topics of the Lord act like injections when received by the sincere devotee from a person who is perfectly uncontaminated by material tinges. In other words, reception of the messages of Śrīmad-Bhāgavatam from professional men, heard by a karma-kāṇḍīya audience, never acts miraculously as stated here. Devotional hearing of the messages of the Lord is not like hearing ordinary topics; therefore the action will be felt by the sincere hearer by experience of the gradual disappearance of ignorance.
+
+yasya deve parā bhaktir
+yathā deve tathā gurau
+tasyaite kathitā hy arthāḥ
+prakāśante mahātmanaḥ
+(Śvetāśvatara Upaniṣad 6.23)
+
+When a hungry man is given food to eat, he feels satiation of hunger and the pleasure of dining simultaneously. Thus he does not have to ask whether he has actually been fed or not. The crucial test of hearing Śrīmad-Bhāgavatam is that one should get positive enlightenment by such an act.
+
+HH Bhanu Swami Maharaj:
+
+Here, Parikshit Maharaj is praising Sūta Goswāmī because whatever he speaks destroys ignorance. Of course, knowledge should destroy ignorance. And they are opposites. If you have all ignorance, you have no knowledge. If you have all knowledge, you have no ignorance. And scriptures tell us that everybody in the material world is covered by ignorance. That ignorance gives rise to all sorts of suffering. If we want to get rid of the suffering, we get rid of the ignorance. And we get rid of the ignorance by knowledge. So, that is simple logic.
+
+So, in its simplest form, by jnana or jnana yoga, you get rid of ignorance and suffering is finished. That means the material world disappears. So, that is one level of logic and many people accept that. And of course, this is also repeated in Bhagavatam and Upanishads and Vedas. However, if we go further, then we get more details. So, knowledge not only destroys ignorance, it does something else. It produces complete bliss. It gives us eternal life in the spiritual world. It gives us realization of the form and qualities of the Lord.
+
+So, scripture, of course, praises jnana, but if we examine jnana closely, then we find it has different levels. And for the impersonalists, jnana means realizing Brahman. And for the devotees also looking at scripture, they will find that jnana means not only realizing Brahman, but realizing Bhagavan. So, that jnana includes everything. And thus in the first canto, that jnana is defined as Brahman, Paramatma and Bhagavan. It is not one thing, Brahman and not Bhagavan and it’s not Bhagavan without being Brahman. It is all these things.
+
+And of course, people will say, oh that’s rather interesting knowledge just only in Bhagavatam where is it in other places? But if we see and study Bhagavad Gita carefully, we will find same principle is there. And if we go back to the Upanishads and we look again, we will find all those things are there as part of knowledge. So, therefore, knowledge, when we say jnana, is not restricted to impersonal jnana. And some of our Acharyas even say in interpreting the meanings of verses of Upanishads, when it says jnana, it means bhakti [Laughs]. So, in this way, we have to study the scripture very carefully to see the complete meaning. And certainly on our own, we can get some understanding, but we will get much clearer understanding if we have a person who has that knowledge. So this is why Parikshit Maharaj is praising Sukadeva Goswami.
+
+So, in the purport Prabhupada quotes this famous verse from Svetasvatara Upanishad. And they are talking about revelation of knowledge. So, how? The knowledge is there in the Vedic literature. But the meaning is revealed by a certain process. So, it is revealed by bhakti. Not just bhakti, but pure bhakti, parabhakti. And so we have pure bhakti for the Lord. But, then it says we should have same bhakti for Guru. And then, the meaning is revealed. So, of course, first we have to accept the scriptures. And we have to accept the authorized scriptures. And when we accept, we have to have, we are qualified with faith and devotion. But then, the next qualification is you have to hear it through Guru. And not only you have to hear it through Guru, but you have equal devotion for Guru as you have for Bhagavan. And then the meaning of the scripture manifests. So, though we can study on our own, by getting the guidance of the Guru, then we can get the complete meaning.
+
+So, of course, here it talks about Guru and whatever. But, what is the Guru doing? He is teaching. And, of course, then that means the Siksha Guru. And of course, it’s natural that you are trying to get the meaning of the Vedic literatures, then you have to have some teacher and he is the Guru. And, of course, this Upanishad and other Upanishads when they are glorifying their Guru, they are glorifying him because he is revealing that particular Upanishad.
+
+So, all of these verses are glorifying Guru, but it is a Siksha Guru. So, not only they glorify, but here it says you have to treat him like Supreme Lord Himself. This, of course, also looks like a contradiction. When Prabhupada gave initiation in New York first time, the devotees said, so what do we do? And then Prabhupada says, you treat Guru like God [Laughs]. So, the devotees got very confused because all of the time Prabhupada saying, Jiva is Jiva, God is God and you can’t change one into the other. So, when such statements occur, it doesn’t mean that the Jivas change their identity and they become Ishwara. Rather, it is talking about equal devotion. However, even there, that devotion we have to examine.
+
+If you have no devotion for Guru, for the Lord and only devotion to Guru, what happens? Nothing. If you have only devotion to the Lord and no devotion to Guru, also nothing happens. So, there is a combination. At the same time, we know that God is not dependent on any Jiva. So, in terms of philosophy, yes, that is so. But, we also know Lord is controlled by His devotees. So, He is not independent. So, in terms of tattva, He is independent. In terms of bhakti, He is dependent on devotees [Laughs]. And thus, the Lord does not object if you also worship the devotee with the same devotion. And the Lord Himself says, the one who claims He is my devotee is not my devotee. He who says He is a devotee of my devotee, he is my devotee [Laughs].
+
+So, therefore, we have this idea of great devotion. At the same time, we also see that there are grades of devotion. So, generally, of course, people will think that, okay, I have to have devotion, but I can only have devotion to one Guru. That’s it. But, of course, in Caitanya Caritamrta, there it says, the Siksha Guru, Diksha Guru, equal respect. And you could have many Siksha Gurus. That means you got worshipping so many people like God. Many Gods. So, you have all of these Siksha Gurus, Diksha Guru, plus Supreme Lord you have to worship. So, though it says, like the Lord, you worship the devotee with same devotion, we say that ultimately, there are grades of devotion also.
+
+Why? Because there are grades of devotees. So, for the Kanishtha devotee, who is not really a devotee, still, we mentally give respect. For all living entities, plants, and animals, and human beings who are not devotees, we also give respect. And in fact, why do we respect them? Because Paramatma is in all of them also, and He is Supreme Lord. So, we have to respect them [Laughs]. But then, Upadesamrita says that, one who is actually a true devotee, worshipping the Lord, accepting Guru, etc., that, you actually give physical respect. And then, that devotee, who has higher level of realization, then you serve that devotee. So, therefore, our devotion to devotees is in various levels.
+
+So, in Krishna Bhajanamrita there Narahari explains that, we have devotees and Gurus on different levels. And you give more respect to the person on the higher level, that’s natural. But, of course, we respect all. So, he says, it’s like in a family. Of course, the common saying is mother and father are Guru [Laughs]. Treat them like God [Laughs]. But, it’s not only referring to father, also the uncles. It’s the same level as father. So, they are, treat them like God also. But then he says, your grandfather, the father of the father, you give double respect. So, he’s got more respect even. And, I guess, the great grandfather, you give triple respect [Laughs]. So, similarly, yes, we treat everyone as God, but still we have levels of respect among advancement of devotees. Yeah, so, therefore, we cannot just focus on one individual and worship only one person.
+
+And, of course, within a society like ISKCON, which is quite unique because we have many Gurus, that is, Diksha Gurus, then, this understanding must be there. Otherwise, we have independent movements within ISKCON. At the same time, the devotees also realize that, yes, we treat Guru as God, etc. but there are different levels. So, just as the grandfather gets double respect than the father, so, our Founder Acharya Prabhupada gets much more respect than any other Guru. So, this understanding will help to create a more flexible system in ISKCON.
+
+Of course, the other understanding is, as said in this verse, the real Guru is the one who gives knowledge. So, that person, devotee, who can give a more thorough understanding of the real meaning of scripture is more important than the one who simply gives you a name. And thus, we cannot simply take the words of scripture literally and apply it very specifically.
+
+So, this is just an example of taking scripture and trying to understand the meaning. A particular statement of scripture may have one level of meaning, may have another level of meaning. We can apply it to our particular case, we can apply it to other cases. So, we have to examine very carefully to get the real practical application of scriptural statements. Some things we can gather by intelligence, other things we can get through intelligence of another person.
+
+So, it is interesting that Vedavyasa delivered the Bhagavatam to Sukadeva Goswami but Sukadeva Goswami, when he spoke it, the meaning became even greater. And thus, the speaker is very important. So, Parikshit Maharaj was hearing Sukadeva Goswami, but there was a whole gathering of people. But Narada Muni and Vedavyasa were also there listening [Laughs]. So, father Guru and great Guru, grandfather Guru were all listening as well [Laughs]. So, it had very, very great meaning in it.
+
+Hare Krishna!
+
+Q & A :
+
+1.) Maharaj, you were explaining regarding this giving respect to the Guru. You are saying that grandfather get more respect and great grandfather get more respect than their own father. But here it’s saying that Guru should be equal respect like a Supreme Lord. But here, the gradation of the respect is increasing. The more he goes up and up. Then how will you explain it?
+
+So, of course, it doesn’t say exactly same, exactly same respect. Because, obviously, it’s different. One is jiva, one is Supreme Lord. And, of course, because they are different objects of devotion, then that devotion will be somewhat different. Nevertheless, statements like this are made to show the importance of taking a Guru. And, without going through Guru, you cannot get to Krishna as Vishwanath Cakravarti says. So, in that sense, equal [Laughs]. In terms of devotees, of course, then we have Siksha Guru, Diksha Guru, should be equal. So, that is a statement to show that, simply by the title, it doesn’t mean that the Diksha Guru, because he’s a Diksha Guru, he gets more worship than a Siksha Guru. But, at the same time, we also realize that according to level of advancement, then we have to give more respect to the more elevated person. So, if we have Sukadeva Goswami speaking, and we have an ISKCON devotee speaking, we don’t just treat them exactly equally [Laughs]. Or we have Srila Prabhupada speaking and an ISKCON devotee speaking, again, we don’t treat them exactly equally, that’s natural. But we never disrespect anyone.
+
+2.) Maharaj, Prabhupada made many times this statement that, due to accepting some unqualified disciple, I’m going through so much suffering. So, but, that we don’t see with the Siksha Guru, that we see with the Diksha Guru. Because, Siksha Guru doesn’t take any commitment that I have to deliver this soul. But whereas Diksha Guru take that kind of role, you know. Because, that’s why Prabhupada was making this statement, you know, due to accepting some unqualified disciples, I’m going through so much suffering.
+
+In Hari Bhakti Vilasa, it is stated that, not just the Diksha Guru, even a purohit, if he accepts disciples, or what the students, he also is responsible. And, of course, we know that the husband is responsible for the wife, king for the citizens and ministers. So, when one person takes responsibility and another person accepts that he’s under that person, then automatically there’s some sharing of their karma or whatever.
+
+Devotee: So mutual Maharaj, that the person has to accept someone as Siksha, Diksha Guru and that Diksha Guru or Siksha Guru also has to accept someone as a, as a you know, follower. Is it mutual, correct? Mutual understanding? Or sometimes it happens that, you know, that devotee is giving lecture and someone is accepting as Siksha Guru. Even the Siksha Guru doesn’t know that he accepted him as a Siksha Guru. Siksha Guru doesn’t know that, you know, he accepted him as a Siksha Guru, there is no commitment. Is it like a general lecture devotee is giving and someone accepting as a Siksha Guru, there is a problem, correct?
+
+HH Bhanu Swami Maharaj: So, there are different levels of Siksha. Some people can give lectures, people can hear, that’s the type of Siksha. But then if we get, let’s say, devotees like Narottama and whatever, Srinivasa Acharya studying under Jiva Goswami, that’s quite different. So, he is accepting to teach them and they are learning from him, so that’s a little bit different.
+
+Devotee: See, Maharaj, there are three things, one thing is that see, the devotee who is giving knowledge. So, there is a body, there is a soul, there is a knowledge, three things are there. Body of that Guru and soul and there is a knowledge. So now, one should give respect to what? Means, you know, body, soul or the knowledge?
+
+HH Bhanu Swami Maharaj: For the?
+
+Devotee: Knowledge, knowledge, what he is getting. Sometime it happens, you know, giving respect to the body but not respecting the instructions or sometime giving respect to the soul.
+
+HH Bhanu Swami Maharaj: Oh.
+
+Devotee: Yeah, yeah.
+
+HH Bhanu Swami Maharaj: So, real respect for the Guru would ultimately mean to follow his instructions. So, disciple who only respects the body and doesn’t listen to anything, what use is that [Laughs]? There is no knowledge [Laughs]. So, Prabhupada wrote in one of his vyasa pujas for Bhaktisiddhanta Saraswati after he had disappeared for some time and he wrote, what is the use of all of these fruits and flowers, your glorifying Guru, etc., because he didn’t follow his instruction [Laughs]. Which emphasizes the fact that the teachings and instructions are more important than any other aspect of title or whatever. Which also has a danger in terms of formality, if you want to have formal oaths and formal vows, etc., that also becomes, can become materialistic. So, we go through a ceremony and then we are a certified disciple. But if we don’t follow instructions, what does certification mean [Laughs]? So, actually we worship the devotee as a God. Why? Because he is the medium by which Krishna’s message comes to us and that message is non-different from Krishna.
+
+3.) Hare Krishna Maharaj. Often you are mentioning that parampara is Siksha parampara. And now we can see in our altar also, there us Diksha and Siksha, both are there. So how I understand that Maharaj?
+
+So, we can trace purely a Diksha line. We can trace purely a Siksha line. Or we can have a combination of both [Laughs]. But, if we only trace a Diksha line, then it may not be too useful because it doesn’t show the actual prominence of the people who gave instructions. So, therefore, we emphasize the Siksha more. So, we do not deny Diksha and therefore Prabhupada gave Diksha. Bhaktisiddhanta Saraswati gave Diksha but they also gave prominence to the Siksha. So, there is always a problem, as I said, when you do get that Diksha and then there is a title etc., it is easy to trace your line, it is very easy in one sense to identify who is who. But it can also become a materialistic or mechanical process. And ultimately, it is only tracing who gave you mantra. But Harinama and teachings are more important to us.
+
+Devotee: And as well as our parampara is both, we can take in that way. And the Siksha Guru in our parampara, they also took Diksha also.
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: Both. So, even though they took Diksha, but we are not going in that line.
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: We are coming in Siksha.
+
+HH Bhanu Swami Maharaj: Yeah.
+
+Devotee: So, we can understand in that way Maharaj?
+
+HH Bhanu Swami Maharaj: Hmm.
+
+4.) Hare Krishna Maharaj. Maharaj, if prema is our goal, then it can be attained through Siksha Guru and chanting of Hare Krishna mahamantra, Harinama. Then, we clearly see there is a requirement of first initiation or the second initiation. In this case, if you want to preach Maharaj within ISKCON then how do we do that actually?
+
+HH Bhanu Swami Maharaj: How do we?
+
+Devotee: How do we do that without any name, if it doesn’t need any first initiation or second initiation?
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: [Not clear].
+
+HH Bhanu Swami Maharaj: Oh, yeah.
+
+Devotee: Because for prema, only Siksha and Harinama is enough Maharaj. So, in that case, first initiation and second initiation mandatory or required.
+
+HH Bhanu Swami Maharaj: If you didn’t require, then how do we preach?
+
+Devotee: How do we preach and how do we recognize activities within ISKCON?
+
+HH Bhanu Swami Maharaj: Okay, okay.
+
+Devotee: [Not clear].
+
+HH Bhanu Swami Maharaj: Well [Laughs]. So, getting a name is part of the Pancharatrika Diksha, the Pancha samskara. But Lord Caitanya didn’t get a name, Nityananda didn’t get a name, Advaita didn’t get a name. So many people didn’t get names. Vishwanath Cakravarti didn’t get a name. So many people didn’t get names, probably more than they got names. They got Diksha, they got the mantra but they didn’t bother with names. So, in other words, they took the minimum of the Pancha samskara [Laughs], that is the mantra [Laughs], that’s it [Laughs]. Without the other four samskaras or whatever, that was the most important thing. And they survived without names or whatever like that. It was not so important for them.
+
+Devotee: That name itself [Not clear] Caitanya Mahaprabhu, Nityananda prabhu, Vishwanath and whatever you are saying [Not clear]. The name itself is differed, it is spiritual, it is not a material name. Whereas, in the material world, we have a material name, which is not connected to Krishna at all.
+
+HH Bhanu Swami Maharaj: [Laughs].
+
+Devotee: Then what to do in that situation?
+
+HH Bhanu Swami Maharaj: Yeah, yeah. So, of course, we can say that your father gives you a name, yeah? It’s not spiritual. So, then somebody else could give you a name also. It’s a spiritual name. It’s not just confined to Diksha, that you can only get a spiritual name at Diksha. You could give yourself a name, go to the registery office and change your name legally even?
+
+Devotees: [Laugh].
+
+HH Bhanu Swami Maharaj: You could do that also. So, so many ways you could change your name, if that’s a big problem or whatever like that. But otherwise, sometimes it doesn’t really matter. So, George Harrison never became a devotee, never got a name changed, but everybody respects him as a devotee. George.
+
+Devotee: But that name is not even [Not clear].
+
+HH Bhanu Swami Maharaj: In that way you can take all names, as all names in the Vedas, ultimately, are names of Vishnu. so you can take every name in the material world and somehow make it into a Krishna name. So John can be Jana or Bhaktajana or Vrajajana [Laughs].
+
+Devotee: So Maharaj, the process of moving closer to Krishna, that is more important than everything, right Maharaj?
+
+HH Bhanu Swami Maharaj: Yeah, obviously.
+
+Devotee: Yes, that’s obvious.
+
+Devotee 2: Hare Krishna Maharaj.
+
+HH Bhanu Swami Maharaj: Ceremonies are useful, but when we come to holy name, even ceremonies are all finished. We get holy name with no ceremony at all, doesn’t matter who is chanting name or no name.
+
+5.) Hare Krishna Maharaj. As you said, we respect all the devotees in ISKCON and we respect Prabhupada also. So we see that in Bhagavad Gita, pure devotee can impact knowledge in our heart. There is a sloka, pure devotee can impact knowledge in our heart. My question is, only Prabhupada can do this one or ISKCON devotees can also do this one?
+
+HH Bhanu Swami Maharaj: Imparting knowledge?
+
+Devotee: [Not clear].
+
+HH Bhanu Swami Maharaj: So, of course in Bhagavad Gita it says that, one who has knowledge can impart the knowledge. And of course, this knowledge is not just book knowledge, he has to have devotion also. But we have different levels of knowledge also in devotees. Nevertheless, if they are madhyama adhikaris, let’s say devotees, then at least they have some knowledge of pure bhakti, they can impart that. So all devotees practicing pure bhakti, which means the madhyama devotees, they are conduits of mercy of the Lord and knowledge of the Lord. But the purer they are, the purer the message. So normal devotees are like copper wire and maybe the greatest devotees are like gold wires.
+
+6.) So, Maharaj, so you mentioned that depending on the purity of the devotee to whom you respect, you get that kind of knowledge. Like if he is more knowledgeable, then you get, more things gets revealed to you and so on. That’s what I understand from your answer. So, the question is like, if the devotee is not really a true devotee, what happens to a person who surrenders to someone who is not a real devotee? And he respects him very honestly and surrenders, but he is not a devotee.
+
+So, as I mentioned, we have various levels of devotees and those who are kanishthas, we can mentally respect. Doesn’t mean we have to take knowledge from them. So, those who are in a higher level, they are practicing pure bhakti, not mixed bhakti, they can preach that to some degree. So, those are the devotees we respect and we hear from. So, as it is said, we don’t hear from the non-Vaishnava. So, the opposite would be the Vaishnava, which means one who is practicing pure bhakti.
+
+7.) Hare Krishna Maharaj ji. Maharaj ji, I want to ask, what should be a Gaudiya Vaishnava mood when he is chanting Hare Krishna mahamantra? Which personality we should meditate while chanting Rama? As I heard from Srila Prabhupada, he is quoting continuously in his books and lectures that Rama means the Ramachandra or Parasurama or Balarama. But I also heard from devotees like previous Acharyas are saying that Rama means Radharaman. So, which personality we should meditate?
+
+Of course, the word Rama can mean so many things. Even the word Krishna can also mean Vishnu [Laughs]. It’s in Vishnu Sahasranama. So, Rama can mean Ramachandra, it can mean Balarama, it can mean Parasurama, it can also mean Krishna. So, one who gives pleasure to the devotees, especially Radharani is called Rama. So, that’s Krishna. So, since Lord Caitanya is teaching us to surrender to Radha and Krishna, all the words mean Radha and Krishna ultimately.
+
+8.) Hare Krishna Maharaj, Vyasa is listening to Sukadeva speak the Bhagavatam. So, did Vyasa replace the words he composed with what Sukadeva spoke?
+
+HH Bhanu Swami Maharaj : Replace what?
+
+Devotee: Vyasadeva was hearing from Sukadeva words, by hearing Sukadeva’s words, did Vyasa replace the words? Replaced the words.
+
+HH Bhanu Swami Maharaj: Did he replace?
+
+Devotee: Yeah. Did he replace the words or not?
+
+HH Bhanu Swami Maharaj: So, it is not said anywhere he replaced the words, but we also know that when he recited it, it became sweeter.
+
+9.) How is knowledge transmitted from a spiritual master to a disciple when one is superior to another? Is the knowledge transferred completely or partially and therefore lost in the course of time?
+
+So, spiritual knowledge, knowledge of bhakti is from the spiritual world, so it is eternal. And according to the purity of the speaker, then it gets delivered purely or less purely or whatever. And according to the purity of the listener, it gets received more or less. So, if there is pranipat and pariprasna and seva, then, in good proportion, then we get good reception of knowledge.
+
+10.) As our sadhana and perfection is completely based on the holy name that Lord Caitanya came to give us, need not He be given a prominent position in a devotee’s life-long with Guru and Prabhupada?
+
+HH Bhanu Swami Maharaj : Who?
+
+Devotee 1: Need not he be given a prominent position?
+
+HH Bhanu Swami Maharaj: Who, who, who? Lord Caitanya?
+
+Devotee 2: Caitanya Mahaprabhu. Caitanya Mahaprabhu.
+
+Devotee 1: Let me read the answer fully, then we’ll get it. Devotee’s life-long with Guru and Prabhupada, but a devotee is advised to read even Caitanya Caritamrta after a few years of study of Gita and Bhagavatam.
+
+HH Bhanu Swami Maharaj: So, what’s the question?
+
+Devotee 1: His question is that, is Caitanya Mahaprabhu, you know.
+
+Devotee 2: Maharaj the question is, we should give equal respect to Caitanya Mahaprabhu, Guru and Prabhupada. And also Caitanya Mahaprabhu is given a prominent position in a devotee’s life along with Guru and Prabhupada. So, in studying Srimad Bhagavatam, Bhagavad Gita and Caitanya Caritamrita, it is generally advised that first we should study Bhagavad Gita, then we should study Srimad Bhagavatam, then we should study Caitanya Caritamrita. But since we are giving equal respect to all these three personalities, we should also give equal importance to the Caitanya Caritamrita along with Bhagavad Gita and Bhagavatam. Why this predominance? That is, first we should study Gita, then Bhagavatam, then Caitanya Caritamrita, that order comes. What is the reason?
+
+HH Bhanu Swami Maharaj: So, that’s the question? What’s, why the order?
+
+Devotee 1: Yeah, because…
+
+HH Bhanu Swami Maharaj: Okay, fine. Yeah. So, we have general knowledge and more particular knowledge. And when you go to school, you learn A, B, C, 1, 2, 3, 4, all that first of all. And similarly, we learn basics of Tattva, etc., from Bhagavad Gita. We get more details in Bhagavatam. And we get the details of Rasa from Caitanya Caritamrita.
+
+11.) Maharaj, the transcendental pastimes of the Lord in Vrindavan or even at Dwaraka are relishable for persons who have already qualified themselves in advanced spiritual techniques. In that case, how children benefit from the story of Krishna?
+
+HH Bhanu Swami Maharaj: How?
+
+Devotee: Children get benefit by hearing the stories of Krishna because they are not qualified.
+
+HH Bhanu Swami Maharaj: They are not qualified?
+
+Devotee: Yeah.
+
+HH Bhanu Swami Maharaj: Well, we don’t know if they are qualified or not. If they are not qualified, probably they won’t listen. If they are qualified, they will be eager to hear.
+
+12.) How to train a devotee to follow Lord Caitanya from the beginning of his devotional life? There is stress on Guru and Prabhupada, but not so much on Lord Caitanya.
+
+Well… So usually on our altars we have Lord Caitanya. And before we worship Radha Krishna, you have to worship Lord Caitanya. That’s another rule. And shortly after Prabhupada finished Bhagavad Gita, then he wrote teachings of Lord Caitanya. So we can’t really say that he doesn’t present Lord Caitanya to devotees in general, he does.
+
+13.) The term Swayam Bhagavan does not come in Bhagavad Gita. It comes only in Bhagavatam. Is it correct? Swayam Bhagavan term appears only in Bhagavatam and it doesn’t appear in Bhagavad Gita. Is it correct?
+
+True.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/2/4/6": { title: "SB_2.4.6 \u2013 Importance of realizing Lord Krsna\u2019s Supreme spiritual stature from phenomenal creation !", video: "b1BhsHKsZhY", article: `Srimad Bhagavatam – 2.4.6 | HH Bhanu Swami Maharaj | ISKCON Chennai | June 22, 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 2 Chapter 4 Verse 6.
+
+SB 2.4.6
+
+bhūya eva vivitsāmi
+bhagavān ātma-māyayā
+yathedaṁ sṛjate viśvaṁ
+durvibhāvyam adhīśvaraiḥ
+
+Synonyms
+
+bhūyaḥ — again; eva — also; vivitsāmi — I wish to learn; bhagavān — the Personality of Godhead; ātma — personal; māyayā — by the energies; yathā — as; idam — this phenomenal world; sṛjate — does create; viśvam — universe; durvibhāvyam — inconceivable; adhīśvaraiḥ — by the great demigods.
+
+Translation
+
+I beg to know from you how the Personality of Godhead, by His personal energies, creates these phenomenal universes as they are, which are inconceivable even to the great demigods.
+
+Purport
+
+In every inquisitive mind the important question of the creation of the phenomenal world arises, and therefore for a personality like Mahārāja Parīkṣit, who was to know all the activities of the Lord from his spiritual master, such an inquiry is not uncommon. For every unknown thing, we have to learn and inquire from a learned personality. The question of creation is also one of such inquiries to be made to the right person. The spiritual master, therefore, must be one who is sarva-jña, as stated herein before in connection with Śukadeva Gosvāmī. Thus all inquiries on God which are unknown to the disciple may be made from the qualified spiritual master, and here the practical example is set by Mahārāja Parīkṣit. It was, however, already known to Mahārāja Parīkṣit that everything we see is born out of the energy of the Lord, as we have all learned in the very beginning of Śrīmad-Bhāgavatam (janmādy asya yataḥ). So Mahārāja Parīkṣit wanted to know the process of creation. The origin of creation was known to him; otherwise he would not have inquired how the Personality of Godhead, by His different energies, creates this phenomenal world. The common man also knows that the creation is made by some creator and is not created automatically. We have no experience in the practical world that a thing is created automatically. Foolish people say that the creative energy is independent and acts automatically, as electrical energy works. But the intelligent man knows that even the electrical energy is generated by an expert engineer in the localized powerhouse, and thus the energy is distributed everywhere under the resident engineer’s supervision. The Lord’s supervision in connection with creation is mentioned even in the Bhagavad-gītā (9.10), and it is clearly said there that material energy is a manifestation of one of many such energies of the Supreme (parāsya śaktir vividhaiva śrūyate). An inexperienced boy may be struck with wonder by seeing the impersonal actions of electronics or many other wonderful things conducted by electrical energy, but an experienced man knows that behind the action is a living man who creates such energy. Similarly the so-called scholars and philosophers of the world may, by mental speculation, present so many utopian theories about the impersonal creation of the universe, but an intelligent devotee of the Lord, by studying the Bhagavad-gītā, can know that behind the creation is the hand of the Supreme Lord, just as in the generating electrical powerhouse there is the resident engineer. The research scholar finds out the cause and the effect of everything, but research scholars as great as Brahmā, Śiva, Indra and many other demigods are sometimes bewildered by seeing the wonderful creative energy of the Lord, so what to speak of the tiny mundane scholars dealing in petty things. As there are differences in the living conditions of different planets of the universe, and as one planet is superior to others, the brains of the living entities in those respective planets are also of different categorical values. As stated in the Bhagavad-gītā, one can compare the long duration of life of the inhabitants of Brahmā’s planet, which is inconceivable to the inhabitants of this planet earth, to the categorical value of the brain of Brahmājī, also inconceivable to any great scientist of this planet. And with such high brain power, even Brahmājī has described in his great saṁhitā (Brahma-saṁhitā 5.1) as follows:
+
+īśvaraḥ paramaḥ kṛṣṇaḥ
+sac-cid-ānanda-vigrahaḥ
+anādir ādir govindaḥ
+sarva-kāraṇa-kāraṇam
+
+“There are many personalities possessing the qualities of Bhagavān, but Kṛṣṇa is the supreme because none can excel Him. He is the Supreme Person, and His body is eternal, full of knowledge and bliss. He is the primeval Lord Govinda and the cause of all causes.”
+
+Brahmājī admits Lord Kṛṣṇa to be the supreme cause of all causes. But persons with tiny brains within this petty planet earth think of the Lord as one of them. Thus when the Lord says in the Bhagavad-gītā that He (Lord Kṛṣṇa) is all in all, the speculative philosophers and the mundane wranglers deride Him, and the Lord regretfully says:
+
+avajānanti māṁ mūḍhā
+mānuṣīṁ tanum āśritam
+paraṁ bhāvam ajānanto
+mama bhūta-maheśvaram
+
+“Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be.” (Bg. 9.11) Brahmā and Śiva (and what to speak of other demigods) are bhūtas, or powerful created demigods who manage universal affairs, much like ministers appointed by a king. The ministers may be īśvaras, or controllers, but the Supreme Lord is maheśvara, or the creator of the controllers. Persons with a poor fund of knowledge do not know this, and therefore they have the audacity to deride Him because He comes before us by His causeless mercy occasionally as a human being. The Lord is not like a human being. He is sac-cid-ānanda-vigraha, or the Absolute Personality of Godhead, and there is no difference between His body and His soul. He is both the power and the powerful.
+
+Mahārāja Parīkṣit did not ask his spiritual master, Śukadeva Gosvāmī, to narrate Lord Kṛṣṇa’s pastimes in Vṛndāvana; he wanted to hear first about the creation of the Lord. Śukadeva Gosvāmī did not say that the King should hear about the direct transcendental pastimes of the Lord. The time was very short, and naturally Śukadeva Gosvāmī could have gone directly to the Tenth Canto to make a shortcut of the whole thing, as generally done by the professional reciters. But neither the King nor the great speaker of Śrīmad-Bhāgavatam jumped up like the organizers of Bhāgavatam; both of them proceeded systematically, so that both future readers and hearers might take lessons from the example of the procedure of reciting Śrīmad-Bhāgavatam. Those who are under the control of the external energy of the Lord, or in other words those who are in the material world, must first of all know how the external energy of the Lord is working under the direction of the Supreme Personality, and afterwards one may try to enter into the activities of His internal energy. The mundaners are mostly worshipers of Durgā-devī, the external energy of Kṛṣṇa, but they do not know that Durgā-devī is but the shadow energy of the Lord. Behind her astonishing display of material workings is the direction of the Lord, as confirmed in the Bhagavad-gītā (9.10). The Brahma-saṁhitā affirms that Durgā-śakti is working by the direction of Govinda, and without His sanction the powerful Durgā-śakti cannot move even a blade of grass. Therefore the neophyte devotee, instead of jumping at once to the platform of transcendental pastimes presented by the internal energy of the Lord, may know how great the Supreme Lord is by inquiring about the process of His creative energy. In the Caitanya-caritāmṛta also, descriptions of the creative energy and the Lord’s hand in it are explained, and the author of Caitanya-caritāmṛta has warned the neophyte devotees to be seriously on guard against the pitfall of neglecting knowledge about Kṛṣṇa in regard to how great He is. Only when one knows Lord Kṛṣṇa’s greatness can one firmly put one’s unflinching faith in Him; otherwise, like the common man, even the great leaders of men will mistake Lord Kṛṣṇa for one of the many demigods, or a historical personality, or a myth only. The transcendental pastimes of the Lord in Vṛndāvana, or even at Dvārakā, are relishable for persons who have already qualified themselves in advanced spiritual techniques, and the common man may be able to attain to such a plane by the gradual process of service and inquiries, as we shall see in the behavior of Mahārāja Parīkṣit.
+
+HH Bhanu Swami Maharaj:
+
+So in this verse, Parīkṣhit Mahārāja is asking about how the Supreme Lord creates the material world. And he mentions also this, even the devatas have difficulty understanding how this takes place. So not only is the spiritual world difficult to understand, even the material world is difficult to understand. So, of course, the material world is somewhat easier to understand than the spiritual world because we’re familiar with it. But still, both are very difficult to understand.
+
+So human beings who are less inquisitive do not inquire too much about this material world. So they just utilize it for their own purposes. But then the more inquisitive person begins to ask questions. How does the material world work? and why does it work like this, and is somebody controlling how it works? A lot of these questions begin to be asked because the human being sees that he is very temporary. We live and we die, and then what happens after we die? So this is a question which even primitive human beings begin to ask. We don’t see this question asked among animals, but we see it among human beings. And thus we see that there are always death rituals among human beings.
+
+So the human being inquires, why do we die? What happens when we die? Why is the world changing like this? So then they investigate in many ways. And we see all different societies have stories of how the world is created and why it’s acting like it does. And by and large they also conclude there is some other person controlling everything. Of course, they may say there are many persons controlling so that we have worship of many devatas. And then we have those who conclude, no, not many, ultimately there is one supreme person controlling. And then we worship that person in order to get his mercy. So this is a common feature in human civilizations.
+
+Then we get a separate inquiry taking place. So this is a more practical question. We just want to know how things in this material world work and then we develop sorts of mechanical things and we develop science based on that. So, we see different societies developing tools and machines eventually. And then with each invention that leads to other inventions. Many societies in ancient times didn’t have the wheel. How did they transport things? They dragged it on the ground [Laughs]. Then at a certain time somebody seemed to discover the wheel and other people took that up and then that started another type of invention thing with making chariots and carts and things and we get development based on that [Laughs].
+
+So we see the development of different sciences like mathematics very early in civilizations also based on just looking up the world and kind of figure things out [Laughs]. And then we see them using numbers. And we see in the Vedas they have huge numbers. And with these huge numbers they are calculating huge quantities of years like Brahma’s lifetime etc [Laughs]. So there are many ways in which we can look at this world. We can go in the path of, we call, religion and philosophy or we can go in the path of science. They are not necessarily contradictory. Of course, in the modern world they seem to be contradictory. So if you believe in science you don’t believe in God. That’s kind of natural for people. However, in ancient India that was not so. So we have great scientists and mathematicians, they were also Brahmanas studying the Vedas. So in any case the human being keeps asking all sorts of questions and he wants answers.
+
+Some people are attracted to science because we ask questions and we can generally get some practical answer and practical use of that knowledge. But that does not mean we should reject the inquiry about Supreme Lord. Because the purpose of that inquiry is quite different. The purpose of science is to give us some temporary benefits, material benefits. And spiritual inquiry is to try to get some satisfaction which is eternal. It’s trying to solve the problem of why we are alive. What is death? Why do we have to die? And that’s not a question that science addresses at all. So the two things, the two different types of knowledge can co-exist together without any conflict. However, if we follow the Vedic tradition, if we are to follow the idea of spiritual life, then we accept scripture as the source of knowledge. Scientists will not accept scriptures as the source of his knowledge. But their knowledge has a completely different purpose. So if you are accepting scripture for spiritual knowledge, there should be no objection. So, it is by getting this scriptural knowledge that we get conclusive answers about birth and death and who is God, etc.
+
+So, we ask questions about God in relation to our present condition. So, we are living and we have a body and we are living and we will die. So, why does God do this, gives me this particular body? And then a more advanced question, why does the Lord create this whole material world with all these bodies? And then the question, how does he create all this? So the scriptures give an answer to that. So, it is a very fundamental question and very basic answer is given by scripture. Once we get some understanding of how the Lord is powerful and inconceivable and how he creates this material world, then we can begin to discuss other topics about the Lord. So, once we establish this position of His great powers, then we can ask questions about what is His form and what does He do besides create the material world. So, that is what Srila Prabhupada is explaining in this purport. First, we have to have a basic understanding of who is God and His number one position in relation to at least material world. And in that knowledge, then our conclusion is, the Lord is not matter at all. He is a spiritual being and He is completely independent of matter and not contaminated by it at all. And He creates the material world not out of whimsy but with a certain purpose and out of His mercy. And that Lord is one. After we get the acceptance of that knowledge, then we can go on to further knowledge. And if we don’t establish the position of Supreme Lord first and we go to the other topics, we will all think those things are material things.
+
+So as he quotes from Bhagavad Gita, the foolish people think that I am simply a human body doing human activities. So when they hear the activities of Krishna in the 10th canto where he is herding cows, then they will think this is material. So, therefore we do have to establish the position of the Supreme Lord first. And the convenient way of doing this is by showing His power in relation to this material world. And thus, Parikshit Maharaj and Sukadeva Goswami, for 9 cantos, are discussing the material world. There are different topics in Bhagavatam, like Sarga, Visarga, Sthana, Uti, Poshana, Manvantara etc, Ishanukatha, etc., and destruction. All of this got to do with matter [Laughs]. However, it is matter but how the Lord controls this, that is what is important.
+
+So, the material world is all planned out by the Supreme Lord and through Brahma, according to His plan, everything is created and maintained according to His will. And then according to His will it is all destroyed. And through this, the Lord remains eternal and perfect. So, that is established through many of these cantos. And then in the 10th canto, we have a description of Krishna’s pastimes. And so, when we read those pastimes, we understand that this is not the activities of a normal material person. This is the Supreme Lord who is also manifesting all the material worlds.
+
+So, Parikshit Maharaj wants to know all about the topics of the Supreme Lord. So, he begins by asking questions like that. How does the Lord create the material world? It is a topic about the Lord. Of course, it is also a topic about matter. But it is also interesting for Parikshit Maharaj, because it is also a glorification of the Supreme Lord.
+
+Hare Krishna.
+
+Q & A :
+
+1.) Maharaj, in the purport Srila Prabhupada has said that one should gradually hear about Supreme Lord first creation and other things then go to 10th Canto and also Prabhupada was saying that this Parikshit Maharaj is setting example like he started first hearing about creation, and then Krishna lila something like, Vishwanath was saying. So, my question is that, Parikshit Maharaj is a pure devotee, by birth, he is a devotee. For him, what is the necessity of knowing creation and other things? Immediately, he can go to hear about the pastimes of Krishna, which can increase our intense devotion. And also, Maharaj says, as he is a devotee, he is not thinking about others. If I ask this question, in the future, people might get benefit by hearing this?
+
+Well, it is similar to Arjuna asking questions in Bhagavad Gita. He also knows everything, but still he is asking about soul and body and everything else [Laughs]. Of course, it is also said that he was put under ignorance so that he didn’t want to fight etc. specifically by the Lord and then to express his bewilderment so that topics could be discussed. So, we can say that Parikshit more or less is taking the role of someone who doesn’t know. Therefore, he has to ask, what am I supposed to do when I am dying? Ultimately, in one sense, he knows already [Laughs].
+
+2.) In the purport Srila Prabhupada is saying that different scientists or philosophers, they are also trying to know the creation of the Supreme Lord, which is the energy of the Supreme Lord. But, by trying to know through the material senses, it is quite impossible for them to reach that conclusion. But, due to their egoistic idea, they never take the help of scriptures like Srimad Bhagavatam or Vedas. So, how is it possible for them? Is it really, because Prabhupada in one of the purport has said that once science will advance, they will try to count even the atoms and molecules also. But, what is the benefit of doing that? Because, unless and until they know the Supreme Lord, they try to know the creation through the scriptures like Bhagavad Gita, Bhagavatam or Vedas?
+
+So, the basic principle of modern science is to base your conclusions on observation. And you can combine that with inference or logic or whatever, and that sum total is called knowledge. And everything else other than that is not knowledge. And so, because scripture has not been subjected to observation or whatever, therefore it is rejected as knowledge. However, the problem in science is that ultimately, they are being forced to admit that that type of knowledge based on your observation may not be everything. They assume that this matter is matter and that’s it. But, if matter is controlled by Supreme Lord in consciousness, then how you can know matter completely? You cannot. So, therefore you get stuck. And that’s what modern science is stuck with. So, they found that you cannot separate matter from consciousness. So, that is a problem [Laughs]. They have not discovered a method of investigating and observing consciousness, so that’s a problem there [Laughs]. So, in that sense, science is stuck [Laughs].
+
+3.) Hare Krishna Maharaj. People nowadays Maharaj, they are following this concept called law of attraction, like visualization. People are following it like they have their conception is they have higher power, but universe is giving it for them. They don’t have any concept of God. Their thinking of higher power is universe. How true is this process? Is it bona fide? Is it mentioned in any scriptures?
+
+So, in Bhagavad Gita, Krishna says, whatever you think of, you attain. Similar concept. So, if you worship devatas, absorb yourself in devatas, you go to devatas, if you think of ghosts, you go to ghosts, etc. Of course, we do see that Krishna also says that you have to control your thoughts, you have to control your mind, you have to control your senses. And whatever your mind is thinking, your senses are going in that direction. And if you learn to control your mind, then you can actually attain something based on that.
+
+However, there also is a limit because we do have karma. So, you can think of anything you want, you don’t necessarily get it, unless your karma also permits it. But, if karma permits, but you don’t even think of it, then you still don’t get it. So, in the material world, we can say this operates and it allows people to, let’s say, fulfill their ultimate limit of their karmas [Laughs]. And the corresponding rule is that, or the observation is that most people are not even utilizing the potential of their karma [Laughs].
+
+4.) Generally, we see few devotees bring deities and worship at home without installing them. So, when we say that technically they are not deities, they get disappointed. So, how to deal this case, Maharaj?
+
+So, they are not deities as accepted by Pancharatra. And if they want to be accepted by Pancharatra, then they should install the deities. Of course, we know that ultimately the Yuga Dharma is chanting the Holy Name. And the worship of Kali Yuga is chanting the Holy Name. So, that’s the ideal and simplest way in which we can worship Krishna. And we can do other things and have deities, etc. But that’s secondary to chanting the Holy Name.
+
+5.) Maharaj, to what extent a devotee should tolerate? What is the maximum limit a devotee should tolerate in any circumstance, material or spiritual? 
+
+It depends on the problem. Anyway, ultimately, we have to tolerate everything because we cannot avoid many things. So, what to do? The main point is, we should not be disturbed. Of course, instruction of Krishna in the second chapter is, summer and winter, everything passing, whatever, and we should not lament, we should tolerate. In terms of Bhakti Yoga, even in the preliminary rules of Bhakti among the 64 angas, one of them is, don’t be overcome by lamentation.
+
+6.) Maharaj, I really appreciate today’s class, how you explained that the role of religion and science is there, and how science is limited, and how they should not object to the religiosity or the spiritual aspect. Maharaj, Prabhupada also laid quite an emphasis on devotees, who are scientists to establish some kind of a connection with spirituality and science. So, but we see there is not much emphasis in individual temples like Iskcon Chennai. I mean, we don’t really have much emphasis to promote or to talk about it. Recently, I was going through an article, it was not by a devotee, but by Jewish scientists. So, they were talking about that how the science says that from chaos came order. And then they were saying that this is against the second law of thermodynamics, where it says the entropy only increases, which means it comes from low entropic state to a higher entropic state. So, the point they were making is that order was there in the beginning, which indicates an intelligent source. So, what is your opinion, Maharaj? How much should we consider that? Is that an important aspect for outreach? But we see many people don’t even understand many things in science. They just have a very broad laymanish understanding of science, Maharaj. Hare Krishna.
+
+So, preaching to scientists is a very specialized field. You could also preach to mathematicians or to archaeologists or to sociologists or whatever, all very specialized fields. And of course, even science has different levels. So, we have like popular scientists represented in magazines. Then we have very elevated scientists where Nobel Prize winners and [Laughs] people like that, Phds are discussing in private all sorts of physical theories. So, you can preach to scientists on different levels even and it’d be quite different. But then the higher you go, the more selective it is and the less people involved [Laughs]. So, of course, one of the reasons why Prabhupada wanted this is to convince scientists ultimately that they should accept that matter is not separate from consciousness, you cannot separate the two things. And that is one step towards making the scientists into theists in one sense [Laughs]. One step. It’s not that complete, one step [Laughs].But it’s also, as I said, very specialized.
+
+7.) So, any implication, Maharaj? I mean, that I understand, Maharaj. But for the general population coming to the temple, so should that also become one of our focus? Because laymen, they have some appreciation for science.
+
+And then you have to preach on that level. You can’t preach on the higher level of science. So, you have to preach on a very general level [Laughs]. So, that’s okay, but that won’t be accepted by people on the higher level [Laughs]. You have to be very specialized to preach to those people.
+
+8.) Actually, Maharaj, the last Discover Yourself program that we have done previously as well, in the first, second session when we talk about body and soul, we discussed near-death experiences and past life. And from there we take out that there are questions which science is not able to answer. And because of the way it draws knowledge or it acquires knowledge. So, that actually cut a lot of ice with people. They were all laymen, but it cut a lot of ice with them. And then they actually moved on and they accepted the, okay, there is another thing that we should accept to understand. 
+
+So, that’s a level we can speak on to normal people, but people who are into pure science won’t accept that. Because it’s all observation of our experiences only. It’s not actually something you can quantify in terms of your experiments [Laughs]. But it does raise the question of what is the limit of science and its ability to observe and how we observe, etc. And how much we can take testimony of near-death experience or whatever like that as a fact. So, then we’re in a kind of grey zone [Laughs] because it’s testimony, but then we get so much testimony that maybe it is factual. But it’s experience rather than observation. So, that’s why, you know, and not external observation. But then that also questions the fact that is science itself only objective observation? And maybe it isn’t [Laughs]. Maybe it’s also a little subjective when we’re looking at these things in a certain way, with microscope or whatever. So, the whole idea of how we observe and what are, because we have to be conscious to examine things. So, that consciousness also somehow gets filtered, whatever. So, the whole idea of science gets challenged.
+
+Devotee : Actually, Maharaj, yes, even from the testimonies which are very subjective, actually we, as devotees also, we have to deal with it very carefully. Because if you look at specific cases of near-death experiences, many of them say it was a very wonderful experience. And they go on to describe light, this, that, very peaceful, which is very, which I would say is contrary to what we would expect at death or where the person would actually go. So, usually most people with this sinful background, that’s the kind of experience they should not be having. So, I mean, as devotees also, we should be very careful what part to take and how much to talk about it.
+
+9.) Hare Krishna Maharaj, this question is with reference to Saturday’s class where we were reading about Madhavendra Puri and how he was telling, that give up ritualistic activities, Varanashramic duties, etc. So, Maharaj, my question is that, Srila Prabhupada, at one point, he made a statement that half of my work is still incomplete and that is to establish the Varanashram. So, when Prabhupada talks about Varanashram, what would he mean? Because he would not, I mean, he would know what is there in NOD and what Madhavendra Puri says, and yet Prabhupada is talking about establishing Varanashram. So, what would he mean by that, Maharaj?
+
+So, there are strengths of statements. What Prabhupada said in a lecture, for instance, what he said is a comment to somebody, and even then, is it recorded or not? If somebody said that he said, it would make it weaker. So, if he said it and it is recorded, it would have more strength. If he said it in a lecture then it would have more strength. If actually it is written down by Prabhupada, it would have even more strength. But even the written word, may be of different strength, because we have letters written to people, thats may be of less strength. And if it is written in a book, then it would have great strength. So that one statement actually is in the weakest category, because it was somebody said, and it wasn’t recorded anywhere. Of course, then we can take that in context and Prabhupada talks about Varnashram in different places. Some places like Bhagavatam the whole sections of Kapila dev’s teachings or teachings to Uddhava and Prahlad’s teachings but that doesn’t necessarily mean, that’s what we do, and actually gets rejected by Bhagavatam itself [Laughs]. So it gives all the rules for how the Brahmana Grihastha should live by going to the market, after the grains being swept up, and he takes the little particles, and he takes that home, and then he eats that with his children and his wife. So Prabhupada never says, we do that [Laughs].
+
+So all those rules for the different varnas, and different ashrams are there, but how much of that Prabhupada say we should follow? In general, we don’t follow any of that [Laughs]. And of course, in Bhagavatam itself, there are so many statements that if you take to Bhakti, then you are not obligated to do svadharma at all. So, though Bhagavatam itself, and Prabhupada also translating and commenting, recommends Varanashram in one sense, at the same time, Bhagavatam itself, and Prabhupada also reject it [Laughs].
+
+So, apart from the direct scriptural statements, and Prabhupada’s commentaries, and translations, etc., on Varnashram, then we’ll have Prabhupada’s statements, in books itself, which will be either, it’s very nice, or we don’t need it, and we get two [Laughs]. So, sometimes in the books, and sometimes in his letters also, then he says, oh yes, very good, we should follow, and in other letters, in other places in books, no, not necessary [Laughs]. So, I don’t know, if anyone is seriously thinking, all the quotes that Prabhupada gives on Varanashram, positive and negative, then gives a numerical value, how much is plus, how much is not plus [Laughs], and probably you end up with half-half.
+
+And, of course, one place also, I think in third canto or second canto, he says, and then, yes, Varanashram, very good, and then the way we practice Varanashram, is by chanting Hare Krishna [Laughs]. So, when Prabhupada says, okay, half my work is undone, then we should establish Varanashram, then, what does that mean? So, what does it mean, and one thing is, is it for devotees, or is it for general public? And that’s quite different. And you have to decide, because it’s quite different how you want to apply it. And you can’t say both, you can’t say one or the other. So, but there’s no answer to that. What did Prabhupada mean by that statement? And is it a final statement? So, it’s unanswered. So, did he really want it or not want it? And is it for devotees or not devotees? So, then, in that case, what do we do [Laughs]? So, it’s questionable. And then, of course, if it’s for devotees, what aspect of Varanashram is he talking about that you need? Because, obviously, there’s so many contradictory statements that, you know, we’re practicing Bhakti, we can give up svadharma, which means your Varanashram duties. So, then, which ones do we follow? And, of course, the statement here, forget about my sandhya vandana, all these rituals, obviously, he’s not talking about those, and most of our Acharyas, like Bhaktivinoda Thakur, Bhaktisiddhanta, also say, Ok, what’s the use of sandhya vandana and all this sort of stuff. So, therefore, what does it mean to follow?
+
+And, of course, some devotees say, Ok, Prabhupada wants to establish us as Brahmanas. But then, what does that mean? To follow Sandhya vandana? But then it’s completely contradicted by this. So, what aspect of Brahmanism does he want? Read the Vedas? But never Prabhupada recommended that. So, instead of reading the Vedas, we read Bhagavatam. But is that a brahminical activity? It’s for everybody [Laughs]. So, what does the Varnas mean in ISKCON? Also questionable. And so, of course…[Laughs] So, what does it all mean, this whole idea of Varnashram, being a brahmana and all this? Questionable.
+
+10.) Also, Maharaj, the next question would be that how would the varna be assigned?
+
+Oh, that’s the whole question also [Laughs]. In one sense, it’s all temporary. They tried to do that in Hungary because they have a farm there and they’re seriously trying to follow that instruction. And they tried various methods of determining varna and I think three different ways over many years. And they say it all failed. It didn’t work. Whatever they did, it didn’t work. Of course, ashrama is not difficult. We can set up a simple type of ashrama, Varnashram, in that sense. But the Varnas is very difficult to categorize people into.
+
+11.) Also, Maharaj, if the Varna is assigned, like you’re giving the example of Hungary, so if somebody is assigned, let’s say, a Shudra or a Vaishya, so he stays there for this lifetime and then assume that next lifetime he’ll be born in a devotee Varnashramic system and he’ll progress there.
+
+Well, I don’t think we want that type of system also and for ISKCON I don’t think Prabhupada ever envisioned that either. It doesn’t mean that either. That’s why the whole concept is what did he mean by that? Is it for devotees or not devotees? If it’s not for devotees, it’s much simpler. But then again, nobody’s probably going to follow anyway. Who wants to follow that system in the society? You can get them to chant Hare Krishna, you may get them to stop eating meat, but to follow a particular varna according to that system, nobody is going to follow in the modern day. It’s more difficult than anything else. So it is easier just to tell everybody to chant the Holy Name [Laughs].
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
+  "/sb/2/4/7": { title: "SB 2.4.7 \u2013 Acintya-bhed\u0101bheda : The perfect, imperfects and the sweet indirect bond between them !", video: "g-SXCN5blXs", article: `Srimad Bhagavatam 2.4.7 | HH Bhanu Swami Maharaj | ISKCON Chennai | 23 June 2026
+
+jaya rādhā-mādhava kuñja-vihārī
+gopījana-vallabha giri-vara-dhārī
+yaśodā-nandana vraja-jana-rañjana
+yamunā-tīra-vana-cārī
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 2 Chapter 4 Verse 7.
+
+ŚB 2.4.7
+
+yathā gopāyati vibhur
+yathā saṁyacchate punaḥ
+yāṁ yāṁ śaktim upāśritya
+puru-śaktiḥ paraḥ pumān
+ātmānaṁ krīḍayan krīḍan
+karoti vikaroti ca
+
+Synonyms
+
+yathā — as; gopāyati — maintains; vibhuḥ — the great; yathā — as; saṁyacchate — winds up; punaḥ — again; yām yām — as; śaktim — energies; upāśritya — by employing; puru-śaktiḥ — the all-powerful; paraḥ — the Supreme; pumān — Personality of Godhead; ātmānam — plenary expansion; krīḍayan — having engaged them; krīḍan — as also personally being engaged; karoti — does them; vikaroti — and causes to be done; ca — and.
+
+Translation
+
+Kindly describe how the Supreme Lord, who is all-powerful, engages His different energies and different expansions in maintaining and again winding up the phenomenal world in the sporting spirit of a player.
+
+Purport
+
+In the Kaṭha Upaniṣad (2.2.13) the Supreme Lord is described as the chief eternal being amongst all other eternal individual beings (nityo nityānāṁ cetanaś cetanānām) and the one Supreme Lord who maintains innumerable other individual living beings (eko bahūnāṁ yo vidadhāti kāmān). So all living entities, both in the conditioned state and in the liberated state, are maintained by the Almighty Supreme Lord. Such maintenance is effected by the Lord through His different expansions of Self and three principal energies, namely the internal, external and marginal energies. The living entities are His marginal energies, and some of them, in the confidence of the Lord, are entrusted with the work of creation also, as are Brahmā, Marīci, etc., and the acts of creation are inspired by the Lord unto them (tene brahma hṛdā). The external energy (māyā) is also impregnated with the jīvas, or conditioned souls. The unconditioned marginal potency acts in the spiritual kingdom, and the Lord, by His different plenary expansions, maintains them in different transcendental relations displayed in the spiritual sky. So the one Supreme Personality of Godhead manifests Himself in many (bahu syām), and thus all diversities are in Him, and He is in all diversities, although He is nevertheless different from all of them. That is the inconceivable mystic power of the Lord, and as such everything is simultaneously one with and different from Him by His inconceivable potencies (acintya-bhedābheda-tattva).
+
+HH Bhanu Swami Maharaj:
+
+So, this is the request of Pariksit Maharaj that Sukadev explain how the Lord is able to control everything even though He is different from everything. So, in the material world, we control something, and we manage something, but we are contacting that other thing, and we get contaminated by it. We can’t manage it, and at the same time, remain completely detached from it. So, how does the Lord manage to manifest His whole material creation, which is greater than any other management, and still remain completely untouched by it?
+
+Of course, if we take the example of a person making a pot, he makes the pot out of clay, and his hands get dirty. But of course, you could wear gloves, or so many things, so physically, you can separate yourself a little bit from what you are creating. But still, you create the pot, and the pot is created because you thought of making a certain shape, and certain design, and if the pot is faulty, you also get the blame. So, whatever fault is in the material world, we can blame on Supreme Lord. If the Jivas are suffering, blame it on Supreme Lord. If we say it’s because they are sinful, then blame the sin on the Supreme Lord.
+
+So, there is a problem when we have Supreme Lord and other things. How does the Lord relate to those things, without getting affected in any way? So, we cannot apply material logic to Supreme Lord. So, because we have the example of the potter and the pot, and the faults related to them, we cannot say the same type of relationship as with the Supreme Lord and His creation. At the same time, we never want to say that the Lord does not create the material world, and does not control it. This, of course, is one way of solving the problem. We can say, Supreme Lord exists, perfect, and the material world, imperfect. It’s all illusion. So, therefore, the Lord doesn’t have to react with it all, because it’s illusory. So, that is the mayavad solution to the problem of the Lord and contamination. So, of course, the scriptures tell us, yes, okay, the Lord is illusory in one sense, but at the same time, there are so many statements, like the whole Bhagavatam, talking about creation, and never says it’s illusion.
+
+So, all of the Vaishnavas accept that the material world is real. It’s not illusory. The Supreme Lord is real, but matter is real also. But then, the Vaishnavas have to explain, how does the Lord relate to the material world? Okay, first step is to go to scripture itself and see what scripture says. So, of course, in Bhagavatam, we get an explanation. So, part of that explanation is here explained in the purport, the Lord is there, and He acts through His Shaktis. So, His material Shakti manifests this material world. And so, He is one step removed from direct interaction. At the same time, when we talk of Shakti, we have to talk of the possessor of the Shakti, the Shaktiman. The Shakti does not exist independently of everything. So, there is a relationship with the material world, but it is indirect via the material Shakti. So, therefore, the Shakti is part of the solution to that problem.
+
+Of course, we can say, well, the Shakti is directly related to the Lord, so still He gets contamination [Laughs]. But, at least, the contamination that we are familiar with in the world, such as ignorance, and sinful activity, and violence, etc., that is part of the matter, so it is not directly related to the Lord. So, apart from the idea of Shakti, then we also have the relationship of the Lord with His Shaktis. And we have a concept of the Shakti and the Shaktiman are non-different and at the same time, they are different. So, they are different, just like Radha and Krishna are different, because we see they have different forms, but at the same time, we say they are one.
+
+So, in explaining in this way, this is a way of explaining the contradictory statements of the Upanishads. Sometimes, I speak everything as one. Only Brahman exists. This, of course, is what Shankaracharya emphasizes. But then we also have opposite statements in the Upanishads. The Lord said, let there be many, and He created all the material worlds and all the bodies, etc. So, we have statements of oneness, but we also have statements of many. So, then it is the duty of the Acharya to explain how to solve the contradiction. So, one way is to say, okay, the real truth is oneness. And all statements of many are metaphorical only.
+
+Or, we can take the opposite and say, okay, we will emphasize difference. Lord is there, matter is there, Jiva is there, difference. All that is also stated in the Upanishads, Bhagavatam, Bhagavad Gita, etc. But then, what to do with this oneness statements? So, we can say, those are all metaphorical.
+
+So, in this way, we will have great arguments between followers of Advaita and followers of Dvaita and they will argue who is interpreting what [Laughs]. And off course we can interpret one or the other.
+
+So, Lord Caitanya takes another strategy and says lets accept both statements. So, we will not interpret the oneness as saying it is metaphorical, nor we will say that the duality is metaphorical. But, then one is stuck with logical impossibility. How can it be both? And that is the very reason why we either have Advaita philosophy or Dvaita philosophy, because they want to make one superior to the other, so there is no contradiction. So, Lord Caitanya says, well, we have difference, we have non-difference, we have oneness, and we have many. In the material world, that is contradictory. But, for the Supreme Lord and the spiritual world it is not contradictory. So, it is often stated that supreme lord can do the impossible. So, in other words, He has certain Acintya, or inconceivable power. And that particularly applies to the fact that contrary in the material world, or contrary states, like oneness and difference, can exist simultaneously. So, in that manner, we do not have to interpret some of the statements as metaphorical. So, that is a solution that Lord Caitanya has come up with to solve this problem of the contrary statements of scripture.
+
+Of course, our Acharyas also say that, yes, simultaneously one and different, but there is a little more emphasis upon the difference. So, we have this philosophy to accept the reality of material world and Jivas. And at the same time, we want to keep the Lord completely aloof from everything in the material world. So, keeping the Lord aloof, this is why there is a difference. But, because He controls everything, then this is the oneness.
+
+So, in terms of the material creation, Pariksit Maharaj is asking this question, how the Lord uses His different energies for the material creation? So, one energy is material energy, external energy. So, all material world is all that energy. But it does not operate independently, it is under the Lord’s control. So, different from the Lord, but not independent of the Lord. But the material world does not exist by itself. It is there because of Jivas. So, who are the Jivas? Another Shakti of the Lord. The Tatastha Shakti. They are very distinct from the material Shakti because they are conscious. But they are also dependent on the Supreme Lord because they are simply Shakti. So, when we talk about the material world, we are actually talking about two Shaktis. That is Jivas and matter.
+
+So all the planets are created for the jivas, all the bodies are created for the jivas. So, we have all discussion in the 3rd canto, 4th canto and 5th canto all these different creations. So, creation is for the jivas but ultimately its all arranged by the Supreme Lord. But in supervising everything the Lord also does it indirectly. Of course, first we have His Shakti, not Himself directly but through His Shaktis. And then He acts through certain Jivas, the Devatas to help supervise the material creation and maintenance. So, this is another way in which the Lord exerts His control but indirectly through Jivas. At the same time, the Lord also enters into the material world as Garbhodakasayi Vishnu and Ksirodakasayi Vishnu.
+
+And He also appears as Avatars. But though He appears directly through His expansions of Vishnu and the Avatars, still, He is completely untouched by anything. And why does the Lord enter in like this? Because of the Jivas.
+
+So, this question about how the Lord creates the material world, etc., also involves the relationship between matter, Jivas and the Supreme Lord. So, it shows how the Lord controls everything, He also takes an interest in it, but He is completely untouched by it. Hare Krishna.
+
+Q & A : 
+
+1.) So here, Pariksit Maharaj is asking regarding this, how Supreme Lord, you know, by using His energies to do creation, destroy everything. But, you are saying that, although these Advaitas, they don’t accept the energy. Then, how do they explain the world, which is we see in the material world? Because, we see them in the whole material world, like a whole material is a display of His energy only. But, do they say it like an illusion, that energy is an illusion?
+
+So, for the Advaitavada person, only Brahman exists, nothing else exists, there is no Shakti, there is no reality of anything, even the Jiva. Anything that seems to exist is an illusion. So, matter is illusion, body is illusion and Jiva is an illusion. Only Brahman exists.
+
+Devotee: Suppose, there is a fire. If you keep the hand in the fire, fire will burn. So, can they explain that fire also is illusion, because the burning also illusion.
+
+HH Bhanu Swami Maharaj: All illusion. [Laughs]. So, if you have a dream, in the dream, you may burn your hand and you may hurt. But, it’s an illusion. And you wake up and you say, oh, it’s an illusion. The whole material world is ultimately illusion, everything here. Now, they have what we call virtual reality. You put on these glasses and then you can have this whole thing and you feel like you are in that world. So, whole creation is like that, doesn’t really exist.
+
+Devotee: That means then, Brahman doesn’t create this illusion.Then, who created this illusion?
+
+HH Bhanu Swami Maharaj: So, this is the problem in that philosophy, ultimately, ignorance or illusion. If it’s not real or whatever, but nevertheless, we are in that illusion or whatever. How is it? It seems to be real. If it’s not real, then, you know, why we have this feeling of something at all? And if it is, If illusion is there, then there is no oneness. Because there is Brahman and something else, an illusion of Brahman.
+
+So, in that sense, there is some attack that the Vaishnavas make on that philosophy, that how can there be real oneness if there is illusion? And illusion itself means there is something other than Brahman or more powerful than Brahman.
+
+2.) Hare Krishna Maharaj. We see the invocation mantra of Isopanishad, oṁ pūrṇam adaḥ pūrṇam idaṁ. So, according to that, Lord is complete and whole and whatever emanates from Him is also complete and whole. But we see material world is full of false, ocean of faults. Like, isn’t it contradictory, Maharaj?
+
+So, the perfecteness is that the Lord has different energies including the jiva, material word etc., and He is in perfect control of them. What we perceive as fault in the material world may be our perception of fault. Somebody else may think it’s not a fault [Laughs]. But apart from that, the reason we have the material world as it is for the Jivas who are suffering or whatever is because of the nature of Jivas. So, the Jivas by nature can be subject to ignorance. That’s why they are called tatastha. And because they are in ignorance, they get a material world. And then in illusion, they do activities, they get karma and they suffer. So, that suffering is a result of ignorance and the ignorance is, we can say, part of the Jiva. So, we cannot blame the Lord for that particular suffering and ignorance, it’s the Jiva in ignorance. So, the nature of Jiva is Tatastha. So, he does not have to be ignorant. He can choose to get knowledge.
+
+So, because the Jiva does not choose knowledge, he chooses ignorance, then the fault of the material world and its suffering goes to the Jiva, not to the Lord. Of course, the only fault we can give to the Lord is why he makes us, Jivas at all [Laughs]. The answer to that is, of course, if there is only Supreme Lord there, then where is the bliss? So, the Lord’s bliss arises from Rasa, Rasa arises from difference, Lord and somebody else.
+
+3.) Maharaj yesterday you told not lamenting is an anga of bhakti, So, for a person like me the day doesn’t end without lamenting to the deities about the problems which ever I am suffering. So, lamenting to Krishna about the problem, at least by that way a person thinks about Krishna. So how can we take this, Maharaj, lamenting?
+
+So that anga of Bhakti is there to indicate that in practicing Bhakti we are not too attached to our material conditions. If we are overcome by material emotions including lamentation, obviously it means we are too attached to our material body [Laughs]. So as I previously said, one of the qualifications of a Bhakti is not too much materially attached [Laughs].
+
+4.) Maharaj, if a devotee is satisfied in his own rasa, like for example, on a Sadhaka perspective, he is satisfied in Santa rasa for example. So only on rasa hierarchy, Madhurya is high and Santa is low. So then why I have to aspire for the highest rasa? Why I have to aspire for highest rasa? When a devotee is satisfied in his own rasa, why I have to?
+
+So objectively we have this gradation of rasas according to intensity. But if a particular jiva is attracted to a certain rasa, that becomes the highest for him. And there is no question of striving for something else. And why? Because this is the nature of spiritual satisfaction. So some jivas are satisfied with worshipping Vishnu in Vaikuntha and they don’t aspire for anything else. So from a broad perspective we can say, oh, they are inferior to the inhabitants of Goloka. But for those people living in Vaikuntha, it’s the opposite. That’s the highest. Vaikuntha is the highest [Laughs]. Just like when Gopakumar went to Vaikuntha, he still had his cowherd dress on and everything. He was there. Everyone was looking at him and said, change your clothes. But he on the other hand was not impressed with that place. So therefore he left.
+
+5.) Hare Krishna Maharaj, in the purport of second verse of this chapter, Srila Prabhupada says that we should dovetail all our material assets in devotional service. So those who are coming to the temple, even though they are not practicing devotional service, but they give donation to the temple. So what benefit they will derive from this, Maharaj?
+
+Different types of people can give to the Lord. One who is practicing pure Bhakti also can give to the Lord. However, those who are let’s say borderline, they come to the temple, they pray and they give something, their Bhakti usually is not pure. Nevertheless, they are giving something. So in any case, one should worship the Lord. So the Lord responds and He also gives them if they have material desires and He also purifies them. If one worships the Lord, if one has the desire to worship the Lord, the Lord fulfills that desire.
+
+Devotee : [Not clear].
+
+HH Bhanu Swami Maharaj : Well, they are doing Bhakti in one sense because they are worshipping the Lord, but it’s not on the purest level, that’s all. But by doing that, they become purified.
+
+6.) Hare Krishna Maharaj, Mahaprabhu said goodness and badness are illusion and only God is real. How to understand this, Maharaj?
+
+So, concepts of good and bad, dharma and adharma are part of the material world. So, dharma, we associate with Sattva and adharma, with tamas [Laughs]. But it’s all material. Sattva, Rajas, Tamas is all material. And thus, Paapa and Punya are both part of the material world and ultimately they get rejected. They both create karma. They bind us to the material world. So, in the practice of devotion, we surpass both of these.
+
+7.) In schools to children they teach Sastric studies, they are not telling about Mahaprabhu they are telling the invations of invasions of Arabs, Turks, Britishers, French. Now like the young students, they are fantasizing themselves as Sultans, Britishers. Like, how to preach them, Maharaj?
+
+Well, schools are teaching history. History, of course, is a little bit controversial, because everybody has a different interpretation of history [Laughs]. But even the history put in Bhagavatam, of all the different dynasties, ultimately is all said to be illusion. All those struggles and all of those positions are temporary. So, instead of striving for the temporary, we should strive for something permanent. [Laughs].That should be the ultimate goal of studying history [Laughs].
+
+8.) Maharaj, this is in continuation of the question on Rasa. We see, Alwars have given this 4000 Divya Prapantham slokas. There are so many Alwars who have given an amazing description of Krishna lila. Very, very deep relationship with Krishna. But overall, if we see the entire Sampradaya, it’s towards Vishnu. How do we understand this?
+
+So, it is a matter of how their Acharyas take all those different verses and see their relative importance with the other verses. That’s all. And if their philosophical conclusion is that Vishnu is supreme, then all those other descriptions will have to fit into that.
+
+9.) Maharaj, in Bhagavad Gita, in the 7th chapter, there is one shloka “yeṣāṁ tv anta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām te dvandva-moha-nirmuktā bhajante māṁ dṛḍha-vratāḥ”. So, my understanding is, Maharaj, you may please tell it is correct, that it says that once the sinful activities are finished, the person becomes dṛḍha or determined in bhakti. But anyone can do bhakti. So, which means that anyone can do bhakti, but as the sinful activities goes on reducing or becoming zero, he becomes more determined. Is this understanding correct, Maharaj?
+
+So, in general, we can say that sinful activities are unfavorable for bhakti. They are an anartha. However, sin does not disqualify one from beginning the process of bhakti. And by performance of bhakti, the anarthas get destroyed. So, that we see in the case of Ajamila, who wasn’t even a devotee, but he got all his karmas and his vasanas destroyed by uttering the name of Narayana, even though he was most sinful. And then he became a devotee.
+
+10.) Hare Krishna, Maharaj. Maharaj, in context of today’s class, Krishna’s relationship, Lord’s relationship with the material world, can we say that the beginning of the ninth chapter, the few verses which are there, where Krishna is explaining this control yet difference, so that actually explains the simultaneous oneness and difference of the Lord with the material world?
+
+Yeah. So, yes, our Acharyas take those verses as examples of that.
+
+11.) Hare Krishna, Maharaj. Maharaj, we see some male devotees keep flowers on their ears. What is the significance of it and is there any reference from scriptures?
+
+I suppose because it’s offered to the Lord as prasadam. That’s why they keep it.
+
+12.) Hare Krishna Maharaj, can you please explain about complete annihilation of the material world?
+
+So, annihilation takes place after 100 years of Brahma. So, the gross elements merge into the subtle elements. The subtle elements merge into Mahatattva. Mahatattva merges into Prakriti. And thus, all of the universes disappear. And all the Jivas from all the universes merge into Mahavishnu.
+
+13.) Which category the avatar of Vyasa comes under?
+
+In Laghu Bhagavatamrta, there Rupa Goswami says he is a full avatar.
+
+Devotee: This Vyasa, correct? But other Vyasas come under Saktyaveshavatara.
+
+HH Bhanu Swami Maharaj: Well, there is controversy about that [Laughs]. Because there is a whole list of Vyasas in the different Kali Yugas or before Kali Yugas.
+
+14.) Hare Krishna Maharaj. Does the Achintya Bheda-abheda understanding disappear for a pure devotee? Is dvaita vada most suitable way for pure devotion?
+
+Well all the Vaishnava Sampradayas have a different philosophy, but they are all acceptable.
+
+However as I explained in the class, if we go to Dvaita, then they have to interpret all of the oneness statements. So the combination of oneness and difference is a balance between those extremes.
+
+15.) Hare Krishna Maharaj. In the scriptures like Srimad Bhagavatam, Caitanya-caritāmṛta, etc., there are so many phala shrutis. After reading so many scriptures, still there are anarthas and material desires in us. How can we understand this?
+
+So we have so many anarthas after reading scriptures? So there are many results from reading scriptures. Of course, for the devotees, they are not interested in the material results. And often the spiritual result is you get liberation. But the devotees are not interested in either of those things. So hearing scripture is one aspect of bhakti and all types of bhakti destroy anarthas. If one has committed no aparadhas in this and previous lifetimes, then the destruction of anarthas is very quick. But if we’ve committed aparadhas, then the process becomes slower and then we distinguish bhajana kriya, anarthana nivritti, nistha, etc.
+
+16.) Lord creates the material world for the jivas. Can you also understand that Lord created the jivas? If so, why is there partiality? as there are eternal jiva in Lords abode and the conditioned jivas?
+
+So there is no creation of jivas. So all we can say, there are some jivas in the spiritual world, many of which are nitya siddhas, some of which are sadhana siddhas and there is also jivas in the material world. So the question of who placed them there does not arise. If the jiva chooses, then he can practice bhakti and go to the spiritual world and then he is a sadhana siddha. So if a jiva is in the material world, it means that from time with no beginning, he is chosen to disrespect the Lord. And to change the jivas mind the lord appears in every day of Brahma, so many times as 1000 times as yuga-avatar, lila-avatar etc., plus devotees plus manus and their decedents to help the jivas make a better choice.
+
+17.) Can Krishna alter the tatastha sakti of the jiva so that they don’t choose ignorance?
+
+Well, tatastha sakti is always tatastha sakti. They never change.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/sb/3": { title: "Canto 3: The Status Quo", article: `Chapter 16: The Two Doorkeepers of Vaikuṇṭha, Jaya and Vijaya, Cursed by the Sages
 
 Chapter 25 : The Glories of Devotional Service 
 
 Chapter 27 : Understanding Material Nature` },
   "/sb/3/16": { title: "Chapter 16: The Two Doorkeepers of Vaiku\u1e47\u1e6dha, Jaya and Vijaya, Cursed by the Sages", article: `SB_3.16.27 – Spiritual world : far beyond astronomers, 9th dimension, NDE, clairvoyance & yoga siddhis !` },
+  "/sb/3/16/17": { title: "Srimad Bhagavatam 3.16.17 | HH Bhanu Swami Maharaj | Bhaktivedanta Manor | 26 June 2026", video: "2UeeDsWfj8M", article: `Srimad Bhagavatam 3.16.17 | HH Bhanu Swami Maharaj | ISKCON Bhaktivedanta Manor | 26 June 2026
+
+jaya rādhā-mādhava kuñja-vihārī 
+gopījana-vallabha giri-vara-dhārī 
+yaśodā-nandana vraja-jana-rañjana 
+yamunā-tīra-vana-cārī 
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare 
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare 
+
+Jaya Prabhupāda Jaya Prabhupāda 
+Prabhupāda Jaya Prabhupāda 
+
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+Oṁ namo bhagavate vāsudevāya
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+Reading from Srimad Bhagavatam Canto 3 Chapter 16 Verse 17.
+
+ŚB 3.16.17
+
+ब्रह्मण्यस्य परं दैवं ब्राह्मणा: किल ते प्रभो ।
+विप्राणां देवदेवानां भगवानात्मदैवतम् ॥ १७ ॥
+
+brahmaṇyasya paraṁ daivaṁ
+brāhmaṇāḥ kila te prabho
+viprāṇāṁ deva-devānāṁ
+bhagavān ātma-daivatam
+
+Synonyms
+
+brahmaṇyasya — of the supreme director of the brahminical culture; param — the highest; daivam — position; brāhmaṇāḥ — the brāhmaṇas; kila — for the teaching of others; te — Your; prabho — O Lord; viprāṇām — of the brāhmaṇas; deva-devānām — to be worshiped by the demigods; bhagavān — the Supreme Personality of Godhead; ātma — the self; daivatam — worshipable Deity.
+
+Translation
+
+O Lord, You are the supreme director of the brahminical culture. Your considering the brāhmaṇas to be in the highest position is Your example for teaching others. Actually You are the supreme worshipable Deity, not only for the gods but for the brāhmaṇas also.
+
+Purport
+
+In the Brahma-saṁhitā it is clearly stated that the Supreme Personality of Godhead is the cause of all causes. There are undoubtedly many demigods, the chiefs of whom are Brahmā and Śiva. Lord Viṣṇu is the Lord of Brahmā and Śiva, not to speak of the brāhmaṇas in this material world. As mentioned in Bhagavad-gītā, the Supreme Lord is very favorable towards all activities performed according to brahminical culture, or the qualities of control of the senses and mind, cleanliness, forbearance, faith in scripture, and practical and theoretical knowledge. The Lord is the Supersoul of everyone. In Bhagavad-gītā it is said that the Lord is the source of all emanations; thus He is also the source of Brahmā and Śiva.
+
+HH Bhanu Swami Maharaj:
+
+So, this is a verse praising Brahmana status, Brahmana varna, Brahminical culture, and at the same time showing that above the brāhmaṇas is something superior, that is Supreme Lord. Now, we’ll find often that in Bhagavatam, the Brahmanas get praised, and of course, we see that Krishna is fond of the brāhmaṇas and the cows [Laughs]. Go brahmana hitaya ca etc. So, Krishna is fond of the brāhmaṇas, and then they have whole sections where the offense to the brāhmaṇas can be so serious, concerning the story of Nṛgā, for instance, how the brāhmaṇas get insulted, and then it causes problems. And here in the story of Jaya and Vijaya, the Kumāras, they get angry because they get insulted by the gatekeepers, so that’s considered to be an offense also.
+
+So, and then the status of a brāhmaṇa and respect for the brāhmaṇa is praised as being ultimate. So, on one level that is true, that is the level of Karma Yoga and Varnashram, where we have four classes of people and the brāhmaṇa is at the top, so the brāhmaṇa has to be respected by everybody else, and he gets glorified. Now, culture has existed for a long time in India, and of course, according to scripture, it is wonderful. At the same time, we find, according to modern way of thinking, it gets condemned, that why we should praise the brāhmaṇas, accept everybody as equal, one is not superior to the other.
+
+This, of course, is because over the thousands of years, the idea of the brāhmaṇa became related to family and birth, and therefore anyone who was born in a brāhmaṇa family automatically is honored as a brāhmaṇa, even if he’s not got the qualities, etc., so then it becomes a little ridiculous.
+
+So, these praises of the brāhmaṇa in the scriptures is there to show the honor for the brāhmaṇa who is truly qualified. So, if we look at Bhagavatam and other scriptures and go back to smritis like Manu Smriti, etc., the duties of the brāhmaṇa are clearly defined, and one of the main items of the brāhmaṇa is to know the Vedas. Not only he can memorize the Vedas, he has to know the purpose of the Vedas, the ultimate goal of the Vedas, and then he has to practice, so then he is called a brāhmaṇa. And if he’s got the name brāhmaṇa, but he doesn’t do that, it’s considered useless [Laughs].
+
+So, in Vishnu Purana it says the whole thing becomes meaningless if we give charity to a brāhmaṇa, and the brāhmaṇa has no qualification, the charity is useless, it’s like no good. So, the brāhmaṇa is a true brāhmaṇa when he knows the Vedas. But then, of course, what is knowing the Vedas? We should know the purpose of the Vedas, the goal of the Vedas. So, ultimately, of course, brāhmaṇa means one who knows Brahman, one who knows the ultimate truth, highest truth, Brahman. So, that is the qualification of a real brāhmaṇa.
+
+And, then the question comes, what is Brahman [Laughs]? So, it could be the impersonal Brahman, which is the conclusion of many people, so if somebody is an impersonalist, then he’s a brāhmaṇa, if he knows Brahman, he studies Jñāna. Of course, the other is Brahman means Krishna or Vishnu [Laughs], so a Vaishnava [Laughs]. But what this does mean, of course, we do have brāhmaṇas who don’t believe in either of that, they are following Karma mimamsa, and they believe Swargaloka is supreme [Laughs]. So, they’re following the Vedas, and the Vedas also say Swargaloka is eternal, etc., and people are following that. So, we get a wide variety of people who are brāhmaṇas who know the Vedas.
+
+Some know only Karma, some know impersonal Brahman and liberation, some know Supreme Lord. So, then the knower of Brahman could be any of these three [Laughs]. So, and they get respected, at least they get respected. So, that’s a brāhmaṇa in the normal sense of the term. And, of course, because they are knowers and preservers of the Vedas, they get proper respect for that. But as I said, the ultimate conclusion, though it is Brahman, the ultimate conclusion of Brahman is to know that Supreme Lord and become a Vaishnava.
+
+So, we see that very clearly stated in Caitanya-caritāmṛta, where all the different animals are classed, and then the human beings, and then the people who follow Varnashram are higher than that, the brāhmaṇas are higher than that, because they are at the top of the Varnashram system, and a brāhmaṇa who is properly following, he is better than that [Laughs]. The one who knows the whole purpose of the Vedas is the best brāhmaṇa, but higher than that is Vaishnava.
+
+So, the Vaishnava is actually put in a separate category, even though he could be included in the brāhmaṇa category. Why is that? It is because normally, when we use the word brāhmaṇa, we are thinking of the varṇa. And the Vaishnava is beyond the varṇas. He may come from a brāhmaṇa varṇa, but he may come from a sūdra varṇa. Or he may come from no varṇa at all, like Haridāsa Ṭhākura. But the Vaishnava is superior to all the varṇas.
+
+So, that will distinguish him from the regular brāhmaṇa. So, we cannot say just the brāhmaṇa is supreme. We have to say the Vaishnava is supreme. He is the highest category. He may be a brāhmaṇa, but he may not be a brāhmaṇa. So, it is not dependent upon the varṇa or lack of varṇa at all. It is dependent on the faith and conviction and the knowledge and realization of that particular person. So, he is put in a higher position.
+
+So, though we have all these glorifications of the brāhmaṇa and respect for the brāhmaṇa, that is in the scriptures, and true, we have to respect, but higher than that is the respect given to the Vaishnava. Much, much higher than that. Because he knows the, fixed in the highest conclusion of all. That is, Bhagavan is supreme. So, therefore, when we read the glorification, we should keep that in mind.
+
+So, Prabhupada uses the word brahminical culture and he praises that, as we see here. And sometimes he also says, our goal is to be brahminical. And we have brahminical initiation as well. But then, what does that word mean, brahminical, in that sense? Because, technically, the Vaishnava is higher than the brahmana. So, is our goal to be a brahmana? Or is our goal to be a Vaishnava? Which is it? Vaishnava. Yeah, so then why are we trying to be brahmanas [Laughs]? We get brahmana initiation to become a brahmana [Laughs]. So, it looks a little bit confusing to us. What is that term?
+
+Devotee: [Not audible].
+
+HH Bhanu Swami Maharaj: Well, it depends on what we mean by the word brahmana again, isn’t it? Or the word Vaishnava, even [Laughs]. So, of course, we have different types of Vaishnavas also. Some are false Vaishnavas, or fake Vaishnavas. Some are Kaniṣṭhas. And then we have Madhyamas and Uttamas. We have grades of Vaishnavas [Laughs] also [Laughs]. But again, we have grades of brahmanas also. If you know the impersonal Brahman, you’re one type of brahmana. If you know Karmakanda, you’re another type of brahmana. If you know Vishnu, you’re another type of brahmana.
+
+Devotee: [Not audible].
+
+HH Bhanu Swami Maharaj: Yeah, yeah. So, we strive to be brahminical in one sense, but we can say as far as society is concerned, we would take that function of being the spiritual head of the society. But as far as being Vaishnavas is concerned, that’s actually a higher role, because we’re not so much interested in varṇas, as far as, okay, preserving varṇāśrama, fine. But as far as ultimate, what is the conclusion, it’s not to be in the varṇas at all, it’s to be beyond the varṇas, and it’s to be a Vaishnava, and to practice bhakti.
+
+So, we can be ideal brahmanas within the normal society, but at the same time, we’re playing a double role, so to speak, because if we’re only brahmanas and we’re not Vaishnavas, then the whole thing is useless again [Laughs]. So ultimately, we should be a Vaishnava plus, with that added title brahmana or whatever like that. So we can’t really separate the two and say your goal is to be a brahmana. It can’t be separated from being a Vaishnava.
+
+Interestingly enough, in our tradition, the goal, of course, is to be a Vaishnava, and we become a Vaishnava by several methods. One is a pancharatrika Vaishnava, which requires diksha. But it does not require varṇa. So if you get the diksha, and it doesn’t matter what varṇa or no varṇa, if you get the diksha, you’re initiated, you’re a Vaishnava, and you’re qualified to worship a deity. So you’re not a Brahmana. You’re a Vaishnava, and you’re qualified to worship the deity. If you’re a Brahmana, but you don’t have the Vaishnava diksha, you’re not qualified to worship the deity, at least our deities [Laughs]. You could be a Mayavadi or whatever. So you’re not qualified to worship the deity.
+
+So the qualification is not to be a Brahminical, but to get the Vaishnava mantra, which we get at second initiation, regardless of whether you’re a Brahmana or not a Brahmana or whatever. So that is kind of implicit in pancharatra, it’s a disregard for the varṇa as such as the main qualification. It is considered, of course, but it’s not the qualification, and therefore anyone who gets the mantra is qualified to worship the deity, etc. So then the emphasis was not put upon being a Brahmana or whatever.
+
+However, tradition is quite strong, even in India, even 500 years ago, and even 200 years ago, even 100 years ago. And thus, people would criticize, oh, these Gaudiya Vaishnavas, low class, they worship the deity, they’re not even Brahmanas [Laughs]. Because normally, it’s the Brahmanas who are doing all the worship, you know, they are learned people in society and whatever, and they get to go in the temple and worship the deity, etc.
+
+And here we have the Vaishnavas, they’re not Brahmanas, and they just got their pancharatrika diksha, and they’re going and worshiping deities. Ah, very low class. So that was the criticism laid by some Brahmanas. We’ve got the smarta Brahmanas [Laughs]. They are unqualified. Of course, this is according to pancharatra scripture. No, they are qualified. It’s not a matter of varna, it’s a matter of your pancharatrika diksha. If the guru thinks you’re qualified, as a devotee, you’re qualified, and he gives you mantra, and you can worship the deity. So, not much argument there. However, from the point of view of others, if you don’t accept pancharatra [Laughs], then they’ll say, no, no, no, you can’t do that, you have to be a Brahmana, worship the deity, etc.
+
+So that was a big controversy in Bhaktivinoda’s time, in Bhaktisiddhanta Saraswati Thakur’s time, and they even had a big conference about that at one time. And they called all the learned pandits from Vrindavan and Bengal, etc., to discuss and debate about, what is a Brahmana, and what is a Vaishnava, and who’s superior, etc. Bhaktisiddanta Saraswati Thakur himself went there, and based on that meeting, then a whole book was written, Brahmans and Vaishnavas, in which he argued the superiority of the Vaishnava over the Brahmana, and he’s the most qualified person of all.
+
+So, if we look in Bhagavatam for instance, we will see it is clearly mentioned that even if you are not in a varna, and you’re a dog-eater, which means not even a sudra, if you take the bhakti, if you chant the holy name purely, even once, you’re more qualified than a Brahmana. And you can do all the ceremonies that a Brahmana could do, technically speaking. So in other words, just by being a Vaishnava, then you’re better than a Brahmana. That’s the conclusion of Bhagavatam itself. So that was the point Bhaktisiddhanta Saraswati Thakur was making. Vaishnava, a true Vaishnava, who’s practicing pure bhakti, whatever, he is superior to any Brahmana. Because he knows the conclusion of everything. He’s getting the highest goal.
+
+So the Vaishnava is the highest of all. And if you are practicing, then you’re higher automatically. But of course, the smartas and whoever, they don’t really accept that. They say, no, no, we have our varnas here, we have our, you know [Laughs], Upanayanam, you get your thread, and you’re qualified and all that. And Bhagavatam kind of rejects that. It goes beyond that Vedic culture, in that sense.
+
+So, arguments were there in that debate. According to our version of it, Bhaktisiddanta Saraswati won the debate [Laughs]. I don’t know what the others felt, but anyway, some followers were there, and they said he’s actually had better arguments. But arguments actually don’t change people’s mind too much also [Laughs]. And defeating people often doesn’t really make them change their mind either. So that’s what happened there probably also.
+
+So then he did another radical thing. And that is, when he initiated Vaishnavas and gave them Vaishnava mantra, they’re automatically superior to a brahmana. And you shouldn’t criticize. But, to show that practically, then he gave them the Brahma Gayatri mantra and gave them a brahmana thread [Laughs]. Not that they become brahmanas, but actually they surpass the brahmana, and they can do anything a brahmana can do. But not that he’s trying to be a brahmana as such and work within the varna system. Rather, he’s superior, but he can do any function of a brahmana. That was the idea there.
+
+So, Bhaktisiddhanta Saraswati Thakur of course, uses another word, not saying we’re trying to be brahmanas, but our status is to be brahmanata in the category of Brahman [Laughs]. In other words, we are knowers of the actual meaning of the Vedas and the knower of what the brahmanas should know. We know the conclusion of everything. So we’ve got the status of knowing Krishna. In other words, brahmanata is equated with being a Vaishnava. So, our goal is to become a Vaishnava. And, that is the real status of Brahman. Not to get a thread and a mantra and say I’m a brahmana [Laughs].
+
+So, in other words, again, we use that word brahmana, brahmanata, maybe the word brahmanata is a little clearer to emphasize that it’s not we’re trying to be brahmanas as such, but we’re actually surpassing that, and we’re getting the real essence of being a brahmana, that is, being a Vaishnava. So, anyway, that confusion is sometimes there, and we’re trying to be brahmanas and whatever like that. But our goal should definitely be to be knowers of Krishna. As is stated here also.
+
+So, the Supreme Lord Himself supports the brahmanas and praises the brahmanas, and particularly if they’re following properly. But, he is also above them. He is above the brahmanas in that whole system of varnas. But, the Vaishnava is the exclusive worshipper of that Supreme Lord. The brahmana may or may not be worshipping the Supreme Lord exclusively. But the Vaishnava is worshipping exclusively that Supreme Lord.
+
+So, though the Lord is praising the brahmana, the person who is a Vaishnava, who has complete conviction in the Supreme Lord, he is in a higher position, and the Lord is under his control. So, that’s also what we say. Krishna says, I am controlled by my devotee. I am neutral, but I favor my devotee. I am controlled by my devotee. Of course, statements okay, the Lord is controlled by the brahmana, and when the brahmanas eat, the Lord is satisfied, such statements are there. But actually, the highest praise goes to the Vaishnava. Of course, if he’s a brahmana Vaishnava, fine [Laughs].
+
+But if he’s a Vaishnava and he’s not a brahmana, no problem. So, we see, for instance, Ambarish is a king. He’s not a brahmana, but he’s a great Vaishnava, and the Lord says, I give my Sudarshan Chakra to you, whatever [Laughs]. I surrender to you. I’m under your control. The Vaishnava is superior to me, whatever. He’s not a brahmana [Laughs]. And then we get cases, you know, of a Sudra or none, you know, lower than a Sudra. He also becomes more glorified. We have Gajendra [Laughs]. He’s an elephant, not even a human being [Laughs]. Lord comes and rescues him, because he’s a devotee. He wasn’t even a pure devotee. He was mixed devotee [Laughs]. He was praying to get rid of the crocodile, but still, the Lord comes and saves him, or whatever like that.
+
+So, the Lord is responding to the devotion, not your caste, not your varna at all. So, we should be clear about that, the distinction here. So, within the society, yes, the brahmana is the highest, and the brahmana gets praised, and the devotees often take that role of being the brahmana in society, but then we see in the Bhagavatam, a lot of the times, the kings are the great devotees of the Lord. So, we have Dhruva Maharaj, and Ambarish, and so many, Yudhishtira, but they’re all, they’re not brahmanas at all, they’re kshatriyas [Laughs], and they’re the greatest Vaishnavas.
+
+So, the Vaishnava can play a role within the varnashram system, but at the same time, he’s not really controlled by that, or limited by that role. He plays that role, but he is not limited by it, and he’s actually superior to it, in all cases. So, in this way, we should understand that the, when we use these terms, brahmana, etc., just what the real meaning is.
+
+So, as Bhagavatam states, ultimately, the goal is to be the exclusive worshipper of that Supreme Lord, Bhagavan, and then, the Lord is most attracted to that. That person is dearest to the Lord, regardless of varna, or ashram, or any other feature of that, or whatever. So, that is the conclusion there. So, the Lord is the topmost, and He’s worshipable by everyone. He’s worshipable by all human beings, and the brahmanas, who are worshipped by everybody, the brahmanas must worship the Supreme Lord also. That’s their ultimate conclusion. They have to worship the Supreme Lord.
+
+The problem, of course, is that, though, yes, the brahmanas accept Vishnu as supreme, etc., many do have an unclear idea. Many brahmanas have an unclear idea, and they say, Vishnu is okay, but there’s so many other equals, and so many devatas who are equal, etc., we worship them all [Laughs]. So, we get worship of many devatas, and so many things like that. So, there’s some little confusion among the brahmanas also.
+
+So, of course, we’re looking for the final conclusion, and in Kali Yuga, everything is very confused. So, Veda Vyasa has written Bhagavatam to give us a conclusion of everything. And that conclusion is, let us surpass the Vedas, and even surpass Pancharatra, for that matter [Laughs].
+
+And ultimately, we get down to just Bhakti itself, and in Bhakti, we get down to Nama Sankirtana. And we see that Nama Sankirtana, ultimately is the most radical in its approach of rejecting everything [Laughs]. Of course, Krishna says, sarva-dharmān parityajya [Bg. 18.66], give up all dharmas, etc., Karma Yoga, Jnana Yoga, Astanga Yoga [Laughs]. And then, in Bhakti Yoga, we get rather extreme. Therefore Bhagavatam, we can say, is the same, in one sense. Yes, it also rejects everything in favor of Bhakti, and ultimately, the Holy Name.
+
+So, when we get to Lord Caitanya, then this becomes a little more obvious, where He concentrates on the Holy Name and disregards varnashram, and caste, etc. completely. And there we find, explicitly, that He puts Haridasa Thakura as the Namacharya, when he had no Varna, no Ashrama at all. And he’s put in the highest position. Which was, we say, quite radical, even at that time, 500 years ago, what to speak of thousands of years ago [Laughs]. Generally, nobody dared to, you know, put people from outside the caste system, put them in a high position [Laughs]. But, he was put from the lowest position into the highest position by Caitanya Mahaprabhu. And all the devotees respected that.
+
+So, in other words, quite a radical move in terms of, you know, etiquette of the Varna system, etc. So, in other words, the Holy Name disregards Varna, Ashram, etc., anything at all. And anyone is qualified to chant the Holy Name, anyone is qualified to get the highest position of realization of Krishna and Prema, etc., regardless of country, family, Varna, Ashram, or whatever, whether they have it or not. So, that is the position of Caitanya Mahaprabhu. Just that conviction of Supreme Lord and dedication to chanting Krishna’s Name.
+
+Other things can be done, but at the same time, we don’t rely on them. They are secondary options, or whatever, for us. And the main is that surrender to Krishna through chanting the Holy Name in performance of bhakti. Okay. Any question there?
+
+Q & A :
+
+1.) Thank you very much. I remember a Muslim king who assisted Rupa Goswami maybe, and other Goswamis in Vrindavan. He was interested in the spread of religion.
+
+Oh, it’s Akbar, Akbar?
+
+Devotee: Akbar, huh? He helped build the temple, I think. And he published Vaishnava literature. So, he was a servant of the Vaishnavas, although he was a Muslim king.
+
+HH Bhanu Swami Maharaj: So, he was put in a high position. He had no Varna. He was like a Mleccha. He would go to the Mlecchas and Yavanas and whatever like that. But, as Vaishnavas, we don’t care about that. And they get respect because they are believing in that Supreme Lord and doing service.
+
+2.) Hare Krishna Maharaj. So, you mentioned about Varnas, but when it comes to ashrams, in Gaudiya Vaishnava tradition, there are Babajis. And Bhaktisiddhanta Saraswati Thakur, I think, introduced saffron cloth. And sometimes he’s been criticized for that as well, that taking saffron in front of the picture of his Guru Maharaj, was that bona fide or not? So, the counter argument is that he had a dream. But then they might not accept it. We accept it because he’s our Acharya. So, on one side he said, like, he gave, of course, Vaishnavas higher position than Brahmanas. But then on the other side, for ashramas, he introduced saffron cloth. So, can you explain or give a bit of clarity on this?
+
+Why he did that?
+
+Devotee: Yeah.
+
+HH Bhanu Swami Maharaj: Whatever. Of course, I don’t know his all reasons or whatever. And, yes, as you say traditionally, idea of Varna and ashram was not an ideal for the followers of Lord Caitanya. They may be following, according to their birth and whatever, the rituals, like the Brahmanas and whatever, like Lord Caitanya was a Brahmana and He followed [Laughs] whatever Brahmana society was doing at that time, do Upanayanam etc. And others were Kshatriyas. They followed Kshatriya customs and whatever as much as possible without contradicting Vaishnava principles. But, they were not so much concerned about varna or ashrama as such. It was only a matter of renounced or unrenounced. But, of course, we do have in the ashrama system renunciation in terms of sannyasa. Lord Caitanya took sannyasa. After that point, we don’t find sannyasis. The only option was something else. Not varnashram system at all. Let’s go beyond the varnashram system and renounce. So this is the Babaji. Not within the ashrams or the varnas. One who renounces both ashram and varna duties. That was the Babaji. So that was the renunciate beyond varna and ashrama. And the others who weren’t qualified for renunciation, if they were following varnashram system to some degree because they were born as Brahmanas, Vaishyas, Kshatriyas, Sudras, they would follow their varna duties or whatever. But, we didn’t find them going for sannyasa even [Laughs] at that time [Laughs]. I don’t think we have any record of them taking sannyas or whatever among the Gaudiya Vaishnavas. So that continued up until the time of Bhaktisiddhanta Saraswati Thakur. But as I said, this doesn’t mean that they were rejecting the whole Varnashram system. Yes, the Babajis definitely do. But the others were following because they are not qualified for renunciation. So they follow their Varna and their ashrama technically. And most of them were by ashrama were grihastas [Laughs]. So they were grihastas within the Varnashram system. And they followed those particular duties. There may have been a few brahmacharis but I don’t hear any records. After Lord Caitanya, there are a few brahmacharis there after that, we don’t hear about any brahmacharis even. So that didn’t continue. But there was mainly grihasta ashram. So, at the time of Bhaktisiddhanta Saraswati Thakur then this is what we have. We have Vaishnavas practicing and they have their Varna rules according to their birth. And they have their ashram which is generally grihasta ashram. So, it’s not that they rejected Varnashram rules but they were, majority of them were qualified for sannyasa or anything. So they didn’t do that. And Bhaktisiddhanta Saraswati Thakur then established his organization and then he introduced the brahmachari ashram and sannyasa ashram. So, it’s not that these are invented because they are already there within the system itself. But they were not being practiced much by the Gaudiya Vaishnavas. There may be a few, we don’t know [Laughs]. People who took sannyasa or brahmacharis etc, we don’t know. But, by and large, they were all grihastas. So, he introduced that. So, there is nothing forbidden in doing so. The main thing is that if we are following any rules of Varna or ashrama, it should not restrict our principles of bhakti. So, we find kings being great Vaishnavas and also following their kingly duties or whatever. Those duties didn’t contradict. So, fine. So, therefore, in making this organization, he introduced, again, the brahmacharis and the sannyasis as ashramas within his particular organization. So, there is nothing really wrong with that. It was not a tradition in the Gaudiya sampradaya, as such as I said. But it was not that it was also denied [Laughs]. So, therefore, he just introduced that, not as an absolute, because we should not be attached to Varna or ashrama as an absolute. If it becomes an absolute, and if we don’t practice it, we are sinful or something, then it becomes an anartha and it makes impure bhakti. Therefore, we can follow them to the extent they are useful for our spiritual advancement. And, of course, it was also useful for his organization of his society at that time. So, that’s the reason, as far as I can see, why he introduced them. He could have introduced something else and not called it brahmacharis and things to be renouncing the whole system, but just like he also [Laughs] introduced brahmana initiation, in the sense you get the Brahma Gayatri. This is something there to show that we are following to some degree the rules of Varna and ashrama. So, there can always be practice as long as they don’t interfere with the concepts of pure bhakti.
+
+Devotee: I heard that Bhaktisiddhanta Saraswati Thakur, he took sannyasa instead of Babaji because he thought that Babaji was too advanced. Out of his humility, he thought he would stay within the Varnashrama. And also, he particularly, his mission was to preach. So, he took that particular parivrajakacharya type of sannyasa, that’s a traveling preacher, because Babaji is mostly focused on like bhajananandi, like just staying in one place and practicing bhajan.
+
+HH Bhanu Swami Maharaj: Well, of course, I think that Babaji, he is free of Varnashram. And in one sense, he is not really restricted that you can’t go out and preach or whatever. But we find the tendency was that generally, if you are going to retire and renounce everything, you are just going to concentrate on your bhajan etc. So, the tendency was to be like a bhajananandi, so to speak, like that. Not necessary, it’s not a rule you have to be, but it’s also convenient for renunciation as such because they don’t want to be attached to the material world or associate with society etc. Now, technically, the sannyasi also should be the same. He should not be associating with society and you know, not associating with women and all the sort of stuff like that [Laughs]. But technically, that’s true in any case, whether you are a sannyasi or a Babaji or whatever. So, in that sense, they are equal in that sense. So, another point, of course, is that there was maybe a little bit of skepticism of Bhaktisiddhanta Saraswati Thakur about reputation of the Babajis at that time also. So, therefore, he didn’t maybe want to get involved in that. So, if he wanted to renounce, fine, good, but then he didn’t want to be a Babaji because then he gets associated with that group, which he was also criticizing [Laughs] to some degree. And instead, he just opted for the Varnashramika system instead. But, of course, I don’t know myself about that. It could be [Laughs].
+
+3.) Hare Krishna. In the regard of those Goswamis, like caste Goswamis, even those worshippers of Radha Raman, I’m just wondering how this came to be, this title Goswami, and how is that accepted? And how is that introduced? Because they are not renounced yet, although I’m sure they are strict Vaishnavas. But how is that came to be?
+
+How the Goswamis arose? Of course, we have the original Goswamis, Rupa and Sanatana were, you know, very renounced, etc. So, they established temples. And then in those temples, what they do is they got Pujaris, probably from Bengal, who were grihasthas. And they became the Pujaris of the temple after the disappearance of the Goswamis, of course, then they kept maintaining the temples. These became the Goswamis [Laughs]. Probably they were Brahmanas also. I would assume they were Brahmanas. And they were Gaudiya Vaishnavas. And they were worshipping the deities there. And they got fixed in those different temples. And they became the Goswamis. And they started hereditary lines of worship and whatever, like that. So that’s how those lines were established as such.
+
+Devotee: Was there any criticism? Because this is introduction. This title is introduced. And then they rejected. Vaishnavas were, Sannyasi Vaishnavas were not prominent. And they accepted that title. How is that? It was probably criticized by?
+
+HH Bhanu Swami Maharaj: Was that criticized by other people?
+
+Devotee: Yeah, yeah.
+
+HH Bhanu Swami Maharaj: Well, definitely by the smartas it would be [Laughs]. To just become a Vaishnava and give everybody, regardless of what varna they are, and start giving out Brahmana threads and Gayatri mantras to say you’re a Brahmana, that was rather radical at that time. Everything was previously determined by birth. Now, of course, theoretically it’s not by birth, it’s by qualification. But in practical terms, the birth was very much emphasized. And usually it was just automatic. You’re born in a certain family, that’s your varna, whatever, like that. So to go against that system was quite radical, even though theoretically in Bhagavatam it’s there. Nobody did it, practically speaking. So he was maybe the first to do that, and therefore it would cause a lot of criticism from you know, traditional circles or whatever. But he did that to show that actually the Vaishnava is superior to the Brahmana, and that we’re trying to be Brahmanas. So the actual statement of the Bhagavatam is also quite radical where it says that the dog-eater when he once chants the holy name purely, then he’s superior to the Brahmana and is qualified to do all the sacrifices that a Brahmana can do. That’s a very radical statement [Laughs]. It’s surpassing that whole system that was there. It was traditionally there. But nobody put it into practice as such. So then he actually did that. It could be more radical also [Laughs]. He did it. He introduced it along with pancharatrika initiation. That is what we call second initiation. You’re qualified as a pancharatrika Vaishnava by getting the mantra, the Vaishnava mantra, Krishna mantra. Then he gave the Brahma Gayatri and the thread. But we can also ask, well, why it requires that? Why not just the holy name? The holy name is even more powerful. So anyone who purely chants the holy name, he is qualified to be a Brahmana. So [Laughs] that’s a more radical step. But he didn’t take that step [Laughs]. But he set the qualification of being a pancharatrika Vaishnava atleast. But theoretically we say chanting the holy name is even more powerful than anything. So if you’re chanting that purely, then automatically you’re also qualified to be Brahmana or whatever.
+
+Devotee: [Not audible]
+
+HH Bhanu Swami Maharaj: Yes.
+
+Devotee: [Not clear] They could worship the deities [Not clear].
+
+HH Bhanu Swami Maharaj: Well, theoretically, yes. The Vaishnava who is chanting purely is higher than even a pancharatrika Vaishnava, who maybe we don’t know whatever [Laughs]. And therefore he would be qualified. It’s just that if you’re doing that, you’re not following pancharatrika rules. So generally, for worshipping deities, the Gaudiyas do follow pancharatra. So therefore they set a limit there for worshipping deities, according to pancharatrika standards. And in fact, that’s the whole, in the Bhakti Sandarbha, Jiva Goswami goes to the different Angas of Bhakti, as done in the Nectar of Devotion also, lists all the different Angas, etc. And then he comes to Archana. So then, under Archana, he discusses qualification. And what is the qualification? Diksha [Laughs]. So Diksha is related to deity worship in his system. So once you’ve got the Diksha, you’ve got the mantra, with the mantra you’re qualified to worship the deity. So in one place he defines Diksha, and he said this is for rich householders. Diksha [Laughs]. Because if you’re just a Babaji, you’re not going to worship the deities, and whatever like that. And don’t spend your money for that, because you don’t have any money. But if you’re a rich householder, then you could spend your money on worshipping the deity, and that way you’re engaging your money properly [Laughs]. So Diksha is a good system for rich householders [Laughs]. So he relates it very much, Pantaratrika Diksha, with Diksha, and Diksha with worshipping according to, for householders, or whatever.
+
+4.) Hare Krishna Maharaj. I’m just going to read these questions out. I think you’ve covered some of the answer to it, but I just want some more clarification, I guess, because maybe I’m still a bit confused. So the first part of the question is, as the Vaishnava and the Brahmanata, which I think you mentioned, is higher than the Brahmana and within the Varnas, then how can we understand that there’s two types of initiations that we’re given? I think you’ve covered that.
+
+There are two types of initiations?
+
+Devotee: Yeah, as in first and second initiations.
+
+HH Bhanu Swami Maharaj: Oh, okay. Well, I didn’t really cover that, but if you want I can explain.
+
+Devotee: And also, then the second question is, how can we understand this in relation to the Yuga Dharma, which is to chant the holy name, and yet within our society, there’s also deity worship and second initiation, in some sense, and that’s seen as more superior, and how much of that is misconception, that second initiation is more superior?
+
+HH Bhanu Swami Maharaj: Yeah, so we do have deity worship. Deity worship is an Anga of Bhakti. It’s there among the nine principles, and there in the 64 Angas also, and it’s in the five principle ones mentioned by Rupa Goswami in Nectar of Devotion. Deity Archana is one of them. So it’s there, and we don’t reject any of the Angas of Bhakti. We give prominence to Hari Nama, Nama Sankirtana. That’s the most prominent one.That’s the Yuga Dharma. But, we’re not forbidden from the other ones, and then we have these five, Sadhu Sanga, Hearing Bhagavatam, Archana, etc., Kirtan, and living in the Holy Dham. So they’re all there among the five principle ones, and most of the Goswamis followed all five [Laughs]. So, Goswamis had deities also. It’s not that they rejected deities, they had deities, but their main principle, of course, is still Hari Nama. So, therefore, in Gaudiya Math and in ISKCON, we have deities also. But we should also understand that our main principle is, of course, Nama Sankirtana. That’s the main Yuga Dharma, and that should be emphasized over everything else. And we do have the deity worship, but that’s secondary. If we worship the deities and we don’t do Hari Nama, then it’s incomplete [Laughs]. If we have Hari Nama and we don’t have the deities, still it’s complete. In other words, it doesn’t depend on, but everything depends on Hari Nama, ultimately, chanting the Holy Name. So, there is prominence given to that. As far as initiation is concerned, there’s a controversy why we have two initiations. Technically, you should only have one initiation because you can only have one Diksha guru, whatever, like that. So, but anyway, we have the system we call first initiation, second initiation. Origin, of course, is a little interesting [Laughs]. Bhaktisiddhanta didn’t have two initiations. He only had one initiation, which is called that Diksha, second initiation. It’s called initiation. He had a ceremony, which we are deriving our first initiation from, which is very similar, but it wasn’t called initiation. But this first ceremony we call an initiation and make it more formalized. So, in ISKCON, therefore, Prabhupada made a more formal thing we call first initiation. We have second initiation. It becomes a little confusing, which is more important [Laughs]. So, in one letter, some devotee wrote and said, asked the question, and then Prabhupada said, second initiation is real initiation. But then another letter to another devotee, then he says, first initiation is more important [Laughs]. So, then we’re stuck. Well, what does all that mean [Laughs]? So, true, the second initiation is technically the initiation because it means getting your mantra, by which you’re qualified to worship the Deity. So, that is second initiation. If you don’t have that mantra, you cannot worship the Deity. So, that’s second initiation. Of course, in Caitanya Caritamrta it is said that Hari Nama does not depend on Diksha. And its perfection is Prema. And it does not depend on Diksha at all. So, then again, we get emphasis on Hari Nama over Pancharatra, Diksha, second initiation, etc. So, technically, no, not important in that sense. But it is part of Diksha. And if we want to stress Diksha, then that would second initiation would be important. However, most devotees go the opposite and they put more stress on first initiation, which technically is not the essence of the initiation because you don’t get the mantra. But we can say it’s a part one [Laughs]. At least we get a remnant of what is called Pancha samskara, which is the Pancharatrika ceremony for Diksha. The essence of which is the mantra. But you also get a name like Krishna Das. So, therefore, in our first initiation we get a name, so it’s part of the Pancha samskara of initiation but not the main part. So, we can’t call that the Diksha as such because you can’t worship the Deity or anything with just getting a name. You have to get your mantra. So, therefore, in one sense, it is, we can call it initiation because it’s part of the initiation, but it’s not the complete initiation. The most important part is in the second. So, then the first is there. So, how it becomes more important is because there’s more stress on chanting Hare Krishna there. And ultimately, in ISKCON and in the Gaudiya Sampradaya, we’re stressing Hari Nama over Deity worship, over Archana. Even though we don’t reject Archana, we have what we call Bhagavata marga following Bhagavatam rather than Pancharatra. And Bhagavatam stresses Nama Sankirtana. So, therefore, in first initiation we’re stressing chanting Hare Krishna, you get beads, etc. An objection would be that, of course, Caitanya Caritamrta says you don’t need initiation for chanting Hare Krishna. Which is true because we’re getting Hare Krishna and we’re chanting Hare Krishna long before we get initiation, so we’re not getting the mantra [Laughs], Hare Krishna then [Laughs] at all [Laughs] in first initiation. We already got it [Laughs]. We’re getting a new set of beads, but we had beads before also. So, what are we getting ultimately? We’re getting a name, which is part of the Pancharatrika process of Diksha. So, in that sense, it’s initiation or whatever. But otherwise, why is it emphasized more is simply because at least we’re establishing a formal relationship with a Guru and we’re vowing to chant a certain number of rounds, etc., and follow principles, etc. So, that gives more importance to it because it’s primarily centered on chanting Hare Krishna than anything else. So then, in that sense, it’s more important for us as devotees than the second initiation, which is the deity worship part like that. And we use, of course, we’re chanting Hare Krishna every day more than we’re chanting our deity mantras. In that sense, more important. Whether we should call it initiation or not, then that’s the controversy. But it is, we say, part of the initiation according to Pancharatra. But as far as, you know, Hari Nama needing initiation, that’s clearly stated in Caitanya Caritamrta, we don’t need initiation for Hari Nama [Laughs].
+
+Devotee: It’s the bija of the devotional creeper. Isn’t that bija given at the first initiation? Is it at second?
+
+HH Bhanu Swami Maharaj: [Laughs] That statement does not really define what the bija is. It’s not in terms of initiation or not. One could take it as initiation, but one could simply take it as the beginning of devotional service whenever you start your devotional service. Whenever you start chanting Hare Krishna with a great faith in Krishna, that can be the bija.
+
+Devotee: Sometimes it’s said the guru is giving the bija to the disciple.
+
+HH Bhanu Swami Maharaj: Well, the mercy of guru and Krishna, you get the bija bhakti. It’s the bija bhakti. Some can interpret as mantra or whatever, even the, what to say, the sahajiyas, not the sahajiyas, but the followers of Raganuga will say, you’re getting your Siddha swarupa, that’s your [Laughs] that’s your bija [Laughs], or whatever like that. But in the broader sense, I think anyone who gets, develops faith and gets inspiration from a devotee to start practicing bhakti seriously and chanting holy name, that would be the bija. And then it could lead to initiation, but as we know, Hari Nama does not depend on initiation, so therefore the initiation could not be the bija in that sense.
+
+Devotee 1: May I offer that the initiation may protect the bija, maybe the fence.
+
+Devotee 2: That was I think something we covered in class yesterday.
+
+HH Bhanu Swami Maharaj: What’s that?
+
+Devotee: That the initiation, the following Vani or Vapu is protecting us from the fences, the fence around the bija.
+
+HH Bhanu Swami Maharaj: Yeah, yeah. Well, you could do that without initiation also, technically [Laughs]. But of course it’s formalized in that [Laughs]. If we need formalization, it’s important for the devotee, then it’s more important for him. If he doesn’t need formalization, then it would not be so important [Laughs].
+
+5.) Hare Krishna Maharaj. Thank you so much for your class. So if the first initiation is just a formality, then it doesn’t really matter who your Diksha Guru is, as long as it’s in the parampara, anyone within that parampara can give Diksha. If it’s a formal?
+
+You’re talking about first initiation or second initiation?
+
+Devotee: First initiation.
+
+HH Bhanu Swami Maharaj: Oh. Well, it depends on the devotee. It can be important or not important, depending on the devotee himself. But we should remember that in tracing Sampradaya, we don’t even trace a Diksha parampara. If you look in Bhagavad Gita, we’re not tracing a Diksha parampara at all. So, but, of course, we’re stuck in like ISKCON, to the mold that we have to follow the parampara so we have to get initiation. But that technically, that’s not true [Laughs]. We should be following a Siksha line. We can trace our line through Siksha, not through Diksha. We don’t have to deny Diksha, definitely. And, of course, even the people who are in our Siksha parampara, they also have Diksha Gurus, but [Laughs] we don’t trace it that way. So we can trace our line by Siksha instead of Diksha. We give more prominence to our Siksha Guru than our Diksha Guru, without denying a Diksha Guru. We should respect everybody. We give more prominence to the Siksha Guru, whoever gives us better teachings.
+
+Devotee: So we should look for Diksha from the prominent Siksha Guru that we have?
+
+HH Bhanu Swami Maharaj: [Laughs] He does both for you [Laughs]. That’s the ideal situation. He does Diksha and Shiksha, but sometimes a lot of devotees get the Diksha from one and get the Siksha from another, so it’s like [Laughs] divided up. And there’s no problem with that, because you can have many Siksha Gurus. But as stated in Nectar of Devotion, they get equal respect. That’s one equal in general. But according to another system, the one who is more advanced and is giving you more significant knowledge, he would be the more prominent Guru, whoever that is, Siksha or Diksha.
+
+Devotee: So then, should the devotee be vying for second initiation then?
+
+HH Bhanu Swami Maharaj: Should he be vying for it?
+
+Devotee: Yeah.
+
+HH Bhanu Swami Maharaj: [Laughs].
+
+Devotee: And also, can you go back to Godhead without taking initiation?
+
+HH Bhanu Swami Maharaj: Ah! Well, yes. According to Caitanya Caritamrta, the success of Hari Nama does not depend on Diksha. [Laughs] That’s, of course, radical, but [Laughs] a radical statement, but [Laughs] it doesn’t mean you reject Guru, because I’m not talking about Siksha, I’m just talking about the Diksha and the Pantaratrika process. So, yeah, without that Diksha, you could attain Prema, which of course would mean you don’t do deity worship also, at least formally in the temple or whatever like that. But you can always do in your mind as well, mental worship or whatever like that. What was the other question?
+
+Devotee: And should the devotee be, therefore, vying for second initiation?
+
+HH Bhanu Swami Maharaj: Oh, should he or should he not? If he wants to do deity worship, he definitely has to vie for it. If he takes second initiation as a more serious commitment, fine, that’s no wrong with taking it as a serious commitment, but if he’s taking it simply because people say it is a more prestigious role [Laughs], you get a better name if you’ve got second initiation, if you’ve got first initiation or whatever, more respect, then that’s kind of a material reason, so that’s not a good reason at all. So, therefore, the goal of taking second initiation would be ultimately so you can do deity worship if that contributes to your chanting of Hare Krishna nicely, or supports it nicely, that would be the ideal reason for taking it.
+
+Devotee: So, therefore, to help us develop within our bhakti?
+
+HH Bhanu Swami Maharaj: It can, but some people take and they don’t even do deity worship, so in a sense, it’s not very useful. Because they take second initiation for some reason, but they don’t do deity worship at all, so then it’s not so useful. So, they could survive on first initiation in that sense. There’s a statement of Bhaktisiddhanta Saraswati Thakur, he says actually, the one who takes shelter of the holy name is superior to the one who takes shelter of deity worship mantra [Laughs]. Deity worship mantra [Laughs]. So, it depends on the particular person, I suppose. But, of course, we don’t want to discourage temples from not having deities, and if nobody takes second initiation, you won’t have any pujaris, and you have to import them from India, and all problems are there, so we’re not trying to discourage [Laughs] people from taking second initiation [Laughs], causing problems to temples also [Laughs].
+
+6.) Sorry, Maharaj. I have heard it somewhere, please correct me if it’s wrong, that Hari Nama can take us back to Godhead.
+
+Well, that’s what Caitanya Caritamrta says.
+
+Devotee: But, if we want to enter the intimate pastimes of the Lord, like Kunjas and Nikunjas, then we have to take Diksha from a bona fide guru, who would give us Artha Rupa, and all that stuff.
+
+HH Bhanu Swami Maharaj: No, I haven’t heard that. Maybe it is stated by some people like that. Now, in the Raganuga texts, there is some mention of using your Diksha mantra, when you’re doing your Raganuga sadhana, and meditating on your Manjari form, or whatever, like that [Laughs]. You can use your mantra, etc. But, other than that, if we go to Caitanya Caritamrta, it doesn’t even mention anything like that. It just says, with Hari Nama, you get Prema, finished. It doesn’t say you need anything else. Of course, even that has a little stricture to it. Yes, Hari Nama, you can get to the perfection. You don’t need Diksha. But, you have to chant purely. And if you’re to chant purely, you need knowledge. And if you need knowledge, then you need some sort of guru [Laughs]. So, Siksha guru, maybe. At least. So, some little condition is there, even for Hari Nama. So, we’re not completely independent on our own, making up everything. Proper Siksha, proper line. So, at least, we have a Siksha parampara, even if we don’t have a Diksha parampara. At the same time, we don’t deny Diksha. And it’s a tradition in our parampara, etc. So, we don’t deny it. But, it’s not that it’s the most important thing. And, without it, you still can get Prema, if you chant purely. Okay. I think we’re over time.
+
+Hare Krishna!
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/sb/3/16/27": { title: "SB_3.16.27 \u2013 Spiritual world : far beyond astronomers, 9th dimension, NDE, clairvoyance & yoga siddhis !\u00a0", video: "ivk_UwdCYqE", article: `Srimad Bhagavatam – 3.16.27 | HH Bhanu Swami Maharaj | Goloka Eco farm, Italy | Aug 15, 2025 
 
 Om Namo Bhagavate Vāsudevāya 
@@ -56966,6 +62508,157 @@ Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare,
 Hare Rama, Hare Rama, Rama Rama, Hare Hare. 
 
 [Kirtan]` },
+  "/seminars/2025/dubai-damodaradesh": { title: "Dubai (Damodaradesh)", article: `Lord Caitanya has introduced Nama Sankirtana to give the highest mercy to the lowest people!` },
+  "/seminars/2025/dubai-damodaradesh/glories-of-holy-name": { title: "Lord Caitanya has introduced Nama Sankirtana to give the highest mercy to the lowest people!", article: `Glories of Holy Name | HH Bhanu Swami Maharaj | ISKCON Damodaradesh (Dubai) | 14 October 2025
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+HH Bhanu Swami Maharaj:
+
+His special mission was to show that everyone in Kali Yuga could develop their spiritual life. And regardless of varna or asrama, anyone in any country or whatever, a person could develop the highest spiritual realization, which we call Krishna Prema. And so, he was very revolutionary because previous to that, although bhakti was present, it was not open for everybody. So, he has opened up the door for everyone to take part through chanting the holy name. So, when we all chant the holy name, we do kirtan, we do japa, the name, when we talk about the name, of course, we mean the name of the Supreme Lord. This is a particular type of sadhana. We have, of course, kirtan, you can chant verses in kirtan, you can sing songs in kirtan etc. But particularly, Nama Sankirtana is the process that Caitanya Mahaprabhu presented.
+
+So, nama simply means the name of the Lord. It doesn’t, no other word, no verbs. Usually when we speak, we make sentences. So, we say, Krishna goes to the forest or Radha makes a garland. So, we use several words that have nouns and verbs, etc. And to make sentences, we need grammar. So, if you want to speak in English, you have to know English grammar. And if you put the wrong verb endings on, it doesn’t make sense. The same in any Indian language. You have to use the right verb with the right noun. And in Hindi also, it’s masculine, feminine, plural, whatever [Laughs]. So, it’s a little bit complex. So, most words are expressed in sentences in grammatical grammar.
+
+However, in Sanskrit and probably in all the other Indian languages as well, there’s a type of expression that doesn’t require any verbs at all. It is simply calling out the name. So, we say, oh, Krishna, please come here. So, Krishna, the call of Krishna, doesn’t need anything to do with it. So, that’s what we call Nama, Nama Sankirtana. We just say the name of Krishna. No verbs, nothing. Just name Krishna. It will be called in the whole following time. And we’re calling out to him. It’s called Sambhoda or formal address.
+
+So, this is the easiest possible way in which we can praise the Supreme Lord. Simply by chanting his name. And it’s open for everyone. Normally, spiritual life is a little bit restricted and it has to be qualified practice. And in spiritual life in India, we have mantras. Mantras are not just words. Of course, they come from scripture. But they’re a particular combination of words and they need qualification. If you’re not qualified, you cannot chant the mantra. And if you’re unqualified and you chant the mantra, you don’t get the effect. So, therefore, these mantras are given out to certain people. And they’re often secret. So, that’s what we call Diksha. You get a secret mantra from a Guru. And you chant that. But you have to be qualified. So, this is not a process we can spread for everybody because if you’re unqualified, you don’t get any effect from those mantras.
+
+But, simply chanting the name of the Lord is for everyone. No qualification. And, we can still get the highest effect. Even more than the mantra. So, chanting the holy name, therefore, is considered the highest process. Because it’s the easiest process. And it also gives the highest goal. There’s nothing else you can do. So, this is what Caitanya Mahaprabhu has given us. We simply chant the name of Krishna. Of course, you cannot say Krishna, Krishna, Krishna, Gopal, Gopal, Gopal.
+
+But Lord Caitanya also gave us particular combination. Hare Krsna, Hare Krsna etc, why those particular sounds, names? Because, of course, it’s also recorded in scripture, in Upanishads which is of course, Vedic. So, it has a little bit of, a special status because it is coming from the Vedas itself. So, names of the Lord, Hare Krishna, Hare Rama. But, also coming from scripture in a certain order. So, it’s got a little bit of proof behind it, Vedic proof.
+
+So, Lord Caitanya, though he did chant other names, he propagated this Hare Krishna as the main form of the name for Sankirtana. And that’s what’s come down to us in the modern world. So, we mainly chant this Hare Krishna. We also call it mantra. But, that’s different from these other mantras, which are secret. And I’ve only given that picture. So, this mantra is available to everybody, whether you have initiation or not. So, very, very special. Name is non-different from Krishna. So, we have this famous verse, which is quoted in Caitanya Caritamrta and other places as well. Nama Chintamani Krishna Caitanya Rasa Vigraha. Name is Chintamani. Krishna is Chintamani. So, what is Chintamani? Everybody knows, I think.
+
+Devotee: Touchstone.
+
+HH Bhanu Swami Maharaj: Yes, Touchstone. What is a Touchstone? How is it called Touchstone? You touch it, and what happens? Whatever you desire comes true. So, what do you desire? Go back to Krishna.
+
+So, if you want Prema, name of Krishna will give Prema, Krishna can give you Prema. Of course, if you want lesser things, if you want house, then Krishna can give house. Name can give house. Chant Hare Krishna, Hare Krishna, you get a house [Laughs]. Because it’s non-different from Krishna. If you want a car, chant Hare Krishna, you get car. So, name is giving, Krishna is giving. So, name and Krishna are non-different. So, of course, well, we say Krishna Prema is, we don’t want material things. So, Krishna is Caitanya Rasa Vigraha. Vigraha means form. Caitanya means consciousness is spiritual. And Rasa means Rasa.
+
+There is many Rasas of Krishna. Significance of Rasa is what? It’s only through Rasa that Krishna and the Jiva experience bliss. No Rasa, no bliss. So, we say the Jiva Sakti nirananda, Krishna Sakti ananda. That ananda can only be expressed by Rasa. That means, bliss is expressed by a relationship of love between Jiva and Krishna. That’s how we experience bliss. So, Rasa is very important. So, Krishna is the very form of all Rasas. Of course, all the forms of Lord are Spiritual, they have Rasa. But in Nectar of Devotion, in the first verse, Rupa Gosvami says that Krishna is the very form of all Rasas. He is Akhila Rasamrita Murti, Krishna, which means that he is the full manifestation of all Rasas, five primary Rasas and seven secondary Rasas. No other form of God can manifest all those Rasas. Only Krishna does. So, he is the most perfect form of Rasa.
+
+So, of course, we have material Rasas also. People have relationships in the material world and they get a little bit of material happiness. So, mother and child have happiness, father and child have happiness, husband and wife get happiness, friends get happiness. That’s also Rasa. That’s material. And therefore, temporary. So, it’s not spiritual Rasa. This is Caitanya Rasa. Krishna is all spiritual Rasas which are eternal and full of bliss. Krishna is like that and you chant Krishna’s name, hey, you can get all the Rasas. Therefore, you get bliss.
+
+So, Nama and Krishna are Caitanya Rasa Vigraha. Krishna is Purnam. Of course, all forms of the Lord are perfect. But then Krishna is called Svayam Bhagavan. All the forms are called Bhagavan, like Rama and Narasimha, Varaha, Hayagriva, they are all Bhagavan. And they are all one person. But Krishna is special. He is called Svayam Bhagavan. So, he is a complete manifestation of all the qualities of the Lord. Therefore, he is called Purnam, complete. And suddha, Krishna and any form of the Lord are never part of this material world. They may appear in the material world, but they are always spiritual. They remain in their spiritual identity eternally. So, completely pure and Nityamukta, qualities, free of any material contamination.
+
+So, Krishna may appear to be born in the material world, but there is no material birth for Krishna. No death. He is Nityamukta. The name appears in the material world also. And it may sound material, because we can hear it and we can say it. But it’s not. He is also Nityamukta. So, it looks like a normal sound, but it isn’t. It’s a spiritual sound, completely different from the material sound. So, in this way, the name is especially important, because it is completely non-different from Krishna. And if we chant the name, we can realize everything about Krishna. So, this is a very fundamental principle behind our practice of Krishna consciousness.
+
+So, though anyone can chant the name, and anyone can get affect, if we want Prema, we have little qualification [Laughs], we have to have knowledge. If we are chanting with offense, then obviously we are not going to get the proper effect. We can chant accidentally, we get some effect. So, who is a good example of that? Ajamila. And what happened? He chanted Narayana. And what happened? He got rid of all of his karmas. First time he chanted Narayana. What is so remarkable about that? Yogis, or Jnanis, have strived for thousands of years to get rid of their karmas. They cannot do that. And he got rid of all of his karmas in one second by simply saying Narayana. He named his son with no devotion.
+
+So, the name is very powerful. Even if you don’t have devotion. You are not a devotee. Very, very powerful. But, he didn’t get Prema [Laughs]. He just got free of Yamaraja’s punishment. That’s all [Laughs]. Later on, he got Prema. But that was different. Why? He associated with devotees. And he got knowledge. So, chanting holy name is very powerful. Even without knowledge, you can get free from it.
+
+If we want Prema, then we also need some knowledge. Where do we get knowledge from? Scripture. So, what is the basic knowledge we need? We have to have an understanding of who is the Lord when we chant the name of Krishna. So, we think Krishna is a devata and he’s going to give us material benefits, he gives. That’s what we get from Krishna. So, we do have to understand that Krishna is completely different from devatas, who are part of the material world. He’s the highest living entity, independent. No one above him. And he’s full of power, wonderful Saktis and he’s perfect. That is the Isvara or Paramesvara Bhagavan.
+
+So, we have to understand who is that person. We are chanting the name Krishna. We need to have some understanding. His special position. So, Krishna is not alone, in the spiritual world, but he has his Shaktis. Through his Shaktis, he manifests everything. He manifests spiritual world, material world and Jivas. So, this is getting a little complicated. But, if you look in Bhagavad Gita in the introduction, you’ll find all of this mentioned [Laughs]. So, you may not be philosophical. You may not even get to read the whole Bhagavad Gita. But if you read the introduction to Bhagavad Gita, at least you’re going to get the sufficient knowledge to chant properly [Laughs].
+
+So, Isvara, Supreme. Different from devatas, Supreme Lord. He has his Saktis. One Sakti is Antaranga Sakti, Chit Sakti or Svarupa Sakti. This is the spiritual energy. Why does Krishna have to have spiritual energy? Because Krishna manifests a spiritual world. He manifests a form, his qualities, his activities. All through the Sakti, spiritual Sakti. So, in other words, Supreme Lord is not some abstract entity. He has a beautiful form and he has activities in the spiritual world. All that is manifesting through this Antaranga or Chit Sakti, internal energy. So, very, very important. Antaranga Sakti means his internal energy. Antaranga means internal. It also means essential. In other words, Krishna is never separated from this energy. If he separates, he’s no longer Krishna. There’s no form, there’s no qualities, no activities. He’s Brahman.
+
+So this Antaranga Sakti is very necessary in combination with the Lord at all times. He manifests his form, qualities and activities in the spiritual world and the Dhama, Vrindavana. So, Krishna is therefore… He has a form, his qualities, his activities manifests through this internal energy, Antaranga Sakti. So, we chant the name Krishna, we’re not saying, I chant Krishna, Krishna means Brahman. No. Krishna is form with qualities, activities. We have Govardhana Lila, Rasa-lila and so many other lilas. He has a beautiful form. We chant him playing the flute. So, all manifesting through this Chit Sakti.
+
+So, we have Supreme Lord and his internal energy. But, we also have another energy called the Tatastha Sakti, or the marginal energy. This means the borderline energy. This refers to Jivas. These are small particles of consciousness, who can know things because you’re conscious. They have a sense of I. And, they are dependent on the Lord. And, they can be covered with the earth and end up in the material world. This distinguishes them from the Supreme Lord. Supreme Lord is one independent, highest living entity, full of all qualities, full of all knowledge. Jiva, infinite number of small particles of consciousness, subject to ignorance. Similar, but also different from the Lord. So, they’re called Tatastha, in between [Laughs]. They get covered over by ignorance, or they can be free of ignorance. They’ll be there.
+
+Bhaktivinoda Thakura compares it to the Jiva-Jupa, which is called the Tatastha, or borderline. Because, he says, the border is the dividing line between the material world and the spiritual world. And, he gives you the example of a water body, let’s say, ocean. The ocean is there, made of water. The land is there, earth. They meet at certain point. On one side is water, one side is land. So, there’s a dividing line of no dimension. Lines don’t have any dimension. But, there’s a line there. So, one side is land, one side is spiritual world, material world. And, there’s a dividing line in between. So, Jivas, in between. And then, you can choose spiritual world or material world. So, this is what is Tatastha. You can go either way.
+
+Supreme Lord is always spiritual. He never gets influenced by that. But, Jivas, you can get influenced by that. And, you can go either way. It’s called Tatastha, borderline. Third energy, Bahiranga sakti, external energy. This refers to matter. Matter is also dependent on the Supreme Lord. But, unlike Jivas, it is unconscious. No capacity for knowledge. No sense of I. It is completely dull. Originally, it’s called prakriti. But, prakriti expands into other elements. Like earth, water, fire, air, ether, sense objects, senses, etc. And, this produces material worlds with bodies for living entities. So, Jivas in ignorance are also particles of consciousness, enter into this. Jivas who do not come back in ignorance, they go to spiritual world.
+
+So, these real things we have to accept. To make a diagram. So, we have Isvara, Supreme Lord, Vishnu, Rama, Krishna at the top. Of course, we give many names to the Supreme Lord. And, it has different forms. It’s Rama or Krishna. But, He is only one person. There’s not many Isvaras. One Isvara, who has many forms. So, you go to the temple, you see Rama and Krishna. And, you say, okay, different Gods. No [Laughs]. One Supreme Lord with different forms.
+
+So, sometimes people will say, oh, you worship many Gods. We will say, no, we don’t. We worship one God. But, He has many forms. So, of course, people will also argue, well, God should not have a form because forms are material. And, most religions will say that. No forms of God [Not clear]. But, God can have a form, why? Because He has this internal energy. This is Sakti, which manifests as form. And, it’s not material. Of course, material world we have forms.
+
+But, spiritual world, we can also have forms, coming from different energy. We have the Antaranga Sakti producing spiritual forms. We have Bahiranga Sakti producing material forms. God can have spiritual form, not material form. So Lord has Chit Sakti, and He manifests in spiritual world. He has Achit Sakti, Bahiranga Sakti, external energy, manifests in the material world. And, in between is the Tatastha Sakti, Jiva Shakti who can enter the material world and the spiritual world. So, those in ignorance are in the material world with material bodies. And, they go through karma and suffer.
+
+Scripture is in the material world to get the Jiva out of the material world and get it in the spiritual world. So, all these scriptures are talking about how to get the Jiva out of the material world. So, scripture gives us many methods. One is called Karma Yoga. This does not directly get you out of the material world. But, it purifies you and takes you from lower position to higher position.
+
+So, what is the lower position in the material world? Avidya, ignorance. What is the higher position? Sattva-guna. So, through Karma Yoga, you can go from Tamo-guna to Sattva-guna. But, it takes following rules and regulations. How long? Many, many births [Laughs]. So, you can start as Sudra, Tamoguna, follow the rules of a Sudra, many, many lifetimes, you get purified. Then, you get to be in a Vaisya. So, you get Tamoguna and Rajoguna mixture. And, you follow the rules for Vaisya for many lifetimes. Finally, you get purified. You can do Rajoguna. And, you become a Kshatriya. But, there’s a mixture there of Sattva-guna. You become a Kshatriya for many births. You get purified by the Sattva-guna. And, you get the Sattva-guna. And, you become a Brahmana. Then, you get Sattva-guna. So, that’s what Karma Yoga gets you up to, Sattva.
+
+Once you get to Sattva-guna, the quality of Sattva-guna is that you understand about Atma. So, we understand the difference between Atma and materiality. One other quality of Sattva-guna is accepting scriptures. So, you go to the Vedic literature.So, this person in Sattva-guna can strive for getting out of the material world. Because, scripture says, get out. Of course, some scriptures say, do Karma Yoga. But, when you go to Sattva-guna, they say, I don’t want to stay in the material world. So, scriptures give us Jnana Yoga. How to get out of the material world. How to get mukti. Yoga also is there. Instead of intellectually studying the scriptures, we do asanas and physical exercises, Pranayama, meditate. Same, we get out of the material world. So, Karma Yoga keeps us in the material world, raises up to Sattva. Jnana and asanas, we get out of the material world. We get in the middle. We don’t get to into the spiritual world [Laughs]. Out of the material world, not to the spiritual world. Not to Vaikuntham.
+
+So, to get spiritual world, you have to do Bhakti Yoga. And Bhakti Yoga that you get into spiritual world, from the material world. So, all of these processes are mentioned in scripture, for different types of people. People who are too involved in the material world, don’t want to get out. They do Karma Yoga and get purified. When they are in Sattva, then they’ll say, okay, I’m not the body, I want to get out of the material world, so do Jnana and Yoga.
+
+But if you want to get to the spiritual world, in a Prema, then you have to do Bhakti. So, all of the processes are in scripture, but the final process is Bhakti, to get to the spiritual world. Other processes are indirect. So, you can follow the indirect process, but it takes many, many lifetimes. In Kali Yuga, this is not very practical, because Karma Yoga is not even present much [Laughs]. So, we can’t even get to Jnana, it’s very difficult.
+
+So, what are we supposed to do? How do we get to Bhakti? So, solution is that if you take the Bhakti Yoga, you don’t have to go to Karma Yoga, Jnana Yoga, Astanga Yoga, to get to Bhakti Yoga. And we have many examples of this in Bhagavatam. There it says, even if you’re a svapakacha or dog-eater, who’s not even in the Varnasrama system, lower than the Sudra, if you take the Bhakti process, then, you’re better than a Brahmana, you go to the spiritual world. So, you can just start with Bhakti, but then, how do you start Bhakti? No, it doesn’t depend on your Karma Yoga, Varna, Asrama, nothing. But, at least you have to have faith in the process of Bhakti which do not arise due to your karma, only mercy of devotees.
+
+So, if we have faith, from any position in the material world, we start Bhakti Yoga, we do Sadhana Bhakti, Bhava Bhakti, Prema Bhakti, we go to spiritual world, without going through the whole other process here. So, Bhakti is a very special process, dependent on faith. Where does faith come from? Not Karma, not Punyas, it’s mercy of devotees. So, Bhakti is recommended as the best process to follow, particularly in Kali Yuga..
+
+However, we have another blessing for Kali Yuga, and that is Nama, Nama Sankirtana, chanting the name of the Supreme Lord. Bhakti Yoga has many different processes. We have hearing, Sravanam, then Kirtan, and then Smaranam, remembering, and then Archana, Deity worship, and then offering respects, Namaskara etc, Atma Nivedana also, so many different processes of Bhakti Yoga. Easiest process is Nama Sankirtana. And this is the easiest for people in Kali Yuga who are not qualified. Because it is easy, does not mean it gives lesser results. It’s only easier to give more people opportunity. People of lower qualification can start with chanting the name, even if they cannot do other processes of Bhakti. But, it gives higher results than any other process, including any other process of Bhakti.
+
+So, this is a great blessing. Lord Caitanya has introduced Nama Sankirtana to give the highest mercy to the lowest people [Laughs]. So, we get very, very special results in Kali Yuga because of Caitanya Mahaprabhu. So, once we take to name or any other process of Bhakti, we don’t change for any other higher process. If we are in Karma, we have to change to Jnana and Yoga. When we do Jnana Yoga, we change to Bhakti to the spiritual world.
+
+If we start with Bhakti, we get Prema, we go to spiritual world, it’s still Bhakti. We don’t change the process once we start Bhakti. Once we start the name, we don’t stop chanting the name when we go to spiritual world. So, sometimes people wrongly say, Oh, I’m doing my Sadhana Bhakti now, and I’m reading the scriptures, and I’m chanting the holy name, but I go to the spiritual world. Oh, I’m free. No more chanting, no more japa. I’m just in ananda. False [Laughs]. Name is eternal. In the spiritual world, you continue Kirtan, chanting the holy name. You continue hearing about Krishna, chanting Krishna’s glories, serving Krishna. So, name is eternal. We start with the name, we practice it, we get Prema, we go to spiritual world, we still chant the holy name. So, Nama Sankirtana is the eternal process. Very, very special.
+
+So, I mentioned the Lord had this internal energy, Antaranga Sakti or Svarupa Sakti or Chit Sakti. Part of that internal energy is the Sandhini Sakti, which manifests not only the Dhama, or Krishna’s abode, Vaikuntha and Goloka, it manifests his name, form, qualities, and activities. This is a very important aspect of this internal energy. So, the whole personality of Krishna and his activities are manifested through this Sandhini Sakti. The interesting thing about the name is that, in the name, we also have form, qualities, and activities.
+
+So, if you simply chant the name of Krishna, you can realize Krishna’s form, qualities, and activities. It’s not just name. You can realize everything about Krishna. So, name is non-different from Krishna. So, you realize not just the name of Krishna, but his form, qualities, and activities. So, we can realize Krishna. Krishna and his name are non-different. So, this is the easiest way. Sometimes, people may think, well, eventually we have to do meditation and concentrate on the form of Krishna. Well, that’s another form of Bhakti. Dhyana is also part of Bhakti. Not just Satsanga, Yoga, it’s is also a part of Bhakti.
+
+We can meditate, but unlike the personal yogis, we meditate on the form of Krishna. But, if you chant the name of Krishna, you can also realize form of Krishna. So, it’s considered to be the best meditation also. Chanting the holy name. Best meditation. So, the Lord is non-different from his names. He has different types of names. They are all spiritual, but they get different effects. So, he has his principal name or his primary names. And, if we chant those names, we get Prema and go to the spiritual world. What are these names? They will describe Krishna’s form, qualities, and activities. So, the names which tell us about Krishna and his personality, they lead to Prema. So, we have names like Syamasundara, describes Krishna’s dark color and his form. We have some names about his pastimes, like Govardhana-dhari [Laughs], Kaliya-mardana [Laughs] many, many different names. So, all of these are called primary names. So, when we say these names, we obviously remember his pastimes and we get Prema. But, Supreme Lord also has many secondary names which don’t really describe well his qualities in the spiritual world.
+
+He is Isvara. He is what, all pervading, He is the witness, Sakti, etc. So, we have very, very general names. We call them secondary names. Usually, they are referring to the Lord’s relationship with the material world that actually functions as a Paramatma. He is the creator. He is a great one, or whatever like that. Very general names not necessarily related to pastimes in spiritual world. Those are called secondary names. Of course, they are non-different from the Lord, but they can only lead to liberation.
+
+So, we prefer the primary names to go to spiritual world. Many, many names of Krishna. Many names of Vishnu. Many names of Narasimha. Many names of Rama. We have thousand names, Gopal, etc. Many, many names. But, of all the names, the names of Krishna are considered to be the best. Why because Krishna is Svayam Bhagavan. So, we realize Svayam Bhagavan Krishna, we can realize all Rasas. We chant the names of others, we get realization of the form, but not all Rasas. So, Krishna’s. Krishna has many names. But, of all the names of Krishna, Krishna is the highest name of all [Laughs]. That’s why we say Hare Krishna. So, many, many names, but the name of Krishna is the highest.
+
+So, there are many ways of chanting. We have Nama Aparadha, chanting with offense. This is not considered good at all. Especially, if the offense is really offensive, that is, we have animosity towards the Lord and his devotees and Sankirtana and Bhakti, as demons do [Laughs]. That is called Aparadha, Nama Aparadha. This does not help us progress in Bhakti. Rather, it destroys Bhakti. So, we have to avoid that. So, Nama Aparadha is rejected. We don’t want that. In many places, many temples, every morning they recite Nama Aparadhas, ten Nama Aparadha, don’t do this, don’t do that [Laughs]. Because, this destroys Bhakti. So, when we have that, then we think Krishna is material, Krishna, his name are different. Krishna is a devata, whatever, so it’s all Aparadha.
+
+Namabhasa means we chant in ignorance. So, we don’t really know. But we’re not hostile to the Lord, like Ajamila. He was not hostile to Vishnu, but he’s also not a devotee of Vishnu. But he named his son Narayana, and he chanted the name Narayana because he was attracted to his son. So, no Aparadhas, but no Bhakti [Laughs]. So, this is Namabhasa. This is, of course, two types. Namabhasa by accident, and Namabhasa we’re chanting consciously. We may be chanting every day, every day, but we’re full of ignorance, we don’t quite know what Krishna is, whatever. So, it’s called Namabhasa. Better than Nama Aparadha, this doesn’t destroy Bhakti. We gradually go, but slow, and we don’t get Prema.
+
+Suddha Nama or pure name, is quick progress, and we get Prema. So, we have to come to that stage, Suddha Nama, pure name. How do we get? Knowledge and purity, the anarthas are minimized. So, that is Suddha Nama. So, to get that Suddha Nama, we need to have good knowledge. As previous, as I said, we have to understand who is the Supreme Lord, who is Jiva, all about matter, how they relate to each other, that much knowledge we need. We don’t have to know all the Vedas or whatever nor the Upanishads, but we do have to know the basics of who is God, who is Jiva etc, and what is Prema.
+
+Okay, so, qualification for chanting. Well, of course, any human being can chant like Ajamila or whatever, accidentally. Well, that’s Namabhasa. But, to get Prema, then we begin with that faith, and with faith we approach devotees, and we get knowledge, and then we chant purely. So, faith is a qualification for getting pure bhakti and getting spiritual world and Prema. Place, time, planets, are not a consideration. So you can chant anywhere, in any country, city, country, house, temple, water, in the water, out of the water, on the ship, in an airplane [Laughs], in America, in Alaska, or in South America, wherever, in the jungle, doesn’t matter. Anyway, all the planets, Svargaloka, Brahmaloka, hellish planets, down to America, you can chant. In Vaikuntha and in Goloka also you can chant.
+
+So everywhere, spiritual world, everywhere you go, you can chant. Anytime. Of course, young people can chant, even in the womb, Sukadeva, heard in the womb, heard Krishna, Prahlada heard teachings in the womb. So very, very, not restricted, but in the womb, out of the womb, young, so grew up, when he was a young boy, advanced. When you’re young boy, when you’re adult, when you’re old, so from before the womb until you’re old age, you can chant the holy name, no problem.
+
+And you can chant in any Yuga. And you can chant throughout the day of Brahma, and throughout Brahma’s life [Laughs]. So there’s no restriction on time, when the chanting was always going on. And no rules for cleanliness, whether you’re clean or unclean, dying or not dying, or whatever, in the womb, it doesn’t matter. You can chant the holy name. So it’s completely unrestricted. And no, restrictions of Varna and Asrama or anything. So it’s a very, very appropriate process for Kali Yuga, where everything is top security, everything is unclean, and there’s no qualification.
+
+So holy name is the most flexible process. But we do, if we want Prema, then we have to follow some conditions. We chant the proper names, primary names. So we can chant the names of Krishna. And of course, Lord Caitanya has given us Hare Krishna. So this is given by Chaitanya himself. And if we’re going to chant, it shouldn’t be Namabhasa, it shouldn’t be Nama Aparadha, it should be pure chanting. Nama, Suddha Nama. And to do that, we need knowledge. How do we get the knowledge? Association or mercy of devotees. We can chant once. And I’ve said it, even if we chant once, it is very powerful. As Ajamila chanted once and all the karmas got removed.
+
+But if we want Prema, we should chant constantly. Not just once. And along with the chanting, we should follow proper conduct in the world. There are favorable activities like avoiding sinful activities, unfavorable activities, we have to avoid sins. So that combination with the chanting produces Prema, our goal. So that’s one of the basic principles that Chaitanya Mahaprabhu has taught. If we remember this then, we can progress nicely in our Krishna consciousness.
+
+So though we are chanting etc, we see that Srila Prabhupada wrote many books. Why? So he could get the knowledge [Laughs]. He didn’t write the books so he can keep it on the shelf and he look at it [Laughs]. He used to read the books [Laughs]. And when we read the books, what? We get this knowledge. Who is Supreme Lord? Who is the Jiva? What is the devata? What is pure bhakti? What is not pure bhakti? And how bhakti is positioned, religion, Karma, Yoga, Jnana Yoga and Astanga Yoga. So, all that’s there in the books. So knowledge and then we have the chanting the holy name as a combination very, very good for attaining Krishna Prema. Okay. Any question there?
+
+Q & A:
+
+1.) Maharaj, very nice class. Thank you. I have one question. The starting point for getting Prema is faith. How can we increase our faith?
+
+Yeah. So what does faith mean? Faith means faith in the Bhakti Scriptures. So we have faith in, we never read Bhagavad Gita or seen Bhagavad Gita and someone gives it to us and we explain about it and we start reading it and then in the second chapter Krishna says, well, you’re not the body, you’re the soul and soul is eternal and body dies and then you think about this and you don’t think about it sometimes. So we have faith that what the scripture is saying is true. Another person doesn’t have faith and then he reads this and he says, this is not, how this is nonsense. Nobody could prove the soul. Scientists have not proved the soul. Einstein never talked about the soul. So how can I believe in the soul. All this Bhagavad Gita nonsense, I’m not going to read it. There’s no faith [Laughs].
+
+So, how do we get that faith in the first place? We don’t know [Laughs]. Some people have, some people don’t [Laughs]. But, scripture says this comes from previous lifetimes usually. We get mercy of devotees and we get some contact with Bhakti. Even if we don’t have faith and that changes the Jiva and becomes a little favorable to Krishna and he gets more contact accidentally, a little more favorable. So in one lifetime, finally when he reads Bhagavad Gita, he says, oh, this is nice, I will accept this [Laughs]. So due to mercy of devotees for many lifetimes we develop faith. So that faith is a qualification for Bhakti. Then we begin Bhakti processes, hearing, chanting, remembering, etc. based on that faith. As we progress in Bhakti the faith also increases.
+
+So we may start out with weak faith, komala sraddha. So this means that yes, we have a little faith but then somebody will look at us and say, what are you doing? And I say, well, I’m chanting. Why are you chanting? I’m chanting because somebody told me, I’m reading Bhagavad Gita and it says Nama Sankirtana, if I chant, we will attain Prema. And he says, all nonsense. Don’t follow that. It’s called brainwashing. So then you think well, maybe he’s right and we stop chanting [Laughs], we stop worshipping Krishna [Laughs]. That’s weak faith. Better if we do Bhakti, we continue Bhakti and we also read scripture, faith becomes stronger.
+
+So the more knowledge of scripture we get, this helps support our bhakti and so people will come to us and criticize or challenge and we’re not so disturbed by that. Even if we cannot answer them completely, we don’t change our faith. If we have very deep knowledge of scripture along with our practice of bhakti and we understand all the principles and we can logically express them, this is considered the highest type of faith. You do deep knowledge and when people challenge, we are not disturbed and we can also convince them [Laughs]. So that’s the best faith [Laughs]. But due to practice of bhakti and deep understanding of scripture. So that’s why we have books there, to give us deepen our faith.
+
+2.) Hare Krishna Maharaj, pranams. That’s a very wonderful lecture on basics of Bhakti. So I have one question. You told there is three types of chanting. There’s Nama Aparadha, Namabhasa and Suddha Nama. So me personally, since everyone has to start, I think at Nama Aparadha or few people have to start like myself, so by doing offenses, by chanting the name, what is the immediate ability to progress to maybe the next level in Bhakti?
+
+HH Bhanu Swami Maharaj: If we have offenses?
+
+Devotee: Yeah if we do offenses in the holy name at the beginning stage. I think I’ve read somewhere that if we do offenses that will prevent us from going higher.
+
+HH Bhanu Swami Maharaj: So, of course we have ten offenses like criticizing devotees, whatever. If it’s unintentional, accidental, it has a little effect and it slows the Bhakti a little. If it is intentional, we really hate devotees and start criticizing them for no good reason or whatever [Laughs], this is very harmful to the Bhakti and it starts destroying the Bhakti. So whatever faith we have, gets less. Our taste for Bhakti gets less. So that’s very dangerous. So that’s why, we have to have a little knowledge of the Aparadhas, so much, consciously as possible we avoid them, and to get favourable attitude towards devotees, favourable attitude towards chanting, to process of Bhakti etc. So definitely, always Nama Aparadhas is unfavourable, but if it’s very intentional and hostile then it’s very dangerous. We try to avoid that atleast. We cannot avoid the accidental, that we do not know how, somehow, accidentally we do it. But still it has some effect but not so bad as the intentional.
+
+3.) Hare Krishna Maharaj. Thank you so much for such a wonderful lecture. I have one question. So many times I face, I want to know about the association of the devotee. Sometimes we are unable to attend like such class by physically but I want to know how many way we have to get association of the devotee?
+
+How do we get association? Well, of course, association comes in many forms. Association [Not clear] It’s okay [Laughs]. Lord Caitanya says, if we take the prasadam of the devotee, that’s good. You take the foot water or foot dust, very good also. But should be very great devotee. But most important thing is hearing from devotees. So if we get knowledge from devotees, that’s the real satsanga.
+
+If we look in Bhagavatam for instance, association glorified, but then, what do they do when they associate? King Rahugana associates with Jada Bharata, what does he do? Hears instructions [Laughs]. So the best thing in association is to get some knowledge. [Not clear] Now traditionally it was direct. Sukadeva spoke Bhagavatam to Parikshit and of course, other people were listening as well. That was directly. And throughout Bhagavatam, we have Narada Muni speaking directly, other great devotees are speaking directly. But then we find in the modern world, we have all these electronic media and etc, we have personal radios, so much television, [Not clear].
+
+And of course the another thing is books itself. [Not clear] Still they continue the old tradition. [Not clear] So the books were there. And of course, the Gosvami standard were also writing books. And very fortunately some of the books were revived in the present day, otherwise we wouldn’t have that knowledge at all. So the books are important also. So we can get the knowledge from the books as well. But generally of course, we do have to have some devotee to give us some understanding. So if the devotees can directly give information, very good it’s probably best process. But not always possible.
+
+So, one of our first principles is called Yukta Vairagya, to utilize things in devotional service even if they’re material things. So we use them for devotional service and they’re not harmful for us. Well therefore, though direct hearing and speaking is the best process, we can also utilize modern technology or whatever and we can hear through internet or whatever and we still get benefit from that as well. So there’s no problem for that. So, we don’t use that at all, that we’re sitting by ourself, we get no information [Laughs] about knowledge at all. So it’s better to get some knowledge even if we’re seeing the internet [Laughs].
+
+4.) Question [Not clearly audible]
+
+Well, most important of course, is we chant rather than don’t chant. Second, when we chant, we chant attentively, so we’re not distracted by material things. Yes, when we’re chanting, we can think of Krishna, very good because Krishna is non-different from his name and when we’re chanting we’re not purposely saying I don’t want to think of Krishna, I don’t want to think of Krishna [Laughs] it’s like I don’t want to attain Prema [Laughs]. So, we should be favorable to Krishna also. And if we can think of Krishna or his pastimes or his form or whatever, very good because Krishna, his name are non different and by chanting Krishna’s name, you realize his form, his qualities, his activities. So, it’s always favorable that we can whether intentionally, unintentionally remember the Lord. Either way is good.
+
+Devotees: HH Bhanu Swami Maharaj ki jai!!! Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/seminars/2025/italy": { title: "Italy\u2013 2025", article: `Removing the fog & cloud from the mind which obstructs to chant Suddha naam & attain prema !
 
 Good health : More than muscles & meals ! 
@@ -61794,6 +67487,236 @@ So anyone in any Varna can take to the process of bhakti, if he has faith. Vaisy
 So, Bhakti is very flexible. So all we require is, along with whatever you are doing as a Vaisya, you also do bhakti. And then you begin to modify your Vaisya life, so that it is harmonious with the rules of bhakti. And as much as you are able, you practice bhakti. 
 
 Hare Krishna!!!` },
+  "/seminars/2026/siksha-diksha": { title: "Siksha & Diksha \u2013 What to emphasize & why ?\u00a0\u2013 The unique position of our Founder Acharya \u2013 Srila Prabhupada", article: `Siksha & Diksha – What to emphasize & why ? | HH Bhanu Swami Maharaj | ISKCON Sri Namahatta Nottingham | 04 July 2026
+
+nama oṁ viṣṇu-pādāya kṛṣṇa-preṣṭhāya bhū-tale
+śrīmate bhaktivedānta-svāmin iti nāmine
+namas te sārasvate deve gaura-vāṇī-pracāriṇe
+nirviśeṣa-śūnyavādi-pāścātya-deśa-tāriṇe
+
+jaya śrī-kṛṣṇa-caitanya prabhu-nityānanda
+śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda
+
+Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare
+Hare Rāma Hare Rāma Rāma Rāma Hare Hare
+
+HH Bhanu Swami Maharaj:
+
+So, also, that has to be, it may not be there in the scripture itself, and then we have someone explain that to us. So, in this way, there’s, since ancient times, there was that type of dependency just to get the information, explanation. Apart from that, of course, the emphasis has always been on personal interaction. And that you can’t just learn things by some mechanical means. Maybe, to some extent, you can get material knowledge that way. But even material knowledge also, to some degree, you do have to get some personal instruction.
+
+So, if you want to be a carpenter, you can learn things from a book or whatever. But if you get a nice carpenter, he can give you some nice tips so [Laughs] that you can do it nicely [Laughs] and expertly. So, usually, any expert, woodworker, carpenter, or whatever, sculptor, wood, whatever, he will have some teacher. Who has personally taught him some things.
+
+If you want to be a good painter or sculptor or whatever, then you go to someone who’s well-known for doing that. So, for instance, in Italy, in the Renaissance, they had some famous painter. So, if you want to be a good painter, you go to that painter and learn from him rather than experiment on your own. So, all of these different expert painters had people that were their teachers. And they learned so much from them.
+
+So, the idea of a teacher, apart from whatever theory is there and whatever scripture is there, is there. And they give you practical information. But that’s, of course, material. So, spiritually speaking, there is this other factor and that is realization. And in our case, devotion. And we say that without devotion, you cannot understand scripture. So, without devotion, whoever speaks to you also is not speaking anything [Laughs]. So, they have to have devotion. So, if we hear from a Vaishnava, fine. If we hear from a non-Vaishnava, it’s all poisoned [Laughs]. So, that also we can say that the realization and the faith of the speaker is necessary to transmit the proper spirit of the scripture, apart from all the other things that you can do. So, therefore, in this sense, maybe that’s the most important part of what the guru does.
+
+So, fortunately, a lot of the meaning and, let’s say, the details of how to perform bhakti, etc., if they are not there in the scripture itself, they are explained through the commentaries. So, we do have in our Sampradaya, many commentaries available. Rupa Goswami has written commentaries, Jiva Goswami, Sanatana Goswami has written commentaries. Then we have later on, we have Vishwanath Cakravarti involved. Those who are writing commentaries, particularly on Bhagavatam.
+
+So, in this way, it makes it a little easier. And the we could say, well, then we don’t need the guru because we got that. But, as I said, you do need the personal person plus the devotional aspect there. So, you can read all the commentaries. But if you’re not a devotee and you don’t have a devotee instructor, you come out with a different meaning [Laughs]. So, just like the scripture itself, even the commentary is subject to the same criteria. So, if it is spoken by a person with devotion, then you will get better meaning to it.
+
+So, in this way, the idea of guru is necessary even in the modern age. Though we’re not dependent upon oral instruction completely, and we have all sorts of communication methods and recording and everything like that, instant printed work etc., still, the necessity is there. Because it has to come through a devotee, and there are details which are not explained even in the commentaries or whatever.
+
+So, therefore, that’s why in spite of the technology of the modern world, we still have a necessity of guru. So, if we look in Bhagavatam, we will see that, it is always a matter of question and answer. The sages of Naimisaranya asking Suta Goswami. Pariksit asking Sukadeva Goswami [Laughs]. And, of course, within the Bhagavatam, then we get questions and answers. And we have Uddhava asking questions, Krishna giving answers. If we go to Vishnu Purana, we have Maitreya asking questions and Parasara muni giving answers.
+
+So, we find that the main aspect here is that one person is there as the guru, and he’s giving knowledge to another person. So, he becomes the siksha guru. So, that is quite obvious through the Bhagavatam that one person is teaching and one is receiving. Therefore, we have a guru-disciple relationship. So, that is, we can say, the primary function of the guru, to impart knowledge of scripture to disciple. And because you have to go through guru, and if you want to learn the scripture and advance in devotional service, then we have to give proper respect to the guru. Respect itself, of course, is also, we could say, nicely defined and codified [Laughs] in the scripture.
+
+So, what does respect consist of? And there are all sorts of formalities involved in that, such as don’t step on the Guru’s shadow or [Laughs] whatever [Laughs]. Don’t sleep on his bed. So, there are all sorts of you know, rules we have for that. But ultimately, the main aspect is, and of course, offer respects. But more important than the physical aspect is the mental aspect, which means obedience [Laughs]. So, of course, all these other things are there to get that obedience, all the physical manifestations of rules are there.
+
+But to manifest that obedience in the mind, what does that obedience mean? That is expressed when we use the word pranipat. As we say in Bhagavad Gita, you approach the guru with pranipat, pariprasna, and seva. So, pranipat. Pat means to fall, nipat means to fall down, which means down the ground [Laughs], and pra means extremely, which ultimately, of course, physically, we can say pranamas are there, but in the mental sense, we can say surrender.
+
+So, what this means is that, in approaching for knowledge, we have to admit we don’t have any knowledge, that we are ignorant. And therefore, we depend on another person to give it. And to do that, then we have to have this humble attitude of being ignorant and fallen. And so that is what the pranipat is. And then the guru speaks, and then we’re ready to accept it. If we are proud, that means we think we know already.
+
+So, what is the use of the Guru teaching [Laughs]? If you think you already know it, and he says, I already know all that, so you’re never going to learn anything [Laughs]. So, therefore, that pranipat is necessary, and that is, of course, worship and everything is one aspect of that. And so we do guru pujas and things, so ultimately, it’s only for that, to give the respect and to understand that we are in a fallen position. And therefore, we take the knowledge coming downwards. Just like water flows downwards [Laughs], naturally [Laughs]. So knowledge also goes downwards like that [Laughs].
+
+That’s the method of receiving knowledge, like the water falling down. So, very necessary. And of course, the peer or the disciple has to be qualified, one, by the obedience and humility, etc. And secondly, by pariprasna, questioning, thorough questioning. Pari means thorough or absolute [Laughs]. So he has to thoroughly question. And we’ll see, for instance, in the different works in the Bhagavatam, the sages begin by asking questions, six questions they ask. So that’s their questions, and Bhagavatam is the answer to that. Similarly, in Vishnu Purana, Maitreya asks all these questions, I think he asks 26 questions and then [Laughs] Parasara muni begins to reply, and that becomes that Purana.
+
+So, the disciple also has to be qualified with the desire to know about that particular subject. If he’s going for guru for spiritual knowledge, then he has to be inquisitive about getting knowledge by which he can attain the goal. One has to have that desire for knowledge. If we don’t have a desire for knowledge, we don’t get knowledge. So we have to have a desire. So as well as the humility, you can be very humble, but if you don’t want to learn anything [Laughs], it’s still not a good disciple [Laughs]. Should be eager for the knowledge [Laughs], which means you ask the right questions. So therefore, that pariprasna is also important.
+
+The third thing mentioned in Bhagavad Gita is Seva. So Seva, of course, means we are physically doing things to help the guru. So part of that is the expression of the pranipat, that we are obedient, etc., so therefore willing to serve. The more esoteric part, of course, is that we’re willing to follow the instructions. So whatever teachings are given by guru, then we’re willing to implement them. So knowledge of scripture consists of several things. One is the philosophical aspect, but that’s not complete in itself.
+
+So we need to define a goal, which, of course, is supported by the philosophy. And then we have to have a process to get to the goal, which is the abhidheya. And that consists of action, so it is no longer theoretical. So we have to do things based on scripture. In karma mimamsa philosophy, they say that the main import of scripture is action. You are ordered to do things, and you should follow that [Laughs].
+
+So this is, we can say, one aspect of the scriptures, along with the philosophy. It is ordering us to do certain things. So, therefore, action is necessary. So we learn the scripture. As a result of that, then we should do something [Laughs]. So the guru instructs the scripture, then we have to start implementing that. So that is, we can say, the more esoteric part of the service. So, in this way, the disciple is qualified, because he is inquisitive, he’s willing to follow the instructions properly, and he’s willing to accept all the knowledge. So that makes a good disciple.
+
+As I said, the guru has to be qualified by his devotion [Laughs]. If he’s not a devotee, a Vaishnava, then what he speaks is poison [Laughs]. Even if it’s Bhagavatam. So, putam hari katamrtam, topics of Hari are puta, or pure. Like milk. But, if spoken by the non-Vaishnava, it becomes poison. Same with the holy name, coming out of a non-Vaishnava, it becomes poison [Laughs]. Scriptures, Bhagavad Gita coming from a non-Vaishnava, poison. Bhagavatam from a non-Vaishnava, poison.
+
+So, qualification of a devotee, of a guru, that he should be a Vaishnava, have devotion. When he speaks, then it becomes pure. But, then we have different types of Vaishnavas. So when it talks about coming from the mouth of a Vaishnava, we’re talking about pure Vaishnava. Not mixed Vaishnava [Laughs]. This of course means that you’re at least a madhyama, not a kanishtha. Kanishtha is like a mixed devotee. So we come to the madhyama level, where we accept with faith the Bhakti scriptures and we’re willing to accept guidance from guru, we associate with devotees, we avoid the non-devotees, worship the Lord.
+
+So, but in the worship, that worship should be pure worship, not mixed with material motives. So, that’s the level at least we have to be at. So, but within that madhyama category, of course, there are going to be many gradations. There is a beginning of a madhyama, middle, upper, whatever. And the higher one is, as a Vaishnava, then the more potent the instructions become. Just like if we have a microphone. So that’s like the medium of the message. The message is coming, the sound is coming through the microphone.
+
+Now if the non-Vaishnava speaks, we’re not getting the spiritual message at all, we’re getting something else [Laughs]. So that’s like your microphone all rattling and making all sorts of crazy noises when a person speaks, we don’t even get any messages, we just get a bunch of noise [Laughs]. Not valuable at all. So when we get a Vaishnava speaking, then at least we can hear the message properly, like the microphone is working properly. But if we get the higher Vaishnava speaking, then the words are even more clear [Laughs]. Like a perfect microphone, we have different grades of microphones, maybe like Bose is one’s category [Laughs]. You’ve got some cheap, something like that also. It’s very good, and we get the message more intact, like that.
+
+So the more we have the purity of the devotee, then the more we get the pure message coming through. And this becomes more inspiring for us. So in this way, then we have to be devotee, and the more fixed they are, then the better the message comes through, and the more we get value from it.
+
+So then the guru has to be qualified, and the devotee has to be qualified. When both are there, then the transfer of knowledge takes place. And according to the level of the devotee, according to the level of guru, then we get less or more transmission of the proper knowledge. So that’s the basic idea of what guru is in relation to the disciple. We do have a specialization of guru when we have diksha gurus, or initiating gurus. This, of course, is, we could say, as far as Bhagavatam is concerned, it’s very secondary.
+
+So probably only two or three places in Bhagavatam, it talks about diksha [Laughs]. And most of the time, only the siksha is going on. We don’t know, did Narada initiate Vedavyasa? We don’t know. But he gave instructions. And Narada, when he instructs Brahma, does he give him initiation? I don’t know. Oh no, so Brahma instructs Narada [Laughs] , but we don’t know about initiation or whatever. And did Sukadeva initiate Parikshit? No, probably not [Laughs].
+
+So, but more important, that was the siksha. But anyway, we do have things like diksha and that became important. Partially because of Archana or deity worship, which is a little exclusive. And as part of Pancharatra. And we say it’s one of the main aspects of Pancharatra, the worship of the deity and holding festivals for the deity. So, if you’re following Pancharatra, then you should worship the deity. If you want to worship the deity, you have to take Pancharatrika diksha, and get mantras to worship the deity with. So, as far as Pancharatrika scripture is concerned, then you need diksha.
+
+So, previous to Lord Caitanya, then, most of our Vaishnava sampradayas were dependent on Pancharatra. And therefore, they have to emphasize diksha. You’re not a Vaishnava unless you get diksha, because you can’t worship the deity unless [Laughs] you’ve got diksha. And if you don’t worship the deity, you’re not a Vaishnava [Laughs]. So, Vaishnavism and worship of the deity and diksha all kind of went together as a single unit.
+
+So, we’ll see, in those scriptures therefore it says, if you don’t take initiation, you’re useless. [Laughs] Because you can’t worship the deity, and you can’t worship the deity, you’re not a Vaishnava. So then, you know, the two things are kind of implicit in each other. With Caitanya Mahaprabhu, He has changed the emphasis. And instead of deity worship, Nama Sankirtana is the main method for everybody. And Harinama does not require diksha [Laughs]. It’s just chant the holy name. And, of course, qualification is much less, and we still get effect.
+
+So therefore, the idea about diksha becomes less important for us in Lord Caitanya’s movement, theoretically at least [Laughs]. Lord Caitanya, of course, took diksha, Nityananda took Diksha, Advaitacharya took Diksha, Gadadhara took diksha, etc. But, as far as I can see, they didn’t worship the deity much with that, so it was more a formality than actually using it, panchartically speaking.
+
+On the other hand, we find that Gopakumar in Brhad Bhagavatamrta, he also got diksha mantra from his guru. He also didn’t worship the deity, but he used that mantra. He did not do Nama Sankirtana. He chanted that mantra as japa for himself, for a whole day of Brahma [Laughs]. So, that pancharatrika diksha mantra can be used not only for deity worship, but for internal worship or meditation.
+
+Devotee: There’s been some comment that the sound is a bit low.
+
+HH Bhanu Swami Maharaj: Oh, okay. Hare Krishna. Hare Krishna. So, therefore, the emphasis has changed with Caitanya Mahaprabhu concerning the mantra and Harinama. So, the mantra is there for Pancharatra, and that requires diksha, but chanting the holy name is more powerful for us and it’s our main sadhana, and therefore, the chanting of diksha mantra, if there’s meditation or even in deity worship is not the main element. So, therefore, the diksha becomes less important. We see our philosophy and what it is. It’s much less important, and simply chanting the holy name is important.
+
+But what about the teachings? So, we see that, yes, Lord Caitanya says, Harinama eva kevalam [Laughs]. But, only the holy name, only the holy name, only the holy name. But, if we look at the conduct of Caitanya Mahaprabhu, He didn’t just chant only the name. He did many other things. He went to the Jagannath Temple every day. He was taking prasadam. He was associating with devotees, hearing Bhagavatam every day [Laughs]. So, all those things are there. They’re never rejected. But, emphasis upon Nama Sankirtana as the main element.
+
+So, therefore, there’s nothing wrong with the diksha, and, of course, I said Lord Caitanya, Nityanada, they all took diksha, but emphasis is more on Harinama for our spiritual development. So, and, when we’re having the Harinama, then, it is independent of everything else. But, we see that Lord Caitanya particularly instructed the Goswamis to write scriptures. And, He Himself listened to Bhagavatam every day [Laughs].
+
+So, what is the relationship between that, Sravanam, and Sadhu-sanga, and Harinama, even though it’s independent? And, the answer is that it is a good support, because it’s through that knowledge that we can do Harinama effectively and purely. So, therefore, along with the chanting of the holy name, we do need some knowledge. We need some siksha. So, in that sense, we still need guru. Because, if we’re going to get the knowledge, we have to get it through guru. But, not diksha guru. It could be siksha guru. So, therefore, the emphasis, again, is upon the siksha rather than the diksha.
+
+In ISKCON, however, we kind of conflate the two things, and we combine it into one. So, when we talk about diksha guru, what we’re expecting more is the siksha [Laughs]. And, when we talk about diksha guru, we rarely think about the diksha guru giving the mantras [Laughs]. We’re talking about he’s giving us teachings. But, anyway, technically, the diksha guru is giving the mantras of second initiation, not so much the teaching. Of course, he gives both, but that people don’t regard as too important anyway, except for deity worship. So, we kind of combine the two things together.
+
+At the same time, if we’re going to call him a diksha guru, and if we’re getting siksha as well, fine. But, apart from that, you can also have other siksha gurus. And, in some cases, the siksha guru may be more important than the diksha guru, as we see in the case of, let’s say, Bhaktivinoda Thakur, he had a Diksha Guru, Bipin Bihari Goswami, but you hardly ever hear him mention it, and we don’t mention it at all in ISKCON [Laughs]. So, we trace a line through Jagannath Dasa Babaji, who was a Siksha Guru. So, your Siksha Guru may be more prominent than your Diksha Guru, even though they’re non-different in one sense.
+
+So, in Caitanya Caritamrta, and in the very beginning there, there’s a whole discussion of Siksha and Diksha, and the conclusion is that they are equal, and they have to be given equal respect. But again, if one is giving more, then we put more respect to that person. So, it may be the Siksha Guru who’s giving more knowledge, so we give more respect, and then the Diksha Guru is also there. In some cases, the Diksha Guru may be more important, giving more siksha, and so we give more respect there.
+
+But in any case, those two types of Gurus are there, and we should make some sort of distinction according to the function, even though it may be the same person in many cases. Nevertheless, we should look for the function of the Guru. And though the Guru is giving the Diksha mantra, and that’s also non-different from Krishna, ultimately, it’s the Siksha which is more important. And if the Diksha Guru can give that, fine. If we have to get siksha from others, then that’s also wonderful, and we have to respect that person as Guru. So, that’s basically how we should do everything.
+
+Okay, any questions?
+
+Q & A :
+
+1.) Maharaj you mentioned that it’s all about question and answers, and we have to ask questions. As you mentioned about Bhagavatam also, it’s all about questions and answers. So, as you mentioned, it’s all about question and answers, it’s important and disciples should be asking questions. So, it’s important to ask questions, but also how important it is to focus on the quality of questions we ask.
+
+[Laughs] Yes, when they say pariprasna, thorough questioning, they mean thorough spiritual questioning. So, obviously, you should ask questions about spiritual life, and when the Sanatana, Rupa went to Lord Caitanya, then they say, how can we get delivered from the material world [Laughs]? So, then He explains Bhakti Yoga and Harinama. Unfortunately, in ISKCON, we accept Gurus. It’s probably not there in other Sampradayas so much, but in ISKCON particularly for some reason [Laughs], when you accept Guru, you expect the Guru to solve all your problems.
+
+So, therefore, you go to the Guru, and your most important question is, shall I quit my job and get that job over there, or should I get married now, or should I have one children or two children? So, these are the important questions that they want to ask Guru, which are technically not even to be asked to the Guru at all [Laughs]. But somehow, these are the things we expect Guru to answer for us. So, that in one sense is a little bit disappointing, because we’re going to Guru for the wrong things. And when, pariprasna, does not mean that [Laughs].
+
+So, we should have spiritual questions that, you know, we have to clarify, things which are for our spiritual advancement. This is not to deny that, of course, because we have material bodies, and we’re living in the material world, that’s going to affect our devotional service, fine. But as much as possible, we shouldn’t burden the Guru with those problems. And even if he gives an answer, it may not be a perfect answer, because usually Gurus are sannyasis, and they can’t even understand what you’re doing in your grhastha life [Laughs]. So, you shouldn’t get any perfect answers from him [Laughs]. So, the speciality of Guru, of course, is because he’s supposed to be spiritually advanced and have spiritual knowledge and scripture, etc. Then, you go to him for those topics.
+
+2.) Thank you, Maharaj, for this uplifting class that is so important for our realization. And we need more and more, so that we can understand how important for us to follow the instructions of Guru Maharaj and serve him better. Maharaj, we know that in early 80s, you have been with Guru Maharaj in Mayapur. You have served as his secretary. So, could you please kindly give us some of your insights, or maybe some of his pastimes, so that we can take inspiration from that, so that we can serve Guru Maharaj as it should be, and in a better way.
+
+Well, I suppose one of the main principles is that when he is giving advice to different people whatever, and they’re asking questions, or they’re writing letters, etc., apart from, you know, general things, one of the main emphasis is that the people should work for unified ISKCON, and not try to do individual things away from ISKCON, away from the authorities [Laughs]. So, they should also cooperate together, but it should be under some authority, not do anything independently.
+
+The tendency, of course, of individual jivas, because we’re individuals, we have our own idea about how we want to do things [Laughs]. And everybody got their own little idea like that. And some people becomes very, is strong, maybe by their nature or whatever. So, then they want to do things in their way, and they don’t want to listen to what other people say. In other words, in order to have an organization, we do have to cooperate [Laughs]. And sometimes our own ideas, and our own strong opinions, and way of doing things, we may have to submit, and not put those into implementation, because there’s other persons there. And we should look at the group rather than the individual. And so, we have to cooperate.
+
+So, again, like Prabhupada gives the example, and Jayapataka Maharaj also gave the example that we have sticks, and if you can break one stick, and Prabhupada gave the same example. But if you have a bundle of sticks, you can’t break it [Laughs]. So, if ISKCON is unified, fine. If we have all sorts of different ideas, and people know all sorts of different things, and different goals, etc, then the unity gets split, and therefore the movement is likely to fracture because of that.
+
+So, Prabhupada also wanted to keep the movement together, and he was thinking of ISKCON for thousands of years or whatever [Laughs]. So, to do that, we do have to have that sort of willingness to cooperate with each other, and not start splintering off into different groups.
+
+3.) A question I think is in everybody’s mind is that why is sometimes, I mean, Guru Maharaj was very strong, and why is he going through so much suffering from one point [Laughs]? And some people speculate, they think, oh, it’s because of the disciples, they are not following the instruction of Guru Maharaj, or is to understand that it was part of his karma, or is to understand this is a test of the Lord on him, but he’s very strong. So, can you please clarify and share some light for us?
+
+So, of course, the idea of karma of disciples, or whatever we say, actions of disciples influencing Guru, that is definitely stated in the scripture, that because you accept a responsibility as a guru, with those who are your followers, whether it’s a guru disciple, or teacher and disciple, or husbands and wives and children, or king and citizens and ministers, there’s a kind of a shared [Laughs] responsibility there. And so, if the disciples do some sinful activity, then the guru has to accept part of the result, not completely.
+
+In other words, it’s not that because we’re disciples and we commit sins, I’m free from sin, Guru is going to get all my sins, so I can do more sinful activity [Laughs]. Like committing sin on the strength of the Holy Name. That doesn’t work like that, but at least some portion of the sinful reaction goes to the guru, and therefore, Hari Bhakti Vilasa says, the guru should not accept many disciples. But then, [Not clear] says, I’m the worst disciple. So, [Laughs] just imagine [Laughs] how much karma, even though it’s not intentional, sinful activities or whatever, then he could get that effect. So, that’s there.
+
+However, we also know that bhakti itself destroys all sins and all karmas, so you can destroy your own sins, as Ajamila, all of his karmas destroyed in one second [Laughs], chanting the Holy Name. So, if you’re chanting intentionally, they can destroy all these effects, as well as your personal karmas or whatever. So, that should not be so much of a worry for persons practicing bhakti. For other persons, yes, it is a worry. If you’re just a teacher and you’ve got all these people and you’re responsible for them and they’re doing sin, then that just becomes a problem because you’re not doing bhakti yoga [Laughs]. If you’re doing bhakti, it becomes less of a problem ultimately.
+
+Apart from that, of course, and then, of course, as we become more purified, we’re destroying our karmas, so we should get much less effect. And that’s a general principle. But then, even if your karmas are destroyed, you may look like you’re getting effects. And that’s the example of Ajamila. All his karmas are gone, but it didn’t look like those karmas were gone because he was still sinful and he still committed sinful activities up till deathbed [Laughs]. And then he was supposed to get the reactions from the Yamadutas.
+
+So, the explanation is that, sometimes, though the karmas are actually destroyed through the process of bhakti, there’s an appearance of karmas remaining. And it’s also given that even if you’re in prema, it may look like you’re suffering. Well, is that karma or not? And it says, answer is no. It’s an appearance of karma. So, it’s not really caused by reactions or whatever, but there’s some pattern of suffering to the body that remains there and it’s arranged by the Supreme Lord. So, it’s not karma as such. It’s arranged by the Lord. That’s another thing.
+
+Another aspect is, apart from karmas or shadows of karmas due to previous activities or whatever, in this lifetime itself, we do activities which affect our body, obviously. So, I may not have a karma for getting diabetes, but if I indulge in sugar 24 hours a day for 30 years, it’s more likely [Laughs] I’m going to get diabetes [Laughs], or whatever like that [Laughs]. And it’s not because of karma. It’s just because I like sugar, maybe, instead [Laughs]. So, things we do in this life also affect us. So, our habits of this lifetime affect us and they may weaken our body or whatever.
+
+So, that’s another effect. So, where Jayapataka Maharaj is always traveling around the world and he has got a weak heart, but then he doesn’t worry about that and he keeps straining himself more [Laughs] and more [Laughs] because he wants to travel and preach. So, that’s another thing. He overstrains his body because he just wants to do more service for Krishna and Prabhupada [Laughs]. So, that’s another, could be another reason. So, various factors are there.
+
+Another factor, of course, is the Lord Himself. So, we see the case of, like the Pandavas who were Nitya Siddhas and have no karma, but then they were having suffering and 13 years of banishment in the forest or whatever. It’s not karma at all. That’s arrangement of the Supreme Lord for certain pastimes of His own. So, that’s another factor that comes in.
+
+4.) We’ve always seen Guru Maharaj is, I know over the years, you’ve assisted Guru Maharaj to have his medication to maintain some of his, I don’t know how [Laughs] to say. But I know you have a lot of pastime with Guru Maharaj supporting him through his difficulty like diabetes or heart issues and herbal Ayurvedic treatment and so forth. Are you able to share some of those with us?
+
+HH Bhanu Swami Maharaj: Well, with his sickness?
+
+Devotee: Not sickness, but actually your godbrothers’ support to each other.
+
+HH Bhanu Swami Maharaj: [Laughs].
+
+Devotee: Helping him and preaching him and whatever.
+
+HH Bhanu Swami Maharaj: Oh, well.
+
+Devotee: Especially in the 80s when it was happening.
+
+HH Bhanu Swami Maharaj: Well, I was only with him for like 3 or 4 years as his secretary at one point of time [Laughs]. So, therefore, I was just assisting him or whatever like that. As I told him, actually [Laughs], half the time he wasn’t there because he was off in [Laughs] foreign countries [Laughs]. So, that’s automatically one half of the time gone. But the other half of the time, of course, he was there. So, sometimes he was in Mayapur and I was there. Sometimes he was traveling in India itself and then I would be there also. So, in that sense, I was with him maybe half of… I don’t know. How long was his journeys abroad? What percentage of time? Half or more?
+
+Devotee: Yes. Half.
+
+HH Bhanu Swami Maharaj: Half or more?
+
+Devotee: Yes. Six months.
+
+HH Bhanu Swami Maharaj: At least six months. Even more than that probably. So, then it was less than six months at a time. And then, of course, some was in Mayapur and some were in other places. So, then I got some association at that time. So, the main thing then, at that time is that the circumstances themselves were a little bit difficult because that was the 1980s and communications were not so good [Laughs]. So, we spent a lot of time struggling [Laughs] just on communications, for instance, to make a phone call to Bombay from Calcutta. It takes you a whole day. And even when you get through, after you book your call and you get it through, you can’t hear what the other person is saying. So, you’re trying to communicate and you’re spending all your day just trying to make a phone call [Laughs]. So, sometimes we have to use telegrams [Laughs]. Like Prabhupada also was using telegrams [Laughs]. Even that is a little short sentence. So, communications was a little difficult and whatever. And as I said, we didn’t have computers at that time. So, then I would be using a little typewriter [Laughs], carrying a typewriter with us around. Probably typewriters are no longer available anywhere in the world [Laughs].
+
+Devotee: No, in Calcutta they still use them outside the court.
+
+HH Bhanu Swami Maharaj: All the guys are typing the things on the legal papers [Laughs]. So, anyway, our communications, we had to struggle a lot with these type of things [Laughs] rather than do anything else.
+
+Devotee: Understanding all the letters?
+
+HH Bhanu Swami Maharaj: Yeah. And a lot of the time was spent struggling with that plus the transportation itself. So, we’d be going by train [Laughs] most of the time, by train from one place to the other, one place to the other like that. So, a lot of our time was just trying to organize all that part of stuff. You know, the technical part of things, as far as communications and transport is concerned [Laughs]. So, anyway, within that time, then I did get some association with him. And as I said, the main idea was that he would be talking to people and whatever, either by letter or personally or whatever. And the main idea is he’s trying to encourage people to stay united and not fracture the movement by independent decisions and whatever.
+
+Devotee: He was given also the order by Srila Prabhupada to unite the whole Vaishnava community.
+
+HH Bhanu Swami Maharaj: Yeah, yeah.
+
+Devotee: He said something about that.
+
+HH Bhanu Swami Maharaj: Yeah, so that was… Yeah, yeah. Generally, we stay separate from the other groups because they tend to criticize us and whatnot, even in Mayapur [Laughs]. But then Srila Prabhupada also at one point was thinking of how to unite all the Gaudiyas together since just like ISKCON should not be divided, the Gaudiyas also should not be divided. So, as much as possible, we tried to unite them all as a force. And, of course, one of the forces there are the other followers of Bhaktisiddhanta Saraswati Thakura and the Gaudiya Maths particularly there are so many around Mayapur. So then, Prabhupada himself made the, what is the Bhaktivedanta Swami Charity Trust. It’s some… It’s a trust to try to help out other temples and things which were struggling like that. So, even give money to the Gaudiya Maths, I think, and the Yogapitha I think, give money to build their hall.
+
+Devotee: And the temple.
+
+HH Bhanu Swami Maharaj: Yeah, and other ones were not even Gaudiya Maths, just separate groups like ancestral Sripaths of the descendants of the Goswamis [Laughs], the descendants of the associates of Lord Caitanya, whatever, they have their own deities, whatever. So, he made this trust to give money to them to renovate and repair and whatever, to help them out. So, all across Bengal, that’s… and even Bangladesh, they try to help other people. So, the idea is to kind of unite all the Vaishnavas, Gaudiya Vaishnavas, particularly, together. So then, Jayapataka Swami also got… took up that responsibility afterwards and he’s the main, let’s say, instigator of trying to get that Bhaktivedanta Swami Charity Trust active and whatever. And he continued that throughout his preaching and whatever. So, and apart from that, of course, then every year now they have this meeting, I think, on Bhaktisiddhanta Saraswati’s disappearance day, is it?
+
+Devotee: Yeah, we invite all the…
+
+HH Bhanu Swami Maharaj: Yeah, so they invite all the Gaudiyas together and they have a group meeting or whatever. So, that’s some attempt to get some, let’s say, unity among the Gaudiya groups, particularly Bhaktisiddhanta Saraswati Thakura’s group.
+
+5.) If we ask you what is the quality comes to your mind when you remember Guru Maharaj, what are the few qualities that comes in your mind? His dominant quality.
+
+One of the qualities is always expand the preaching and make more disciples [Laughs]. At the expense of his health. Well, now his thing is to make more Gurus [Laughs]. Because he knows he cannot, you know, keep preaching like this, so he wants to make more Gurus. So, that’s a new thing, which is again related to, you know, expanding the number of people. But my point is that it doesn’t have to be Diksha Guru to expand the movement. And primarily we’re interested in Siksha anyway, so we should expand the Siksha Gurus rather than the Diksha Gurus ultimately [Laughs]. That’s my point [Laughs].
+
+6.) Vishwanath Cakravarti Thakura, We want to hear more information about Vishwanath Cakravarti Thakura.
+
+What about him? Oh, yeah. So, I think it was two or three years ago. There is a place, I don’t know how far it is from Mayapur, maybe three hours away or two hours away like that. That’s his birthplace. So, there is a place there with a little commemoration. However, they don’t really want to have anything so much [Laughs] to do with ISKCON or whatever [Laughs]. So, therefore, through the Bhaktivedanta Swami Charity Trust, we did purchase a separate piece of land right next to it. And now we’re building a structure there on that land. So, we’ll have a little monument there and a little ashram and there will be some, little bit of worship there. And, of course, they can use that for namahattas and things like that, for the local people. And it will commemorate that spot. And if devotees want to respect Vishwanath Cakravarti’s birthplace, they can go there and there will be some ISKCON devotees there to act as their guides and whatever. And they can even stay there. They’ll have a guest room, etc. So, it’s not completely built up yet, but it is in the process right now.
+
+7.) You have mentioned few times about unity and unifying and staying together. So, sometimes in this day and age, it practically becomes like a challenge amongst devotees. So, can you share any kind of experiences or practical tips when challenging situations come and how we can focus? Because as you mentioned, everybody has their own ideas and everybody goes here and there. But Prabhupada has also mentioned, and this is very important, as you said, it should not fracture. So, any practical experiences or tips or anything which can help to bring that unity in our mood?
+
+So, as much as possible, we try to keep everybody together. Nevertheless, some people have very strong ideas and maybe strong personalities, and they can’t get around a lot of other people. And we can try our best to keep them within the movement. It may not be possible completely, but we have an alternative to that, which can be experimented with. I think that they’re trying that now. People do have their own ideas and they don’t want to change their ideas. The main is gone, has a little bit different idea about something. It could be philosophical, managerial, or policy-wise, or whatever. Some people want to do more Varnashram. Some people want to do more something else, whatever, you know, farms or whatever. They may have different ideas and may not exactly the policy that the GBC has right now. And they don’t want to make that official policy. And at the same time, they’re still loyal to Prabhupada and whatever, so how to accommodate them. Because if they’re in, they may start criticizing ISKCON more and more, because you’re not doing this properly, you’re not doing this properly, whatever, and it creates a little disturbance.
+
+So what to do? So if they’re not going to keep their mouth shut [Laughs], because they do have strong ideas and they think they’re right, they may be right, whatever, but it’s not the policy at the moment, so then the next best thing is that they can be subsidiary group. Kind of ISKCON, at the same time, a little separate. And this is what happened in the Catholic Church. Different groups of monks decided, no, we don’t like what you’re doing because you’re spending the money this way and we think you should be simpler and act like true monks and, you know, do more austerities and whatever. And main church was looking at, oh, you shouldn’t criticize us like that [Laughs].
+
+So eventually they make a deal, okay, you’re still going to be recognized, but you stay a little separate [Laughs]. So they made Franciscans and what else, they made the Dominicans and all sorts of different groups came out because individual priests had their own ideas which are a little different, but not same philosophy, but a little different policy. So they made separate groups and they allow them to do their thing, and then they don’t criticize. And that way they got their independence to do what they think is the way of doing it. At the same time, they’re still part of the main church or whatever.
+
+So something like that could also be in ISKCON [Laughs]. They can be recognized by ISKCON in one sense, at the same time, a little bit separate with a different policy, and they don’t interfere or criticize the main body [Laughs]. So that’s one way of doing it. Others, of course, may have gross material motives, so we have to be careful of that. And if they’re simply there for some personal motives, then maybe that, they shouldn’t even be part of ISKCON [Laughs] at all [Laughs]. They’d be a completely separate group, and they may succeed or fail on their own [Laughs].
+
+8.) Maharaj can you tell us about the resolution of the GBC 2013 about Srila Prabhupada being the Founder Acharya and Siksha Guru for the whole movement?
+
+Yeah, yeah. Oh, I think there’s two resolutions on that [Laughs]. So one was done then. It was actually probably in response to Madhu Pandit [Laughs]. Because Madhu Pandit said, Prabhupada is the Diksha Guru. So then our stance is, no, Prabhupada is the main Siksha Guru [Laughs]. So, Prabhupada is the main Siksha Guru. What does that mean? So what it means is, as I said, we have Siksha Gurus and Diksha Gurus. Now, Diksha Guru, of course, is one who gives you the mantra, like that. The Siksha Guru is one who gives teachings. But the teacher can be of several sorts.
+
+So one is a teacher who’s teaching, like the Diksha Guru gives the mantra, so he’s living. The other is a significant founder or Acharya who also acts as the teacher, even if he’s not living. So therefore, we can take Prabhupada as the founder of ISKCON, so he’s put in one status as the primary Siksha Guru for everybody in the future. And therefore, we can take him as Siksha Guru, one type of Siksha Guru. That doesn’t, let’s say, mean that we reject Diksha and Siksha Gurus who are living also. Everyone should also give that proper respect.
+
+So, one of the main reasons for doing that is to emphasize Srila Prabhupada. And one of the main criticisms of the ritviks is that Prabhupada becomes de-emphasized because we emphasize the living Diksha Guru, and everybody in the past is insignificant, so then Prabhupada gets demoted. So this is an idea of uniting ISKCON and elevating the position of Srila Prabhupada by stating that he is the primary Siksha Guru for all devotees in the future as well, so that all devotees do have shelter of Srila Prabhupada, and they can’t, they don’t feel that, well, you know, I don’t have a Guru of sufficient standing to take shelter of.
+
+Then you take shelter of Srila Prabhupada. Everybody can do that. Which is somewhat akin to, in the, let’s say, Ramanuja Sampradaya, where Madhvacharya is the main shelter even after a thousand years. They do have their individual Diksha Gurus and whatever, but still they take, you know, that Ramanujachariya as the main Guru [Laughs] in spite of the fact he’s a thousand years apart [Laughs]. So therefore, it’s not uncommon to do that.
+
+So whereas the ritviks are saying that you take Prabhupada as the Diksha Guru and we say no, we say, he can’t be the Siksha Guru because there is historical precedent for that, but not for the Diksha Guru being in the past [Laughs] communicating by tape recording or something. It’s the mantras [Laughs].
+
+9.) If we don’t have Vapu Seva with Diksha Guru, is it better to do Vani Seva, and are they equally good?
+
+HH Bhanu Swami Maharaj: What’s it? Come again.
+
+Devotee: If we don’t have Vapu Seva with the Guru, is it better to do Vani Seva, and are they equally good?
+
+HH Bhanu Swami Maharaj: Well, actually, I think Srila Prabhupada has said the Vani Seva is more important than the Vapu Seva [Laughs]. Of course, we don’t reject the serving the body and, you know, directly physically serving the Guru. We see that Krishna and Balarama did that in Avantipura [Laughs] whatever [Laughs] when they were serving in the Gurukula, and it’s common, you know, that the disciple serves the Guru, you know, physically. That’s if they are together. Now, at the present time, in ISKCON it’s not the case [Laughs]. The Guru is separated from the disciple, so you can’t do the Vapu Seva unless he comes once a year or once every five years or whatever, you get a little opportunity. So therefore, that’s not so prominently, you know, or common. And, of course, that is one type of thing. We say, you know, pariprasna and seva, etc. But, as I said, the other aspect of the Seva was to follow the instruction. So that’s actually more important [Laughs]. So, and it’s supported by the Vapu Seva. So, if we don’t have the opportunity for the Vapu Seva, then at least we carry out the Vani Seva, follow the instructions, and that actually is more important anyway. So, we can be satisfied with that.
+
+10.) What is the best service the disciple can offer to his Guru?
+
+Best service is to follow the instructions [Laughs]. In the purport, vyavasāyātmikā buddhi [Bg 2.41] by Vishwanath Cakravarti Thakura that Prabhupada said inspired him, to follow Bhaktisiddhanta Saraswati Thakura’s instruction to preach around the world, etc. That actual quote is, because it’s talking about one-pointed intelligence not divided. So, you’re fixed in service to Supreme Lord.
+
+So, in the purport there, Vishwanath Chakravarti Thakura says, therefore, just as a sick person will take a medicine which preserves his life, and if he doesn’t take the medicine, he dies. So, the same way the spiritual master, the order of the spiritual master is like the medicine [Laughs] that you take, and if you don’t take it, you die spiritually [Laughs]. So, then he says, you follow that order one-pointedly, like vyavasāyātmikā buddhi [Bg 2.41].
+
+But then what is the instruction? That final instruction is serve the lotus feet of Radha and Krishna [Laughs]. So, we have many different instructions Guru may give, but ultimately, it’s there so we can progress up to Prema. So, that should be our final goal, and the final order of Guru is somehow or other, your service should lead to that.
+
+Hare Krishna. Hare Krishna.
+
+Devotees: Grantharaj Srimad Bhagavatam ki jai!!! HH Bhanu Swami Maharaj ki jai!!! His Divine Grace A.C.Bhaktivedanta Swami Srila Prabhupada ki jai!!! Nitai Gaura Premanande Hari Haribol!!!` },
   "/seminars/lord-siva": { title: "Lord Siva", video: "_nPQxAtIpzU", article: `Lord Śiva by HH Bhanu Swami Maharaj @ ISKCON JAPAN
 
 This is a very short presentation on Śiva. We don’t speak too much about Śiva but Śiva is very popular in India. So you’re on North India and South India, you’ll see a lot of Śiva temples and even one group in South India, Śivaites, they worship Śiva as supreme. So Śiva, of course, is also mentioned by our ācāryas and though we consider him a Devata or demigod, he’s actually like Viṣṇu, at the same time, he’s also a devotee of Viṣṇu, but this also is not too surprising.

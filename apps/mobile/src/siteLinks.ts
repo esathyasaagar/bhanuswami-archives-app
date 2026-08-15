@@ -417,6 +417,29 @@ export const siteLinks: Record<string, { title: string; href: string }[]> = {
     { title: "SB_10.78.31~36 \u2013 Lord\u2019s perfect deeds uplift all & aptly reciprocate with His ever-loving devotees!", href: "/sb/10/78/31-36" },
     { title: "SB_10.78.37~40 \u2013 Rules of dharma in the realm of prema under cultivation and prema in full swing !", href: "/sb/10/78/37-40" },
   ],
+  "/sb/10/86": [
+    { title: "SB_10.86.30-31 \u2013 The effort required to see the unseen who is factually behind everything !", href: "/sb/10/86/30-31" },
+    { title: "SB 10.86.32-35 \u2013 Supreme Lord is captivated by devotion, not worldly position !", href: "/sb/10/86/32-35" },
+    { title: "SB 10.86.36\u201345 \u2013 Testimonies to the Holy Name\u2019s simple, universal, and supremely powerful nature !", href: "/sb/10/86/36-45" },
+    { title: "SB_10.86.46-47 \u2013 Scientists still seeks consciousness; devotees relish self & supreme consciousness!", href: "/sb/10/86/46-47" },
+    { title: "SB_10.86.48 \u2013 The mystery behind why & how only a few could see the Lord factually and others don\u2019t!", href: "/sb/10/86/48" },
+    { title: "SB_10.86.49-52 \u2013 Devotees transmit the Lord\u2019s mercy by imparting transcendental knowledge!", href: "/sb/10/86/49-52" },
+    { title: "SB_10.86.53\u201354 \u2013 The crux of Epistemology is in Krsna respecting spiritual authority !", href: "/sb/10/86/53-54" },
+    { title: "SB_10.86.55\u201359 \u2013 \u201cQualified Brahmana\u201d : Acharya\u2019s meaning vs Devotees misconceptions !", href: "/sb/10/86/55-59" },
+  ],
+  "/sb/10/87": [
+    { title: "SB 10.87.1 \u2013 Techniques to decode the supreme spiritual reality encrypted in the scriptures !", href: "/sb/10/87/1" },
+    { title: "SB 10.87.2 \u2013 Sukadeva\u2019s indirect refutation of Parik\u1e63it\u2019s impersonal inquiry !", href: "/sb/10/87/2" },
+    { title: "SB_10.87.3 \u2013 Srimad Bhagavatam, the final truth of all Vedic sources !", href: "/sb/10/87/3" },
+    { title: "SB_10.87.4~13 \u2013 The repeated question of great sages & the extensive commentaries of acharyas !", href: "/sb/10/87/4-13" },
+    { title: "SB_10.87.14 \u2013 The Simply wonderful proof of Supreme Brahman is real & personal !", href: "/sb/10/87/14" },
+    { title: "SB_10.87.15 \u2013 The hidden cause behind the creation of material world & unlocking its plan !", href: "/sb/10/87/15" },
+    { title: "SB_10.87.16 \u2013 Words of scripture carry Lord\u2019s shaktis \u2013 it destroys pain & bestows bliss !", href: "/sb/10/87/16" },
+    { title: "SB 10.87.17 \u2013 Prayers of the personified Vedas devastatingly refute impersonalism !", href: "/sb/10/87/17" },
+    { title: "SB 10.87.18 \u2013 Various choices in spiritual life & their destinations !", href: "/sb/10/87/18" },
+    { title: "SB_10.87.19 \u2013 Vaishnava acharya\u2019s various philosophies to establish the Supremacy of Supreme Lord !", href: "/sb/10/87/19" },
+    { title: "SB_10.87.20 \u2013 Jiva : Part & Parcel of the Lord \u2013 A deeper spiritual insight !", href: "/sb/10/87/20" },
+  ],
   "/sb/10/9": [
     { title: "Text 9", href: "/sb-10-9-9" },
     { title: "Text 13~14", href: "/sb_10-9-1314-krsna-is-beyond-human-understanding-logic" },
@@ -491,6 +514,14 @@ export const siteLinks: Record<string, { title: string; href: string }[]> = {
     { title: "SB_11.11.47 \u2013 Purify Varnashrama duties with proper mentality, remembrance of Lord & sadhu sevaya !", href: "/sb/11/11/47" },
     { title: "SB 11.11.48 \u2013 Rely on sadhu sanga to understand & practice Bhakti \u2013 the conclusion of all scriptures !", href: "/sb/11/11/48" },
   ],
+  "/sb/11/12": [
+    { title: "SB 11.12.1~2 \u2013 Significance of Sadhu Sanga in all Angas of bhakti & boundaries for Angas of bhakti !", href: "/sb/11/12/1-2" },
+    { title: "SB 11.12.3~6 \u2013 Lord\u2019s mercy flow via devotees & the main function of devotee is giving Knowledge !", href: "/sb/11/12/3-6" },
+    { title: "SB 11.12.7-Prioritizing Bhakti over Varnashrama & prioritizing chanting holy name over other angas!", href: "/sb/11/12/7" },
+    { title: "SB 11.12.8 \u2013 Natural choice of Bhagavatam study \u2013 developing attraction for Krsna & Vrajavasis !", href: "/sb/11/12/8" },
+    { title: "SB 11.12.9 \u2013 Bhakti is prevalent in Kali yuga & one should be careful in adapting secondary processes!", href: "/sb/11/12/9" },
+    { title: "SB 11.12.10-Madhurya rasa-highly glorified by stalwarts, has most intense prema & rarest to achieve!", href: "/sb/11/12/10" },
+  ],
   "/sb/11/2": [
     { title: "Text 40", href: "/sb/11/2/40" },
   ],
@@ -505,6 +536,7 @@ export const siteLinks: Record<string, { title: string; href: string }[]> = {
     { title: "CHAPTER ONE: The First Step in God Realization", href: "/sb/2/1" },
     { title: "CHAPTER TWO: The Lord in the Heart", href: "/sb/2/2" },
     { title: "CHAPTER THREE: Pure Devotional Service: The Change in Heart", href: "/sb/2/3" },
+    { title: "CHAPTER FOUR: The Process of Creation", href: "/sb/2/4" },
   ],
   "/sb/2/1": [
     { title: "SB_2.1.26 \u2013 Lord\u2019s transcendental nature is revealed only when He is envisioned with service attitude!", href: "/sb/2/1/26" },
@@ -543,6 +575,14 @@ export const siteLinks: Record<string, { title: string; href: string }[]> = {
     { title: "SB_2.3.21 \u2013 Either King or pauper, downfall awaits for anyone who forgets the Lord and His service !", href: "/sb/2/3/21" },
     { title: "SB_2.3.22 \u2013 Deity worship: Its Glory, harmony with other angas & practical nuances !", href: "/sb/2/3/22" },
     { title: "SB_2.3.24 \u2013 The 5 ingredients of real rasa, its anatomy & the 2 artificial variants !", href: "/sb/2/3/24" },
+  ],
+  "/sb/2/4": [
+    { title: "SB_2.4.1 \u2013 Getting mantra or following teachings \u2013 which form of Guru\u2019s mercy helps to progress ?", href: "/sb/2/4/1" },
+    { title: "SB_2.4.2 \u2013 Practicing detachment detaches one from the practice of pure bhakti, Krsna & prema !", href: "/sb/2/4/2" },
+    { title: "SB 2.4.3~4 \u2013 Conviction in pure bhakti\u2019s supremacy over all paths bestows one-pointed intelligence !", href: "/sb/2/4/3-4" },
+    { title: "SB 2.4.5 \u2013 Proper respect to Guru and K\u1e5b\u1e63\u1e47a unveils the meaning of scripture !", href: "/sb/2/4/5" },
+    { title: "SB_2.4.6 \u2013 Importance of realizing Lord Krsna\u2019s Supreme spiritual stature from phenomenal creation !", href: "/sb/2/4/6" },
+    { title: "SB 2.4.7 \u2013 Acintya-bhed\u0101bheda : The perfect, imperfects and the sweet indirect bond between them !", href: "/sb/2/4/7" },
   ],
   "/sb/3": [
     { title: "Chapter 16: The Two Doorkeepers of Vaiku\u1e47\u1e6dha, Jaya and Vijaya, Cursed by the Sages", href: "/sb/3/16" },
@@ -684,6 +724,9 @@ export const siteLinks: Record<string, { title: string; href: string }[]> = {
   "/seminars/2025/chennai": [
     { title: "Systematic study of Prabhupad\u2019s books is part of devotion to properly execute bhakti & attain prema!", href: "/seminars/2025/chennai/icve-bhakti-sastri-completion-talk" },
     { title: "Love of God \u2013 the cure for all virtual reality relationships!", href: "/seminar/love-of-god-the-cure-for-all-virtual-reality-relationships" },
+  ],
+  "/seminars/2025/dubai-damodaradesh": [
+    { title: "Lord Caitanya has introduced Nama Sankirtana to give the highest mercy to the lowest people!", href: "/seminars/2025/dubai-damodaradesh/glories-of-holy-name" },
   ],
   "/seminars/2025/italy": [
     { title: "Removing the fog & cloud from the mind which obstructs to chant Suddha naam & attain prema !", href: "/seminars/2025/italy/suddhanama" },
